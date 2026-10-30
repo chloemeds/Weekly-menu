@@ -1,0 +1,37 @@
+name: Cambios del menú
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+  id-token: write
+
+concurrency:
+  group: menu
+  cancel-in-progress: false
+
+jobs:
+  aplicar:
+    # Solo las peticiones de Chloe (el repositorio es público)
+    if: github.event.issue.user.login == 'chloemeds'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          prompt: |
+            Chloe ha pedido un cambio en su menú desde la app. Sigue CLAUDE.md al pie de la letra.
+            Issue #${{ github.event.issue.number }}: ${{ github.event.issue.title }}
+
+            ${{ github.event.issue.body }}
+
+            Cuando acabes, comenta en la issue con `gh issue comment ${{ github.event.issue.number }}` y ciérrala con `gh issue close ${{ github.event.issue.number }}` (o déjala abierta con una pregunta si no se entiende).
+          claude_args: |
+            --allowedTools "Read,Edit,Write,Bash(git:*),Bash(gh issue:*),Bash(python3:*)"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

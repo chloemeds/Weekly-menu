@@ -99,7 +99,7 @@ button:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px sol
 </div>
 
 <script>
-const VERSION = '5';
+const VERSION = '6';
 fetch('./version.txt', { cache: 'no-store' }).then(r => r.ok ? r.text() : VERSION).then(v => {
   v = v.trim();
   if (v && v !== VERSION && !location.search.includes('v=' + v)) location.replace('./?v=' + v);
@@ -139,11 +139,16 @@ async function openWeek(w){
   try{ if(!data[w]) data[w] = await getJSON('data/' + w.toLowerCase() + '.json'); }catch(e){ $('car').innerHTML = '<div class="empty">No he podido cargar ' + w + '. Revisa la conexión.</div>'; return; }
   renderWeek(); requestAnimationFrame(() => go(w === now ? todayIndex(data[w]) : 0, false));
 }
+let lastPending = 0, pollT = null;
 async function loadPending(){
-  try{ const r = await fetch('https://api.github.com/repos/' + REPO + '/issues?state=open&per_page=10'); if(!r.ok) return; const list = (await r.json()).filter(x => !x.pull_request);
-    if(list.length){ $('pending').hidden = false; $('pending').textContent = (list.length === 1 ? '1 cambio pendiente: ' : list.length + ' cambios pendientes: ') + list.map(x => x.title.replace(/^Cambio:\s*/,'')).join(' · ') + '. Se aplicará en menos de una hora.'; } else $('pending').hidden = true;
+  try{ const r = await fetch('https://api.github.com/repos/' + REPO + '/issues?state=open&per_page=10', { cache: 'no-store' }); if(!r.ok) return; const list = (await r.json()).filter(x => !x.pull_request);
+    if(list.length){ $('pending').hidden = false; $('pending').textContent = (list.length === 1 ? 'Aplicando 1 cambio: ' : 'Aplicando ' + list.length + ' cambios: ') + list.map(x => x.title.replace(/^Cambio:\s*/,'')).join(' · ') + '. Tarda 1 o 2 minutos y se actualiza solo.'; }
+    else if(lastPending){ const keep = idx; data = {}; await openWeek(cur); requestAnimationFrame(() => requestAnimationFrame(() => go(keep, false))); $('pending').hidden = false; $('pending').textContent = 'Cambio aplicado. Ya tienes el menú actualizado.'; setTimeout(() => { $('pending').hidden = true; }, 6000); }
+    else $('pending').hidden = true;
+    lastPending = list.length; clearTimeout(pollT); if(list.length) pollT = setTimeout(loadPending, 20000);
   }catch(e){}
 }
+document.addEventListener('visibilitychange', () => { if(!document.hidden) loadPending(); });
 $('ask').onclick = () => { $('day').value = String(idx); $('sheet').hidden = false; setTimeout(() => $('msg').focus(), 50); };
 $('cancel').onclick = () => { $('sheet').hidden = true; };
 $('sheet').addEventListener('click', e => { if(e.target === $('sheet')) $('sheet').hidden = true; });
