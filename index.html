@@ -38,8 +38,8 @@ body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15p
 .dots button[aria-current="true"]{background:var(--ink);color:var(--bg)}
 .car{flex:1;display:flex;overflow-x:auto;overflow-y:hidden;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;scrollbar-width:none}
 .car::-webkit-scrollbar{display:none}
-.slide{flex:0 0 100%;scroll-snap-align:center;scroll-snap-stop:always;overflow-y:auto;padding:4px max(16px,env(safe-area-inset-right,0px)) calc(24px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px))}
-.card{background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:16px;display:flex;flex-direction:column;gap:14px;max-width:560px;margin:0 auto}
+.slide{flex:0 0 100%;scroll-snap-align:center;scroll-snap-stop:always;overflow-y:auto;padding:4px max(8px,env(safe-area-inset-right,0px)) calc(24px + env(safe-area-inset-bottom,0px)) max(8px,env(safe-area-inset-left,0px))}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:14px 12px;display:flex;flex-direction:column;gap:14px;max-width:560px;margin:0 auto}
 .dayhead{display:flex;align-items:baseline;justify-content:space-between;gap:8px;flex-wrap:wrap}
 .dn{font:700 26px/1.1 var(--display);margin:0}
 .dn small{font:400 14px var(--body);color:var(--muted);margin-left:6px}
@@ -99,7 +99,7 @@ button:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px sol
 </div>
 
 <script>
-const VERSION = '3';
+const VERSION = '4';
 fetch('./version.txt', { cache: 'no-store' }).then(r => r.ok ? r.text() : VERSION).then(v => {
   v = v.trim();
   if (v && v !== VERSION && !location.search.includes('v=' + v)) location.replace('./?v=' + v);
