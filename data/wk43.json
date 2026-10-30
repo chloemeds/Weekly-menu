@@ -1,0 +1,179 @@
+{
+ "week": "WK43",
+ "title": "Menú WK43 · 19 al 26 de octubre",
+ "days": [
+  {
+   "name": "Lunes",
+   "date": "19 oct",
+   "chip": {
+    "cls": "low",
+    "text": "Carbs reducidos"
+   },
+   "meals": [
+    {
+     "meal": "Desayuno",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">2 nueces + matcha latte con Alpro almendra (tomado)</p><ul><li><span>Nueces</span><span class=\"q\">10 g</span></li><li><span>Matcha con Alpro almendra</span><span class=\"q\">180 ml</span></li></ul><div class=\"mac\"><span><b>5</b> HC netos</span><span><b>2</b> P</span><span><b>9</b> G</span><span><b>1</b> Fib</span></div>"
+    },
+    {
+     "meal": "Comida",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Lentejas, judías verdes y salmón (tomado) + kiwi de postre</p><ul><li><span>Lentejas cocidas</span><span class=\"q\">150 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Salmón</span><span class=\"q\">120 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Kiwi</span><span class=\"q\">1 ud</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>38</b> HC netos</span><span><b>42</b> P</span><span><b>25</b> G</span><span><b>21</b> Fib</span></div>"
+    },
+    {
+     "meal": "Merienda",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Yogur griego 10% con chia pudding, almendras y arándanos (tomado)</p><ul><li><span>Yogur griego 10%</span><span class=\"q\">100 g</span></li><li><span>Almendras</span><span class=\"q\">20 g</span></li><li><span>Chía</span><span class=\"q\">5 g</span></li><li><span>Arándanos</span><span class=\"q\">30 g</span></li></ul><div class=\"mac\"><span><b>10</b> HC netos</span><span><b>9</b> P</span><span><b>22</b> G</span><span><b>5</b> Fib</span></div>"
+    },
+    {
+     "meal": "Cena",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Pollo salteado con calabacín y champiñones + mousse +Proteínas de postre (tomado)</p><ul><li><span>Pechuga de pollo</span><span class=\"q\">155 g</span></li><li><span>Calabacín</span><span class=\"q\">140 g</span></li><li><span>Champiñones</span><span class=\"q\">45 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Mousse +Proteínas chocolate (1 ud)</span><span class=\"q\">100 g</span></li></ul><div class=\"mac\"><span><b>8</b> HC netos</span><span><b>49</b> P</span><span><b>9</b> G</span><span><b>3</b> Fib</span></div>"
+    }
+   ],
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">61</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">102</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">66</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">30</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1306</span><span class=\"tg\">kcal</span></div>"
+  },
+  {
+   "name": "Martes",
+   "date": "20 oct",
+   "chip": {
+    "cls": "low",
+    "text": "Carbs reducidos"
+   },
+   "meals": [
+    {
+     "meal": "Desayuno",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Queso, york y frutos secos (tomado)</p><ul><li><span>Queso lonchas light</span><span class=\"q\">1 loncha</span></li><li><span>Jamón york</span><span class=\"q\">20 g</span></li><li><span>Nueces</span><span class=\"q\">25 g</span></li><li><span>Almendras</span><span class=\"q\">7 g</span></li></ul><div class=\"mac\"><span><b>3</b> HC netos</span><span><b>16</b> P</span><span><b>25</b> G</span><span><b>3</b> Fib</span></div>"
+    },
+    {
+     "meal": "Comida",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Lomo a la plancha con arroz blanco y judías verdes bien cocidas, con aceite en crudo</p><ul><li><span>Lomo de cerdo</span><span class=\"q\">150 g</span></li><li><span>Arroz blanco (crudo)</span><span class=\"q\">15 g</span></li><li><span>Judías verdes</span><span class=\"q\">250 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cda</span></li></ul><div class=\"mac\"><span><b>20</b> HC netos</span><span><b>37</b> P</span><span><b>18</b> G</span><span><b>9</b> Fib</span></div>"
+    },
+    {
+     "meal": "Merienda",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Yogur griego con arándanos y almendras</p><ul><li><span>Yogur griego 10%</span><span class=\"q\">125 g</span></li><li><span>Arándanos</span><span class=\"q\">60 g</span></li><li><span>Almendras</span><span class=\"q\">15 g</span></li></ul><div class=\"mac\"><span><b>14</b> HC netos</span><span><b>8</b> P</span><span><b>21</b> G</span><span><b>3</b> Fib</span></div>"
+    },
+    {
+     "meal": "Cena",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Salmón al horno con calabacín + mousse</p><ul><li><span>Salmón</span><span class=\"q\">120 g</span></li><li><span>Calabacín</span><span class=\"q\">225 g</span></li><li><span>Mousse +Proteínas chocolate (1 ud)</span><span class=\"q\">100 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>37</b> P</span><span><b>18</b> G</span><span><b>3</b> Fib</span></div>"
+    }
+   ],
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">46</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">81</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">18</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1341</span><span class=\"tg\">kcal</span></div>"
+  },
+  {
+   "name": "Miércoles",
+   "date": "21 oct",
+   "chip": {
+    "cls": "fiesta",
+    "text": "Día de fiesta"
+   },
+   "meals": [
+    {
+     "meal": "Desayuno",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Tostada integral con jamón york y havarti light + matcha latte</p><ul><li><span>Pan integral (tostada)</span><span class=\"q\">60 g</span></li><li><span>Jamón york</span><span class=\"q\">40 g</span></li><li><span>Havarti light</span><span class=\"q\">20 g</span></li><li><span>Matcha con bebida de almendra</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>23</b> HC netos</span><span><b>21</b> P</span><span><b>8</b> G</span><span><b>5</b> Fib</span></div>"
+    },
+    {
+     "meal": "Comida",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Pasta con pollo, champiñones y brócoli</p><ul><li><span>Pasta (cruda)</span><span class=\"q\">110 g</span></li><li><span>Pechuga de pollo</span><span class=\"q\">100 g</span></li><li><span>Champiñones</span><span class=\"q\">100 g</span></li><li><span>Brócoli</span><span class=\"q\">100 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>85</b> HC netos</span><span><b>43</b> P</span><span><b>12</b> G</span><span><b>8</b> Fib</span></div>"
+    },
+    {
+     "meal": "Merienda",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Yogur griego 0% con granola, granada, kiwi y almendras</p><ul><li><span>Yogur griego 0%</span><span class=\"q\">150 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">45 g</span></li><li><span>Granada</span><span class=\"q\">60 g</span></li><li><span>Kiwi</span><span class=\"q\">1 ud</span></li><li><span>Almendras</span><span class=\"q\">15 g</span></li></ul><div class=\"mac\"><span><b>50</b> HC netos</span><span><b>25</b> P</span><span><b>16</b> G</span><span><b>11</b> Fib</span></div>"
+    },
+    {
+     "meal": "Cena",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Cena pronto: brocheta de solomillo de ternera con judías verdes y alcachofas</p><ul><li><span>Solomillo de ternera</span><span class=\"q\">150 g</span></li><li><span>Alcachofas</span><span class=\"q\">50 g</span></li><li><span>Judías verdes</span><span class=\"q\">125 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>36</b> P</span><span><b>15</b> G</span><span><b>8</b> Fib</span></div>"
+    }
+   ],
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">167</span><span class=\"tg\">/ 173 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">126</span><span class=\"tg\">/ 129 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">52</span><span class=\"tg\">/ 58 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">32</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1704</span><span class=\"tg\">kcal</span></div>"
+  },
+  {
+   "name": "Jueves",
+   "date": "22 oct",
+   "chip": {
+    "cls": "fast",
+    "text": "Ayuno 24 h"
+   },
+   "meals": [
+    {
+     "meal": "Desayuno",
+     "span": 3,
+     "cls": [
+      "fastcell"
+     ],
+     "html": "<div class=\"fastbox\"><p class=\"ft\">Ayuno hasta la cena</p><p>Desde la cena pronto del miércoles hasta la cena del jueves.</p><p>Por la mañana, el matcha con agua y sin leche. También agua, infusiones o café solo.</p></div>"
+    },
+    {
+     "meal": "Cena",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Romper el ayuno: salmón al horno con boniato y brócoli</p><ul><li><span>Salmón</span><span class=\"q\">150 g</span></li><li><span>Boniato</span><span class=\"q\">150 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>35</b> HC netos</span><span><b>37</b> P</span><span><b>29</b> G</span><span><b>9</b> Fib</span></div>"
+    }
+   ],
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">35</span><span class=\"tg\">g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">37</span><span class=\"tg\">g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">29</span><span class=\"tg\">g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">9</span><span class=\"tg\">g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">567</span><span class=\"tg\">kcal</span></div><p class=\"nt\">Solo la cena; la app no marca objetivo este día.</p>"
+  },
+  {
+   "name": "Londres",
+   "date": "vie 23 a lun 26 oct",
+   "chip": {
+    "cls": "reg",
+    "text": "Macros regulares, comiendo fuera"
+   },
+   "meals": [
+    {
+     "meal": "Desayuno",
+     "span": 1,
+     "cls": [
+      "loncell"
+     ],
+     "html": "<p class=\"dish\">2 huevos con 1 tostada integral + matcha latte pequeño con leche desnatada</p><ul class=\"opts\"><li><span>Huevos revueltos, poché o a la plancha; en el buffet del hotel o en cafeterías como Pret o Gail's</span></li><li><span>Pide el matcha small con skimmed milk</span></li><li><span>También vale: tostada con salmón ahumado o jamón y huevo</span></li></ul><div class=\"mac\"><span>aprox.</span><span><b>23</b> HC netos</span><span><b>25</b> P</span><span><b>14</b> G</span><span><b>3</b> Fib</span></div>"
+    },
+    {
+     "meal": "Comida",
+     "span": 1,
+     "cls": [
+      "loncell"
+     ],
+     "html": "<p class=\"dish\">Bowl de pollo o salmón con arroz y verduras</p><ul class=\"opts\"><li><span>Itsu, Leon, Wasabi, Farmer J o cualquier poke</span></li><li><span>Ración de arroz generosa y la salsa aparte</span></li><li><span>También vale: 8-10 piezas de sushi con edamame, o un wrap de pollo con ensalada</span></li></ul><div class=\"mac\"><span>aprox.</span><span><b>85</b> HC netos</span><span><b>35</b> P</span><span><b>13</b> G</span><span><b>6</b> Fib</span></div>"
+    },
+    {
+     "meal": "Merienda",
+     "span": 1,
+     "cls": [
+      "loncell"
+     ],
+     "html": "<p class=\"dish\">Yogur griego 0% con frutos rojos y un puñado de almendras</p><ul class=\"opts\"><li><span>Fage Total 0% (150-170 g) con un vasito de frutos rojos y un plátano pequeño o una manzana, en Tesco, M&amp;S o Sainsbury's</span></li><li><span>Lleva las almendras desde casa en una bolsita de 15 g</span></li><li><span>También vale: una pieza de fruta con un yogur proteico</span></li></ul><div class=\"mac\"><span>aprox.</span><span><b>27</b> HC netos</span><span><b>19</b> P</span><span><b>9</b> G</span><span><b>8</b> Fib</span></div>"
+    },
+    {
+     "meal": "Cena",
+     "span": 1,
+     "cls": [
+      "loncell"
+     ],
+     "html": "<p class=\"dish\">Pescado, pollo o carne a la plancha con verduras</p><ul class=\"opts\"><li><span>Ración normal de proteína (unos 120 g) con verduras o ensalada</span></li><li><span>Sin pan ni patatas, y el aliño aparte</span></li><li><span>También vale: una ensalada grande con pollo o gambas</span></li></ul><div class=\"mac\"><span>aprox.</span><span><b>6</b> HC netos</span><span><b>25</b> P</span><span><b>12</b> G</span><span><b>6</b> Fib</span></div>"
+    }
+   ],
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">~141</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">~104</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">~48</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">~23</span><span class=\"tg\">/ 25 g</span></div><p class=\"nt\">Cada día de viernes a lunes.</p>"
+  }
+ ]
+}
