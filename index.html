@@ -1,0 +1,170 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Menú</title>
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="icon" href="icon-192.png">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Menú">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif}img{max-width:100%}[hidden]{display:none!important}</style>
+</head><body>
+
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Figtree:wght@400;500;600&family=DM+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: una tabla semanal ancha (días en columnas) con scroll lateral propio, y debajo intercambios y notas. */
+:root{
+  --bg:#f6f7f2; --surface:#ffffff; --ink:#1f2a1f; --muted:#5f6b5c; --line:#dfe3d6;
+  --accent:#5b7a2e; --accent-soft:#e8efd9;
+  --reg:#3f6e8c; --reg-soft:#e3edf3; --low:#9a5b1e; --low-soft:#f6eadb; --fiesta:#a33d5b; --fiesta-soft:#f6e1e7; --fast:#6a6478; --fast-soft:#ecebf0;
+  --display:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;
+  --body:"Figtree",ui-sans-serif,system-ui,sans-serif;
+  --mono:"DM Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#141812; --surface:#1c211a; --ink:#e6eadf; --muted:#9aa492; --line:#2f362b;
+  --accent:#a8c97a; --accent-soft:#283320;
+  --reg:#8dbbd8; --reg-soft:#1d2a33; --low:#e0a46a; --low-soft:#33261a; --fiesta:#e88aa6; --fiesta-soft:#36202a; --fast:#b5afc4; --fast-soft:#26242c;
+  color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#141812; --surface:#1c211a; --ink:#e6eadf; --muted:#9aa492; --line:#2f362b;
+  --accent:#a8c97a; --accent-soft:#283320;
+  --reg:#8dbbd8; --reg-soft:#1d2a33; --low:#e0a46a; --low-soft:#33261a; --fiesta:#e88aa6; --fiesta-soft:#36202a; --fast:#b5afc4; --fast-soft:#26242c;
+  color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:14px;line-height:1.45}
+.wrap{max-width:1500px;margin:0 auto;padding-block:28px 48px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:28px}
+header{display:flex;flex-direction:column;gap:6px}
+h1{font-family:var(--display);font-weight:700;font-size:clamp(26px,4vw,38px);margin:0;letter-spacing:-.01em;text-wrap:balance}
+.sub{color:var(--muted);margin:0;max-width:70ch}
+.legend{display:flex;flex-wrap:wrap;gap:8px 16px;font-size:12.5px;color:var(--muted);margin-top:6px}
+.legend b{font-family:var(--mono);font-weight:500;color:var(--ink)}
+h2{font-family:var(--display);font-weight:600;font-size:22px;margin:0 0 4px}
+.scroll{overflow-x:auto;border:1px solid var(--line);border-radius:10px;background:var(--surface)}
+table{border-collapse:collapse;min-width:960px;width:100%;table-layout:fixed}
+th,td{border-bottom:1px solid var(--line);border-right:1px solid var(--line);vertical-align:top;text-align:left;padding:12px}
+tr>*:last-child{border-right:0}
+tbody tr:last-child>*{border-bottom:0}
+.corner{width:92px;position:sticky;left:0;background:var(--surface);z-index:2}
+.mealh{width:92px;position:sticky;left:0;background:var(--surface);z-index:1;font-family:var(--display);font-weight:600;font-size:13px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.dayh{background:var(--surface)}
+.dn{font-family:var(--display);font-weight:700;font-size:17px;margin-bottom:6px}
+.dn small{font-family:var(--body);font-weight:400;font-size:12px;color:var(--muted);margin-left:4px}
+.chip{display:inline-block;font-size:11.5px;font-weight:600;padding:2px 8px;border-radius:999px;letter-spacing:.02em}
+.chip.reg{color:var(--reg);background:var(--reg-soft)}
+.chip.low{color:var(--low);background:var(--low-soft)}
+.chip.fiesta{color:var(--fiesta);background:var(--fiesta-soft)}
+.chip.fast{color:var(--fast);background:var(--fast-soft)}
+.dish{font-weight:600;margin:0 0 8px;font-size:13.5px;line-height:1.3}
+ul{list-style:none;margin:0 0 10px;padding:0;display:flex;flex-direction:column;gap:2px;font-size:12.5px;color:var(--muted)}
+li{display:flex;justify-content:space-between;gap:8px}
+li .q{font-family:var(--mono);font-size:12px;color:var(--ink);white-space:nowrap}
+.mac{display:flex;flex-wrap:wrap;gap:4px 10px;font-family:var(--mono);font-size:11.5px;color:var(--muted);padding-top:8px;border-top:1px dashed var(--line);font-variant-numeric:tabular-nums}
+.mac b{color:var(--ink);font-weight:500}
+.mac.zero{border-top:0;padding-top:0}
+.fastcell{background:var(--fast-soft);vertical-align:middle}
+.fastbox{display:flex;flex-direction:column;gap:8px;color:var(--fast);font-size:13px}
+.fastbox p{margin:0}
+.loncell{background:var(--reg-soft)}
+.opts li{display:list-item;list-style:disc;margin-left:16px}
+.nt{margin:6px 0 0;font-size:11.5px;color:var(--fast)}
+.fastbox .ft{font-family:var(--display);font-weight:700;font-size:16px}
+.tot td,.tot th{background:var(--accent-soft)}
+.tot .mealh{color:var(--accent)}
+.tr{display:grid;grid-template-columns:1fr auto auto;gap:6px;align-items:baseline;font-variant-numeric:tabular-nums}
+.tl{font-size:12px;color:var(--muted)}
+.tv{font-family:var(--mono);font-weight:500;font-size:14px}
+.tg{font-family:var(--mono);font-size:11.5px;color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,360px),1fr));gap:20px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:18px;display:flex;flex-direction:column;gap:10px;min-width:0}
+.card p{margin:0;color:var(--muted)}
+.swap{width:100%;min-width:0;table-layout:auto;font-size:13px}
+.swap th,.swap td{border-right:0;padding:7px 4px}
+.swap th{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);font-weight:600}
+.swap td.n{font-family:var(--mono);font-size:12px;text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+.swap th.n{text-align:right}
+.eq{display:flex;flex-direction:column;gap:6px;margin:0;padding:0;list-style:none;font-size:13px}
+.eq li{display:block;color:var(--ink)}
+.eq .k{font-family:var(--mono);font-size:12px;color:var(--accent)}
+.notes{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:6px;color:var(--muted);font-size:13px;max-width:80ch}
+.askbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:0 0 14px}
+.askbar[hidden]{display:none}
+.askbtn{font:inherit;font-weight:700;border:0;border-radius:999px;padding:10px 18px;background:var(--accent);color:var(--bg);cursor:pointer}
+.askbtn:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.askhint{color:var(--muted);font-size:.9rem}
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="askbar"><a class="askbtn" href="https://claude.ai/artifact/41Kra168RcbK4vHDndwqLf" style="text-decoration:none">Pedir un cambio</a><span class="askhint">Se abre el menú en Claude: escribe @claude y tu cambio</span></div>
+    <h1>Menú WK44 · 27 de octubre al 1 de noviembre</h1>
+    <p class="sub">De martes a domingo (el lunes estás de viaje). Martes y jueves con carbs reducidos y el resto con macros regulares de Faster Way. Desayunos salados y ligeros con tu matcha de 150 ml de leche, meriendas dulces, hidratos sobre todo en la comida, cenas más ligeras y tu onza de chocolate después de comer y de cenar. Solo verduras que te gustan. Pesos en crudo salvo que se indique.</p>
+    <div class="legend"><span><b>HC netos</b> hidratos menos fibra</span><span><b>P</b> proteína</span><span><b>G</b> grasa</span><span><b>Fib</b> fibra</span></div>
+  </header>
+
+  <div class="scroll">
+    <table>
+      <thead><tr><th class="corner"></th><th class="dayh"><div class="dn">Martes <small>27 oct</small></div><span class="chip low">Carbs reducidos</span></th><th class="dayh"><div class="dn">Miércoles <small>28 oct</small></div><span class="chip reg">Macros regulares</span></th><th class="dayh"><div class="dn">Jueves <small>29 oct</small></div><span class="chip low">Carbs reducidos</span></th><th class="dayh"><div class="dn">Viernes <small>30 oct</small></div><span class="chip reg">Macros regulares</span></th><th class="dayh"><div class="dn">Sábado <small>31 oct</small></div><span class="chip reg">Macros regulares</span></th><th class="dayh"><div class="dn">Domingo <small>1 nov</small></div><span class="chip reg">Macros regulares</span></th></tr></thead>
+      <tbody><tr><th class="mealh">Desayuno</th><td><p class="dish">1 huevo a la plancha con jamón ibérico + matcha latte</p><ul><li><span>Huevos</span><span class="q">1 ud</span></li><li><span>Jamón ibérico</span><span class="q">15 g</span></li><li><span>Matcha con bebida de almendra</span><span class="q">150 ml</span></li></ul><div class="mac"><span><b>1</b> HC netos</span><span><b>13</b> P</span><span><b>10</b> G</span><span><b>0</b> Fib</span></div></td><td><p class="dish">Tostada integral con 1 loncha de queso light y jamón york + matcha latte</p><ul><li><span>Pan integral (tostada)</span><span class="q">50 g</span></li><li><span>Queso lonchas light</span><span class="q">1 loncha</span></li><li><span>Jamón york</span><span class="q">20 g</span></li><li><span>Matcha con leche desnatada</span><span class="q">150 ml</span></li></ul><div class="mac"><span><b>26</b> HC netos</span><span><b>22</b> P</span><span><b>7</b> G</span><span><b>4</b> Fib</span></div></td><td><p class="dish">Sándwich de jamón ibérico y brie en pan de coca + matcha con leche entera (tomado)</p><ul><li><span>Pan de coca</span><span class="q">90 g</span></li><li><span>Jamón ibérico</span><span class="q">30 g</span></li><li><span>Brie</span><span class="q">40 g</span></li><li><span>Leche entera</span><span class="q">150 ml</span></li></ul><div class="mac"><span><b>48</b> HC netos</span><span><b>28</b> P</span><span><b>28</b> G</span><span><b>2</b> Fib</span></div></td><td><p class="dish">Tostada integral con pechuga de pavo y media loncha de queso light + matcha latte con leche desnatada</p><ul><li><span>Pan integral (tostada)</span><span class="q">40 g</span></li><li><span>Pechuga de pavo</span><span class="q">30 g</span></li><li><span>Queso lonchas light</span><span class="q">½ loncha</span></li><li><span>Matcha con leche desnatada</span><span class="q">150 ml</span></li></ul><div class="mac"><span><b>23</b> HC netos</span><span><b>19</b> P</span><span><b>4</b> G</span><span><b>3</b> Fib</span></div></td><td><p class="dish">Tostada integral con 1 huevo cocido + matcha latte</p><ul><li><span>Pan integral (tostada)</span><span class="q">50 g</span></li><li><span>Huevos</span><span class="q">1 ud</span></li><li><span>Matcha con bebida de almendra</span><span class="q">150 ml</span></li></ul><div class="mac"><span><b>19</b> HC netos</span><span><b>14</b> P</span><span><b>10</b> G</span><span><b>4</b> Fib</span></div></td><td><p class="dish">Tostada integral con pechuga de pavo y 1 loncha de queso light + matcha latte</p><ul><li><span>Pan integral (tostada)</span><span class="q">20 g</span></li><li><span>Pechuga de pavo</span><span class="q">20 g</span></li><li><span>Queso lonchas light</span><span class="q">1 loncha</span></li><li><span>Matcha con bebida de almendra</span><span class="q">150 ml</span></li></ul><div class="mac"><span><b>8</b> HC netos</span><span><b>14</b> P</span><span><b>7</b> G</span><span><b>2</b> Fib</span></div></td></tr><tr><th class="mealh">Comida</th><td><p class="dish">Bowl de pavo con boniato asado, aguacate y brócoli al horno</p><ul><li><span>Filete de pavo</span><span class="q">130 g</span></li><li><span>Boniato</span><span class="q">60 g</span></li><li><span>Aguacate</span><span class="q">45 g</span></li><li><span>Brócoli</span><span class="q">225 g</span></li><li><span>Aceite de oliva</span><span class="q">1½ cda</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class="q">8 g</span></li></ul><div class="mac"><span><b>23</b> HC netos</span><span><b>38</b> P</span><span><b>28</b> G</span><span><b>12</b> Fib</span></div></td><td><p class="dish">Pollo a la plancha con patatas al microondas y brócoli + 1 kiwi (tomado)</p><ul><li><span>Pechuga de pollo</span><span class="q">105 g</span></li><li><span>Patata</span><span class="q">200 g</span></li><li><span>Brócoli</span><span class="q">200 g</span></li><li><span>Kiwi</span><span class="q">1 ud</span></li><li><span>Aceite de oliva</span><span class="q">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class="q">8 g</span></li></ul><div class="mac"><span><b>54</b> HC netos</span><span><b>36</b> P</span><span><b>11</b> G</span><span><b>13</b> Fib</span></div></td><td><p class="dish">Contramuslo y medio de pollo con judías verdes + kiwi (tomado)</p><ul><li><span>Contramuslo de pollo</span><span class="q">1½ ud (~135 g)</span></li><li><span>Judías verdes</span><span class="q">175 g</span></li><li><span>Aceite de oliva</span><span class="q">1 cdta</span></li><li><span>Kiwi</span><span class="q">1 ud</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class="q">8 g</span></li></ul><div class="mac"><span><b>20</b> HC netos</span><span><b>32</b> P</span><span><b>17</b> G</span><span><b>10</b> Fib</span></div></td><td><p class="dish">Lomo y pechuga de pollo a la plancha con brócoli, judías verdes y champiñones + kiwi (tomado)</p><ul><li><span>Lomo de cerdo</span><span class="q">50 g</span></li><li><span>Pechuga de pollo</span><span class="q">50 g</span></li><li><span>Brócoli</span><span class="q">180 g</span></li><li><span>Judías verdes</span><span class="q">100 g</span></li><li><span>Champiñones</span><span class="q">60 g</span></li><li><span>Aceite de oliva</span><span class="q">1 cdta</span></li><li><span>Kiwi</span><span class="q">1 ud</span></li></ul><div class="mac"><span><b>24</b> HC netos</span><span><b>32</b> P</span><span><b>10</b> G</span><span><b>12</b> Fib</span></div></td><td><p class="dish">Arroz salteado tipo wok con pollo, brócoli, champiñones y edamame</p><ul><li><span>Arroz blanco (crudo)</span><span class="q">90 g</span></li><li><span>Pechuga de pollo</span><span class="q">105 g</span></li><li><span>Brócoli</span><span class="q">110 g</span></li><li><span>Champiñones</span><span class="q">80 g</span></li><li><span>Edamame</span><span class="q">40 g</span></li><li><span>Aceite de oliva</span><span class="q">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class="q">8 g</span></li></ul><div class="mac"><span><b>80</b> HC netos</span><span><b>42</b> P</span><span><b>13</b> G</span><span><b>8</b> Fib</span></div></td><td><p class="dish">Gnocchi con pollo, champiñones y pesto</p><ul><li><span>Gnocchi</span><span class="q">220 g</span></li><li><span>Pechuga de pollo</span><span class="q">95 g</span></li><li><span>Champiñones</span><span class="q">200 g</span></li><li><span>Pesto</span><span class="q">10 g</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class="q">8 g</span></li></ul><div class="mac"><span><b>77</b> HC netos</span><span><b>40</b> P</span><span><b>11</b> G</span><span><b>6</b> Fib</span></div></td></tr><tr><th class="mealh">Merienda</th><td><p class="dish">Yogur griego Koukakis con frambuesas y almendras</p><ul><li><span>Yogur griego Koukakis</span><span class="q">1 ud (150 g)</span></li><li><span>Frambuesas</span><span class="q">130 g</span></li><li><span>Almendras</span><span class="q">10 g</span></li></ul><div class="mac"><span><b>13</b> HC netos</span><span><b>13</b> P</span><span><b>21</b> G</span><span><b>10</b> Fib</span></div></td><td><p class="dish">Skyr y yogur +Proteínas con arándanos, granola, nueces y pudding de chía + matcha latte (tomado)</p><ul><li><span>Skyr Danone natural</span><span class="q">1 ud (100 g)</span></li><li><span>Matcha: desnatada + almendra</span><span class="q">100 + 50 ml</span></li><li><span>Yogur +Proteínas Mercadona</span><span class="q">40 g</span></li><li><span>Arándanos</span><span class="q">35 g</span></li><li><span>Granola sin azúcar</span><span class="q">30 g</span></li><li><span>Nueces</span><span class="q">10 g</span></li><li><span>Chía</span><span class="q">4 g</span></li></ul><div class="mac"><span><b>29</b> HC netos</span><span><b>22</b> P</span><span><b>14</b> G</span><span><b>6</b> Fib</span></div></td><td><p class="dish">Yogur griego light con arándanos y nuez y media + 2 rodajas de fuet (tomado)</p><ul><li><span>Yogur griego light Mercadona</span><span class="q">1 ud (125 g)</span></li><li><span>Arándanos</span><span class="q">30 g</span></li><li><span>Nueces</span><span class="q">1½ nueces</span></li><li><span>Fuet (2 rodajas)</span><span class="q">2 rodajas</span></li></ul><div class="mac"><span><b>10</b> HC netos</span><span><b>11</b> P</span><span><b>13</b> G</span><span><b>1</b> Fib</span></div></td><td><p class="dish">Matcha latte</p><ul><li><span>Matcha: desnatada + almendra</span><span class="q">100 + 50 ml</span></li></ul><div class="mac"><span><b>5</b> HC netos</span><span><b>4</b> P</span><span><b>1</b> G</span><span><b>0</b> Fib</span></div></td><td><p class="dish">Skyr con pera y almendras</p><ul><li><span>Skyr Danone natural</span><span class="q">1 ud (100 g)</span></li><li><span>Pera</span><span class="q">150 g</span></li><li><span>Almendras</span><span class="q">5 g</span></li></ul><div class="mac"><span><b>23</b> HC netos</span><span><b>11</b> P</span><span><b>3</b> G</span><span><b>5</b> Fib</span></div></td><td><p class="dish">Yogur griego Koukakis 0% con mandarina y granola</p><ul><li><span>Yogur griego Koukakis 0%</span><span class="q">1 ud (150 g)</span></li><li><span>Mandarina</span><span class="q">140 g</span></li><li><span>Granola sin azúcar</span><span class="q">25 g</span></li></ul><div class="mac"><span><b>34</b> HC netos</span><span><b>16</b> P</span><span><b>5</b> G</span><span><b>5</b> Fib</span></div></td></tr><tr><th class="mealh">Cena</th><td><p class="dish">Bacalao al horno sobre calabacín y champiñones</p><ul><li><span>Bacalao</span><span class="q">160 g</span></li><li><span>Calabacín</span><span class="q">175 g</span></li><li><span>Champiñones</span><span class="q">90 g</span></li><li><span>Aceite de oliva</span><span class="q">1½ cda</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class="q">8 g</span></li></ul><div class="mac"><span><b>8</b> HC netos</span><span><b>34</b> P</span><span><b>20</b> G</span><span><b>4</b> Fib</span></div></td><td><p class="dish">Merluza a la plancha con calabacín y champiñones salteados con ajo + mousse de proteínas (tomado)</p><ul><li><span>Merluza</span><span class="q">90 g</span></li><li><span>Champiñones</span><span class="q">160 g</span></li><li><span>Calabacín</span><span class="q">225 g</span></li><li><span>Aceite de oliva</span><span class="q">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class="q">8 g</span></li><li><span>Mousse +Proteínas chocolate (1 ud)</span><span class="q">100 g</span></li></ul><div class="mac"><span><b>15</b> HC netos</span><span><b>34</b> P</span><span><b>12</b> G</span><span><b>6</b> Fib</span></div></td><td><p class="dish">Salmón al horno con alcachofas</p><ul><li><span>Salmón</span><span class="q">125 g</span></li><li><span>Alcachofas</span><span class="q">150 g</span></li></ul><div class="mac"><span><b>8</b> HC netos</span><span><b>30</b> P</span><span><b>17</b> G</span><span><b>8</b> Fib</span></div></td><td><p class="dish">Cena en Guffy&#x27;s: un puñado de patatas fritas y el 80% de la burger Txuleta (sin salsas extra ni chocolate)</p><ul><li><span>Patatas fritas</span><span class="q">un puñado (¼ de ración)</span></li><li><span>Burger Txuleta</span><span class="q">80% de la burger</span></li></ul><div class="mac"><span><b>53</b> HC netos</span><span><b>39</b> P</span><span><b>59</b> G</span><span><b>3</b> Fib</span></div></td><td><p class="dish">Gambas al ajillo suave con judías verdes salteadas</p><ul><li><span>Gambas o langostinos pelados</span><span class="q">130 g</span></li><li><span>Judías verdes</span><span class="q">250 g</span></li><li><span>Aceite de oliva</span><span class="q">1 cda</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class="q">8 g</span></li></ul><div class="mac"><span><b>12</b> HC netos</span><span><b>31</b> P</span><span><b>15</b> G</span><span><b>9</b> Fib</span></div></td><td><p class="dish">Salmón al horno con alcachofas</p><ul><li><span>Salmón</span><span class="q">105 g</span></li><li><span>Alcachofas</span><span class="q">225 g</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class="q">8 g</span></li></ul><div class="mac"><span><b>14</b> HC netos</span><span><b>29</b> P</span><span><b>17</b> G</span><span><b>13</b> Fib</span></div></td></tr><tr class="tot"><th class="mealh">Total del día</th><td><div class="tr"><span class="tl">HC netos</span><span class="tv">46</span><span class="tg">/ 50 g</span></div><div class="tr"><span class="tl">Proteína</span><span class="tv">98</span><span class="tg">/ 103 g</span></div><div class="tr"><span class="tl">Grasa</span><span class="tv">79</span><span class="tg">/ 85 g</span></div><div class="tr"><span class="tl">Fibra</span><span class="tv">25</span><span class="tg">/ 25 g</span></div><div class="tr"><span class="tl">Calorías</span><span class="tv">1337</span><span class="tg">kcal</span></div></td><td><div class="tr"><span class="tl">HC netos</span><span class="tv">126</span><span class="tg">/ 138 g</span></div><div class="tr"><span class="tl">Proteína</span><span class="tv">113</span><span class="tg">/ 103 g</span></div><div class="tr"><span class="tl">Grasa</span><span class="tv">45</span><span class="tg">/ 46 g</span></div><div class="tr"><span class="tl">Fibra</span><span class="tv">28</span><span class="tg">/ 25 g</span></div><div class="tr"><span class="tl">Calorías</span><span class="tv">1417</span><span class="tg">kcal</span></div></td><td><div class="tr"><span class="tl">HC netos</span><span class="tv">86</span><span class="tg">/ 50 g</span></div><div class="tr"><span class="tl">Proteína</span><span class="tv">101</span><span class="tg">/ 103 g</span></div><div class="tr"><span class="tl">Grasa</span><span class="tv">75</span><span class="tg">/ 85 g</span></div><div class="tr"><span class="tl">Fibra</span><span class="tv">21</span><span class="tg">/ 25 g</span></div><div class="tr"><span class="tl">Calorías</span><span class="tv">1465</span><span class="tg">kcal</span></div></td><td><div class="tr"><span class="tl">HC netos</span><span class="tv">105</span><span class="tg">/ 138 g</span></div><div class="tr"><span class="tl">Proteína</span><span class="tv">93</span><span class="tg">/ 103 g</span></div><div class="tr"><span class="tl">Grasa</span><span class="tv">73</span><span class="tg">/ 46 g</span></div><div class="tr"><span class="tl">Fibra</span><span class="tv">18</span><span class="tg">/ 25 g</span></div><div class="tr"><span class="tl">Calorías</span><span class="tv">1485</span><span class="tg">kcal</span></div></td><td><div class="tr"><span class="tl">HC netos</span><span class="tv">133</span><span class="tg">/ 138 g</span></div><div class="tr"><span class="tl">Proteína</span><span class="tv">98</span><span class="tg">/ 103 g</span></div><div class="tr"><span class="tl">Grasa</span><span class="tv">41</span><span class="tg">/ 46 g</span></div><div class="tr"><span class="tl">Fibra</span><span class="tv">26</span><span class="tg">/ 25 g</span></div><div class="tr"><span class="tl">Calorías</span><span class="tv">1345</span><span class="tg">kcal</span></div></td><td><div class="tr"><span class="tl">HC netos</span><span class="tv">133</span><span class="tg">/ 138 g</span></div><div class="tr"><span class="tl">Proteína</span><span class="tv">99</span><span class="tg">/ 103 g</span></div><div class="tr"><span class="tl">Grasa</span><span class="tv">41</span><span class="tg">/ 46 g</span></div><div class="tr"><span class="tl">Fibra</span><span class="tv">26</span><span class="tg">/ 25 g</span></div><div class="tr"><span class="tl">Calorías</span><span class="tv">1349</span><span class="tg">kcal</span></div></td></tr></tbody>
+    </table>
+  </div>
+
+  <section class="grid">
+    <div class="card">
+      <h2>Intercambios fáciles</h2>
+      <p>Cambia un alimento por otro de la misma línea y los macros apenas se mueven.</p>
+      <ul class="eq">
+        <li><span class="k">Hidratos (~55 g HC netos)</span><br>70 g arroz = 75 g pasta = 165 g gnocchi = 310 g patata = 270 g boniato = 275 g lentejas cocidas</li>
+        <li><span class="k">Proteína magra (~35 g P)</span><br>150 g pollo = 205 g merluza = 165 g lomo = 175 g pechuga de pavo</li>
+        <li><span class="k">Proteína grasa</span><br>130 g salmón ≈ 155 g lubina + 1 cdta aceite (≈27 g P, 17 g G)</li>
+        <li><span class="k">Grasa (~10 g G)</span><br>1 cda aceite = 15 g nueces o almendras = 30 g mozzarella light + 1 cdta aceite</li>
+        <li><span class="k">Verduras</span><br>judías verdes, calabacín, brócoli, setas o champiñones y alcachofas se cambian entre sí sin problema; el edamame suma además proteína</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h2>Más opciones sencillas</h2>
+      <p>Para variar sin complicarte. Macros por ración.</p>
+      <div style="overflow-x:auto">
+      <table class="swap">
+        <thead><tr><th>Alimento</th><th>Ración</th><th class="n">HC</th><th class="n">P</th><th class="n">G</th><th class="n">Fib</th></tr></thead>
+        <tbody>
+          <tr><td>Salmón en lata</td><td>1 lata pequeña (60 g escurrido)</td><td class="n">0</td><td class="n">13</td><td class="n">4</td><td class="n">0</td></tr>
+          <tr><td>Langostinos / gambas</td><td>150 g</td><td class="n">0</td><td class="n">30</td><td class="n">2</td><td class="n">0</td></tr>
+          <tr><td>Filete de pavo</td><td>150 g</td><td class="n">0</td><td class="n">33</td><td class="n">2</td><td class="n">0</td></tr>
+          <tr><td>Claras de huevo</td><td>150 g</td><td class="n">1</td><td class="n">16</td><td class="n">0</td><td class="n">0</td></tr>
+          <tr><td>Tortitas de arroz</td><td>2 uds (16 g)</td><td class="n">13</td><td class="n">1</td><td class="n">0</td><td class="n">0</td></tr>
+          <tr><td>Fresas</td><td>150 g</td><td class="n">11</td><td class="n">1</td><td class="n">0</td><td class="n">3</td></tr>
+          <tr><td>Arándanos</td><td>80 g</td><td class="n">12</td><td class="n">1</td><td class="n">0</td><td class="n">2</td></tr>
+          <tr><td>Nueces o almendras</td><td>15 g</td><td class="n">2</td><td class="n">3</td><td class="n">9</td><td class="n">1</td></tr>
+        </tbody>
+      </table>
+      </div>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Notas</h2>
+    <ul class="notes">
+      <li>Los macros son estimaciones con valores medios por 100 g. Los yogures, el skyr y el queso en lonchas están calculados con tus etiquetas. Para la granola, el pesto y la burrata he usado valores medios: mira la etiqueta y ajusta el peso si cambia mucho.</li>
+      <li>Todos los hidratos son netos (sin la fibra), que es lo que ponen las etiquetas españolas. La fibra de cada día queda entre 25 y 32 g.</li>
+      <li>Cada día queda unos 5 g por debajo de tus objetivos de proteína, grasa e hidratos netos, para que tengas margen si picas algo de más. Las calorías salen solo en el total del día.</li>
+      <li>La leche del matcha cambia según el día: desnatada cuando hay margen de hidratos y bebida de almendra (o mezcla) cuando hace falta ahorrar hidratos o sumar algo de grasa.</li>
+      <li>Todo se hace en 15 minutos o menos: pescado y pollo al horno (200 °C, 12 a 15 min) o a la plancha, verduras al vapor en el microondas o salteadas, patata y boniato al microondas (6 a 8 min) y lentejas de bote enjuagadas.</li>
+      <li>Ninguna cena se repite en días seguidos. Si un día te apetece otra cosa, usa los intercambios de arriba.</li>
+    </ul>
+  </section>
+</div>
+
+
+<script>
+// Actualización automática: GitHub Pages guarda la página en caché unos minutos.
+// Si version.txt no coincide con esta versión, se recarga con una URL nueva.
+const VERSION = '1';
+fetch('./version.txt', { cache: 'no-store' }).then(r => r.ok ? r.text() : VERSION).then(v => {
+  v = v.trim();
+  if (v && v !== VERSION && !location.search.includes('v=' + v)) location.replace('./?v=' + v);
+}).catch(() => {});
+</script>
+</body></html>
