@@ -161,7 +161,7 @@ li .q{font-family:var(--mono);font-size:12px;color:var(--ink);white-space:nowrap
 <script>
 // Actualización automática: GitHub Pages guarda la página en caché unos minutos.
 // Si version.txt no coincide con esta versión, se recarga con una URL nueva.
-const VERSION = '1';
+const VERSION = '2';
 fetch('./version.txt', { cache: 'no-store' }).then(r => r.ok ? r.text() : VERSION).then(v => {
   v = v.trim();
   if (v && v !== VERSION && !location.search.includes('v=' + v)) location.replace('./?v=' + v);
