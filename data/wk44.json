@@ -213,7 +213,7 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Yogur griego Koukakis 0% con mandarina y granola</p><ul><li><span>Yogur griego Koukakis 0%</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Mandarina</span><span class=\"q\">140 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">25 g</span></li></ul><div class=\"mac\"><span><b>34</b> HC netos</span><span><b>16</b> P</span><span><b>5</b> G</span><span><b>5</b> Fib</span></div>"
+     "html": "<p class=\"dish\">Yogur griego Koukakis 0% con mandarina y granola</p><ul><li><span>Yogur griego Koukakis 0%</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Mandarina</span><span class=\"q\">140 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">20 g</span></li><li><span>Chía</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>32</b> HC netos</span><span><b>17</b> P</span><span><b>8</b> G</span><span><b>8</b> Fib</span></div>"
     },
     {
      "meal": "Cena",
@@ -227,7 +227,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">133</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">41</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1349</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">131</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">43</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">29</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1369</span><span class=\"tg\">kcal</span></div>"
   }
  ]
 }
