@@ -29,7 +29,7 @@
   color-scheme:dark}}
 *{box-sizing:border-box}
 html,body{margin:0;height:100%}
-body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.45;-webkit-text-size-adjust:100%;display:flex;flex-direction:column;padding-top:calc(env(safe-area-inset-top,0px) + 14px)}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.45;-webkit-text-size-adjust:100%;display:flex;flex-direction:column;padding-top:calc(env(safe-area-inset-top,0px) + 34px)}
 .top{flex:none;display:flex;align-items:center;gap:10px;padding:10px max(16px,env(safe-area-inset-right,0px)) 8px max(16px,env(safe-area-inset-left,0px))}
 .weeks{display:flex;gap:4px;background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:3px}
 .weeks button{font:700 15px var(--display);letter-spacing:.01em;border:0;background:transparent;color:var(--muted);padding:7px 14px;border-radius:999px;cursor:pointer}
@@ -151,7 +151,7 @@ button:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px sol
 </div>
 
 <script>
-const VERSION = '13';
+const VERSION = '14';
 fetch('./version.txt', { cache: 'no-store' }).then(r => r.ok ? r.text() : VERSION).then(v => {
   v = v.trim();
   if (v && v !== VERSION && !location.search.includes('v=' + v)) location.replace('./?v=' + v);
@@ -203,7 +203,7 @@ async function loadPending(){
     lastPending = list.length; clearTimeout(pollT); if(list.length) pollT = setTimeout(loadPending, 20000);
   }catch(e){}
 }
-document.addEventListener('visibilitychange', () => { if(!document.hidden) loadPending(); });
+document.addEventListener('visibilitychange', () => { if(document.hidden) return; loadPending(); fetch('./version.txt', { cache: 'no-store' }).then(r => r.ok ? r.text() : VERSION).then(v => { v = v.trim(); if(v && v !== VERSION) location.replace('./?v=' + v); }).catch(() => {}); });
 const eur = v => v.toLocaleString('es-ES', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ' €';
 async function openCart(){
   const w = cur, body = $('cbody'); $('cart').hidden = false; $('ctitle').textContent = 'Lista de la compra ' + w; body.innerHTML = '<div class="empty">Cargando…</div>';
