@@ -18,6 +18,7 @@ Chloe pide cambios desde la app; cada petición llega como una issue con el día
 ## Reglas
 
 - Hidratos siempre netos (sin fibra).
+- Cuando dice lo que ha comido, el arroz, la pasta y las patatas son pesos en cocido salvo que diga "crudo" (en el menú planificado van en crudo).
 - Objetivos (el día queda unos 5 g por debajo de cada uno en HC, P y G cuando reajustas; fibra entre 25 y 32 g):
   - Macros regulares: 138 HC netos, 103 P, 46 G, 25 Fib.
   - Carbs reducidos: 50 HC netos, 103 P, 85 G, 25 Fib.
