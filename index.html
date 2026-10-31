@@ -106,6 +106,10 @@ button:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px sol
 .aisle li.have .nm,.aisle li.have .qt,.aisle li.have .pr{color:var(--muted);text-decoration:line-through}
 .only .aisle li.have{display:none} .only .aisle.allhave{display:none}
 .cfoot{margin-top:16px;font-size:13px;color:var(--muted)}
+.ptr{position:fixed;left:50%;top:calc(env(safe-area-inset-top,0px) + 8px);z-index:30;width:40px;height:40px;margin-left:-20px;border-radius:999px;background:var(--surface);border:1px solid var(--line);box-shadow:0 4px 14px rgba(0,0,0,.12);display:grid;place-items:center;color:var(--accent);opacity:0;transform:translateY(-60px);pointer-events:none}
+.ptr svg{width:20px;height:20px}
+.ptr.spin svg{animation:spin .8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
 .aisle li{display:flex;align-items:center} .aisle label{flex:1;min-width:0}
 .mama{flex:none;margin-right:12px;font-size:20px;line-height:1;border-radius:999px;padding:7px 9px;border:1px solid var(--line);background:var(--bg);color:var(--muted);cursor:pointer}
 .mama[aria-pressed="true"]{background:var(--fiesta-soft);border-color:var(--fiesta);color:var(--fiesta)}
@@ -123,6 +127,7 @@ button:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px sol
   <button class="cartbtn" id="cartbtn" type="button" aria-label="Lista de la compra"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="20" r="1.4"/><circle cx="18" cy="20" r="1.4"/><path d="M2.5 3.5h2.6l2.4 11.2a1.6 1.6 0 0 0 1.6 1.3h8.4a1.6 1.6 0 0 0 1.6-1.2l1.6-7.3H6.1"/></svg></button>
   <button class="askbtn" id="ask" type="button">Pedir un cambio</button>
 </div>
+<div class="ptr" id="ptr" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M20 12a8 8 0 1 1-2.34-5.66"/><path d="M20 4v4h-4"/></svg></div>
 <div class="dots" id="dots"></div>
 <p class="pending" id="pending" hidden></p>
 <div class="car" id="car"><div class="empty">Cargando el menú…</div></div>
@@ -144,7 +149,7 @@ button:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px sol
 </div>
 
 <script>
-const VERSION = '11';
+const VERSION = '12';
 fetch('./version.txt', { cache: 'no-store' }).then(r => r.ok ? r.text() : VERSION).then(v => {
   v = v.trim();
   if (v && v !== VERSION && !location.search.includes('v=' + v)) location.replace('./?v=' + v);
@@ -229,6 +234,15 @@ async function openCart(){
   setOnly(only); upd();
 }
 $('cartbtn').onclick = openCart;
+// Deslizar hacia abajo desde arriba del día recarga la app (datos y versión nueva).
+(() => { let y0 = null, x0 = 0, d = 0; const ptr = $('ptr'), car = $('car');
+  const show = v => { ptr.style.opacity = Math.min(1, v / 70); ptr.style.transform = 'translateY(' + (Math.min(v, 90) - 60) + 'px) rotate(' + v * 3 + 'deg)'; };
+  car.addEventListener('touchstart', e => { const sl = e.target.closest('.slide'); y0 = sl && sl.scrollTop <= 0 ? e.touches[0].clientY : null; x0 = e.touches[0].clientX; d = 0; }, { passive: true });
+  car.addEventListener('touchmove', e => { if(y0 === null) return; const dy = e.touches[0].clientY - y0, dx = Math.abs(e.touches[0].clientX - x0); if(dy <= 0 || dx > dy){ d = 0; show(0); return; } d = dy * 0.6; show(d); }, { passive: true });
+  car.addEventListener('touchend', () => { if(y0 === null) return; y0 = null;
+    if(d > 70){ ptr.classList.add('spin'); ptr.style.opacity = 1; ptr.style.transform = 'translateY(30px)'; setTimeout(() => location.reload(), 350); }
+    else { ptr.style.transition = 'transform .2s, opacity .2s'; show(0); setTimeout(() => { ptr.style.transition = ''; }, 220); } });
+})();
 $('cclose').onclick = () => { $('cart').hidden = true; };
 $('ask').onclick = () => { $('day').value = String(idx); $('sheet').hidden = false; setTimeout(() => $('msg').focus(), 50); };
 $('cancel').onclick = () => { $('sheet').hidden = true; };
