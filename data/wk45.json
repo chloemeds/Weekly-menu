@@ -1,0 +1,251 @@
+{
+ "week": "WK45",
+ "title": "Menú WK45 · 2 al 8 de noviembre",
+ "days": [
+  {
+   "name": "Lunes",
+   "date": "2 nov",
+   "chip": {
+    "cls": "reg",
+    "text": "Macros regulares"
+   },
+   "meals": [
+    {
+     "meal": "Desayuno",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Tostada integral con jamón york y media loncha de queso light + matcha latte</p><ul><li><span>Pan integral (tostada)</span><span class=\"q\">50 g</span></li><li><span>Jamón york</span><span class=\"q\">20 g</span></li><li><span>Queso lonchas light</span><span class=\"q\">½ loncha</span></li><li><span>Matcha con bebida de almendra</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>19</b> HC netos</span><span><b>14</b> P</span><span><b>6</b> G</span><span><b>4</b> Fib</span></div>"
+    },
+    {
+     "meal": "Comida",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Pasta con gambas y calabacín al ajillo</p><ul><li><span>Pasta (cruda)</span><span class=\"q\">90 g</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">100 g</span></li><li><span>Calabacín</span><span class=\"q\">250 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1½ cda</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>70</b> HC netos</span><span><b>35</b> P</span><span><b>21</b> G</span><span><b>6</b> Fib</span></div>"
+    },
+    {
+     "meal": "Merienda",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Skyr con fresas y granola</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Fresas</span><span class=\"q\">150 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">30 g</span></li></ul><div class=\"mac\"><span><b>26</b> HC netos</span><span><b>13</b> P</span><span><b>6</b> G</span><span><b>6</b> Fib</span></div>"
+    },
+    {
+     "meal": "Cena",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Pollo a la plancha con brócoli y judías verdes al vapor</p><ul><li><span>Pechuga de pollo</span><span class=\"q\">115 g</span></li><li><span>Brócoli</span><span class=\"q\">200 g</span></li><li><span>Judías verdes</span><span class=\"q\">175 g</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>18</b> HC netos</span><span><b>36</b> P</span><span><b>6</b> G</span><span><b>12</b> Fib</span></div>"
+    }
+   ],
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">133</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">39</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">28</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1331</span><span class=\"tg\">kcal</span></div>"
+  },
+  {
+   "name": "Martes",
+   "date": "3 nov",
+   "chip": {
+    "cls": "low",
+    "text": "Carbs reducidos"
+   },
+   "meals": [
+    {
+     "meal": "Desayuno",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Tortilla francesa de 1 huevo con pechuga de pavo + matcha latte</p><ul><li><span>Huevos</span><span class=\"q\">1 ud</span></li><li><span>Pechuga de pavo</span><span class=\"q\">20 g</span></li><li><span>Matcha con leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>8</b> HC netos</span><span><b>17</b> P</span><span><b>6</b> G</span><span><b>0</b> Fib</span></div>"
+    },
+    {
+     "meal": "Comida",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Salmón al horno con judías verdes y almendras laminadas</p><ul><li><span>Salmón</span><span class=\"q\">140 g</span></li><li><span>Judías verdes</span><span class=\"q\">250 g</span></li><li><span>Almendras</span><span class=\"q\">5 g</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>12</b> HC netos</span><span><b>34</b> P</span><span><b>24</b> G</span><span><b>10</b> Fib</span></div>"
+    },
+    {
+     "meal": "Merienda",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Yogur griego Mercadona con frambuesas y nueces</p><ul><li><span>Yogur griego Mercadona</span><span class=\"q\">1 ud (125 g)</span></li><li><span>Frambuesas</span><span class=\"q\">150 g</span></li><li><span>Nueces</span><span class=\"q\">20 g</span></li></ul><div class=\"mac\"><span><b>15</b> HC netos</span><span><b>10</b> P</span><span><b>28</b> G</span><span><b>11</b> Fib</span></div>"
+    },
+    {
+     "meal": "Cena",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Lomo de cerdo a la plancha con champiñones y calabacín salteados</p><ul><li><span>Lomo de cerdo</span><span class=\"q\">140 g</span></li><li><span>Champiñones</span><span class=\"q\">150 g</span></li><li><span>Calabacín</span><span class=\"q\">225 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cda</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>10</b> HC netos</span><span><b>38</b> P</span><span><b>21</b> G</span><span><b>5</b> Fib</span></div>"
+    }
+   ],
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">45</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">80</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1344</span><span class=\"tg\">kcal</span></div>"
+  },
+  {
+   "name": "Miércoles",
+   "date": "4 nov",
+   "chip": {
+    "cls": "reg",
+    "text": "Macros regulares"
+   },
+   "meals": [
+    {
+     "meal": "Desayuno",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Tostada integral con 1 huevo a la plancha + matcha latte</p><ul><li><span>Pan integral (tostada)</span><span class=\"q\">50 g</span></li><li><span>Huevos</span><span class=\"q\">1 ud</span></li><li><span>Matcha: desnatada + almendra</span><span class=\"q\">50 + 100 ml</span></li></ul><div class=\"mac\"><span><b>21</b> HC netos</span><span><b>16</b> P</span><span><b>9</b> G</span><span><b>4</b> Fib</span></div>"
+    },
+    {
+     "meal": "Comida",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Bowl de arroz con salmón en lata, edamame y brócoli</p><ul><li><span>Arroz blanco (crudo)</span><span class=\"q\">80 g</span></li><li><span>Salmón en lata (escurrido)</span><span class=\"q\">80 g</span></li><li><span>Edamame</span><span class=\"q\">40 g</span></li><li><span>Brócoli</span><span class=\"q\">125 g</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>71</b> HC netos</span><span><b>32</b> P</span><span><b>12</b> G</span><span><b>7</b> Fib</span></div>"
+    },
+    {
+     "meal": "Merienda",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Yogur griego Koukakis 0% con kiwi y granola</p><ul><li><span>Yogur griego Koukakis 0%</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Kiwi</span><span class=\"q\">1 ud</span></li><li><span>Granola sin azúcar</span><span class=\"q\">20 g</span></li></ul><div class=\"mac\"><span><b>27</b> HC netos</span><span><b>15</b> P</span><span><b>4</b> G</span><span><b>5</b> Fib</span></div>"
+    },
+    {
+     "meal": "Cena",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Merluza al horno con alcachofas</p><ul><li><span>Merluza</span><span class=\"q\">160 g</span></li><li><span>Alcachofas</span><span class=\"q\">200 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cda</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>12</b> HC netos</span><span><b>35</b> P</span><span><b>16</b> G</span><span><b>12</b> Fib</span></div>"
+    }
+   ],
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">133</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">41</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">27</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1347</span><span class=\"tg\">kcal</span></div>"
+  },
+  {
+   "name": "Jueves",
+   "date": "5 nov",
+   "chip": {
+    "cls": "low",
+    "text": "Carbs reducidos"
+   },
+   "meals": [
+    {
+     "meal": "Desayuno",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">1 huevo a la plancha con jamón ibérico + matcha latte</p><ul><li><span>Huevos</span><span class=\"q\">1 ud</span></li><li><span>Jamón ibérico</span><span class=\"q\">15 g</span></li><li><span>Matcha: desnatada + almendra</span><span class=\"q\">50 + 100 ml</span></li></ul><div class=\"mac\"><span><b>3</b> HC netos</span><span><b>14</b> P</span><span><b>10</b> G</span><span><b>0</b> Fib</span></div>"
+    },
+    {
+     "meal": "Comida",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Filete de pavo a la plancha con brócoli, judías verdes y media burrata</p><ul><li><span>Filete de pavo</span><span class=\"q\">90 g</span></li><li><span>Brócoli</span><span class=\"q\">200 g</span></li><li><span>Judías verdes</span><span class=\"q\">175 g</span></li><li><span>Burrata</span><span class=\"q\">½ (60 g)</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cda</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>19</b> HC netos</span><span><b>37</b> P</span><span><b>28</b> G</span><span><b>12</b> Fib</span></div>"
+    },
+    {
+     "meal": "Merienda",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Yogur griego Koukakis con frambuesas, chía y almendras</p><ul><li><span>Yogur griego Koukakis</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Frambuesas</span><span class=\"q\">120 g</span></li><li><span>Chía</span><span class=\"q\">10 g</span></li><li><span>Almendras</span><span class=\"q\">5 g</span></li></ul><div class=\"mac\"><span><b>13</b> HC netos</span><span><b>13</b> P</span><span><b>21</b> G</span><span><b>12</b> Fib</span></div>"
+    },
+    {
+     "meal": "Cena",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Gambas al ajillo con calabacín y champiñones</p><ul><li><span>Gambas o langostinos pelados</span><span class=\"q\">125 g</span></li><li><span>Calabacín</span><span class=\"q\">175 g</span></li><li><span>Champiñones</span><span class=\"q\">175 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1½ cda</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>33</b> P</span><span><b>21</b> G</span><span><b>4</b> Fib</span></div>"
+    }
+   ],
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">45</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">80</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">29</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1350</span><span class=\"tg\">kcal</span></div>"
+  },
+  {
+   "name": "Viernes",
+   "date": "6 nov",
+   "chip": {
+    "cls": "reg",
+    "text": "Macros regulares"
+   },
+   "meals": [
+    {
+     "meal": "Desayuno",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Tostada integral con pechuga de pavo y 1 loncha de queso light + matcha latte</p><ul><li><span>Pan integral (tostada)</span><span class=\"q\">50 g</span></li><li><span>Pechuga de pavo</span><span class=\"q\">20 g</span></li><li><span>Queso lonchas light</span><span class=\"q\">1 loncha</span></li><li><span>Matcha con bebida de almendra</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>19</b> HC netos</span><span><b>18</b> P</span><span><b>8</b> G</span><span><b>4</b> Fib</span></div>"
+    },
+    {
+     "meal": "Comida",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Arroz con lentejas (cocidas en casa), champiñones, calabacín y huevo a la plancha</p><ul><li><span>Lentejas (en seco)</span><span class=\"q\">60 g</span></li><li><span>Arroz blanco (crudo)</span><span class=\"q\">50 g</span></li><li><span>Huevos</span><span class=\"q\">1 ud</span></li><li><span>Champiñones</span><span class=\"q\">225 g</span></li><li><span>Calabacín</span><span class=\"q\">200 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>80</b> HC netos</span><span><b>36</b> P</span><span><b>17</b> G</span><span><b>12</b> Fib</span></div>"
+    },
+    {
+     "meal": "Merienda",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Skyr con pera, canela y nueces</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Pera</span><span class=\"q\">150 g</span></li><li><span>Nueces</span><span class=\"q\">5 g</span></li></ul><div class=\"mac\"><span><b>22</b> HC netos</span><span><b>10</b> P</span><span><b>4</b> G</span><span><b>5</b> Fib</span></div>"
+    },
+    {
+     "meal": "Cena",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Dorada al horno con judías verdes</p><ul><li><span>Dorada</span><span class=\"q\">160 g</span></li><li><span>Judías verdes</span><span class=\"q\">225 g</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>10</b> HC netos</span><span><b>35</b> P</span><span><b>12</b> G</span><span><b>9</b> Fib</span></div>"
+    }
+   ],
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">132</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">40</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">30</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1344</span><span class=\"tg\">kcal</span></div>"
+  },
+  {
+   "name": "Sábado",
+   "date": "7 nov",
+   "chip": {
+    "cls": "reg",
+    "text": "Macros regulares"
+   },
+   "meals": [
+    {
+     "meal": "Desayuno",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Tostada integral con jamón york y media loncha de queso light + matcha latte</p><ul><li><span>Pan integral (tostada)</span><span class=\"q\">50 g</span></li><li><span>Jamón york</span><span class=\"q\">20 g</span></li><li><span>Queso lonchas light</span><span class=\"q\">½ loncha</span></li><li><span>Matcha: desnatada + almendra</span><span class=\"q\">100 + 50 ml</span></li></ul><div class=\"mac\"><span><b>24</b> HC netos</span><span><b>17</b> P</span><span><b>5</b> G</span><span><b>4</b> Fib</span></div>"
+    },
+    {
+     "meal": "Comida",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Pasta con salmón y brócoli</p><ul><li><span>Pasta (cruda)</span><span class=\"q\">90 g</span></li><li><span>Salmón</span><span class=\"q\">90 g</span></li><li><span>Brócoli</span><span class=\"q\">200 g</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>73</b> HC netos</span><span><b>36</b> P</span><span><b>17</b> G</span><span><b>9</b> Fib</span></div>"
+    },
+    {
+     "meal": "Merienda",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Yogur +Proteínas con fresas y granola</p><ul><li><span>Yogur +Proteínas Mercadona</span><span class=\"q\">95 g</span></li><li><span>Fresas</span><span class=\"q\">150 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">20 g</span></li></ul><div class=\"mac\"><span><b>22</b> HC netos</span><span><b>13</b> P</span><span><b>4</b> G</span><span><b>5</b> Fib</span></div>"
+    },
+    {
+     "meal": "Cena",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Brochetas de pollo con champiñones y alcachofas</p><ul><li><span>Pechuga de pollo</span><span class=\"q\">105 g</span></li><li><span>Champiñones</span><span class=\"q\">100 g</span></li><li><span>Alcachofas</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cda</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>12</b> HC netos</span><span><b>33</b> P</span><span><b>16</b> G</span><span><b>10</b> Fib</span></div>"
+    }
+   ],
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">133</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">42</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">27</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1356</span><span class=\"tg\">kcal</span></div>"
+  },
+  {
+   "name": "Domingo",
+   "date": "8 nov",
+   "chip": {
+    "cls": "reg",
+    "text": "Macros regulares"
+   },
+   "meals": [
+    {
+     "meal": "Desayuno",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Tostada integral con 1 huevo a la plancha + matcha latte</p><ul><li><span>Pan integral (tostada)</span><span class=\"q\">50 g</span></li><li><span>Huevos</span><span class=\"q\">1 ud</span></li><li><span>Matcha con leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>26</b> HC netos</span><span><b>19</b> P</span><span><b>8</b> G</span><span><b>4</b> Fib</span></div>"
+    },
+    {
+     "meal": "Comida",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Solomillo de ternera con patatas al microondas y judías verdes</p><ul><li><span>Solomillo de ternera</span><span class=\"q\">105 g</span></li><li><span>Patata</span><span class=\"q\">300 g</span></li><li><span>Judías verdes</span><span class=\"q\">250 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>57</b> HC netos</span><span><b>33</b> P</span><span><b>14</b> G</span><span><b>16</b> Fib</span></div>"
+    },
+    {
+     "meal": "Merienda",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Yogur griego Koukakis 0% con mandarina y granola</p><ul><li><span>Yogur griego Koukakis 0%</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Mandarina</span><span class=\"q\">140 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">30 g</span></li></ul><div class=\"mac\"><span><b>37</b> HC netos</span><span><b>16</b> P</span><span><b>6</b> G</span><span><b>5</b> Fib</span></div>"
+    },
+    {
+     "meal": "Cena",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Lubina al horno con calabacín</p><ul><li><span>Lubina</span><span class=\"q\">135 g</span></li><li><span>Calabacín</span><span class=\"q\">250 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>8</b> HC netos</span><span><b>29</b> P</span><span><b>16</b> G</span><span><b>3</b> Fib</span></div>"
+    }
+   ],
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">128</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">43</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">28</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1347</span><span class=\"tg\">kcal</span></div>"
+  }
+ ]
+}

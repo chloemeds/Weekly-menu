@@ -31,10 +31,11 @@
 html,body{margin:0;height:100%}
 body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.45;-webkit-text-size-adjust:100%;display:flex;flex-direction:column;padding-top:calc(env(safe-area-inset-top,0px) + 34px)}
 .top{flex:none;display:flex;align-items:center;gap:10px;padding:10px max(16px,env(safe-area-inset-right,0px)) 8px max(16px,env(safe-area-inset-left,0px))}
-.weeks{display:flex;gap:4px;background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:3px}
-.weeks button{font:700 15px var(--display);letter-spacing:.01em;border:0;background:transparent;color:var(--muted);padding:7px 14px;border-radius:999px;cursor:pointer}
+.weeks{display:flex;gap:4px;flex:0 1 auto;min-width:0;overflow-x:auto;scrollbar-width:none;background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:3px}
+.weeks::-webkit-scrollbar{display:none}
+.weeks button{flex:none;font:700 15px var(--display);letter-spacing:.01em;border:0;background:transparent;color:var(--muted);padding:7px 12px;border-radius:999px;cursor:pointer}
 .weeks button[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}
-.askbtn{font:700 14px var(--body);border:0;border-radius:999px;padding:9px 14px;background:var(--accent-soft);color:var(--accent);cursor:pointer}
+.askbtn{flex:none;white-space:nowrap;font:700 14px var(--body);border:0;border-radius:999px;padding:9px 14px;background:var(--accent-soft);color:var(--accent);cursor:pointer}
 .dots{flex:none;display:flex;justify-content:center;gap:6px;padding:2px 16px 8px;flex-wrap:wrap}
 .dots button{border:0;background:transparent;padding:4px 6px;font:600 12px var(--body);color:var(--muted);border-radius:999px;cursor:pointer}
 .dots button[aria-current="true"]{background:var(--ink);color:var(--bg)}
@@ -151,7 +152,7 @@ button:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px sol
 </div>
 
 <script>
-const VERSION = '14';
+const VERSION = '15';
 fetch('./version.txt', { cache: 'no-store' }).then(r => r.ok ? r.text() : VERSION).then(v => {
   v = v.trim();
   if (v && v !== VERSION && !location.search.includes('v=' + v)) location.replace('./?v=' + v);
@@ -168,7 +169,7 @@ function short(d){ return d.name.slice(0,3); }
 
 function renderWeeks(){
   $('weeks').innerHTML = '';
-  for(const w of weeks){ const b = document.createElement('button'); b.type='button'; b.textContent = w; b.setAttribute('aria-pressed', String(w === cur)); b.onclick = () => openWeek(w); $('weeks').append(b); }
+  for(const w of weeks){ const b = document.createElement('button'); b.type='button'; b.textContent = w; b.setAttribute('aria-pressed', String(w === cur)); b.onclick = () => openWeek(w); $('weeks').append(b); if(w === cur) requestAnimationFrame(() => b.scrollIntoView({ inline: 'nearest', block: 'nearest' })); }
 }
 function renderWeek(){
   const w = data[cur]; const car = $('car'); car.innerHTML=''; $('dots').innerHTML='';
@@ -260,7 +261,7 @@ $('form').addEventListener('submit', e => {
   setTimeout(() => { location.href = url; }, 60);
 });
 (async () => {
-  try{ const w = await getJSON('data/weeks.json'); weeks = w.weeks.slice().sort((a,b) => parseInt(a.replace(/\D/g,'')) - parseInt(b.replace(/\D/g,''))); now = w.current || weeks[weeks.length-1]; await openWeek(now); }catch(e){ $('car').innerHTML = '<div class="empty">No he podido cargar el menú.</div>'; }
+  try{ const w = await getJSON('data/weeks.json'); weeks = w.weeks.slice().sort((a,b) => parseInt(a.replace(/\D/g,'')) - parseInt(b.replace(/\D/g,''))); now = w.current || weeks[weeks.length-1]; if(w.starts){ const t = new Date().toISOString().slice(0,10); for(const k of weeks) if(w.starts[k] && w.starts[k] <= t) now = k; } await openWeek(now); }catch(e){ $('car').innerHTML = '<div class="empty">No he podido cargar el menú.</div>'; }
   loadPending();
 })();
 </script>
