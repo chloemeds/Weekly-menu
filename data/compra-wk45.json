@@ -33,7 +33,7 @@
     {
      "id": "champi",
      "name": "Champiñones",
-     "qty": "<em>650 g</em>",
+     "qty": "<em>700 g</em>",
      "price": 4.68,
      "out": false,
      "buy": "3 bandejas de champiñones blancos de 300 g (1,56 € cada una)"
@@ -134,7 +134,7 @@
     {
      "id": "lomo",
      "name": "Lomo de cerdo en filetes",
-     "qty": "<em>140 g</em>",
+     "qty": "<em>115 g</em>",
      "price": 3.5,
      "out": false,
      "buy": "Filetes de lomo de cerdo, bandeja pequeña. Precio aproximado (no he podido consultar la web de Mercadona)"
@@ -211,7 +211,7 @@
     {
      "id": "pavol",
      "name": "Pechuga de pavo en lonchas",
-     "qty": "<em>40 g</em>",
+     "qty": "<em>50 g</em>",
      "price": 2.3,
      "out": false,
      "buy": "Pechuga de pavo Hacendado finas lonchas, 225 g"
@@ -242,11 +242,11 @@
     },
     {
      "id": "yogm",
-     "name": "Yogur griego Mercadona",
+     "name": "Yogur griego light Mercadona",
      "qty": "<em>1</em>",
      "price": 1.45,
      "out": false,
-     "buy": "Yogur griego natural Hacendado, pack de 6"
+     "buy": "Yogur natural al estilo griego light Hacendado, pack de 6 x 125 g"
     },
     {
      "id": "yogprot",
@@ -259,7 +259,7 @@
     {
      "id": "leched",
      "name": "Leche desnatada",
-     "qty": "<em>500 ml</em> · para el matcha",
+     "qty": "<em>425 ml</em> · para el matcha",
      "price": 0.81,
      "out": false,
      "buy": "Leche desnatada Hacendado, brick de 1 L"
@@ -267,7 +267,7 @@
     {
      "id": "almendra",
      "name": "Bebida de almendra sin azúcar",
-     "qty": "<em>550 ml</em> · para el matcha",
+     "qty": "<em>625 ml</em> · para el matcha",
      "price": 1.1,
      "out": false,
      "buy": "Bebida de almendras 0% azúcar Hacendado, brick de 1 L"
@@ -336,7 +336,7 @@
     {
      "id": "almendras",
      "name": "Almendras",
-     "qty": "<em>10 g</em>",
+     "qty": "<em>20 g</em>",
      "price": 2.3,
      "out": false,
      "buy": "Almendra natural Hacendado, 200 g"
@@ -344,7 +344,7 @@
     {
      "id": "nueces",
      "name": "Nueces",
-     "qty": "<em>25 g</em>",
+     "qty": "<em>20 g</em>",
      "price": 1.7,
      "out": false,
      "buy": "Nuez troceada pelada Hacendado, 150 g"
