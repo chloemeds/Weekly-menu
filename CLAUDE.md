@@ -13,6 +13,8 @@ Chloe pide cambios desde la app; cada petición llega como una issue con el día
 8. Si la petición no se entiende, comenta preguntando y deja la issue abierta sin tocar nada.
 9. Chloe no lee los comentarios de una issue cerrada, así que no preguntes "si quieres lo compenso": si al final la fibra queda fuera de 25 a 32 g o algún macro se pasa del objetivo, reajusta tú las comidas que aún no ha comido ese día y dilo en el comentario. La primera línea del comentario es la que ve en la app: que sea un resumen corto y claro.
 
+10. Nunca cambies cantidades de una comida que ya ha comido (marcada "(tomado)" o que ella ha descrito como lo que ha comido "hoy"). Si añade algo a esa comida, súmalo y reajusta solo las comidas que quedan.
+
 ## Reglas
 
 - Hidratos siempre netos (sin fibra).
