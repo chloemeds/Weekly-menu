@@ -166,7 +166,7 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Skyr con pera, granola y almendras</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Pera</span><span class=\"q\">150 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">30 g</span></li><li><span>Almendras</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>40</b> HC netos</span><span><b>15</b> P</span><span><b>7</b> G</span><span><b>7</b> Fib</span></div>"
+     "html": "<p class=\"dish\">Skyr con arándanos, granola y chía</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Arándanos</span><span class=\"q\">150 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">30 g</span></li><li><span>Chía</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>41</b> HC netos</span><span><b>15</b> P</span><span><b>6</b> G</span><span><b>8</b> Fib</span></div>"
     },
     {
      "meal": "Cena",
@@ -175,7 +175,7 @@
      "html": "<p class=\"dish\">Gambas al ajillo suave con judías verdes salteadas</p><ul><li><span>Gambas o langostinos pelados</span><span class=\"q\">125 g</span></li><li><span>Judías verdes</span><span class=\"q\">250 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cda</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>12</b> HC netos</span><span><b>30</b> P</span><span><b>15</b> G</span><span><b>9</b> Fib</span></div>"
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">122</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">38</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">28</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1290</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">123</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">37</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">29</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1287</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Domingo",
