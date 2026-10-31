@@ -63,7 +63,7 @@ li .q{font-family:var(--mono);font-size:13px;color:var(--ink);white-space:nowrap
 .total h3{margin:0 0 4px;font:600 12px var(--display);text-transform:uppercase;letter-spacing:.08em;color:var(--accent)}
 .tr{display:grid;grid-template-columns:1fr auto auto;gap:8px;align-items:baseline;font-variant-numeric:tabular-nums}
 .tl{font-size:14px;color:var(--muted)} .tv{font:500 16px var(--mono)} .tg{font:400 12.5px var(--mono);color:var(--muted)}
-.pending{max-width:560px;margin:0 auto 10px;font-size:13px;color:var(--muted);background:var(--surface);border:1px dashed var(--line);border-radius:12px;padding:8px 12px}
+.pending{max-width:560px;margin:0 auto 10px;font-size:13px;color:var(--muted);background:var(--surface);border:1px dashed var(--line);border-radius:12px;padding:8px 12px;white-space:pre-line}
 .pending[hidden]{display:none}
 .sheet{position:fixed;inset:0;background:rgba(0,0,0,.35);display:flex;align-items:flex-end;z-index:10}
 .sheet[hidden]{display:none}
@@ -99,7 +99,7 @@ button:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px sol
 </div>
 
 <script>
-const VERSION = '6';
+const VERSION = '7';
 fetch('./version.txt', { cache: 'no-store' }).then(r => r.ok ? r.text() : VERSION).then(v => {
   v = v.trim();
   if (v && v !== VERSION && !location.search.includes('v=' + v)) location.replace('./?v=' + v);
@@ -143,7 +143,10 @@ let lastPending = 0, pollT = null;
 async function loadPending(){
   try{ const r = await fetch('https://api.github.com/repos/' + REPO + '/issues?state=open&per_page=10', { cache: 'no-store' }); if(!r.ok) return; const list = (await r.json()).filter(x => !x.pull_request);
     if(list.length){ $('pending').hidden = false; $('pending').textContent = (list.length === 1 ? 'Aplicando 1 cambio: ' : 'Aplicando ' + list.length + ' cambios: ') + list.map(x => x.title.replace(/^Cambio:\s*/,'')).join(' · ') + '. Tarda 1 o 2 minutos y se actualiza solo.'; }
-    else if(lastPending){ const keep = idx; data = {}; await openWeek(cur); requestAnimationFrame(() => requestAnimationFrame(() => go(keep, false))); $('pending').hidden = false; $('pending').textContent = 'Cambio aplicado. Ya tienes el menú actualizado.'; setTimeout(() => { $('pending').hidden = true; }, 6000); }
+    else if(lastPending){ const keep = idx; data = {}; await openWeek(cur); requestAnimationFrame(() => requestAnimationFrame(() => go(keep, false)));
+      let note = 'Cambio aplicado. Ya tienes el menú actualizado.';
+      try{ const c = await fetch('https://api.github.com/repos/' + REPO + '/issues/comments?sort=created&direction=desc&per_page=1', { cache: 'no-store' }).then(r => r.json()); if(c[0] && c[0].body) note = 'Cambio aplicado: ' + c[0].body.split('\n---')[0].trim(); }catch(e){}
+      $('pending').hidden = false; $('pending').textContent = note + ' (toca para cerrar)'; $('pending').onclick = () => { $('pending').hidden = true; }; }
     else $('pending').hidden = true;
     lastPending = list.length; clearTimeout(pollT); if(list.length) pollT = setTimeout(loadPending, 20000);
   }catch(e){}

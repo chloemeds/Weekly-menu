@@ -11,6 +11,7 @@ Chloe pide cambios desde la app; cada petición llega como una issue con el día
 6. Comprueba que el JSON es válido, haz commit en `main` con un mensaje corto en español y push.
 7. Comenta en la issue 2 o 3 líneas en español: qué has cambiado y los totales nuevos del día. Cierra la issue.
 8. Si la petición no se entiende, comenta preguntando y deja la issue abierta sin tocar nada.
+9. Chloe no lee los comentarios de una issue cerrada, así que no preguntes "si quieres lo compenso": si al final la fibra queda fuera de 25 a 32 g o algún macro se pasa del objetivo, reajusta tú las comidas que aún no ha comido ese día y dilo en el comentario. La primera línea del comentario es la que ve en la app: que sea un resumen corto y claro.
 
 ## Reglas
 
@@ -24,5 +25,6 @@ Chloe pide cambios desde la app; cada petición llega como una issue con el día
 - Verduras: solo judías verdes, calabacín, brócoli, edamame, alcachofas, setas y champiñones.
 - No le gustan: cuscús, quinoa, bulgur, pan de centeno, garbanzos, alubias, guisantes, hummus, uvas, sandía, higos, dátiles, cecina, sardinas, caballa, boquerones, mejillones, queso fresco, tofu, tempeh, soja texturizada, ghee, lino, feta, quesos fuertes, espinacas, zanahoria, aceitunas, caqui, aguacate en el desayuno.
 - Sus productos (por 100 g): yogur griego Mercadona 125 g (3,9 HC / 3,9 P / 10,8 G); Koukakis griego 150 g (3,8 / 6,2 / 10); Koukakis 0% 150 g (4 / 7,9 / 0); Skyr Danone 100 g (3,4 / 9 / 0,1); queso en lonchas light Hacendado, loncha de 25 g (1,6 / 27 / 17).
+- Desayunos salados y ligeros (nunca yogur, skyr ni fruta en el desayuno), meriendas dulces.
 - Recetas sencillas, de 15 minutos como mucho.
 - No toques `index.html` ni `version.txt`.
