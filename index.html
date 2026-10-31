@@ -107,7 +107,7 @@ button:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px sol
 .only .aisle li.have{display:none} .only .aisle.allhave{display:none}
 .cfoot{margin-top:16px;font-size:13px;color:var(--muted)}
 .aisle li{display:flex;align-items:center} .aisle label{flex:1;min-width:0}
-.mama{flex:none;margin-right:12px;font:600 12px var(--body);border-radius:999px;padding:6px 10px;border:1px solid var(--line);background:var(--bg);color:var(--muted);cursor:pointer}
+.mama{flex:none;margin-right:12px;font-size:20px;line-height:1;border-radius:999px;padding:7px 9px;border:1px solid var(--line);background:var(--bg);color:var(--muted);cursor:pointer}
 .mama[aria-pressed="true"]{background:var(--fiesta-soft);border-color:var(--fiesta);color:var(--fiesta)}
 .aisle li.mom .nm::after{content:" · lo compra mamá";font-weight:500;font-size:12.5px;color:var(--fiesta)}
 .aisle li.mom .pr{color:var(--muted);text-decoration:line-through}
@@ -144,7 +144,7 @@ button:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px sol
 </div>
 
 <script>
-const VERSION = '9';
+const VERSION = '10';
 fetch('./version.txt', { cache: 'no-store' }).then(r => r.ok ? r.text() : VERSION).then(v => {
   v = v.trim();
   if (v && v !== VERSION && !location.search.includes('v=' + v)) location.replace('./?v=' + v);
@@ -205,8 +205,8 @@ async function openCart(){
   let only = false; try{ only = localStorage.getItem('compra-only') === '1'; }catch(e){}
   const MKEY = 'mama-' + w; let mom = {}; try{ mom = JSON.parse(localStorage.getItem(MKEY) || '{}') || {}; }catch(e){}
   $('ctitle').textContent = L.title || ('Lista de la compra ' + w);
-  let h = '<div class="cstat"><b id="cleft"></b><span id="clbl"></span><span class="eur"><b id="ccost" style="font-size:18px"></b><br>en Mercadona</span></div><div class="track"><div class="fill" id="cfill"></div></div><div class="ctrl"><button type="button" class="chip2" id="conly">Ver solo lo que falta</button><button type="button" class="chip2" id="creset">Desmarcar todo</button></div><div class="mombar"><span>Lista de mamá: <b id="mcount">0</b></span><button type="button" id="msend">Enviar a mamá</button></div><div class="momlink" id="mlink" hidden></div>';
-  for(const g of L.groups){ h += '<section class="aisle"><h3>' + g.name + '</h3><ul>'; for(const it of g.items){ h += '<li data-id="' + it.id + '" data-p="' + it.price + '"' + (it.out ? ' data-out="1"' : '') + '><label><input type="checkbox"' + (have[it.id] ? ' checked' : '') + '><span class="it"><span class="nm">' + it.name + '</span><span class="qt">' + it.qty + '</span>' + (it.buy ? '<span class="by">' + (it.out ? '' : 'Compras: ') + it.buy + '</span>' : '') + (it.out ? '<span class="tag">Cómpralo en otro súper</span>' : '') + '</span><span class="pr">' + (it.out ? '≈ ' : '') + eur(it.price) + '</span></label><button type="button" class="mama" aria-pressed="' + (mom[it.id] ? 'true' : 'false') + '">Mamá</button></li>'; } h += '</ul></section>'; }
+  let h = '<div class="cstat"><b id="cleft"></b><span id="clbl"></span><span class="eur"><b id="ccost" style="font-size:18px"></b><br>en Mercadona</span></div><div class="track"><div class="fill" id="cfill"></div></div><div class="ctrl"><button type="button" class="chip2" id="conly">Ver solo lo que falta</button><button type="button" class="chip2" id="creset">Desmarcar todo</button></div><div class="mombar"><span>Lista de mamá: <b id="mcount">0</b></span><button type="button" id="msend">Enviar lista</button></div><div class="momlink" id="mlink" hidden></div>';
+  for(const g of L.groups){ h += '<section class="aisle"><h3>' + g.name + '</h3><ul>'; for(const it of g.items){ h += '<li data-id="' + it.id + '" data-p="' + it.price + '"' + (it.out ? ' data-out="1"' : '') + '><label><input type="checkbox"' + (have[it.id] ? ' checked' : '') + '><span class="it"><span class="nm">' + it.name + '</span><span class="qt">' + it.qty + '</span>' + (it.buy ? '<span class="by">' + (it.out ? '' : 'Compras: ') + it.buy + '</span>' : '') + (it.out ? '<span class="tag">Cómpralo en otro súper</span>' : '') + '</span><span class="pr">' + (it.out ? '≈ ' : '') + eur(it.price) + '</span></label><button type="button" class="mama" aria-label="Pasar a la lista de mamá" aria-pressed="' + (mom[it.id] ? 'true' : 'false') + '">👩🏻</button></li>'; } h += '</ul></section>'; }
   if(L.note) h += '<p class="cfoot">' + L.note + '</p>';
   body.innerHTML = h;
   const lis = [...body.querySelectorAll('li')];
