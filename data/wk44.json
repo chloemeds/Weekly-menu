@@ -160,7 +160,7 @@
           "meal": "Comida",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Arroz salteado tipo wok con pollo, brócoli y champiñones</p><ul><li><span>Arroz blanco (crudo)</span><span class=\"q\">120 g</span></li><li><span>Pechuga de pollo</span><span class=\"q\">120 g</span></li><li><span>Brócoli</span><span class=\"q\">120 g</span></li><li><span>Champiñones</span><span class=\"q\">80 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>103</b> HC netos</span><span><b>43</b> P</span><span><b>11</b> G</span><span><b>6</b> Fib</span></div>"
+          "html": "<p class=\"dish\">Arroz salteado tipo wok con pollo, brócoli y champiñones</p><ul><li><span>Arroz blanco (crudo)</span><span class=\"q\">85 g</span></li><li><span>Pechuga de pollo</span><span class=\"q\">120 g</span></li><li><span>Brócoli</span><span class=\"q\">120 g</span></li><li><span>Champiñones</span><span class=\"q\">80 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Kiwi</span><span class=\"q\">1 ud (75 g)</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>87</b> HC netos</span><span><b>41</b> P</span><span><b>11</b> G</span><span><b>8</b> Fib</span></div>"
         },
         {
           "meal": "Merienda",
@@ -175,7 +175,7 @@
           "html": "<p class=\"dish\">Gambas al ajillo suave con judías verdes salteadas</p><ul><li><span>Gambas o langostinos pelados</span><span class=\"q\">125 g</span></li><li><span>Judías verdes</span><span class=\"q\">360 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cda</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>16</b> HC netos</span><span><b>32</b> P</span><span><b>15</b> G</span><span><b>13</b> Fib</span></div>"
         }
       ],
-      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">150</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">103</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">36</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">25</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1386</span><span class=\"tg\">kcal</span></div>"
+      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">134</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">36</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">27</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1318</span><span class=\"tg\">kcal</span></div>"
     },
     {
       "name": "Domingo",
