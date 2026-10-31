@@ -109,6 +109,11 @@ button:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px sol
 .aisle li.have .nm,.aisle li.have .qt,.aisle li.have .pr{color:var(--muted);text-decoration:line-through}
 .only .aisle li.have{display:none} .only .aisle.allhave{display:none}
 .cfoot{margin-top:16px;font-size:13px;color:var(--muted)}
+.meal h3{display:flex;align-items:center;justify-content:space-between;gap:8px}
+.recbtn{flex:none;font-size:18px;line-height:1;border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:5px 8px;margin:-6px -4px -6px 0;cursor:pointer}
+.recipe ol{margin:0;padding-left:22px;font-size:15px;line-height:1.45;max-height:52vh;overflow-y:auto}
+.recipe ol li{display:list-item;margin-bottom:10px} .recipe ol li::marker{font-weight:700;color:var(--accent)}
+.recipe .ing{font-size:13.5px;color:var(--muted)}
 .ptr{position:fixed;left:50%;top:calc(env(safe-area-inset-top,0px) + 8px);z-index:30;width:40px;height:40px;margin-left:-20px;border-radius:999px;background:var(--surface);border:1px solid var(--line);box-shadow:0 4px 14px rgba(0,0,0,.12);display:grid;place-items:center;color:var(--accent);opacity:0;transform:translateY(-60px);pointer-events:none}
 .ptr svg{width:20px;height:20px}
 .ptr.spin svg{animation:spin .8s linear infinite}
@@ -140,6 +145,15 @@ button:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px sol
   <div class="cbody" id="cbody"></div>
 </div>
 
+<div class="sheet" id="rsheet" hidden>
+  <div class="panel recipe">
+    <h2 id="rtitle"></h2>
+    <p class="ing" id="ring"></p>
+    <ol id="rsteps"></ol>
+    <div class="row"><button type="button" class="b primary" id="rclose">Cerrar</button></div>
+  </div>
+</div>
+
 <div class="sheet" id="sheet" hidden>
   <form class="panel" id="form">
     <h2>Pedir un cambio</h2>
@@ -152,7 +166,7 @@ button:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px sol
 </div>
 
 <script>
-const VERSION = '15';
+const VERSION = '16';
 fetch('./version.txt', { cache: 'no-store' }).then(r => r.ok ? r.text() : VERSION).then(v => {
   v = v.trim();
   if (v && v !== VERSION && !location.search.includes('v=' + v)) location.replace('./?v=' + v);
@@ -176,7 +190,7 @@ function renderWeek(){
   w.days.forEach((d, i) => {
     const s = document.createElement('section'); s.className='slide'; s.setAttribute('aria-label', d.name + ' ' + d.date);
     let h = '<div class="card"><div class="dayhead"><h2 class="dn">' + d.name + (d.date ? '<small>' + d.date + '</small>' : '') + '</h2><span class="chip ' + d.chip.cls + '">' + d.chip.text + '</span></div>';
-    for(const m of d.meals){ const extra = (m.cls||[]).filter(c => c==='fastcell'||c==='loncell').join(' '); const label = m.span > 1 ? 'Desayuno, comida y merienda' : m.meal; h += '<div class="meal ' + extra + '"><h3>' + label + '</h3>' + m.html + '</div>'; }
+    for(const m of d.meals){ const extra = (m.cls||[]).filter(c => c==='fastcell'||c==='loncell').join(' '); const label = m.span > 1 ? 'Desayuno, comida y merienda' : m.meal; const rb = m.recipe && m.recipe.length ? '<button type="button" class="recbtn" data-d="' + i + '" data-m="' + d.meals.indexOf(m) + '" aria-label="Ver receta">📖</button>' : ''; h += '<div class="meal ' + extra + '"><h3><span>' + label + '</span>' + rb + '</h3>' + m.html + '</div>'; }
     if(d.total) h += '<div class="total"><h3>Total del día</h3>' + d.total + '</div>';
     s.innerHTML = h + '</div>'; car.append(s);
     const b = document.createElement('button'); b.type='button'; b.textContent = short(d); b.onclick = () => go(i); $('dots').append(b);
@@ -237,6 +251,13 @@ async function openCart(){
   setOnly(only); upd();
 }
 $('cartbtn').onclick = openCart;
+$('car').addEventListener('click', e => { const b = e.target.closest('.recbtn'); if(!b) return; const m = data[cur].days[+b.dataset.d].meals[+b.dataset.m];
+  const tmp = document.createElement('div'); tmp.innerHTML = m.html; const dish = tmp.querySelector('.dish');
+  $('rtitle').textContent = dish ? dish.textContent : m.meal;
+  $('ring').textContent = [...tmp.querySelectorAll('li')].map(li => li.children[0].textContent + ' ' + li.children[1].textContent).filter(t => !/Chocolate/.test(t)).join(' · ');
+  $('rsteps').innerHTML = m.recipe.map(t => '<li>' + t + '</li>').join(''); $('rsheet').hidden = false; });
+$('rclose').onclick = () => { $('rsheet').hidden = true; };
+$('rsheet').addEventListener('click', e => { if(e.target === $('rsheet')) $('rsheet').hidden = true; });
 // Deslizar hacia abajo desde arriba del día recarga la app (datos y versión nueva).
 (() => { let y0 = null, x0 = 0, d = 0; const ptr = $('ptr'), car = $('car');
   const show = v => { ptr.style.opacity = Math.min(1, v / 70); ptr.style.transform = 'translateY(' + (Math.min(v, 90) - 60) + 'px) rotate(' + v * 3 + 'deg)'; };

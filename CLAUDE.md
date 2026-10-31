@@ -15,6 +15,8 @@ Chloe pide cambios desde la app; cada petición llega como una issue con el día
 
 10. Nunca cambies cantidades de una comida que ya ha comido (marcada "(tomado)" o que ella ha descrito como lo que ha comido "hoy"). Si añade algo a esa comida, súmalo y reajusta solo las comidas que quedan.
 
+11. Las comidas y cenas tienen `recipe`: una lista de 3 o 4 pasos cortos con tiempos y temperaturas (tiene sartén, horno y airfryer). Si cambias el plato o un ingrediente principal de una comida o cena, reescribe también su `recipe`. Si solo cambian cantidades, déjala.
+
 ## Reglas
 
 - Hidratos siempre netos (sin fibra).
