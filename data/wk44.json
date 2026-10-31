@@ -172,12 +172,12 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Opción A: gambas al ajillo suave con judías verdes salteadas · Opción B: merluza al ajillo con judías verdes salteadas</p><ul><li><span>Opción A: gambas o langostinos pelados</span><span class=\"q\">125 g</span></li><li><span>Opción B: merluza (en vez de las gambas)</span><span class=\"q\">150 g</span></li><li><span>Judías verdes</span><span class=\"q\">250 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cda</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>12</b> HC netos</span><span><b>30</b> P</span><span><b>15</b> G</span><span><b>9</b> Fib</span></div>",
+     "html": "<p class=\"dish\">Opción A: gambas a la plancha con judías verdes salteadas · Opción B: merluza a la plancha con judías verdes salteadas</p><ul><li><span>Opción A: gambas o langostinos pelados</span><span class=\"q\">125 g</span></li><li><span>Opción B: merluza (en vez de las gambas)</span><span class=\"q\">150 g</span></li><li><span>Judías verdes</span><span class=\"q\">250 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cda</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>12</b> HC netos</span><span><b>30</b> P</span><span><b>15</b> G</span><span><b>9</b> Fib</span></div>",
      "recipe": [
       "Judías verdes congeladas: microondas 5 min tapadas con un chorrito de agua (o 7 min en sartén con tapa).",
-      "Sartén a fuego medio con el aceite y 2 ajos laminados, 1 min hasta que doren (sin quemar).",
+      "Sartén a fuego medio-alto con el aceite, 1 min hasta que esté caliente.",
       "Opción A: gambas 2–3 min, dándoles la vuelta, hasta que estén rosas. Opción B: merluza 3–4 min por lado.",
-      "Añade las judías a la sartén 1 min para que cojan el ajo. Sal y una pizca de guindilla si te gusta."
+      "Añade las judías a la sartén 1 min. Sal, limón y perejil al gusto."
      ]
     }
    ],

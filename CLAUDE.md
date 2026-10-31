@@ -31,5 +31,5 @@ Chloe pide cambios desde la app; cada petición llega como una issue con el día
 - No le gustan: cuscús, quinoa, bulgur, pan de centeno, garbanzos, alubias, guisantes, hummus, uvas, sandía, higos, dátiles, cecina, sardinas, caballa, boquerones, mejillones, queso fresco, tofu, tempeh, soja texturizada, ghee, lino, feta, quesos fuertes, espinacas, zanahoria, aceitunas, caqui, aguacate en el desayuno.
 - Sus productos (por 100 g): yogur griego LIGHT Mercadona (Hacendado), 125 g (4,7 HC / 5,8 P / 2 G); es el que tiene, no el normal; Koukakis griego 150 g (3,8 / 6,2 / 10); Koukakis 0% 150 g (4 / 7,9 / 0); Skyr Danone 100 g (3,4 / 9 / 0,1); queso en lonchas light Hacendado, loncha de 25 g (1,6 / 27 / 17).
 - Desayunos salados y ligeros (nunca yogur, skyr ni fruta en el desayuno), meriendas dulces.
-- Recetas sencillas, de 15 minutos como mucho.
+- Recetas sencillas, de 15 minutos como mucho. Nada al ajillo (ni ajo laminado ni platos "al ajillo").
 - No toques `index.html` ni `version.txt`.

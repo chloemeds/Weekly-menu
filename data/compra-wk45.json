@@ -101,14 +101,6 @@
      "price": 0.36,
      "out": false,
      "buy": "1 limón"
-    },
-    {
-     "id": "ajo",
-     "name": "Ajo",
-     "qty": "<em>1 cabeza</em>",
-     "price": 1.85,
-     "out": false,
-     "buy": "Ajos morados, malla de 250 g"
     }
    ]
   },
