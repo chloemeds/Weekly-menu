@@ -144,7 +144,7 @@ button:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px sol
 </div>
 
 <script>
-const VERSION = '10';
+const VERSION = '11';
 fetch('./version.txt', { cache: 'no-store' }).then(r => r.ok ? r.text() : VERSION).then(v => {
   v = v.trim();
   if (v && v !== VERSION && !location.search.includes('v=' + v)) location.replace('./?v=' + v);
@@ -238,7 +238,10 @@ $('form').addEventListener('submit', e => {
   const d = data[cur].days[+$('day').value];
   const title = 'Cambio: ' + d.name + ' ' + d.date + ' (' + cur + ')';
   const body = msg + '\n\n---\nSemana: ' + cur + '\nDía: ' + d.name + ' ' + d.date + '\nEnviado desde la app del menú.';
-  location.href = 'https://github.com/' + REPO + '/issues/new?title=' + encodeURIComponent(title) + '&body=' + encodeURIComponent(body);
+  const url = 'https://github.com/' + REPO + '/issues/new?title=' + encodeURIComponent(title) + '&body=' + encodeURIComponent(body);
+  $('sheet').hidden = true; $('msg').value = '';
+  $('pending').hidden = false; $('pending').onclick = null; $('pending').textContent = 'Cuando toques Create en GitHub, vuelve aquí: el cambio se aplica en 1 o 2 minutos.';
+  setTimeout(() => { location.href = url; }, 60);
 });
 (async () => {
   try{ const w = await getJSON('data/weeks.json'); weeks = w.weeks.slice().sort((a,b) => parseInt(a.replace(/\D/g,'')) - parseInt(b.replace(/\D/g,''))); now = w.current || weeks[weeks.length-1]; await openWeek(now); }catch(e){ $('car').innerHTML = '<div class="empty">No he podido cargar el menú.</div>'; }
