@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="es"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Lista de la compra</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700&family=Figtree:wght@400;600;700&family=DM+Mono:wght@500&display=swap">
+<style>
+/* Lista de la compra que Chloe comparte con su madre: solo lectura de los productos, con casillas propias. */
+:root{
+  --bg:#f6f7f2; --surface:#ffffff; --ink:#1f2a1f; --muted:#5f6b5c; --line:#dfe3d6;
+  --accent:#a33d5b; --accent-ink:#ffffff; --accent-soft:#f6e1e7;
+  --display:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;
+  --body:"Figtree",ui-sans-serif,system-ui,-apple-system,sans-serif;
+  --mono:"DM Mono",ui-monospace,Menlo,monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){:root{
+  --bg:#141812; --surface:#1c211a; --ink:#e6eadf; --muted:#9aa492; --line:#2f362b;
+  --accent:#e88aa6; --accent-ink:#141812; --accent-soft:#36202a; color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 var(--body);-webkit-text-size-adjust:100%}
+.wrap{max-width:560px;margin:0 auto;padding:calc(24px + env(safe-area-inset-top,0px)) max(16px,env(safe-area-inset-right,0px)) calc(40px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px))}
+h1{font:700 28px/1.1 var(--display);margin:0 0 6px}
+.sub{color:var(--muted);margin:0 0 16px;font-size:15px}
+.stat{display:flex;align-items:baseline;gap:8px;color:var(--muted);font-size:14px}
+.stat b{font:700 22px var(--display);color:var(--ink)} .stat .eur{margin-left:auto;text-align:right}
+.track{height:6px;border-radius:3px;background:var(--line);overflow:hidden;margin:8px 0 6px} .fill{height:100%;background:var(--accent);width:0;transition:width .25s}
+h2{margin:20px 0 6px;font:700 12px var(--display);text-transform:uppercase;letter-spacing:.08em;color:var(--accent)}
+ul{list-style:none;margin:0;padding:0;background:var(--surface);border:1px solid var(--line);border-radius:14px;overflow:hidden}
+li+li{border-top:1px solid var(--line)}
+label{display:flex;gap:12px;align-items:flex-start;padding:14px;cursor:pointer}
+input{appearance:none;flex:none;width:24px;height:24px;margin:0;border:2px solid var(--muted);border-radius:7px;display:grid;place-content:center;cursor:pointer}
+input::after{content:"";width:6px;height:12px;border:solid var(--accent-ink);border-width:0 2.5px 2.5px 0;transform:rotate(45deg) translate(-1px,-1px);opacity:0}
+input:checked{background:var(--accent);border-color:var(--accent)} input:checked::after{opacity:1}
+input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.it{display:flex;flex-direction:column;flex:1;min-width:0}
+.nm{font-weight:700;font-size:17px} .by{color:var(--muted);font-size:14px}
+.tag{align-self:flex-start;margin-top:4px;font-size:12px;padding:2px 8px;border-radius:999px;background:var(--accent-soft);color:var(--accent)}
+.pr{flex:none;font:500 14px var(--mono);white-space:nowrap}
+li.have .nm,li.have .by,li.have .pr{color:var(--muted);text-decoration:line-through}
+.empty{padding:40px 0;text-align:center;color:var(--muted)}
+.foot{margin-top:16px;color:var(--muted);font-size:13px}
+</style>
+</head><body>
+<div class="wrap" id="app"><div class="empty">Cargando la lista…</div></div>
+<script>
+const $ = id => document.getElementById(id);
+const eur = v => v.toLocaleString('es-ES', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ' €';
+const q = new URLSearchParams(location.search), w = (q.get('w') || '').replace(/[^A-Za-z0-9]/g, ''), ids = (q.get('i') || '').split(',').filter(Boolean);
+(async () => {
+  const app = $('app');
+  if(!w || !ids.length){ app.innerHTML = '<div class="empty">Esta lista está vacía.</div>'; return; }
+  let L; try{ const r = await fetch('data/compra-' + w.toLowerCase() + '.json', { cache: 'no-store' }); if(!r.ok) throw 0; L = await r.json(); }catch(e){ app.innerHTML = '<div class="empty">No he podido cargar la lista. Revisa la conexión.</div>'; return; }
+  const KEY = 'mama-' + w + '-' + ids.join(','); let have = {}; try{ have = JSON.parse(localStorage.getItem(KEY) || '{}') || {}; }catch(e){}
+  let h = '<h1>Lista de la compra</h1><p class="sub">Lo que te pide Chloe. Marca cada cosa cuando la tengas en el carro.</p><div class="stat"><b id="left"></b><span id="lbl"></span><span class="eur">unos <b id="cost" style="font-size:18px"></b></span></div><div class="track"><div class="fill" id="fill"></div></div>';
+  let n = 0;
+  for(const g of L.groups){ const items = g.items.filter(it => ids.includes(it.id)); if(!items.length) continue; h += '<h2>' + g.name + '</h2><ul>';
+    for(const it of items){ n++; h += '<li data-id="' + it.id + '" data-p="' + it.price + '"><label><input type="checkbox"' + (have[it.id] ? ' checked' : '') + '><span class="it"><span class="nm">' + it.name + '</span><span class="by">' + (it.buy || '') + '</span>' + (it.out ? '<span class="tag">No es de Mercadona</span>' : '') + '</span><span class="pr">' + eur(it.price) + '</span></label></li>'; }
+    h += '</ul>'; }
+  if(!n){ app.innerHTML = '<div class="empty">Esta lista está vacía.</div>'; return; }
+  h += '<p class="foot">Los precios son aproximados, del envase entero en Mercadona.</p>';
+  app.innerHTML = h;
+  const lis = [...app.querySelectorAll('li')];
+  const upd = () => { let k = 0, c = 0; lis.forEach(li => { const on = li.querySelector('input').checked; li.classList.toggle('have', on); if(on) k++; else c += +li.dataset.p; });
+    const left = lis.length - k; $('left').textContent = left; $('lbl').textContent = 'por comprar de ' + lis.length; $('cost').textContent = eur(c); $('fill').style.width = (k / lis.length * 100) + '%'; };
+  lis.forEach(li => li.querySelector('input').addEventListener('change', e => { if(e.target.checked) have[li.dataset.id] = 1; else delete have[li.dataset.id]; try{ localStorage.setItem(KEY, JSON.stringify(have)); }catch(err){} upd(); }));
+  upd();
+})();
+</script>
+</body></html>
