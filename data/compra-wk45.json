@@ -372,11 +372,11 @@
    "items": [
     {
      "id": "edamame",
-     "name": "Edamame desgranado",
-     "qty": "<em>40 g</em>",
+     "name": "Edamame (con vaina)",
+     "qty": "<em>unos 80 g con vaina</em> · salen los 40 g de grano",
      "price": 1.75,
      "out": false,
-     "buy": "Edamame Hacendado ultracongelado, 500 g"
+     "buy": "Edamame soja verde Hacendado ultracongelada, 500 g (viene con vaina; desgranado: \"Edamame en grano\" de Congelados de Navarra, fuera de Mercadona)"
     }
    ]
   },
