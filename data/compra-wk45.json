@@ -156,12 +156,20 @@
           "buy": "Filetes de merluza Hacendado ultracongelados. Precio aproximado (no he podido consultar la web de Mercadona)"
         },
         {
-          "id": "dorada",
-          "name": "Dorada",
-          "qty": "<em>1 en filetes</em> · unos 160 g limpios",
-          "price": 5.0,
+          "id": "sepia",
+          "name": "Sepia limpia",
+          "qty": "<em>200 g</em>",
+          "price": 3.5,
           "out": false,
-          "buy": "Dorada limpia, bandeja de unos 400 g (1 pieza)"
+          "buy": "Sepia limpia Hacendado (fresca o ultracongelada). Precio aproximado"
+        },
+        {
+          "id": "bacalao",
+          "name": "Bacalao fresco",
+          "qty": "<em>140 g</em> · 1 lomo",
+          "price": 3.5,
+          "out": false,
+          "buy": "Lomo de bacalao fresco o ultracongelado. Precio aproximado"
         },
         {
           "id": "lubina",
@@ -174,7 +182,7 @@
         {
           "id": "gambas",
           "name": "Gambas o langostinos pelados",
-          "qty": "<em>225 g</em>",
+          "qty": "<em>125 g</em>",
           "price": 4.9,
           "out": false,
           "buy": "Gamba pelada cruda mediana Hacendado ultracongelada, 360 g"
