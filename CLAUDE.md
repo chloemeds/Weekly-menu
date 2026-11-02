@@ -26,7 +26,7 @@ Chloe pide cambios desde la app; cada petición llega como una issue con el día
   - Carbs reducidos: 50 HC netos, 103 P, 85 G, 25 Fib.
   - Día de fiesta: 173 HC netos, 129 P, 58 G, 25 Fib.
 - Nunca cambies el tipo de día (la etiqueta `chip`).
-- Una onza de chocolate negro 72% de 8 g después de comer y de cenar (3,4 G, 2,6 HC netos, 0,9 Fib, 0,8 P).
+- Una onza de chocolate negro 72% de 8 g después de comer y de cenar (3,4 G, 2,6 HC netos, 0,9 Fib, 0,8 P). Excepción: de lunes 2 a viernes 6 de noviembre (WK45) nada con azúcar añadido, así que sin chocolate ni fiambres esos días.
 - Verduras: solo judías verdes, calabacín, brócoli, edamame, alcachofas, setas y champiñones.
 - No le gustan: cuscús, quinoa, bulgur, pan de centeno, garbanzos, alubias, guisantes, hummus, uvas, sandía, higos, dátiles, cecina, sardinas, caballa, boquerones, mejillones, queso fresco, tofu, tempeh, soja texturizada, ghee, lino, feta, quesos fuertes, espinacas, zanahoria, aceitunas, caqui, aguacate en el desayuno.
 - Sus productos (por 100 g): yogur griego LIGHT Mercadona (Hacendado), 125 g (4,7 HC / 5,8 P / 2 G); es el que tiene, no el normal; Koukakis griego 150 g (3,8 / 6,2 / 10); Koukakis 0% 150 g (4 / 7,9 / 0); Skyr Danone 100 g (3,4 / 9 / 0,1); queso en lonchas light Hacendado, loncha de 25 g (1,6 / 27 / 17).
