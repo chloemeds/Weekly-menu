@@ -201,28 +201,20 @@
           "buy": "Huevos grandes L, media docena"
         },
         {
+          "id": "claras",
+          "name": "Claras de huevo",
+          "qty": "<em>60 g</em>",
+          "price": 1.5,
+          "out": false,
+          "buy": "Claras de huevo pasteurizadas Hacendado, brick. Precio aproximado"
+        },
+        {
           "id": "york",
           "name": "Jamón york",
           "qty": "<em>40 g</em>",
           "price": 2.0,
           "out": false,
           "buy": "Jamón cocido extra Hacendado finas lonchas, 200 g"
-        },
-        {
-          "id": "pavol",
-          "name": "Pechuga de pavo en lonchas",
-          "qty": "<em>50 g</em>",
-          "price": 2.3,
-          "out": false,
-          "buy": "Pechuga de pavo Hacendado finas lonchas, 225 g"
-        },
-        {
-          "id": "iberico",
-          "name": "Jamón ibérico",
-          "qty": "<em>15 g</em>",
-          "price": 2.4,
-          "out": false,
-          "buy": "Jamón de cebo ibérico 50% en lonchas, sobre de 50 g"
         },
         {
           "id": "queso",
