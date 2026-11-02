@@ -142,7 +142,7 @@
         {
           "id": "salmon",
           "name": "Salmón",
-          "qty": "<em>230 g</em> · 2 lomos",
+          "qty": "<em>175 g</em> · 2 lomos",
           "price": 5.95,
           "out": false,
           "buy": "Lomos de salmón sin piel Hacendado congelados, 250 g (2 lomos)"
@@ -304,7 +304,7 @@
         {
           "id": "lentejas",
           "name": "Lentejas pardinas para cocer",
-          "qty": "<em>60 g</em> en seco",
+          "qty": "<em>95 g</em> en seco",
           "price": 1.85,
           "out": false,
           "buy": "Lenteja pardina Hacendado, paquete de 1 kg"
