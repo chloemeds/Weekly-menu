@@ -66,11 +66,11 @@
           "meal": "Comida",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Salmón al horno con judías verdes y almendras laminadas</p><ul><li><span>Salmón</span><span class=\"q\">140 g</span></li><li><span>Judías verdes</span><span class=\"q\">250 g</span></li><li><span>Almendras</span><span class=\"q\">20 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>36</b> P</span><span><b>33</b> G</span><span><b>11</b> Fib</span></div>",
+          "html": "<p class=\"dish\">Muslos de pollo sin piel con judías verdes y almendras laminadas</p><ul><li><span>Muslo de pollo deshuesado, sin piel</span><span class=\"q\">150 g</span></li><li><span>Judías verdes</span><span class=\"q\">250 g</span></li><li><span>Almendras</span><span class=\"q\">20 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cda</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>34</b> P</span><span><b>33</b> G</span><span><b>11</b> Fib</span></div>",
           "recipe": [
-            "Horno a 200 °C (airfryer a 190 °C).",
-            "Judías verdes con la cdta de aceite y sal en la bandeja: 10 min.",
-            "Pon el salmón encima con sal y limón y las almendras laminadas por encima: 12 min más (airfryer 10 min)."
+            "Judías verdes en un bol con 2 cdas de agua, tapado: microondas 5–6 min. Escurre.",
+            "Muslos abiertos y finos con sal y pimienta: sartén con la mitad del aceite, 6–7 min por lado a fuego medio-alto.",
+            "Saltea las judías 2 min con el resto del aceite y las almendras laminadas, y sirve con el pollo."
           ]
         },
         {
@@ -91,7 +91,7 @@
           ]
         }
       ],
-      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">40</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">97</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">81</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1329</span><span class=\"tg\">kcal</span></div>"
+      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">39</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">94</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">80</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1304</span><span class=\"tg\">kcal</span></div>"
     },
     {
       "name": "Miércoles",
@@ -111,11 +111,11 @@
           "meal": "Comida",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Bowl de arroz con salmón en lata, edamame y brócoli</p><ul><li><span>Arroz blanco (crudo)</span><span class=\"q\">80 g</span></li><li><span>Salmón en lata (escurrido)</span><span class=\"q\">80 g</span></li><li><span>Edamame</span><span class=\"q\">40 g</span></li><li><span>Brócoli</span><span class=\"q\">125 g</span></li></ul><div class=\"mac\"><span><b>68</b> HC netos</span><span><b>31</b> P</span><span><b>9</b> G</span><span><b>6</b> Fib</span></div>",
+          "html": "<p class=\"dish\">Pasta con gambas y brócoli</p><ul><li><span>Pasta (cruda)</span><span class=\"q\">75 g</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">125 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">2 cdta</span></li></ul><div class=\"mac\"><span><b>59</b> HC netos</span><span><b>38</b> P</span><span><b>12</b> G</span><span><b>7</b> Fib</span></div>",
           "recipe": [
-            "Arroz: hiérvelo 15 min en agua con sal y escúrrelo (o vaso de arroz de microondas).",
-            "Brócoli y edamame congelados en un bol tapado con 2 cdas de agua: microondas 5 min. Saca los granos de edamame de la vaina (1 min).",
-            "Monta el bowl con el arroz, las verduras y el salmón en lata escurrido por encima. Un chorrito de salsa de soja si te gusta."
+            "Pasta en agua con sal 8–9 min; añade el brócoli en ramitos los últimos 4 min y escurre.",
+            "Sartén con el aceite a fuego medio-alto: gambas con sal y pimienta 2–3 min hasta que estén rosas.",
+            "Mezcla la pasta y el brócoli con las gambas 1 min. Perejil y guindilla al gusto."
           ]
         },
         {
@@ -128,15 +128,15 @@
           "meal": "Cena",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Merluza al horno con alcachofas</p><ul><li><span>Merluza</span><span class=\"q\">160 g</span></li><li><span>Alcachofas</span><span class=\"q\">225 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1½ cda</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>35</b> P</span><span><b>18</b> G</span><span><b>12</b> Fib</span></div>",
+          "html": "<p class=\"dish\">Merluza al horno con boniato y alcachofas</p><ul><li><span>Merluza</span><span class=\"q\">140 g</span></li><li><span>Boniato (crudo)</span><span class=\"q\">120 g</span></li><li><span>Alcachofas</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cda</span></li></ul><div class=\"mac\"><span><b>27</b> HC netos</span><span><b>30</b> P</span><span><b>15</b> G</span><span><b>10</b> Fib</span></div>",
           "recipe": [
-            "Horno a 200 °C (airfryer a 190 °C).",
-            "Alcachofas de bote escurridas y secas en la bandeja con la mitad del aceite: 10 min.",
+            "Horno a 200 °C (airfryer a 190 °C). Boniato en dados con sal: microondas 3–4 min para adelantar.",
+            "Boniato y alcachofas de bote escurridas y secas en la bandeja con la mitad del aceite: 10 min.",
             "Añade la merluza con sal, ajo en polvo, perejil y el resto del aceite: 10–12 min más (airfryer 8–10 min)."
           ]
         }
       ],
-      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">129</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">97</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">39</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1307</span><span class=\"tg\">kcal</span></div>"
+      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">134</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">40</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1344</span><span class=\"tg\">kcal</span></div>"
     },
     {
       "name": "Jueves",
