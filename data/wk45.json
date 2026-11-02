@@ -14,13 +14,13 @@
           "meal": "Desayuno",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Tostada integral con jamón york y media loncha de queso light + matcha latte (tomado)</p><ul><li><span>Pan integral (tostada)</span><span class=\"q\">50 g</span></li><li><span>Jamón york</span><span class=\"q\">20 g</span></li><li><span>Queso lonchas light</span><span class=\"q\">½ loncha</span></li><li><span>Matcha con bebida de almendra</span><span class=\"q\">50 ml</span></li><li><span>Leche desnatada</span><span class=\"q\">100 ml</span></li></ul><div class=\"mac\"><span><b>24</b> HC netos</span><span><b>17</b> P</span><span><b>5</b> G</span><span><b>4</b> Fib</span></div>"
+          "html": "<p class=\"dish\">Tostada integral con jamón york y media loncha de queso light, dos nueces + matcha latte (tomado)</p><ul><li><span>Pan integral (tostada)</span><span class=\"q\">50 g</span></li><li><span>Jamón york</span><span class=\"q\">20 g</span></li><li><span>Queso lonchas light</span><span class=\"q\">½ loncha</span></li><li><span>Matcha con bebida de almendra</span><span class=\"q\">50 ml</span></li><li><span>Leche desnatada</span><span class=\"q\">100 ml</span></li><li><span>Nueces</span><span class=\"q\">2 ud (8 g)</span></li></ul><div class=\"mac\"><span><b>24</b> HC netos</span><span><b>18</b> P</span><span><b>10</b> G</span><span><b>5</b> Fib</span></div>"
         },
         {
           "meal": "Comida",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Pasta con gambas y calabacín salteados</p><ul><li><span>Pasta (cruda)</span><span class=\"q\">85 g</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">100 g</span></li><li><span>Calabacín</span><span class=\"q\">250 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1½ cda</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>66</b> HC netos</span><span><b>34</b> P</span><span><b>21</b> G</span><span><b>6</b> Fib</span></div>",
+          "html": "<p class=\"dish\">Pasta con gambas y calabacín salteados</p><ul><li><span>Pasta (cruda)</span><span class=\"q\">85 g</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">100 g</span></li><li><span>Calabacín</span><span class=\"q\">250 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cda</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>66</b> HC netos</span><span><b>34</b> P</span><span><b>16</b> G</span><span><b>6</b> Fib</span></div>",
           "recipe": [
             "Pasta en agua con sal hirviendo, el tiempo del paquete (unos 9–10 min).",
             "Mientras, sartén con el aceite a fuego medio-alto: calabacín en medias lunas 5 min.",
@@ -46,7 +46,7 @@
           ]
         }
       ],
-      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">134</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">39</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">28</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1334</span><span class=\"tg\">kcal</span></div>"
+      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">134</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">40</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">29</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1358</span><span class=\"tg\">kcal</span></div>"
     },
     {
       "name": "Martes",
