@@ -4,9 +4,9 @@ Chloe pide cambios desde la app; cada petición llega como una issue con el día
 
 1. Abre `data/<semana en minúsculas>.json` (por ejemplo `data/wk44.json`) y busca el día en `days` por `name` y `date`.
 2. Cambia solo lo que pide, manteniendo exactamente la misma estructura HTML de cada comida:
-   `<p class="dish">…</p><ul><li><span>Alimento</span><span class="q">cantidad</span></li>…</ul><div class="mac"><span><b>HC</b> HC netos</span><span><b>P</b> P</span><span><b>G</b> G</span><span><b>Fib</b> Fib</span></div>`
+   `<p class="dish">…</p><ul><li><span>Alimento</span><span class="q">cantidad</span></li>…</ul><div class="mac"><span><b>HC</b> HC netos</span><span><b>P</b> P</span><span><b>G</b> G</span><span><b>Fib</b> Fib</span><span><b>kcal</b> kcal</span></div>`
 3. Si cambia o añade un alimento de una comida que aún no ha comido, ajusta los demás alimentos de esa misma comida (cantidades, o cambiar uno por otro que le guste) para que la comida mantenga más o menos sus macros. Si dice que ya lo ha comido (o "he comido más de…"), deja lo que comió tal cual y reajusta las comidas que quedan de ese día, si quedan.
-4. Recalcula los macros de cada comida tocada y el `total` del día (mismo HTML que ya tiene). Calorías = 4 × (HC netos + P) + 9 × G + 2 × Fib. Las calorías solo van en el total del día.
+4. Recalcula los macros de cada comida tocada y el `total` del día (mismo HTML que ya tiene). Calorías = 4 × (HC netos + P) + 9 × G + 2 × Fib. Cada comida lleva también sus calorías totales (el último span, "kcal"), calculadas con la misma fórmula a partir de los macros de esa comida; nunca calorías por alimento. El día lleva su total como siempre.
 5. Añade " (tomado)" al final del plato si dice que ya lo ha comido.
 6. Comprueba que el JSON es válido, haz commit en `main` con un mensaje corto en español y push.
 7. Comenta en la issue 2 o 3 líneas en español: qué has cambiado y los totales nuevos del día. Cierra la issue.
