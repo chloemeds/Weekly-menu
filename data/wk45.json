@@ -76,7 +76,7 @@
           "meal": "Merienda",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Yogur griego light Mercadona con arándanos, crema de avellanas y pudín de chía</p><ul><li><span>Yogur griego light Mercadona</span><span class=\"q\">1 ud (125 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Crema de avellanas</span><span class=\"q\">10 g</span></li><li><span>Chía (pudín con agua)</span><span class=\"q\">30 g</span></li><li><span>Miel</span><span class=\"q\">1 gotita (5 g)</span></li></ul><div class=\"mac\"><span><b>17</b> HC netos</span><span><b>14</b> P</span><span><b>18</b> G</span><span><b>12</b> Fib</span><span><b>310</b> kcal</span></div>"
+          "html": "<p class=\"dish\">Yogur griego light Mercadona con arándanos, nueces y pudín de chía</p><ul><li><span>Yogur griego light Mercadona</span><span class=\"q\">1 ud (125 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Nueces</span><span class=\"q\">10 g</span></li><li><span>Chía (pudín con agua)</span><span class=\"q\">30 g</span></li><li><span>Miel</span><span class=\"q\">1 gotita (5 g)</span></li></ul><div class=\"mac\"><span><b>17</b> HC netos</span><span><b>14</b> P</span><span><b>18</b> G</span><span><b>12</b> Fib</span><span><b>310</b> kcal</span></div>"
         },
         {
           "meal": "Cena",
