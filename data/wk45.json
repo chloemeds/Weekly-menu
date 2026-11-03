@@ -65,10 +65,10 @@
           "meal": "Comida",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Muslos de pollo sin piel con judías verdes salteadas</p><ul><li><span>Muslo de pollo deshuesado, sin piel</span><span class=\"q\">140 g</span></li><li><span>Judías verdes</span><span class=\"q\">160 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">2 cdas</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>31</b> P</span><span><b>33</b> G</span><span><b>6</b> Fib</span><span><b>461</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Muslo y pechuga de pollo con judías verdes salteadas</p><ul><li><span>Muslo de pollo deshuesado, sin piel</span><span class=\"q\">105 g</span></li><li><span>Pechuga de pollo</span><span class=\"q\">40 g</span></li><li><span>Judías verdes</span><span class=\"q\">180 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">2 cdas</span></li></ul><div class=\"mac\"><span><b>8</b> HC netos</span><span><b>34</b> P</span><span><b>31</b> G</span><span><b>7</b> Fib</span><span><b>461</b> kcal</span></div>",
           "recipe": [
             "Judías verdes redondas: quita las puntas y córtalas en trozos de 4–5 cm. Hiérvelas en agua con sal, ya hirviendo, 8–10 min (si son congeladas, 6–8 min). Escurre.",
-            "Muslos abiertos y finos con sal y pimienta: sartén con 1 cda de aceite, 6–7 min por lado a fuego medio-alto.",
+            "Muslo abierto y fino y pechuga en tiras, con sal y pimienta: sartén con 1 cda de aceite, 6–7 min por lado el muslo y 3–4 min por lado la pechuga, a fuego medio-alto.",
             "Saltea las judías 2 min con el resto del aceite y sirve con el pollo."
           ]
         },
@@ -90,7 +90,7 @@
           ]
         }
       ],
-      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">41</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">83</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1363</span><span class=\"tg\">kcal</span></div>"
+      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">42</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">103</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">81</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">27</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1363</span><span class=\"tg\">kcal</span></div>"
     },
     {
       "name": "Miércoles",
