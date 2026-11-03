@@ -76,13 +76,13 @@
           "meal": "Merienda",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Yogur griego light Mercadona con frambuesas, nueces y pudín de chía</p><ul><li><span>Yogur griego light Mercadona</span><span class=\"q\">1 ud (125 g)</span></li><li><span>Frambuesas</span><span class=\"q\">150 g</span></li><li><span>Nueces</span><span class=\"q\">15 g</span></li><li><span>Chía (pudín con agua)</span><span class=\"q\">13 g</span></li><li><span>Miel</span><span class=\"q\">1 gotita (5 g)</span></li></ul><div class=\"mac\"><span><b>20</b> HC netos</span><span><b>13</b> P</span><span><b>17</b> G</span><span><b>15</b> Fib</span><span><b>315</b> kcal</span></div>"
+          "html": "<p class=\"dish\">Yogur griego light Mercadona con arándanos, crema de avellanas y pudín de chía</p><ul><li><span>Yogur griego light Mercadona</span><span class=\"q\">1 ud (125 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Crema de avellanas</span><span class=\"q\">10 g</span></li><li><span>Chía (pudín con agua)</span><span class=\"q\">30 g</span></li><li><span>Miel</span><span class=\"q\">1 gotita (5 g)</span></li></ul><div class=\"mac\"><span><b>17</b> HC netos</span><span><b>14</b> P</span><span><b>18</b> G</span><span><b>12</b> Fib</span><span><b>310</b> kcal</span></div>"
         },
         {
           "meal": "Cena",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Lomo de cerdo a la plancha con brócoli y calabacín salteados</p><ul><li><span>Lomo de cerdo</span><span class=\"q\">105 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Calabacín</span><span class=\"q\">225 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1½ cda</span></li></ul><div class=\"mac\"><span><b>10</b> HC netos</span><span><b>29</b> P</span><span><b>21</b> G</span><span><b>6</b> Fib</span><span><b>357</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Lomo de cerdo a la plancha con brócoli y calabacín salteados</p><ul><li><span>Lomo de cerdo</span><span class=\"q\">105 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Calabacín</span><span class=\"q\">225 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cda</span></li></ul><div class=\"mac\"><span><b>10</b> HC netos</span><span><b>29</b> P</span><span><b>14</b> G</span><span><b>6</b> Fib</span><span><b>294</b> kcal</span></div>",
           "recipe": [
             "Brócoli en ramilletes: hiérvelo 4 min en agua con sal y escurre.",
             "Sartén a fuego medio-alto con la mitad del aceite: calabacín en medias lunas y brócoli 6–7 min con sal y ajo en polvo. Reserva.",
@@ -91,7 +91,7 @@
           ]
         }
       ],
-      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">46</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">102</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">84</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">29</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1406</span><span class=\"tg\">kcal</span></div>"
+      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">43</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">103</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">78</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1338</span><span class=\"tg\">kcal</span></div>"
     },
     {
       "name": "Miércoles",
