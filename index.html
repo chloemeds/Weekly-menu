@@ -75,7 +75,13 @@ li .q{font-family:var(--mono);font-size:13px;color:var(--ink);white-space:nowrap
 .panel h2{margin:0;font:700 22px var(--display)}
 .panel p{margin:0;color:var(--muted);font-size:14px}
 .panel select,.panel textarea{font:500 16px var(--body);border:1px solid var(--line);border-radius:12px;padding:10px 12px;background:var(--surface);color:var(--ink);width:100%}
-.panel textarea{min-height:110px;resize:vertical}
+.panel textarea{min-height:110px;resize:vertical;padding-bottom:44px}
+.msgwrap{position:relative}
+.mic{position:absolute;right:6px;bottom:8px;padding:6px;border:0;background:none;font-size:24px;line-height:1;cursor:pointer}
+.mic.on{animation:micp 1s ease-in-out infinite}
+@keyframes micp{50%{opacity:.35}}
+.michint{font-size:13px;color:var(--muted);margin:-4px 0 0}
+.michint[hidden]{display:none}
 .row{display:flex;gap:8px;justify-content:flex-end}
 .b{font:700 15px var(--body);border-radius:12px;padding:11px 16px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer}
 .b.primary{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
@@ -161,7 +167,8 @@ button:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px sol
     <p>Cuéntame qué has comido distinto o qué quieres cambiar. Se abrirá GitHub con tu mensaje escrito: solo tienes que tocar <b>Create</b>. En 1 o 2 minutos el día se actualiza solo.</p>
     <label for="day" class="tl">Día</label>
     <select id="day"></select>
-    <textarea id="msg" placeholder="Ej.: en la comida he comido 150 g de pollo en vez de 105 g"></textarea>
+    <div class="msgwrap"><textarea id="msg" placeholder="Escribe o toca 🎤 para hablar. Ej.: en la comida he comido 150 g de pollo"></textarea><button type="button" class="mic" id="mic" aria-label="Hablar">🎤</button></div>
+    <p class="michint" id="michint" hidden></p>
     <div class="row"><button type="button" class="b" id="cancel">Cancelar</button><button type="submit" class="b primary">Enviar</button></div>
   </form>
 </div>
@@ -169,7 +176,7 @@ button:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px sol
 <script>
 document.addEventListener('gesturestart', e => e.preventDefault());
 document.addEventListener('dblclick', e => e.preventDefault(), { passive: false });
-const VERSION = '17';
+const VERSION = '18';
 fetch('./version.txt', { cache: 'no-store' }).then(r => r.ok ? r.text() : VERSION).then(v => {
   v = v.trim();
   if (v && v !== VERSION && !location.search.includes('v=' + v)) location.replace('./?v=' + v);
@@ -272,15 +279,31 @@ $('rsheet').addEventListener('click', e => { if(e.target === $('rsheet')) $('rsh
 })();
 $('cclose').onclick = () => { $('cart').hidden = true; };
 $('ask').onclick = () => { $('day').value = String(idx); $('sheet').hidden = false; setTimeout(() => $('msg').focus(), 50); };
-$('cancel').onclick = () => { $('sheet').hidden = true; };
-$('sheet').addEventListener('click', e => { if(e.target === $('sheet')) $('sheet').hidden = true; });
+(() => {
+  const SR = window.SpeechRecognition || window.webkitSpeechRecognition; let rec = null, base = '';
+  const hint = t => { $('michint').textContent = t; $('michint').hidden = !t; };
+  const stop = () => { if(rec){ try{ rec.stop(); }catch(e){} } };
+  window.stopMic = stop;
+  $('mic').onclick = () => {
+    if(rec){ stop(); return; }
+    if(!SR){ $('msg').focus(); hint('Toca el 🎤 del teclado para dictar.'); return; }
+    rec = new SR(); rec.lang = 'es-ES'; rec.interimResults = true; rec.continuous = true;
+    base = $('msg').value.trim(); base = base ? base + ' ' : '';
+    rec.onresult = e => { let t = ''; for(const r of e.results) t += r[0].transcript; $('msg').value = base + t.trim(); };
+    rec.onerror = e => { if(e.error === 'not-allowed' || e.error === 'service-not-allowed'){ $('msg').focus(); hint('No tengo permiso para el micro. Toca el 🎤 del teclado para dictar.'); } };
+    rec.onend = () => { rec = null; $('mic').classList.remove('on'); $('mic').textContent = '🎤'; if($('michint').textContent === 'Escuchando… toca ⏹️ para parar.') hint(''); };
+    try{ rec.start(); $('mic').classList.add('on'); $('mic').textContent = '⏹️'; hint('Escuchando… toca ⏹️ para parar.'); }catch(e){ rec = null; $('msg').focus(); hint('Toca el 🎤 del teclado para dictar.'); }
+  };
+})();
+$('cancel').onclick = () => { stopMic(); $('sheet').hidden = true; };
+$('sheet').addEventListener('click', e => { if(e.target === $('sheet')){ stopMic(); $('sheet').hidden = true; } });
 $('form').addEventListener('submit', e => {
   e.preventDefault(); const msg = $('msg').value.trim(); if(!msg){ $('msg').focus(); return; }
   const d = data[cur].days[+$('day').value];
   const title = 'Cambio: ' + d.name + ' ' + d.date + ' (' + cur + ')';
   const body = msg + '\n\n---\nSemana: ' + cur + '\nDía: ' + d.name + ' ' + d.date + '\nEnviado desde la app del menú.';
   const url = 'https://github.com/' + REPO + '/issues/new?title=' + encodeURIComponent(title) + '&body=' + encodeURIComponent(body);
-  $('sheet').hidden = true; $('msg').value = '';
+  stopMic(); $('michint').hidden = true; $('sheet').hidden = true; $('msg').value = '';
   $('pending').hidden = false; $('pending').onclick = null; $('pending').textContent = 'Cuando toques Create en GitHub, vuelve aquí: el cambio se aplica en 1 o 2 minutos.';
   setTimeout(() => { location.href = url; }, 60);
 });
