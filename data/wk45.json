@@ -111,7 +111,7 @@
           "meal": "Comida",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Pasta fresca con gambas y calabacín</p><ul><li><span>Pasta fresca</span><span class=\"q\">105 g</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">80 g</span></li><li><span>Calabacín</span><span class=\"q\">300 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li></ul><div class=\"mac\"><span><b>53</b> HC netos</span><span><b>30</b> P</span><span><b>9</b> G</span><span><b>5</b> Fib</span><span><b>423</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Pasta fresca con gambas y calabacín</p><ul><li><span>Pasta fresca</span><span class=\"q\">110 g</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">90 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li></ul><div class=\"mac\"><span><b>52</b> HC netos</span><span><b>30</b> P</span><span><b>9</b> G</span><span><b>4</b> Fib</span><span><b>417</b> kcal</span></div>",
           "recipe": [
             "Pasta fresca en agua con sal 2–3 min y escurre.",
             "Sartén con el aceite a fuego medio-alto: calabacín en medias lunas 5 min.",
@@ -123,7 +123,7 @@
           "meal": "Merienda",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Yogur griego Koukakis 0% con pera y granola</p><ul><li><span>Yogur griego Koukakis 0%</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Pera</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Granola sin azúcar</span><span class=\"q\">20 g</span></li></ul><div class=\"mac\"><span><b>36</b> HC netos</span><span><b>15</b> P</span><span><b>4</b> G</span><span><b>6</b> Fib</span><span><b>252</b> kcal</span></div>"
+          "html": "<p class=\"dish\">Yogur griego Koukakis 0% con pera y granola y chía</p><ul><li><span>Yogur griego Koukakis 0%</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Pera</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Granola sin azúcar</span><span class=\"q\">20 g</span></li><li><span>Chía</span><span class=\"q\">13 g</span></li></ul><div class=\"mac\"><span><b>37</b> HC netos</span><span><b>17</b> P</span><span><b>8</b> G</span><span><b>10</b> Fib</span><span><b>308</b> kcal</span></div>"
         },
         {
           "meal": "Cena",
@@ -137,7 +137,7 @@
           ]
         }
       ],
-      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">131</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">41</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">25</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1335</span><span class=\"tg\">kcal</span></div>"
+      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">131</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">45</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">28</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1385</span><span class=\"tg\">kcal</span></div>"
     },
     {
       "name": "Jueves",
