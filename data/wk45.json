@@ -105,39 +105,39 @@
           "meal": "Desayuno",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Bocadillo de baguette con york, queso y fuet + matcha latte</p><ul><li><span>Pan baguette</span><span class=\"q\">40 g</span></li><li><span>Jamón york</span><span class=\"q\">25 g</span></li><li><span>Queso en lonchas light</span><span class=\"q\">½ loncha (12,5 g)</span></li><li><span>Fuet</span><span class=\"q\">35 g</span></li><li><span>Matcha: desnatada + almendra</span><span class=\"q\">100 + 50 ml</span></li></ul><div class=\"mac\"><span><b>28</b> HC netos</span><span><b>25</b> P</span><span><b>18</b> G</span><span><b>1</b> Fib</span><span><b>376</b> kcal</span></div>"
+          "html": "<p class=\"dish\">Bocadillo de baguette con york, queso y fuet + matcha latte</p><ul><li><span>Pan baguette</span><span class=\"q\">70 g</span></li><li><span>Jamón york</span><span class=\"q\">25 g</span></li><li><span>Queso en lonchas light</span><span class=\"q\">½ loncha (12,5 g)</span></li><li><span>Fuet</span><span class=\"q\">35 g</span></li><li><span>Matcha: desnatada + almendra</span><span class=\"q\">100 + 50 ml</span></li></ul><div class=\"mac\"><span><b>44</b> HC netos</span><span><b>28</b> P</span><span><b>18</b> G</span><span><b>2</b> Fib</span><span><b>454</b> kcal</span></div>"
         },
         {
           "meal": "Comida",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Pasta fresca con gambas y calabacín</p><ul><li><span>Pasta fresca</span><span class=\"q\">110 g</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">90 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li></ul><div class=\"mac\"><span><b>52</b> HC netos</span><span><b>30</b> P</span><span><b>9</b> G</span><span><b>4</b> Fib</span><span><b>417</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Lentejas estofadas con pollo y calabacín</p><ul><li><span>Lentejas cocidas</span><span class=\"q\">150 g</span></li><li><span>Pechuga de pollo</span><span class=\"q\">50 g</span></li><li><span>Calabacín</span><span class=\"q\">100 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li></ul><div class=\"mac\"><span><b>20</b> HC netos</span><span><b>27</b> P</span><span><b>6</b> G</span><span><b>13</b> Fib</span><span><b>268</b> kcal</span></div>",
           "recipe": [
-            "Pasta fresca en agua con sal 2–3 min y escurre.",
-            "Sartén con el aceite a fuego medio-alto: calabacín en medias lunas 5 min.",
-            "Añade las gambas con sal y pimienta 2–3 min hasta que estén rosas.",
-            "Mezcla con la pasta 1 min. Perejil y guindilla al gusto."
+            "Sartén con el aceite a fuego medio: pollo en tacos con sal y pimentón 4 min.",
+            "Añade el calabacín en dados y cocina 4 min.",
+            "Incorpora las lentejas cocidas escurridas con un chorrito de agua o caldo: 4 min.",
+            "Rectifica de sal y sirve con comino o perejil."
           ]
         },
         {
           "meal": "Merienda",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Yogur griego Koukakis 0% con pera y granola y chía</p><ul><li><span>Yogur griego Koukakis 0%</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Pera</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Granola sin azúcar</span><span class=\"q\">20 g</span></li><li><span>Chía</span><span class=\"q\">13 g</span></li></ul><div class=\"mac\"><span><b>37</b> HC netos</span><span><b>17</b> P</span><span><b>8</b> G</span><span><b>10</b> Fib</span><span><b>308</b> kcal</span></div>"
+          "html": "<p class=\"dish\">Yogur griego Koukakis 0% con pera y granola y chía</p><ul><li><span>Yogur griego Koukakis 0%</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Pera</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Granola sin azúcar</span><span class=\"q\">30 g</span></li><li><span>Chía</span><span class=\"q\">13 g</span></li></ul><div class=\"mac\"><span><b>43</b> HC netos</span><span><b>18</b> P</span><span><b>9</b> G</span><span><b>11</b> Fib</span><span><b>347</b> kcal</span></div>"
         },
         {
           "meal": "Cena",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Merluza al horno con alcachofas y brócoli</p><ul><li><span>Merluza</span><span class=\"q\">110 g</span></li><li><span>Alcachofas</span><span class=\"q\">200 g</span></li><li><span>Brócoli</span><span class=\"q\">180 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">2 cdta</span></li></ul><div class=\"mac\"><span><b>14</b> HC netos</span><span><b>28</b> P</span><span><b>10</b> G</span><span><b>13</b> Fib</span><span><b>284</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Merluza al horno con champiñones y brócoli</p><ul><li><span>Merluza</span><span class=\"q\">90 g</span></li><li><span>Champiñones</span><span class=\"q\">200 g</span></li><li><span>Brócoli</span><span class=\"q\">100 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">2 cdta</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>24</b> P</span><span><b>10</b> G</span><span><b>5</b> Fib</span><span><b>224</b> kcal</span></div>",
           "recipe": [
-            "Horno a 200 °C (airfryer a 190 °C). Alcachofas de bote escurridas y secas y brócoli en ramilletes en la bandeja con la mitad del aceite: 10 min.",
+            "Horno a 200 °C (airfryer a 190 °C). Champiñones laminados y brócoli en ramilletes en la bandeja con la mitad del aceite: 10 min.",
             "Añade la merluza con sal, ajo en polvo, perejil y el resto del aceite: 10–12 min más (airfryer 8–10 min).",
             "Sirve la merluza con las verduras y un chorrito de limón."
           ]
         }
       ],
-      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">131</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">45</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">28</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1385</span><span class=\"tg\">kcal</span></div>"
+      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">114</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">97</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">43</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">31</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1293</span><span class=\"tg\">kcal</span></div>"
     },
     {
       "name": "Jueves",
