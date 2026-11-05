@@ -146,7 +146,7 @@
           "meal": "Desayuno",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Matcha latte con miel y nata, y fuet (tomado)</p><ul><li><span>Matcha: desnatada + almendra</span><span class=\"q\">75 + 75 ml</span></li><li><span>Miel</span><span class=\"q\">1 gota (3 g)</span></li><li><span>Nata para cocinar</span><span class=\"q\">10 ml</span></li><li><span>Fuet (3 rodajas de ½ cm)</span><span class=\"q\">15 g</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>7</b> P</span><span><b>9</b> G</span><span><b>0</b> Fib</span><span><b>137</b> kcal</span></div>"
+          "html": "<p class=\"dish\">Matcha latte con miel y nata, fuet y dos nueces (tomado)</p><ul><li><span>Matcha: desnatada + almendra</span><span class=\"q\">75 + 75 ml</span></li><li><span>Miel</span><span class=\"q\">1 gota (3 g)</span></li><li><span>Nata para cocinar</span><span class=\"q\">10 ml</span></li><li><span>Fuet (3 rodajas de ½ cm)</span><span class=\"q\">15 g</span></li><li><span>Nueces</span><span class=\"q\">2 ud (10 g)</span></li></ul><div class=\"mac\"><span><b>8</b> HC netos</span><span><b>8</b> P</span><span><b>16</b> G</span><span><b>1</b> Fib</span><span><b>210</b> kcal</span></div>"
         },
         {
           "meal": "Comida",
@@ -169,7 +169,7 @@
           "meal": "Cena",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Bacalao al horno con calabacín y champiñones</p><ul><li><span>Bacalao fresco (lomo)</span><span class=\"q\">140 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Champiñones</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1½ cda</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>32</b> P</span><span><b>17</b> G</span><span><b>3</b> Fib</span><span><b>315</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Bacalao al horno con calabacín y champiñones</p><ul><li><span>Bacalao fresco (lomo)</span><span class=\"q\">140 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Champiñones</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cda</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>32</b> P</span><span><b>12</b> G</span><span><b>3</b> Fib</span><span><b>270</b> kcal</span></div>",
           "recipe": [
             "Horno a 200 °C (airfryer a 190 °C).",
             "Calabacín en medias lunas y champiñones laminados en la bandeja con la mitad del aceite y sal: 10 min.",
@@ -177,7 +177,7 @@
           ]
         }
       ],
-      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">35</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">97</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">78</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">25</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1280</span><span class=\"tg\">kcal</span></div>"
+      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">36</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">80</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1308</span><span class=\"tg\">kcal</span></div>"
     },
     {
       "name": "Viernes",
