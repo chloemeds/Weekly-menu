@@ -152,25 +152,24 @@
           "meal": "Comida",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Pavo a la plancha con boniato al horno y brócoli salteado</p><ul><li><span>Boniato (crudo)</span><span class=\"q\">30 g</span></li><li><span>Filete de pavo</span><span class=\"q\">130 g</span></li><li><span>Brócoli</span><span class=\"q\">300 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1½ cda</span></li></ul><div class=\"mac\"><span><b>18</b> HC netos</span><span><b>40</b> P</span><span><b>19</b> G</span><span><b>9</b> Fib</span><span><b>421</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Pavo a la plancha con brócoli salteado</p><ul><li><span>Filete de pavo</span><span class=\"q\">165 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1½ cda</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>40</b> P</span><span><b>18</b> G</span><span><b>4</b> Fib</span><span><b>358</b> kcal</span></div>",
           "recipe": [
-            "Boniato en dados con sal: airfryer 190 °C 10 min (horno 200 °C 15 min).",
             "Brócoli en ramitos en agua con sal 4 min y escurre.",
             "Pavo con sal y pimienta: sartén caliente con la mitad del aceite, 3–4 min por lado.",
-            "Saltea el brócoli 2 min con el resto del aceite y sirve con el boniato."
+            "Saltea el brócoli 2 min con el resto del aceite y sirve con el pavo."
           ]
         },
         {
           "meal": "Merienda",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Yogur griego Koukakis con frambuesas, chía y almendras</p><ul><li><span>Yogur griego Koukakis</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Frambuesas</span><span class=\"q\">40 g</span></li><li><span>Chía</span><span class=\"q\">30 g</span></li><li><span>Almendras</span><span class=\"q\">20 g</span></li></ul><div class=\"mac\"><span><b>12</b> HC netos</span><span><b>19</b> P</span><span><b>35</b> G</span><span><b>15</b> Fib</span><span><b>469</b> kcal</span></div>"
+          "html": "<p class=\"dish\">Yogur griego Koukakis con frambuesas, chía, almendras y crema de avellana</p><ul><li><span>Yogur griego Koukakis</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Frambuesas</span><span class=\"q\">100 g</span></li><li><span>Chía</span><span class=\"q\">15 g</span></li><li><span>Almendras</span><span class=\"q\">20 g</span></li><li><span>Crema de avellana y cacao Ametller</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>14</b> HC netos</span><span><b>18</b> P</span><span><b>34</b> G</span><span><b>18</b> Fib</span><span><b>470</b> kcal</span></div>"
         },
         {
           "meal": "Cena",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Bacalao al horno con calabacín y champiñones</p><ul><li><span>Bacalao fresco (lomo)</span><span class=\"q\">140 g</span></li><li><span>Calabacín</span><span class=\"q\">175 g</span></li><li><span>Champiñones</span><span class=\"q\">175 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1½ cda</span></li></ul><div class=\"mac\"><span><b>8</b> HC netos</span><span><b>33</b> P</span><span><b>17</b> G</span><span><b>4</b> Fib</span><span><b>325</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Bacalao al horno con calabacín y champiñones</p><ul><li><span>Bacalao fresco (lomo)</span><span class=\"q\">140 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Champiñones</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1½ cda</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>32</b> P</span><span><b>17</b> G</span><span><b>3</b> Fib</span><span><b>315</b> kcal</span></div>",
           "recipe": [
             "Horno a 200 °C (airfryer a 190 °C).",
             "Calabacín en medias lunas y champiñones laminados en la bandeja con la mitad del aceite y sal: 10 min.",
@@ -178,7 +177,7 @@
           ]
         }
       ],
-      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">45</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">80</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">28</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1352</span><span class=\"tg\">kcal</span></div>"
+      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">35</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">97</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">78</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">25</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1280</span><span class=\"tg\">kcal</span></div>"
     },
     {
       "name": "Viernes",
@@ -198,7 +197,7 @@
           "meal": "Comida",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Sepia a la plancha con judías verdes</p><ul><li><span>Sepia limpia</span><span class=\"q\">200 g</span></li><li><span>Judías verdes</span><span class=\"q\">250 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>36</b> P</span><span><b>7</b> G</span><span><b>8</b> Fib</span><span><b>267</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Sepia a la plancha con judías verdes</p><ul><li><span>Sepia limpia</span><span class=\"q\">200 g</span></li><li><span>Judías verdes</span><span class=\"q\">200 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>36</b> P</span><span><b>7</b> G</span><span><b>7</b> Fib</span><span><b>257</b> kcal</span></div>",
           "recipe": [
             "Judías verdes al vapor: bol con 2 cdas de agua, tapado, microondas 5–6 min.",
             "Sepia en tiras, bien seca, con sal: sartén muy caliente con el aceite, 3–4 min.",
@@ -218,7 +217,7 @@
           "html": "<p class=\"dish\">Cena fuera en Casa Platos, para compartir (macros aproximados)</p><ul><li><span>Gilda de ventresca de atún</span><span class=\"q\">1 ud</span></li><li><span>Crudo de hamachi</span><span class=\"q\">⅓ de ración</span></li><li><span>Raya a la meunière (o bacalao negro en miso)</span><span class=\"q\">½ ración</span></li><li><span>Arroz meloso de anguila (tu hidrato de hoy)</span><span class=\"q\">⅓ de ración</span></li><li><span>Pan</span><span class=\"q\">mejor sin pan</span></li><li><span>Postre, si te apetece</span><span class=\"q\">2–3 cucharadas de las fresas con sorbete</span></li></ul><div class=\"mac\"><span><b>65</b> HC netos</span><span><b>32</b> P</span><span><b>22</b> G</span><span><b>5</b> Fib</span><span><b>596</b> kcal</span></div>"
         }
       ],
-      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">120</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">96</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">45</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">20</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1309</span><span class=\"tg\">kcal</span></div>"
+      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">118</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">96</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">45</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">19</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1299</span><span class=\"tg\">kcal</span></div>"
     },
     {
       "name": "Sábado",
@@ -232,13 +231,13 @@
           "meal": "Desayuno",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Tostada integral con jamón york y media loncha de queso light + matcha latte</p><ul><li><span>Pan integral (tostada)</span><span class=\"q\">50 g</span></li><li><span>Jamón york</span><span class=\"q\">20 g</span></li><li><span>Queso lonchas light</span><span class=\"q\">½ loncha</span></li><li><span>Matcha: desnatada + almendra</span><span class=\"q\">100 + 50 ml</span></li></ul><div class=\"mac\"><span><b>24</b> HC netos</span><span><b>17</b> P</span><span><b>5</b> G</span><span><b>4</b> Fib</span><span><b>217</b> kcal</span></div>"
+          "html": "<p class=\"dish\">Tostada integral con jamón york y media loncha de queso light + matcha latte</p><ul><li><span>Pan integral (tostada)</span><span class=\"q\">60 g</span></li><li><span>Jamón york</span><span class=\"q\">20 g</span></li><li><span>Queso lonchas light</span><span class=\"q\">½ loncha</span></li><li><span>Matcha: desnatada + almendra</span><span class=\"q\">100 + 50 ml</span></li></ul><div class=\"mac\"><span><b>28</b> HC netos</span><span><b>18</b> P</span><span><b>6</b> G</span><span><b>4</b> Fib</span><span><b>246</b> kcal</span></div>"
         },
         {
           "meal": "Comida",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Lentejas salteadas con salmón y calabacín</p><ul><li><span>Lentejas pardinas (en seco)</span><span class=\"q\">105 g</span></li><li><span>Salmón</span><span class=\"q\">50 g</span></li><li><span>Calabacín</span><span class=\"q\">200 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>59</b> HC netos</span><span><b>38</b> P</span><span><b>17</b> G</span><span><b>14</b> Fib</span><span><b>569</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Lentejas salteadas con salmón y calabacín</p><ul><li><span>Lentejas pardinas (en seco)</span><span class=\"q\">90 g</span></li><li><span>Salmón</span><span class=\"q\">70 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>51</b> HC netos</span><span><b>38</b> P</span><span><b>19</b> G</span><span><b>12</b> Fib</span><span><b>551</b> kcal</span></div>",
           "recipe": [
             "Antes (por la mañana o la víspera): lentejas pardinas en agua con sal 20–25 min y escurre. Si cueces de más, se guardan 3 días en la nevera.",
             "Calabacín en dados en sartén con el aceite, 5 min a fuego medio-alto con sal.",
@@ -264,7 +263,7 @@
           ]
         }
       ],
-      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">124</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">43</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">31</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1345</span><span class=\"tg\">kcal</span></div>"
+      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">120</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">46</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">29</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1356</span><span class=\"tg\">kcal</span></div>"
     },
     {
       "name": "Domingo",
@@ -284,7 +283,7 @@
           "meal": "Comida",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Solomillo de ternera con patatas al microondas y judías verdes</p><ul><li><span>Solomillo de ternera</span><span class=\"q\">105 g</span></li><li><span>Patata</span><span class=\"q\">300 g</span></li><li><span>Judías verdes</span><span class=\"q\">250 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>58</b> HC netos</span><span><b>33</b> P</span><span><b>14</b> G</span><span><b>16</b> Fib</span><span><b>522</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Solomillo de ternera con patatas al microondas y judías verdes</p><ul><li><span>Solomillo de ternera</span><span class=\"q\">115 g</span></li><li><span>Patata</span><span class=\"q\">280 g</span></li><li><span>Judías verdes</span><span class=\"q\">200 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>53</b> HC netos</span><span><b>34</b> P</span><span><b>14</b> G</span><span><b>14</b> Fib</span><span><b>502</b> kcal</span></div>",
           "recipe": [
             "Patatas en dados en un bol con un chorrito de agua, tapado: microondas 7–8 min (pincha para ver que estén tiernas). Para que se doren: 5 min de airfryer a 200 °C.",
             "Judías al vapor: bol tapado con 2 cdas de agua, microondas 5 min.",
@@ -301,7 +300,7 @@
           "meal": "Cena",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Lubina al horno con calabacín</p><ul><li><span>Lubina</span><span class=\"q\">135 g</span></li><li><span>Calabacín</span><span class=\"q\">250 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>8</b> HC netos</span><span><b>29</b> P</span><span><b>16</b> G</span><span><b>3</b> Fib</span><span><b>298</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Lubina al horno con calabacín</p><ul><li><span>Lubina</span><span class=\"q\">135 g</span></li><li><span>Calabacín</span><span class=\"q\">200 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>29</b> P</span><span><b>16</b> G</span><span><b>3</b> Fib</span><span><b>294</b> kcal</span></div>",
           "recipe": [
             "Horno a 200 °C (airfryer a 190 °C).",
             "Calabacín en rodajas con el aceite y sal en la bandeja: 10 min.",
@@ -309,7 +308,7 @@
           ]
         }
       ],
-      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">133</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">96</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">44</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">28</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1368</span><span class=\"tg\">kcal</span></div>"
+      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">127</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">97</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">44</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1344</span><span class=\"tg\">kcal</span></div>"
     }
   ]
 }
