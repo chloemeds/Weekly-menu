@@ -182,7 +182,7 @@
         {
           "id": "gambas",
           "name": "Gambas o langostinos pelados",
-          "qty": "<em>125 g</em>",
+          "qty": "<em>235 g</em>",
           "price": 4.9,
           "out": false,
           "buy": "Gamba pelada cruda mediana Hacendado ultracongelada, 360 g"
@@ -276,6 +276,14 @@
           "price": 0.9,
           "out": false,
           "buy": "Pan de molde 100% integral Hacendado, 460 g"
+        },
+        {
+          "id": "pastaf",
+          "name": "Espaguetis frescos",
+          "qty": "<em>110 g</em>",
+          "price": 1.6,
+          "out": false,
+          "buy": "Espaguetis frescos Hacendado (nevera). Precio aproximado"
         },
         {
           "id": "pasta",
