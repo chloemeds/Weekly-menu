@@ -146,13 +146,13 @@
           "meal": "Desayuno",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Solo matcha latte</p><ul><li><span>Matcha: desnatada + almendra</span><span class=\"q\">50 + 100 ml</span></li></ul><div class=\"mac\"><span><b>2</b> HC netos</span><span><b>3</b> P</span><span><b>2</b> G</span><span><b>0</b> Fib</span><span><b>38</b> kcal</span></div>"
+          "html": "<p class=\"dish\">Matcha latte con miel y nata, y fuet (tomado)</p><ul><li><span>Matcha: desnatada + almendra</span><span class=\"q\">75 + 75 ml</span></li><li><span>Miel</span><span class=\"q\">1 gota (3 g)</span></li><li><span>Nata para cocinar</span><span class=\"q\">10 ml</span></li><li><span>Fuet (3 rodajas de ½ cm)</span><span class=\"q\">15 g</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>7</b> P</span><span><b>9</b> G</span><span><b>0</b> Fib</span><span><b>137</b> kcal</span></div>"
         },
         {
           "meal": "Comida",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Pavo a la plancha con boniato al horno y brócoli salteado</p><ul><li><span>Boniato (crudo)</span><span class=\"q\">60 g</span></li><li><span>Filete de pavo</span><span class=\"q\">150 g</span></li><li><span>Brócoli</span><span class=\"q\">300 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">2 cda</span></li></ul><div class=\"mac\"><span><b>23</b> HC netos</span><span><b>44</b> P</span><span><b>24</b> G</span><span><b>10</b> Fib</span><span><b>504</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Pavo a la plancha con boniato al horno y brócoli salteado</p><ul><li><span>Boniato (crudo)</span><span class=\"q\">30 g</span></li><li><span>Filete de pavo</span><span class=\"q\">130 g</span></li><li><span>Brócoli</span><span class=\"q\">300 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1½ cda</span></li></ul><div class=\"mac\"><span><b>18</b> HC netos</span><span><b>40</b> P</span><span><b>19</b> G</span><span><b>9</b> Fib</span><span><b>421</b> kcal</span></div>",
           "recipe": [
             "Boniato en dados con sal: airfryer 190 °C 10 min (horno 200 °C 15 min).",
             "Brócoli en ramitos en agua con sal 4 min y escurre.",
@@ -178,7 +178,7 @@
           ]
         }
       ],
-      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">45</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">78</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">29</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1336</span><span class=\"tg\">kcal</span></div>"
+      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">45</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">80</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">28</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1352</span><span class=\"tg\">kcal</span></div>"
     },
     {
       "name": "Viernes",
