@@ -35,5 +35,6 @@ Chloe pide cambios desde la app; cada petición llega como una issue con el día
 - Nunca repitas el mismo alimento en dos comidas del mismo día (por ejemplo brócoli en la comida y en la cena). El aceite, la leche del matcha y la onza de chocolate no cuentan.
 - Cenas sin hidratos: nada de arroz, pasta, pan, patata, boniato, legumbres ni fruta en la cena. Solo proteína, verduras de su lista y grasa. Los hidratos van en la comida (y la merienda).
 - Una sola fuente de hidratos por comida (nunca pasta con boniato, arroz con patata…). Los platos tienen que tener sentido, como una receta normal; si dudas, inspírate en recetas reales.
+- Raciones realistas, como las serviría una persona normal: verdura 100–200 g por alimento y como mucho unos 300 g de verdura en total por comida; nada de cantidades ridículas de algo que haya que cocinar (por ejemplo 30 g de boniato: o una ración normal, 100–150 g, o nada). Legumbre seca 60–90 g, arroz o pasta en crudo 60–90 g, patata 150–250 g, carne o pescado 100–170 g, chía 10–15 g. Repasa siempre las cantidades antes de guardar.
 - Recetas sencillas, de 15 minutos como mucho. Nada al ajillo (ni ajo laminado ni platos "al ajillo").
 - No toques `index.html` ni `version.txt`.
