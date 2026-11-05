@@ -152,10 +152,10 @@
           "meal": "Comida",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Pavo a la plancha con brócoli salteado</p><ul><li><span>Filete de pavo</span><span class=\"q\">165 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1½ cda</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>40</b> P</span><span><b>18</b> G</span><span><b>4</b> Fib</span><span><b>358</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Pechuga de pollo a la plancha con brócoli salteado</p><ul><li><span>Pechuga de pollo</span><span class=\"q\">165 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1½ cda</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>41</b> P</span><span><b>18</b> G</span><span><b>4</b> Fib</span><span><b>362</b> kcal</span></div>",
           "recipe": [
             "Brócoli en ramitos en agua con sal 4 min y escurre.",
-            "Pavo con sal y pimienta: sartén caliente con la mitad del aceite, 3–4 min por lado.",
+            "Pechuga con sal y pimienta: sartén caliente con la mitad del aceite, 4–5 min por lado hasta que quede dorada y hecha.",
             "Saltea el brócoli 2 min con el resto del aceite y sirve con el pavo."
           ]
         },
@@ -177,7 +177,7 @@
           ]
         }
       ],
-      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">36</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">80</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1308</span><span class=\"tg\">kcal</span></div>"
+      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">36</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">80</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1312</span><span class=\"tg\">kcal</span></div>"
     },
     {
       "name": "Viernes",
