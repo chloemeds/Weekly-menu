@@ -191,17 +191,18 @@
           "meal": "Desayuno",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Serranito de jamón serrano y brie (sin rúcula) + matcha con leche entera, fuera (tomado)</p><ul><li><span>Pan de chapata</span><span class=\"q\">~120 g</span></li><li><span>Jamón serrano</span><span class=\"q\">~30 g</span></li><li><span>Brie</span><span class=\"q\">~30 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">un chorrito</span></li><li><span>Matcha con leche entera</span><span class=\"q\">~200 ml</span></li></ul><div class=\"mac\"><span><b>69</b> HC netos</span><span><b>32</b> P</span><span><b>27</b> G</span><span><b>3</b> Fib</span><span><b>653</b> kcal</span></div>"
+          "html": "<p class=\"dish\">Serranito de jamón serrano y brie (sin rúcula) + matcha con leche entera, fuera (tomado)</p><ul><li><span>Pan de coca</span><span class=\"q\">~100 g</span></li><li><span>Jamón serrano</span><span class=\"q\">~30 g</span></li><li><span>Brie</span><span class=\"q\">~30 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">un chorrito</span></li><li><span>Matcha con leche entera</span><span class=\"q\">~200 ml</span></li></ul><div class=\"mac\"><span><b>57</b> HC netos</span><span><b>28</b> P</span><span><b>32</b> G</span><span><b>3</b> Fib</span><span><b>634</b> kcal</span></div>"
         },
         {
           "meal": "Comida",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Sepia a la plancha con judías verdes</p><ul><li><span>Sepia limpia</span><span class=\"q\">150 g</span></li><li><span>Judías verdes</span><span class=\"q\">200 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">unas gotas (spray)</span></li></ul><div class=\"mac\"><span><b>8</b> HC netos</span><span><b>28</b> P</span><span><b>2</b> G</span><span><b>7</b> Fib</span><span><b>176</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Sepia a la plancha con patatas y judías verdes</p><ul><li><span>Sepia limpia</span><span class=\"q\">100 g</span></li><li><span>Patata</span><span class=\"q\">250 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">unas gotas (spray)</span></li></ul><div class=\"mac\"><span><b>45</b> HC netos</span><span><b>24</b> P</span><span><b>1</b> G</span><span><b>11</b> Fib</span><span><b>307</b> kcal</span></div>",
           "recipe": [
-            "Judías verdes: agua hirviendo con sal 8–10 min (congeladas 6–8) y escurre.",
+            "Patata en dados en un bol con un chorrito de agua, tapado: microondas 7–8 min (para dorarla, 5 min de airfryer a 200 °C).",
+            "Judías verdes en agua hirviendo con sal 8–10 min (congeladas 6–8) y escurre.",
             "Sepia en tiras, bien seca, con sal: sartén muy caliente con unas gotas de aceite, 3–4 min.",
-            "Junta las judías con la sepia 1 min, perejil y unas gotas de limón."
+            "Júntalo todo con perejil y unas gotas de limón."
           ]
         },
         {
@@ -214,10 +215,10 @@
           "meal": "Cena",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Cena fuera en Casa Platos, para compartir, sin hidratos (macros aproximados)</p><ul><li><span>Gilda de ventresca de atún</span><span class=\"q\">1 ud</span></li><li><span>Crudo de hamachi</span><span class=\"q\">⅓ de ración</span></li><li><span>Raya a la meunière (o bacalao negro en miso)</span><span class=\"q\">½ ración</span></li><li><span>Arroz y pan</span><span class=\"q\">mejor no, hoy el desayuno ya llevaba mucho pan</span></li><li><span>Postre, si te apetece</span><span class=\"q\">2–3 cucharadas de las fresas con sorbete</span></li></ul><div class=\"mac\"><span><b>30</b> HC netos</span><span><b>30</b> P</span><span><b>18</b> G</span><span><b>4</b> Fib</span><span><b>410</b> kcal</span></div>"
+          "html": "<p class=\"dish\">Cena fuera en Casa Platos: raya a la meunière de ají y yuzu, sin arroz ni pan (macros aproximados)</p><ul><li><span>Raya a la meunière de ají y yuzu</span><span class=\"q\">1 plato</span></li><li><span>Pan</span><span class=\"q\">mejor no, hoy el desayuno ya llevaba mucho pan</span></li><li><span>Postre</span><span class=\"q\">mejor sin postre hoy</span></li></ul><div class=\"mac\"><span><b>4</b> HC netos</span><span><b>38</b> P</span><span><b>18</b> G</span><span><b>1</b> Fib</span><span><b>332</b> kcal</span></div>"
         }
       ],
-      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">127</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">47</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1363</span><span class=\"tg\">kcal</span></div>"
+      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">126</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">51</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">17</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1397</span><span class=\"tg\">kcal</span></div>"
     },
     {
       "name": "Sábado",
