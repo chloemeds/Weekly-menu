@@ -250,15 +250,16 @@
           "meal": "Cena",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Brochetas de lomo de cerdo y alcachofas con brócoli</p><ul><li><span>Lomo de cerdo</span><span class=\"q\">170 g</span></li><li><span>Brócoli</span><span class=\"q\">100 g</span></li><li><span>Alcachofas</span><span class=\"q\">200 g</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>13</b> HC netos</span><span><b>44</b> P</span><span><b>13</b> G</span><span><b>11</b> Fib</span><span><b>367</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Brochetas de lomo de cerdo y alcachofas con revuelto de claras y brócoli</p><ul><li><span>Lomo de cerdo</span><span class=\"q\">130 g</span></li><li><span>Brócoli</span><span class=\"q\">100 g</span></li><li><span>Claras de huevo</span><span class=\"q\">100 g</span></li><li><span>Alcachofas</span><span class=\"q\">200 g</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>14</b> HC netos</span><span><b>47</b> P</span><span><b>11</b> G</span><span><b>11</b> Fib</span><span><b>365</b> kcal</span></div>",
           "recipe": [
             "Lomo de cerdo en dados con sal, pimentón y pimienta. Ensártalo en palitos alternando con las alcachofas de bote escurridas.",
-            "Airfryer a 200 °C 12 min con el brócoli en ramilletes alrededor de las brochetas, dándoles la vuelta a mitad (horno a 210 °C 15 min).",
-            "Comprueba que el cerdo esté hecho por dentro y sirve con sal en escamas."
+            "Airfryer a 200 °C 12 min, dándoles la vuelta a mitad (horno a 210 °C 15 min). Comprueba que el cerdo esté hecho por dentro.",
+            "Mientras, brócoli en ramilletes pequeños en la sartén con un chorrito de agua y tapa 4 min.",
+            "Añade las claras con sal y remueve 1–2 min hasta que cuajen. Sirve junto a las brochetas."
           ]
         }
       ],
-      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">116</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">108</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">44</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1344</span><span class=\"tg\">kcal</span></div>"
+      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">117</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">111</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">42</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1342</span><span class=\"tg\">kcal</span></div>"
     },
     {
       "name": "Domingo",
