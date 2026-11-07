@@ -226,13 +226,13 @@
           "meal": "Desayuno",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Tostada integral con jamón york y media loncha de queso light + matcha latte</p><ul><li><span>Pan integral (tostada)</span><span class=\"q\">50 g</span></li><li><span>Jamón york</span><span class=\"q\">20 g</span></li><li><span>Queso lonchas light</span><span class=\"q\">½ loncha</span></li><li><span>Matcha: desnatada + almendra</span><span class=\"q\">100 + 50 ml</span></li></ul><div class=\"mac\"><span><b>24</b> HC netos</span><span><b>17</b> P</span><span><b>5</b> G</span><span><b>4</b> Fib</span><span><b>217</b> kcal</span></div>"
+          "html": "<p class=\"dish\">Tostada integral con jamón york y media loncha de queso light + matcha latte</p><ul><li><span>Pan integral (tostada)</span><span class=\"q\">50 g</span></li><li><span>Jamón york</span><span class=\"q\">40 g</span></li><li><span>Queso lonchas light</span><span class=\"q\">½ loncha</span></li><li><span>Matcha: desnatada + almendra</span><span class=\"q\">100 + 50 ml</span></li></ul><div class=\"mac\"><span><b>25</b> HC netos</span><span><b>20</b> P</span><span><b>6</b> G</span><span><b>4</b> Fib</span><span><b>242</b> kcal</span></div>"
         },
         {
           "meal": "Comida",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Espaguetis frescos con gambas y calabacín</p><ul><li><span>Espaguetis frescos Mercadona</span><span class=\"q\">110 g</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">110 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>61</b> HC netos</span><span><b>36</b> P</span><span><b>13</b> G</span><span><b>5</b> Fib</span><span><b>515</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Espaguetis frescos con gambas y calabacín</p><ul><li><span>Espaguetis frescos Mercadona</span><span class=\"q\">90 g</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">160 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>51</b> HC netos</span><span><b>44</b> P</span><span><b>13</b> G</span><span><b>5</b> Fib</span><span><b>507</b> kcal</span></div>",
           "recipe": [
             "Agua con sal a hervir. Mientras, sartén con el aceite a fuego medio-alto: calabacín en medias lunas 5 min.",
             "Añade las gambas con sal y pimienta: 2–3 min hasta que estén rosas.",
@@ -244,13 +244,13 @@
           "meal": "Merienda",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Yogur +Proteínas con fresas, granola y chía</p><ul><li><span>Yogur +Proteínas Mercadona</span><span class=\"q\">95 g</span></li><li><span>Fresas</span><span class=\"q\">200 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">30 g</span></li><li><span>Chía</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>33</b> HC netos</span><span><b>16</b> P</span><span><b>9</b> G</span><span><b>10</b> Fib</span><span><b>297</b> kcal</span></div>"
+          "html": "<p class=\"dish\">Yogur +Proteínas con arándanos, granola y chía</p><ul><li><span>Yogur +Proteínas Mercadona</span><span class=\"q\">95 g</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">25 g</span></li><li><span>Chía</span><span class=\"q\">15 g</span></li></ul><div class=\"mac\"><span><b>24</b> HC netos</span><span><b>15</b> P</span><span><b>9</b> G</span><span><b>8</b> Fib</span><span><b>253</b> kcal</span></div>"
         },
         {
           "meal": "Cena",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Brochetas de pollo con champiñones y alcachofas</p><ul><li><span>Pechuga de pollo</span><span class=\"q\">105 g</span></li><li><span>Champiñones</span><span class=\"q\">100 g</span></li><li><span>Alcachofas</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cda</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>32</b> P</span><span><b>16</b> G</span><span><b>8</b> Fib</span><span><b>324</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Brochetas de pollo con champiñones y alcachofas</p><ul><li><span>Pechuga de pollo</span><span class=\"q\">150 g</span></li><li><span>Champiñones</span><span class=\"q\">100 g</span></li><li><span>Alcachofas</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cda</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>42</b> P</span><span><b>16</b> G</span><span><b>8</b> Fib</span><span><b>364</b> kcal</span></div>",
           "recipe": [
             "Pollo en dados con sal, pimentón y la mitad del aceite. Ensártalo en palitos alternando con champiñones enteros y alcachofas de bote escurridas.",
             "Airfryer a 200 °C 12 min, dándoles la vuelta a mitad (horno a 210 °C 15 min, o sartén 8–10 min dándoles vueltas).",
@@ -258,7 +258,7 @@
           ]
         }
       ],
-      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">127</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">43</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">27</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1353</span><span class=\"tg\">kcal</span></div>"
+      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">109</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">121</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">44</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">25</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1366</span><span class=\"tg\">kcal</span></div>"
     },
     {
       "name": "Domingo",
