@@ -232,7 +232,7 @@
           "meal": "Comida",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Espaguetis frescos con gambas y calabacín</p><ul><li><span>Espaguetis frescos Mercadona</span><span class=\"q\">80 g</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">160 g</span></li><li><span>Calabacín</span><span class=\"q\">200 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>48</b> HC netos</span><span><b>36</b> P</span><span><b>13</b> G</span><span><b>5</b> Fib</span><span><b>463</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Espaguetis frescos con gambas y calabacín (tomado)</p><ul><li><span>Espaguetis frescos Mercadona</span><span class=\"q\">80 g</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">135 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>47</b> HC netos</span><span><b>31</b> P</span><span><b>13</b> G</span><span><b>4</b> Fib</span><span><b>437</b> kcal</span></div>",
           "recipe": [
             "Agua con sal a hervir. Mientras, sartén con el aceite a fuego medio-alto: calabacín en medias lunas 5 min.",
             "Añade las gambas con sal y pimienta: 2–3 min hasta que estén rosas.",
@@ -250,15 +250,15 @@
           "meal": "Cena",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Brochetas de pollo con champiñones y alcachofas</p><ul><li><span>Pechuga de pollo</span><span class=\"q\">150 g</span></li><li><span>Champiñones</span><span class=\"q\">100 g</span></li><li><span>Alcachofas</span><span class=\"q\">200 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>43</b> P</span><span><b>11</b> G</span><span><b>10</b> Fib</span><span><b>335</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Brochetas de pollo y alcachofas con brócoli</p><ul><li><span>Pechuga de pollo</span><span class=\"q\">150 g</span></li><li><span>Brócoli</span><span class=\"q\">100 g</span></li><li><span>Alcachofas</span><span class=\"q\">200 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>13</b> HC netos</span><span><b>43</b> P</span><span><b>11</b> G</span><span><b>11</b> Fib</span><span><b>345</b> kcal</span></div>",
           "recipe": [
-            "Pollo en dados con sal, pimentón y la mitad del aceite. Ensártalo en palitos alternando con champiñones enteros y alcachofas de bote escurridas.",
-            "Airfryer a 200 °C 12 min, dándoles la vuelta a mitad (horno a 210 °C 15 min, o sartén 8–10 min dándoles vueltas).",
+            "Pollo en dados con sal, pimentón y la mitad del aceite. Ensártalo en palitos alternando con las alcachofas de bote escurridas.",
+            "Airfryer a 200 °C 12 min con el brócoli en ramilletes alrededor de las brochetas, dándoles la vuelta a mitad (horno a 210 °C 15 min).",
             "Riega con el resto del aceite al servir."
           ]
         }
       ],
-      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">115</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">114</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">44</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">25</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1362</span><span class=\"tg\">kcal</span></div>"
+      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">116</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">109</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">44</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">25</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1346</span><span class=\"tg\">kcal</span></div>"
     },
     {
       "name": "Domingo",
