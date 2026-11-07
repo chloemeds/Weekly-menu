@@ -244,21 +244,22 @@
           "meal": "Merienda",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Yogur +Proteínas con arándanos, granola, chía y crema de avellana + 1 galleta</p><ul><li><span>Yogur +Proteínas Mercadona</span><span class=\"q\">120 g</span></li><li><span>Arándanos</span><span class=\"q\">30 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">20 g</span></li><li><span>Chía</span><span class=\"q\">10 g</span></li><li><span>Crema de avellana y cacao Ametller</span><span class=\"q\">12 g</span></li><li><span>Galleta Choco-milk Hacendado (1 ud)</span><span class=\"q\">12,5 g</span></li></ul><div class=\"mac\"><span><b>29</b> HC netos</span><span><b>18</b> P</span><span><b>14</b> G</span><span><b>11</b> Fib</span><span><b>336</b> kcal</span></div>"
+          "html": "<p class=\"dish\">Yogur +Proteínas con arándanos, granola, chía y crema de avellana + 1 galleta</p><ul><li><span>Yogur +Proteínas Mercadona</span><span class=\"q\">200 g</span></li><li><span>Arándanos</span><span class=\"q\">30 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">20 g</span></li><li><span>Chía</span><span class=\"q\">10 g</span></li><li><span>Crema de avellana y cacao Ametller</span><span class=\"q\">12 g</span></li><li><span>Galleta Choco-milk Hacendado (1 ud)</span><span class=\"q\">12,5 g</span></li></ul><div class=\"mac\"><span><b>32</b> HC netos</span><span><b>26</b> P</span><span><b>14</b> G</span><span><b>11</b> Fib</span><span><b>380</b> kcal</span></div>"
         },
         {
           "meal": "Cena",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Brochetas de lomo de cerdo y alcachofas</p><ul><li><span>Lomo de cerdo</span><span class=\"q\">130 g</span></li><li><span>Alcachofas</span><span class=\"q\">200 g</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>33</b> P</span><span><b>10</b> G</span><span><b>9</b> Fib</span><span><b>276</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Rodaballo a la plancha con alcachofas</p><ul><li><span>Rodaballo</span><span class=\"q\">100 g</span></li><li><span>Alcachofas</span><span class=\"q\">200 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>22</b> P</span><span><b>10</b> G</span><span><b>9</b> Fib</span><span><b>232</b> kcal</span></div>",
           "recipe": [
-            "Lomo de cerdo en dados con sal, pimentón y pimienta. Ensártalo en palitos alternando con las alcachofas de bote escurridas.",
-            "Airfryer a 200 °C 12 min, dándoles la vuelta a mitad (horno a 210 °C 15 min).",
-            "Comprueba que el cerdo esté hecho por dentro y sirve con sal en escamas."
+            "Seca el rodaballo y sazónalo con sal y pimienta. Escurre las alcachofas de bote.",
+            "Sartén con el aceite a fuego medio-alto: alcachofas 5 min hasta que doren y resérvalas.",
+            "Rodaballo en la misma sartén 3–4 min por cada lado hasta que se separe en lascas.",
+            "Sirve con las alcachofas y unas gotas de limón."
           ]
         }
       ],
-      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">119</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">45</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">25</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1335</span><span class=\"tg\">kcal</span></div>"
+      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">122</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">45</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">25</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1335</span><span class=\"tg\">kcal</span></div>"
     },
     {
       "name": "Domingo",
