@@ -250,16 +250,15 @@
           "meal": "Cena",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Brochetas de lomo de cerdo y alcachofas con revuelto de claras y brócoli</p><ul><li><span>Lomo de cerdo</span><span class=\"q\">130 g</span></li><li><span>Brócoli</span><span class=\"q\">100 g</span></li><li><span>Claras de huevo</span><span class=\"q\">100 g</span></li><li><span>Alcachofas</span><span class=\"q\">200 g</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>14</b> HC netos</span><span><b>47</b> P</span><span><b>11</b> G</span><span><b>11</b> Fib</span><span><b>365</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Brochetas de lomo de cerdo y alcachofas con brócoli</p><ul><li><span>Lomo de cerdo</span><span class=\"q\">130 g</span></li><li><span>Brócoli</span><span class=\"q\">100 g</span></li><li><span>Alcachofas</span><span class=\"q\">200 g</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>13</b> HC netos</span><span><b>36</b> P</span><span><b>11</b> G</span><span><b>11</b> Fib</span><span><b>317</b> kcal</span></div>",
           "recipe": [
             "Lomo de cerdo en dados con sal, pimentón y pimienta. Ensártalo en palitos alternando con las alcachofas de bote escurridas.",
-            "Airfryer a 200 °C 12 min, dándoles la vuelta a mitad (horno a 210 °C 15 min). Comprueba que el cerdo esté hecho por dentro.",
-            "Mientras, brócoli en ramilletes pequeños en la sartén con un chorrito de agua y tapa 4 min.",
-            "Añade las claras con sal y remueve 1–2 min hasta que cuajen. Sirve junto a las brochetas."
+            "Airfryer a 200 °C 12 min con el brócoli en ramilletes alrededor de las brochetas, dándoles la vuelta a mitad (horno a 210 °C 15 min).",
+            "Comprueba que el cerdo esté hecho por dentro y sirve con sal en escamas."
           ]
         }
       ],
-      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">117</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">111</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">42</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1342</span><span class=\"tg\">kcal</span></div>"
+      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">116</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">42</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1294</span><span class=\"tg\">kcal</span></div>"
     },
     {
       "name": "Domingo",
@@ -273,13 +272,13 @@
           "meal": "Desayuno",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Tostada integral con 1 huevo revuelto + matcha latte</p><ul><li><span>Pan integral (tostada)</span><span class=\"q\">50 g</span></li><li><span>Huevos</span><span class=\"q\">1 ud</span></li><li><span>Matcha con leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>27</b> HC netos</span><span><b>18</b> P</span><span><b>8</b> G</span><span><b>4</b> Fib</span><span><b>260</b> kcal</span></div>"
+          "html": "<p class=\"dish\">Tostada integral con pechuga de pavo + matcha latte</p><ul><li><span>Pan integral (tostada)</span><span class=\"q\">60 g</span></li><li><span>Pechuga de pavo (lonchas)</span><span class=\"q\">60 g</span></li><li><span>Matcha con leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>31</b> HC netos</span><span><b>24</b> P</span><span><b>3</b> G</span><span><b>4</b> Fib</span><span><b>255</b> kcal</span></div>"
         },
         {
           "meal": "Comida",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Solomillo de ternera con patatas al microondas y judías verdes</p><ul><li><span>Solomillo de ternera</span><span class=\"q\">115 g</span></li><li><span>Patata</span><span class=\"q\">280 g</span></li><li><span>Judías verdes</span><span class=\"q\">200 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>53</b> HC netos</span><span><b>34</b> P</span><span><b>14</b> G</span><span><b>14</b> Fib</span><span><b>502</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Solomillo de ternera con patatas al microondas y judías verdes</p><ul><li><span>Solomillo de ternera</span><span class=\"q\">170 g</span></li><li><span>Patata</span><span class=\"q\">250 g</span></li><li><span>Judías verdes</span><span class=\"q\">200 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>48</b> HC netos</span><span><b>45</b> P</span><span><b>16</b> G</span><span><b>13</b> Fib</span><span><b>542</b> kcal</span></div>",
           "recipe": [
             "Patatas en dados en un bol con un chorrito de agua, tapado: microondas 7–8 min (pincha para ver que estén tiernas). Para que se doren: 5 min de airfryer a 200 °C.",
             "Judías al vapor: bol tapado con 2 cdas de agua, microondas 5 min.",
@@ -290,21 +289,21 @@
           "meal": "Merienda",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Yogur griego light Mercadona con mandarina y granola</p><ul><li><span>Yogur griego light Mercadona</span><span class=\"q\">1 ud (125 g)</span></li><li><span>Mandarina</span><span class=\"q\">140 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">25 g</span></li></ul><div class=\"mac\"><span><b>36</b> HC netos</span><span><b>11</b> P</span><span><b>7</b> G</span><span><b>5</b> Fib</span><span><b>261</b> kcal</span></div>"
+          "html": "<p class=\"dish\">Yogur griego light Mercadona con frambuesas y granola</p><ul><li><span>Yogur griego light Mercadona</span><span class=\"q\">1 ud (125 g)</span></li><li><span>Frambuesas</span><span class=\"q\">100 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">30 g</span></li></ul><div class=\"mac\"><span><b>29</b> HC netos</span><span><b>12</b> P</span><span><b>8</b> G</span><span><b>9</b> Fib</span><span><b>254</b> kcal</span></div>"
         },
         {
           "meal": "Cena",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Lubina al horno con calabacín</p><ul><li><span>Lubina</span><span class=\"q\">140 g</span></li><li><span>Calabacín</span><span class=\"q\">200 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>30</b> P</span><span><b>16</b> G</span><span><b>3</b> Fib</span><span><b>298</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Merluza al horno con calabacín y brócoli</p><ul><li><span>Merluza</span><span class=\"q\">170 g</span></li><li><span>Calabacín</span><span class=\"q\">200 g</span></li><li><span>Brócoli</span><span class=\"q\">100 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">2 g</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>35</b> P</span><span><b>7</b> G</span><span><b>5</b> Fib</span><span><b>257</b> kcal</span></div>",
           "recipe": [
             "Horno a 200 °C (airfryer a 190 °C).",
-            "Calabacín en rodajas con el aceite y sal en la bandeja: 10 min.",
-            "Lubina (lomos o abierta) con sal, ajo en polvo y limón encima: 10–12 min (airfryer 8–10 min)."
+            "Calabacín en rodajas y brócoli en ramilletes con el aceite y sal en la bandeja: 10 min.",
+            "Añade la merluza con sal, ajo en polvo y limón encima: 10–12 min más (airfryer 8–10 min)."
           ]
         }
       ],
-      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">123</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">93</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">45</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1321</span><span class=\"tg\">kcal</span></div>"
+      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">119</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">116</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">34</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">31</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1308</span><span class=\"tg\">kcal</span></div>"
     }
   ]
 }
