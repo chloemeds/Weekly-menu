@@ -273,24 +273,24 @@
           "meal": "Desayuno",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Tostada integral con pechuga de pavo + matcha latte</p><ul><li><span>Pan integral (tostada)</span><span class=\"q\">70 g</span></li><li><span>Pechuga de pavo (lonchas)</span><span class=\"q\">80 g</span></li><li><span>Matcha con leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>35</b> HC netos</span><span><b>29</b> P</span><span><b>4</b> G</span><span><b>5</b> Fib</span><span><b>302</b> kcal</span></div>"
+          "html": "<p class=\"dish\">Medio sándwich de pan de masa madre con queso, york y cebolla caramelizada + medio trozo de banana bread con pepitas de chocolate + matcha con leche semidesnatada (tomado)</p><ul><li><span>Pan de masa madre tostado (medio sándwich)</span><span class=\"q\">~70 g</span></li><li><span>Queso fundido y jamón york</span><span class=\"q\">~20 + 20 g</span></li><li><span>Cebolla caramelizada y mantequilla</span><span class=\"q\">~15 + 4 g</span></li><li><span>Banana bread con pepitas de chocolate (medio trozo)</span><span class=\"q\">~50 g</span></li><li><span>Matcha con leche semidesnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>70</b> HC netos</span><span><b>22</b> P</span><span><b>20</b> G</span><span><b>3</b> Fib</span><span><b>554</b> kcal</span></div>"
         },
         {
           "meal": "Comida",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Solomillo de ternera con patatas al microondas y judías verdes</p><ul><li><span>Solomillo de ternera</span><span class=\"q\">170 g</span></li><li><span>Patata</span><span class=\"q\">250 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">2 g</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>46</b> HC netos</span><span><b>44</b> P</span><span><b>11</b> G</span><span><b>11</b> Fib</span><span><b>481</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Pollo asado con patatas al microondas y judías verdes</p><ul><li><span>Pollo asado (sin piel)</span><span class=\"q\">150 g</span></li><li><span>Patata</span><span class=\"q\">150 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">2 g</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>31</b> HC netos</span><span><b>47</b> P</span><span><b>13</b> G</span><span><b>9</b> Fib</span><span><b>447</b> kcal</span></div>",
           "recipe": [
             "Patatas en dados en un bol con un chorrito de agua, tapado: microondas 7–8 min (pincha para ver que estén tiernas). Para que se doren: 5 min de airfryer a 200 °C.",
             "Judías al vapor: bol tapado con 2 cdas de agua, microondas 5 min.",
-            "Solomillo con sal gorda: sartén muy caliente con el aceite, 2–3 min por lado (al punto). Reposa 2 min antes de cortar."
+            "Pollo asado sin piel, desmenuzado o en trozos: 3–4 min en la airfryer a 180 °C para calentarlo. Aliña todo con el chorrito de aceite y sal."
           ]
         },
         {
           "meal": "Merienda",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Yogur +Proteínas con frambuesas y granola</p><ul><li><span>Yogur +Proteínas Mercadona</span><span class=\"q\">120 g</span></li><li><span>Frambuesas</span><span class=\"q\">100 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">30 g</span></li></ul><div class=\"mac\"><span><b>28</b> HC netos</span><span><b>16</b> P</span><span><b>6</b> G</span><span><b>9</b> Fib</span><span><b>248</b> kcal</span></div>"
+          "html": "<p class=\"dish\">Yogur +Proteínas con frambuesas y granola</p><ul><li><span>Yogur +Proteínas Mercadona</span><span class=\"q\">120 g</span></li><li><span>Frambuesas</span><span class=\"q\">100 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">20 g</span></li></ul><div class=\"mac\"><span><b>22</b> HC netos</span><span><b>15</b> P</span><span><b>4</b> G</span><span><b>8</b> Fib</span><span><b>200</b> kcal</span></div>"
         },
         {
           "meal": "Cena",
@@ -304,7 +304,7 @@
           ]
         }
       ],
-      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">120</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">124</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">28</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">30</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1288</span><span class=\"tg\">kcal</span></div>"
+      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">134</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">119</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">44</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">25</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1458</span><span class=\"tg\">kcal</span></div>"
     }
   ]
 }
