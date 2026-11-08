@@ -290,7 +290,7 @@
           "meal": "Merienda",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Muffin de chocolate con pepitas de chocolate (tomado)</p><ul><li><span>Muffin de chocolate (mediano-pequeño)</span><span class=\"q\">~60 g</span></li></ul><div class=\"mac\"><span><b>27</b> HC netos</span><span><b>4</b> P</span><span><b>12</b> G</span><span><b>2</b> Fib</span><span><b>236</b> kcal</span></div>"
+          "html": "<p class=\"dish\">Muffin de chocolate con pepitas de chocolate + 1 onza de Marabou Oreo (tomado)</p><ul><li><span>Muffin de chocolate (mediano-pequeño)</span><span class=\"q\">~60 g</span></li><li><span>Chocolate Marabou Oreo (1 onza)</span><span class=\"q\">~7 g</span></li></ul><div class=\"mac\"><span><b>31</b> HC netos</span><span><b>4</b> P</span><span><b>14</b> G</span><span><b>2</b> Fib</span><span><b>270</b> kcal</span></div>"
         },
         {
           "meal": "Cena",
@@ -304,7 +304,7 @@
           ]
         }
       ],
-      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">133</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">116</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">52</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">15</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1494</span><span class=\"tg\">kcal</span></div>"
+      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">137</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">116</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">54</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">15</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1528</span><span class=\"tg\">kcal</span></div>"
     }
   ]
 }
