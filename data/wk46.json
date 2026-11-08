@@ -96,23 +96,19 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Merluza al horno con judías verdes y almendras laminadas</p><ul><li><span>Merluza</span><span class=\"q\">140 g</span></li><li><span>Judías verdes</span><span class=\"q\">200 g</span></li><li><span>Almendras laminadas</span><span class=\"q\">10 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>12</b> HC netos</span><span><b>30</b> P</span><span><b>16</b> G</span><span><b>8</b> Fib</span><span><b>328</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Merluza al horno con judías verdes</p><ul><li><span>Merluza</span><span class=\"q\">150 g</span></li><li><span>Judías verdes</span><span class=\"q\">200 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cda</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>30</b> P</span><span><b>16</b> G</span><span><b>6</b> Fib</span><span><b>321</b> kcal</span></div>",
      "src": [
       [
        "merluza",
-       140
+       150
       ],
       [
        "judias",
        200
       ],
       [
-       "almendras",
-       10
-      ],
-      [
        "aceite",
-       5
+       10
       ],
       [
        "choco",
@@ -122,11 +118,11 @@
      "recipe": [
       "Horno a 200 °C. Merluza en una bandeja con sal, pimienta, limón y unas gotas del aceite, 12–14 min.",
       "Judías verdes al vapor: bol con 2 cdas de agua, tapado, microondas 6–7 min.",
-      "Tuesta las almendras en una sartén sin aceite 1–2 min y échalas por encima de las judías con el resto del aceite."
+      "Aliña las judías con el resto del aceite, sal y una pizca de pimentón."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">135</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">42</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1373</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">134</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">43</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">25</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1367</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Martes",
@@ -489,15 +485,15 @@
      "meal": "Desayuno",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Tostada integral con salmón ahumado + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">55 g</span></li><li><span>Salmón ahumado</span><span class=\"q\">30 g</span></li><li><span>Matcha con leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>28</b> HC netos</span><span><b>18</b> P</span><span><b>5</b> G</span><span><b>4</b> Fib</span><span><b>233</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Tostada integral con tortilla francesa de 1 huevo + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">55 g</span></li><li><span>Huevos</span><span class=\"q\">1 ud</span></li><li><span>Matcha con leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>28</b> HC netos</span><span><b>18</b> P</span><span><b>8</b> G</span><span><b>4</b> Fib</span><span><b>263</b> kcal</span></div>",
      "src": [
       [
        "pan_int",
        55
       ],
       [
-       "salmon_ahum",
-       30
+       "huevo",
+       55
       ],
       [
        "leche_d",
@@ -509,11 +505,11 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Pasta integral con gambas y calabacín</p><ul><li><span>Pasta integral (cruda)</span><span class=\"q\">90 g</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">120 g</span></li><li><span>Calabacín</span><span class=\"q\">200 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>63</b> HC netos</span><span><b>39</b> P</span><span><b>13</b> G</span><span><b>10</b> Fib</span><span><b>540</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Pasta con gambas y calabacín</p><ul><li><span>Pasta (cruda)</span><span class=\"q\">80 g</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">120 g</span></li><li><span>Calabacín</span><span class=\"q\">200 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>64</b> HC netos</span><span><b>37</b> P</span><span><b>12</b> G</span><span><b>5</b> Fib</span><span><b>519</b> kcal</span></div>",
      "src": [
       [
-       "pasta_int",
-       90
+       "pasta",
+       80
       ],
       [
        "gambas",
@@ -543,18 +539,18 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Yogur griego light con manzana asada, canela y nueces</p><ul><li><span>Yogur griego light Mercadona</span><span class=\"q\">1 ud (125 g)</span></li><li><span>Manzana</span><span class=\"q\">170 g</span></li><li><span>Nueces</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>26</b> HC netos</span><span><b>9</b> P</span><span><b>9</b> G</span><span><b>5</b> Fib</span><span><b>234</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Yogur griego light con mandarina y chía</p><ul><li><span>Yogur griego light Mercadona</span><span class=\"q\">1 ud (125 g)</span></li><li><span>Mandarina</span><span class=\"q\">2 ud (140 g)</span></li><li><span>Chía</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>23</b> HC netos</span><span><b>10</b> P</span><span><b>6</b> G</span><span><b>6</b> Fib</span><span><b>197</b> kcal</span></div>",
      "src": [
       [
        "yog_light",
        125
       ],
       [
-       "manzana",
-       170
+       "mandarina",
+       140
       ],
       [
-       "nueces",
+       "chia",
        10
       ]
      ]
@@ -563,7 +559,7 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Pavo a la plancha con brócoli y setas</p><ul><li><span>Filete de pavo</span><span class=\"q\">110 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Setas</span><span class=\"q\">120 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cda</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>14</b> HC netos</span><span><b>33</b> P</span><span><b>16</b> G</span><span><b>8</b> Fib</span><span><b>343</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Pavo a la plancha con brócoli y alcachofas</p><ul><li><span>Filete de pavo</span><span class=\"q\">110 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Alcachofas (corazones)</span><span class=\"q\">120 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cda</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>15</b> HC netos</span><span><b>33</b> P</span><span><b>15</b> G</span><span><b>11</b> Fib</span><span><b>355</b> kcal</span></div>",
      "src": [
       [
        "pavo",
@@ -574,7 +570,7 @@
        150
       ],
       [
-       "setas",
+       "alcachofa",
        120
       ],
       [
@@ -589,11 +585,11 @@
      "recipe": [
       "Brócoli al vapor en el microondas, bol tapado con 2 cdas de agua, 4–5 min.",
       "Filetes de pavo con sal y pimienta: sartén caliente con 1 cdta de aceite, 3 min por lado, y reserva.",
-      "Setas y brócoli en la misma sartén con el resto del aceite, 4–5 min."
+      "Alcachofas (de bote, escurridas, en cuartos) y brócoli en la misma sartén con el resto del aceite, 4–5 min."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">130</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">42</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1351</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">130</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">41</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1334</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Sábado",
@@ -728,15 +724,15 @@
      "meal": "Desayuno",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Tortitas de arroz con pavo y queso light + matcha latte</p><ul><li><span>Tortitas de arroz</span><span class=\"q\">3 ud (24 g)</span></li><li><span>Pechuga de pavo en lonchas</span><span class=\"q\">30 g</span></li><li><span>Queso en lonchas light</span><span class=\"q\">½ loncha (12,5 g)</span></li><li><span>Matcha con leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>27</b> HC netos</span><span><b>16</b> P</span><span><b>4</b> G</span><span><b>1</b> Fib</span><span><b>204</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Tostada integral con pavo y queso light + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">40 g</span></li><li><span>Pechuga de pavo en lonchas</span><span class=\"q\">20 g</span></li><li><span>Queso en lonchas light</span><span class=\"q\">½ loncha (12,5 g)</span></li><li><span>Matcha con leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>23</b> HC netos</span><span><b>17</b> P</span><span><b>4</b> G</span><span><b>3</b> Fib</span><span><b>201</b> kcal</span></div>",
      "src": [
       [
-       "tortita",
-       24
+       "pan_int",
+       40
       ],
       [
        "pavo_l",
-       30
+       20
       ],
       [
        "queso_l",
@@ -844,7 +840,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">136</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">44</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">27</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1386</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">132</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">44</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">29</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1383</span><span class=\"tg\">kcal</span></div>"
   }
  ]
 }

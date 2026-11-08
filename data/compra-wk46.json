@@ -41,7 +41,7 @@
         {
           "id": "setas",
           "name": "Setas",
-          "qty": "<em>270 g</em>",
+          "qty": "<em>150 g</em>",
           "price": 2.2,
           "out": false,
           "buy": "Setas de cardo u ostra, bandeja. Precio aproximado (no lo he comprobado en la web de Mercadona)"
@@ -49,7 +49,7 @@
         {
           "id": "alcachofa",
           "name": "Alcachofas",
-          "qty": "<em>450 g</em>",
+          "qty": "<em>570 g</em>",
           "price": 4.3,
           "out": false,
           "buy": "2 tarros de corazones de alcachofa Hacendado de 430 g"
@@ -103,12 +103,12 @@
           "buy": "2 kiwis verdes sueltos"
         },
         {
-          "id": "manzana",
-          "name": "Manzana",
-          "qty": "<em>1</em> · 170 g",
-          "price": 0.4,
+          "id": "mandarina",
+          "name": "Mandarina",
+          "qty": "<em>2</em> · 140 g",
+          "price": 0.5,
           "out": false,
-          "buy": "Manzana suelta. Precio aproximado (no lo he comprobado en la web de Mercadona)"
+          "buy": "2 mandarinas sueltas. Precio aproximado (no lo he comprobado en la web de Mercadona)"
         },
         {
           "id": "platano",
@@ -182,7 +182,7 @@
         {
           "id": "merluza",
           "name": "Merluza",
-          "qty": "<em>140 g</em>",
+          "qty": "<em>150 g</em>",
           "price": 4.5,
           "out": false,
           "buy": "Filetes de merluza Hacendado ultracongelados. Precio aproximado (no lo he comprobado en la web de Mercadona)"
@@ -227,7 +227,7 @@
         {
           "id": "huevos",
           "name": "Huevos",
-          "qty": "<em>5</em>",
+          "qty": "<em>6</em>",
           "price": 1.8,
           "out": false,
           "buy": "Huevos grandes L, media docena"
@@ -251,7 +251,7 @@
         {
           "id": "pavol",
           "name": "Pechuga de pavo en lonchas",
-          "qty": "<em>60 g</em>",
+          "qty": "<em>50 g</em>",
           "price": 1.9,
           "out": false,
           "buy": "Pechuga de pavo en finas lonchas Hacendado. Precio aproximado (no lo he comprobado en la web de Mercadona)"
@@ -263,14 +263,6 @@
           "price": 2.5,
           "out": false,
           "buy": "Jamón serrano en lonchas, sobre pequeño. Precio aproximado (no lo he comprobado en la web de Mercadona)"
-        },
-        {
-          "id": "salmonah",
-          "name": "Salmón ahumado",
-          "qty": "<em>30 g</em>",
-          "price": 3.0,
-          "out": false,
-          "buy": "Salmón ahumado Hacendado, sobre de 100 g. Precio aproximado (no lo he comprobado en la web de Mercadona)"
         },
         {
           "id": "queso",
@@ -312,7 +304,7 @@
         {
           "id": "pan",
           "name": "Pan integral",
-          "qty": "<em>150 g</em> · unas 4 rebanadas",
+          "qty": "<em>135 g</em> · unas 4 rebanadas",
           "price": 0.9,
           "out": false,
           "buy": "Pan de molde 100% integral Hacendado, 460 g"
@@ -326,14 +318,6 @@
           "buy": "Barra de pan del día. Precio aproximado (no lo he comprobado en la web de Mercadona)"
         },
         {
-          "id": "tortitas",
-          "name": "Tortitas de arroz",
-          "qty": "<em>3</em>",
-          "price": 1.0,
-          "out": false,
-          "buy": "Tortitas de arroz Hacendado. Precio aproximado (no lo he comprobado en la web de Mercadona)"
-        },
-        {
           "id": "arroz",
           "name": "Arroz blanco",
           "qty": "<em>80 g</em>",
@@ -342,12 +326,12 @@
           "buy": "Arroz largo Hacendado, 1 kg"
         },
         {
-          "id": "pastaint",
-          "name": "Pasta integral",
-          "qty": "<em>90 g</em>",
-          "price": 1.0,
+          "id": "pasta",
+          "name": "Pasta",
+          "qty": "<em>80 g</em>",
+          "price": 0.9,
           "out": false,
-          "buy": "Macarrones o espaguetis integrales Hacendado, 500 g. Precio aproximado (no lo he comprobado en la web de Mercadona)"
+          "buy": "Macarrones o espaguetis Hacendado, 500 g. Precio aproximado (no lo he comprobado en la web de Mercadona)"
         },
         {
           "id": "gnocchi",
@@ -376,7 +360,7 @@
         {
           "id": "chia",
           "name": "Chía",
-          "qty": "<em>32 g</em>",
+          "qty": "<em>42 g</em>",
           "price": 2.05,
           "out": false,
           "buy": "Semillas de chía Hacendado, 250 g"
@@ -392,15 +376,15 @@
         {
           "id": "almendras",
           "name": "Almendras",
-          "qty": "<em>20 g</em> · 10 g laminadas",
+          "qty": "<em>10 g</em>",
           "price": 2.3,
           "out": false,
-          "buy": "Almendra natural Hacendado, 200 g (o laminada)"
+          "buy": "Almendra natural Hacendado, 200 g"
         },
         {
           "id": "nueces",
           "name": "Nueces",
-          "qty": "<em>25 g</em>",
+          "qty": "<em>15 g</em>",
           "price": 1.7,
           "out": false,
           "buy": "Nuez troceada pelada Hacendado, 150 g"
@@ -420,14 +404,6 @@
           "price": 3.3,
           "out": false,
           "buy": "Chocolate negro 72% cacao Hacendado, tableta de 100 g (1,65 € cada una)"
-        },
-        {
-          "id": "canela",
-          "name": "Canela",
-          "qty": "<em>un poco</em>",
-          "price": 1.0,
-          "out": false,
-          "buy": "Canela molida Hacendado, bote"
         }
       ]
     },
