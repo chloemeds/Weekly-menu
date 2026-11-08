@@ -296,16 +296,15 @@
           "meal": "Cena",
           "span": 1,
           "cls": [],
-          "html": "<p class=\"dish\">Merluza al horno con brócoli y edamame</p><ul><li><span>Merluza</span><span class=\"q\">120 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Edamame</span><span class=\"q\">100 g</span></li><li><span>Chía</span><span class=\"q\">12 g</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>38</b> P</span><span><b>11</b> G</span><span><b>13</b> Fib</span><span><b>321</b> kcal</span></div>",
+          "html": "<p class=\"dish\">Merluza al horno con brócoli y edamame</p><ul><li><span>Merluza</span><span class=\"q\">120 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Edamame</span><span class=\"q\">100 g</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>36</b> P</span><span><b>7</b> G</span><span><b>9</b> Fib</span><span><b>269</b> kcal</span></div>",
           "recipe": [
             "Horno a 200 °C (airfryer a 190 °C).",
             "Brócoli en ramilletes con sal en la bandeja: 8 min.",
-            "Añade la merluza con sal, ajo en polvo y limón encima, y el edamame: 10–12 min más (airfryer 8–10 min).",
-            "Espolvorea la chía por encima al servir."
+            "Añade la merluza con sal, ajo en polvo y limón encima, y el edamame: 10–12 min más (airfryer 8–10 min)."
           ]
         }
       ],
-      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">131</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">114</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">60</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">24</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1568</span><span class=\"tg\">kcal</span></div>"
+      "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">131</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">112</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">56</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">20</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1516</span><span class=\"tg\">kcal</span></div>"
     }
   ]
 }
