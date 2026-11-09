@@ -42,7 +42,7 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Ñoquis salteados con lomo y brócoli (tomado)</p><ul><li><span>Ñoquis de patata Hacendado</span><span class=\"q\">23 ud (150 g)</span></li><li><span>Lomo de cerdo</span><span class=\"q\">130 g</span></li><li><span>Brócoli</span><span class=\"q\">200 g</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>68</b> HC netos</span><span><b>41</b> P</span><span><b>13</b> G</span><span><b>8</b> Fib</span><span><b>564</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Ñoquis salteados con lomo y brócoli (tomado)</p><ul><li><span>Ñoquis de patata Hacendado</span><span class=\"q\">23 ud (150 g)</span></li><li><span>Lomo de cerdo</span><span class=\"q\">125 g</span></li><li><span>Brócoli</span><span class=\"q\">125 g</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>64</b> HC netos</span><span><b>38</b> P</span><span><b>12</b> G</span><span><b>6</b> Fib</span><span><b>529</b> kcal</span></div>",
      "src": [
       [
        "gnocchi",
@@ -50,11 +50,11 @@
       ],
       [
        "lomo",
-       130
+       125
       ],
       [
        "brocoli",
-       200
+       125
       ],
       [
        "choco",
@@ -72,7 +72,7 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Skyr con arándanos, chía y granola</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Chía</span><span class=\"q\">10 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">30 g</span></li></ul><div class=\"mac\"><span><b>25</b> HC netos</span><span><b>14</b> P</span><span><b>8</b> G</span><span><b>7</b> Fib</span><span><b>241</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Skyr con arándanos, chía y granola</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Chía</span><span class=\"q\">15 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">30 g</span></li></ul><div class=\"mac\"><span><b>25</b> HC netos</span><span><b>15</b> P</span><span><b>10</b> G</span><span><b>9</b> Fib</span><span><b>264</b> kcal</span></div>",
      "src": [
       [
        "skyr",
@@ -84,7 +84,7 @@
       ],
       [
        "chia",
-       10
+       15
       ],
       [
        "granola",
@@ -96,7 +96,7 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Merluza al horno con judías verdes</p><ul><li><span>Merluza</span><span class=\"q\">120 g</span></li><li><span>Judías verdes</span><span class=\"q\">200 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">2 g</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>25</b> P</span><span><b>8</b> G</span><span><b>6</b> Fib</span><span><b>225</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Merluza al horno con judías verdes</p><ul><li><span>Merluza</span><span class=\"q\">120 g</span></li><li><span>Judías verdes</span><span class=\"q\">250 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">2 g</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>13</b> HC netos</span><span><b>26</b> P</span><span><b>8</b> G</span><span><b>8</b> Fib</span><span><b>241</b> kcal</span></div>",
      "src": [
       [
        "merluza",
@@ -104,7 +104,7 @@
       ],
       [
        "judias",
-       200
+       250
       ],
       [
        "aceite",
@@ -122,7 +122,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">131</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">102</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">44</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">25</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1383</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">130</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">45</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1386</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Martes",
