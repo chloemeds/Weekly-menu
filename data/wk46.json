@@ -100,19 +100,15 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Bacalao al horno con judías verdes y alcachofas</p><ul><li><span>Bacalao fresco (lomo)</span><span class=\"q\">120 g</span></li><li><span>Judías verdes</span><span class=\"q\">200 g</span></li><li><span>Alcachofas (corazones)</span><span class=\"q\">100 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>16</b> HC netos</span><span><b>29</b> P</span><span><b>10</b> G</span><span><b>12</b> Fib</span><span><b>294</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Bacalao al horno con judías verdes</p><ul><li><span>Bacalao fresco (lomo)</span><span class=\"q\">130 g</span></li><li><span>Judías verdes</span><span class=\"q\">300 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>16</b> HC netos</span><span><b>30</b> P</span><span><b>10</b> G</span><span><b>9</b> Fib</span><span><b>292</b> kcal</span></div>",
      "src": [
       [
        "bacalao",
-       120
+       130
       ],
       [
        "judias",
-       200
-      ],
-      [
-       "alcachofa",
-       100
+       300
       ],
       [
        "aceite",
@@ -124,13 +120,13 @@
       ]
      ],
      "recipe": [
-      "Horno a 200 °C. Bacalao y alcachofas (de bote, escurridas, en cuartos) en una bandeja con sal, pimienta y limón, 12–14 min.",
-      "Judías verdes al vapor: bol con 2 cdas de agua, tapado, microondas 6–7 min.",
+      "Horno a 200 °C. Bacalao en una bandeja con sal, pimienta y limón, 12–14 min.",
+      "Judías verdes al vapor: bol con 2 cdas de agua, tapado, microondas 7–8 min.",
       "Aliña las judías con la cucharadita de aceite, sal y una pizca de pimentón."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">126</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">47</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">28</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1385</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">126</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">102</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">47</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">25</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1383</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Martes",
