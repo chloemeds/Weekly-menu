@@ -15,7 +15,7 @@ DB = {
     'patata':     ('Patata', 15.5, 2, 0.1, 2, None),
     'boniato':    ('Boniato', 17.5, 1.6, 0.1, 3, None),
     'lentejas':   ('Lentejas (secas)', 49, 24, 1.5, 11, None),
-    'gnocchi':    ('Gnocchi de patata', 31, 4, 0.5, 2, None),
+    'gnocchi':    ('Ñoquis de patata Hacendado', 37.6, 4.5, 0.4, 1, 150 / 23),  # etiqueta; 23 ñoquis = 150 g
     'pan_int':    ('Pan integral', 38, 11, 3.5, 7, None),
     'baguette':   ('Pan baguette', 52, 9, 1.5, 2.5, None),
     'tortita':    ('Tortitas de arroz', 78, 8, 3, 3, 8),
