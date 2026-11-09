@@ -89,7 +89,7 @@
         {
           "id": "arandano",
           "name": "Arándanos",
-          "qty": "<em>60 g</em>",
+          "qty": "<em>80 g</em>",
           "price": 2.2,
           "out": false,
           "buy": "Arándanos, tarrina de 125 g. Precio aproximado (no lo he comprobado en la web de Mercadona)"
@@ -227,23 +227,15 @@
         {
           "id": "huevos",
           "name": "Huevos",
-          "qty": "<em>6</em>",
+          "qty": "<em>8</em>",
           "price": 1.8,
           "out": false,
-          "buy": "Huevos grandes L, media docena"
-        },
-        {
-          "id": "claras",
-          "name": "Claras de huevo",
-          "qty": "<em>150 g</em>",
-          "price": 1.5,
-          "out": false,
-          "buy": "Claras de huevo pasteurizadas Hacendado, brick. Precio aproximado (no lo he comprobado en la web de Mercadona)"
+          "buy": "Huevos grandes L, docena"
         },
         {
           "id": "york",
           "name": "Jamón york",
-          "qty": "<em>60 g</em>",
+          "qty": "<em>125 g</em>",
           "price": 2.0,
           "out": false,
           "buy": "Jamón cocido extra Hacendado finas lonchas, 200 g"
