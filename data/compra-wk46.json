@@ -55,6 +55,14 @@
           "buy": "2 tarros de corazones de alcachofa Hacendado de 430 g"
         },
         {
+          "id": "aguacate",
+          "name": "Aguacate",
+          "qty": "<em>1</em> · 150 g",
+          "price": 1.0,
+          "out": false,
+          "buy": "1 aguacate suelto. Precio aproximado (no lo he comprobado en la web de Mercadona)"
+        },
+        {
           "id": "patata",
           "name": "Patata",
           "qty": "<em>250 g</em> · 2 medianas",
@@ -340,14 +348,6 @@
           "price": 2.05,
           "out": false,
           "buy": "Semillas de chía Hacendado, 250 g"
-        },
-        {
-          "id": "sesamo",
-          "name": "Sésamo",
-          "qty": "<em>5 g</em>",
-          "price": 1.2,
-          "out": false,
-          "buy": "Sésamo tostado Hacendado. Precio aproximado (no lo he comprobado en la web de Mercadona)"
         },
         {
           "id": "almendras",

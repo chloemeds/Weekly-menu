@@ -31,6 +31,7 @@ DB = {
     'ternera':    ('Ternera (filete magro)', 0, 21, 5, 0, None),
     'picada_ternera': ('Carne picada de ternera 5% grasa', 0, 21, 5, 0, None),
     'salmon':     ('Salmón', 0, 20, 13, 0, None),
+    'rodaballo':  ('Rodaballo', 0, 16, 2, 0, None),
     'salmon_lata': ('Salmón en lata (escurrido)', 0, 21.7, 6.7, 0, None),
     'merluza':    ('Merluza', 0, 17, 1.5, 0, None),
     'bacalao':    ('Bacalao fresco (lomo)', 0, 18, 0.7, 0, None),
