@@ -128,7 +128,7 @@ def qty_text(key, g):
         return '%s ml' % fmt_g(g)
     if key == 'aceite':
         if g == 5:
-            return '1 cdta'
+            return '1 cucharadita'
         if g == 10:
             return '1 cda'
         if g == 15:

@@ -72,7 +72,7 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Skyr con arándanos, chía y granola</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Chía</span><span class=\"q\">15 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">30 g</span></li></ul><div class=\"mac\"><span><b>25</b> HC netos</span><span><b>15</b> P</span><span><b>10</b> G</span><span><b>9</b> Fib</span><span><b>264</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Skyr con arándanos, chía y granola</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Chía</span><span class=\"q\">10 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">20 g</span></li></ul><div class=\"mac\"><span><b>19</b> HC netos</span><span><b>13</b> P</span><span><b>7</b> G</span><span><b>6</b> Fib</span><span><b>200</b> kcal</span></div>",
      "src": [
       [
        "skyr",
@@ -84,11 +84,11 @@
       ],
       [
        "chia",
-       15
+       10
       ],
       [
        "granola",
-       30
+       20
       ]
      ]
     },
@@ -96,7 +96,7 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Merluza al horno con judías verdes</p><ul><li><span>Merluza</span><span class=\"q\">120 g</span></li><li><span>Judías verdes</span><span class=\"q\">250 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">2 g</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>13</b> HC netos</span><span><b>26</b> P</span><span><b>8</b> G</span><span><b>8</b> Fib</span><span><b>241</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Merluza al horno con judías verdes y alcachofas</p><ul><li><span>Merluza</span><span class=\"q\">120 g</span></li><li><span>Judías verdes</span><span class=\"q\">200 g</span></li><li><span>Alcachofas (corazones)</span><span class=\"q\">100 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>16</b> HC netos</span><span><b>28</b> P</span><span><b>11</b> G</span><span><b>12</b> Fib</span><span><b>298</b> kcal</span></div>",
      "src": [
       [
        "merluza",
@@ -104,11 +104,15 @@
       ],
       [
        "judias",
-       250
+       200
+      ],
+      [
+       "alcachofa",
+       100
       ],
       [
        "aceite",
-       2
+       5
       ],
       [
        "choco",
@@ -116,13 +120,13 @@
       ]
      ],
      "recipe": [
-      "Horno a 200 °C. Merluza en una bandeja con sal, pimienta y limón, 12–14 min.",
+      "Horno a 200 °C. Merluza y alcachofas (de bote, escurridas, en cuartos) en una bandeja con sal, pimienta y limón, 12–14 min.",
       "Judías verdes al vapor: bol con 2 cdas de agua, tapado, microondas 6–7 min.",
-      "Aliña las judías con unas gotas de aceite, sal y una pizca de pimentón."
+      "Aliña las judías con la cucharadita de aceite, sal y una pizca de pimentón."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">130</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">45</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1386</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">128</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">45</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">28</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1380</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Martes",
@@ -136,7 +140,7 @@
      "meal": "Desayuno",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Revuelto de 2 huevos con jamón york + matcha latte</p><ul><li><span>Huevos</span><span class=\"q\">2 ud</span></li><li><span>Jamón york extra</span><span class=\"q\">30 g</span></li><li><span>Matcha con bebida de almendra</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>1</b> HC netos</span><span><b>20</b> P</span><span><b>13</b> G</span><span><b>0</b> Fib</span><span><b>206</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Revuelto de 2 huevos con jamón york + matcha latte</p><ul><li><span>Huevos</span><span class=\"q\">2 ud</span></li><li><span>Jamón york extra</span><span class=\"q\">30 g</span></li><li><span>Bebida de almendra sin azúcar</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>1</b> HC netos</span><span><b>20</b> P</span><span><b>13</b> G</span><span><b>0</b> Fib</span><span><b>206</b> kcal</span></div>",
      "src": [
       [
        "huevo",
@@ -156,7 +160,7 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Salmón al horno con brócoli y sésamo</p><ul><li><span>Salmón</span><span class=\"q\">120 g</span></li><li><span>Brócoli</span><span class=\"q\">200 g</span></li><li><span>Sésamo</span><span class=\"q\">5 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cda</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>12</b> HC netos</span><span><b>31</b> P</span><span><b>32</b> G</span><span><b>7</b> Fib</span><span><b>477</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Salmón al horno con brócoli, aguacate y sésamo</p><ul><li><span>Salmón</span><span class=\"q\">120 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aguacate</span><span class=\"q\">60 g</span></li><li><span>Sésamo</span><span class=\"q\">5 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>31</b> P</span><span><b>36</b> G</span><span><b>9</b> Fib</span><span><b>512</b> kcal</span></div>",
      "src": [
       [
        "salmon",
@@ -164,7 +168,11 @@
       ],
       [
        "brocoli",
-       200
+       150
+      ],
+      [
+       "aguacate",
+       60
       ],
       [
        "sesamo",
@@ -172,7 +180,7 @@
       ],
       [
        "aceite",
-       10
+       5
       ],
       [
        "choco",
@@ -181,9 +189,8 @@
      ],
      "recipe": [
       "Horno a 200 °C. Salmón con sal y pimienta en una bandeja, 12–14 min.",
-      "Brócoli en ramilletes al vapor en el microondas, bol tapado con 2 cdas de agua, 4–5 min.",
-      "Saltea el brócoli 2 min en sartén con el aceite y una pizca de sal.",
-      "Sirve con el sésamo por encima."
+      "Brócoli en ramilletes al vapor en el microondas, bol tapado con 2 cdas de agua, 4–5 min, y saltéalo 2 min en sartén con la cucharadita de aceite.",
+      "Sirve con el aguacate en láminas y el sésamo por encima."
      ]
     },
     {
@@ -210,7 +217,7 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Contramuslos de pollo a la plancha con setas y alcachofas</p><ul><li><span>Contramuslo de pollo sin piel</span><span class=\"q\">140 g</span></li><li><span>Setas</span><span class=\"q\">150 g</span></li><li><span>Alcachofas (corazones)</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cda</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>16</b> HC netos</span><span><b>37</b> P</span><span><b>23</b> G</span><span><b>12</b> Fib</span><span><b>442</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Contramuslos de pollo a la plancha con setas y alcachofas</p><ul><li><span>Contramuslo de pollo sin piel</span><span class=\"q\">140 g</span></li><li><span>Setas</span><span class=\"q\">150 g</span></li><li><span>Alcachofas (corazones)</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>16</b> HC netos</span><span><b>37</b> P</span><span><b>18</b> G</span><span><b>12</b> Fib</span><span><b>397</b> kcal</span></div>",
      "src": [
       [
        "muslo",
@@ -226,7 +233,7 @@
       ],
       [
        "aceite",
-       10
+       5
       ],
       [
        "choco",
@@ -240,7 +247,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">43</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">81</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">28</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1358</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">41</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">80</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">31</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1348</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Miércoles",
@@ -254,7 +261,7 @@
      "meal": "Desayuno",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Tortilla francesa de 2 huevos con queso light + matcha latte</p><ul><li><span>Huevos</span><span class=\"q\">2 ud</span></li><li><span>Queso en lonchas light</span><span class=\"q\">½ loncha (12,5 g)</span></li><li><span>Matcha: bebida de almendra</span><span class=\"q\">100 ml</span></li><li><span>+ leche desnatada</span><span class=\"q\">50 ml</span></li></ul><div class=\"mac\"><span><b>3</b> HC netos</span><span><b>19</b> P</span><span><b>14</b> G</span><span><b>0</b> Fib</span><span><b>220</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Tortilla francesa de 2 huevos con queso light + matcha latte</p><ul><li><span>Huevos</span><span class=\"q\">2 ud</span></li><li><span>Queso en lonchas light</span><span class=\"q\">½ loncha (12,5 g)</span></li><li><span>Bebida de almendra sin azúcar</span><span class=\"q\">100 ml</span></li><li><span>Leche desnatada</span><span class=\"q\">50 ml</span></li></ul><div class=\"mac\"><span><b>3</b> HC netos</span><span><b>19</b> P</span><span><b>14</b> G</span><span><b>0</b> Fib</span><span><b>220</b> kcal</span></div>",
      "src": [
       [
        "huevo",
@@ -278,11 +285,11 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Lomo de cerdo a la plancha con judías verdes y brócoli</p><ul><li><span>Lomo de cerdo</span><span class=\"q\">130 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Brócoli</span><span class=\"q\">120 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">2 cdas</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>14</b> HC netos</span><span><b>35</b> P</span><span><b>32</b> G</span><span><b>8</b> Fib</span><span><b>501</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Lomo de cerdo a la plancha con judías verdes con almendras y brócoli</p><ul><li><span>Lomo de cerdo</span><span class=\"q\">140 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Brócoli</span><span class=\"q\">120 g</span></li><li><span>Almendras</span><span class=\"q\">15 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>16</b> HC netos</span><span><b>40</b> P</span><span><b>25</b> G</span><span><b>10</b> Fib</span><span><b>469</b> kcal</span></div>",
      "src": [
       [
        "lomo",
-       130
+       140
       ],
       [
        "judias",
@@ -293,8 +300,12 @@
        120
       ],
       [
+       "almendras",
+       15
+      ],
+      [
        "aceite",
-       20
+       5
       ],
       [
        "choco",
@@ -303,15 +314,15 @@
      ],
      "recipe": [
       "Judías verdes y brócoli al vapor en el microondas, bol tapado con 2 cdas de agua, 5–6 min.",
-      "Lomo en filetes con sal y pimienta: sartén muy caliente con 1 cdta de aceite, 2–3 min por lado, y reserva.",
-      "Saltea las verduras en la misma sartén con el resto del aceite y una pizca de ajo en polvo, 3 min."
+      "Lomo en filetes con sal y pimienta: sartén muy caliente con la cucharadita de aceite, 2–3 min por lado, y reserva.",
+      "Saltea las verduras 3 min en la misma sartén con las almendras laminadas y una pizca de ajo en polvo."
      ]
     },
     {
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Yogur griego light con arándanos, almendras y crema de avellana</p><ul><li><span>Yogur griego light Mercadona</span><span class=\"q\">1 ud (125 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Almendras</span><span class=\"q\">10 g</span></li><li><span>Crema de avellana y cacao Ametller</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>12</b> HC netos</span><span><b>11</b> P</span><span><b>11</b> G</span><span><b>7</b> Fib</span><span><b>200</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Yogur griego light con arándanos, nueces y crema de avellana</p><ul><li><span>Yogur griego light Mercadona</span><span class=\"q\">1 ud (125 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Nueces</span><span class=\"q\">10 g</span></li><li><span>Crema de avellana y cacao Ametller</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>12</b> HC netos</span><span><b>10</b> P</span><span><b>12</b> G</span><span><b>6</b> Fib</span><span><b>209</b> kcal</span></div>",
      "src": [
       [
        "yog_light",
@@ -322,7 +333,7 @@
        40
       ],
       [
-       "almendras",
+       "nueces",
        10
       ],
       [
@@ -335,11 +346,11 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Dorada al horno con alcachofas y calabacín (cena temprana)</p><ul><li><span>Dorada</span><span class=\"q\">140 g</span></li><li><span>Alcachofas (corazones)</span><span class=\"q\">150 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cda</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>13</b> HC netos</span><span><b>34</b> P</span><span><b>21</b> G</span><span><b>10</b> Fib</span><span><b>402</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Salmón al horno con alcachofas y calabacín (cena temprana)</p><ul><li><span>Salmón</span><span class=\"q\">120 g</span></li><li><span>Alcachofas (corazones)</span><span class=\"q\">150 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>13</b> HC netos</span><span><b>32</b> P</span><span><b>25</b> G</span><span><b>10</b> Fib</span><span><b>424</b> kcal</span></div>",
      "src": [
       [
-       "dorada",
-       140
+       "salmon",
+       120
       ],
       [
        "alcachofa",
@@ -351,7 +362,7 @@
       ],
       [
        "aceite",
-       10
+       5
       ],
       [
        "choco",
@@ -359,13 +370,13 @@
       ]
      ],
      "recipe": [
-      "Horno a 200 °C. Calabacín en rodajas y alcachofas en una bandeja con 2/3 del aceite y sal, 5 min.",
-      "Añade la dorada en lomos con sal, pimienta, limón y el resto del aceite.",
-      "Hornea 12 min más, hasta que el pescado se separe en láminas."
+      "Horno a 200 °C. Calabacín en rodajas y alcachofas (de bote, escurridas) en una bandeja con la cucharadita de aceite y sal, 5 min.",
+      "Añade el salmón con sal, pimienta y limón.",
+      "Hornea 12 min más, hasta que el salmón esté hecho."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">43</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">78</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1322</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">44</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">76</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">27</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1322</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Jueves",
@@ -379,7 +390,7 @@
      "meal": "Desayuno",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Tostada integral con jamón york + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">45 g</span></li><li><span>Jamón york extra</span><span class=\"q\">30 g</span></li><li><span>Matcha con leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>25</b> HC netos</span><span><b>15</b> P</span><span><b>3</b> G</span><span><b>3</b> Fib</span><span><b>191</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Tostada integral con jamón york + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">45 g</span></li><li><span>Jamón york extra</span><span class=\"q\">30 g</span></li><li><span>Leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>25</b> HC netos</span><span><b>15</b> P</span><span><b>3</b> G</span><span><b>3</b> Fib</span><span><b>191</b> kcal</span></div>",
      "src": [
       [
        "pan_int",
@@ -399,7 +410,7 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Pollo con boniato asado y brócoli (comida ligera, cenas fuera)</p><ul><li><span>Pechuga de pollo</span><span class=\"q\">140 g</span></li><li><span>Boniato</span><span class=\"q\">150 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>35</b> HC netos</span><span><b>40</b> P</span><span><b>11</b> G</span><span><b>9</b> Fib</span><span><b>420</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Pollo con boniato asado y brócoli (comida ligera, cenas fuera)</p><ul><li><span>Pechuga de pollo</span><span class=\"q\">140 g</span></li><li><span>Boniato</span><span class=\"q\">150 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>35</b> HC netos</span><span><b>40</b> P</span><span><b>11</b> G</span><span><b>9</b> Fib</span><span><b>420</b> kcal</span></div>",
      "src": [
       [
        "pollo",
@@ -432,7 +443,7 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Skyr con kiwi y chía</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Kiwi</span><span class=\"q\">2 ud</span></li><li><span>Chía</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>22</b> HC netos</span><span><b>12</b> P</span><span><b>4</b> G</span><span><b>8</b> Fib</span><span><b>188</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Skyr con kiwi y chía</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Kiwi</span><span class=\"q\">2 ud (150 g)</span></li><li><span>Chía</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>22</b> HC netos</span><span><b>12</b> P</span><span><b>4</b> G</span><span><b>8</b> Fib</span><span><b>188</b> kcal</span></div>",
      "src": [
       [
        "skyr",
@@ -485,7 +496,7 @@
      "meal": "Desayuno",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Tostada integral con tortilla francesa de 1 huevo + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">55 g</span></li><li><span>Huevos</span><span class=\"q\">1 ud</span></li><li><span>Matcha con leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>28</b> HC netos</span><span><b>18</b> P</span><span><b>8</b> G</span><span><b>4</b> Fib</span><span><b>263</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Tostada integral con tortilla francesa de 1 huevo + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">55 g</span></li><li><span>Huevos</span><span class=\"q\">1 ud</span></li><li><span>Leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>28</b> HC netos</span><span><b>18</b> P</span><span><b>8</b> G</span><span><b>4</b> Fib</span><span><b>263</b> kcal</span></div>",
      "src": [
       [
        "pan_int",
@@ -505,7 +516,7 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Pasta con gambas y calabacín</p><ul><li><span>Pasta (cruda)</span><span class=\"q\">80 g</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">120 g</span></li><li><span>Calabacín</span><span class=\"q\">200 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>64</b> HC netos</span><span><b>37</b> P</span><span><b>12</b> G</span><span><b>5</b> Fib</span><span><b>519</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Pasta con gambas y calabacín</p><ul><li><span>Pasta (cruda)</span><span class=\"q\">80 g</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">120 g</span></li><li><span>Calabacín</span><span class=\"q\">200 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>64</b> HC netos</span><span><b>37</b> P</span><span><b>12</b> G</span><span><b>5</b> Fib</span><span><b>519</b> kcal</span></div>",
      "src": [
       [
        "pasta",
@@ -559,7 +570,7 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Pavo a la plancha con brócoli y alcachofas</p><ul><li><span>Filete de pavo</span><span class=\"q\">110 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Alcachofas (corazones)</span><span class=\"q\">120 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cda</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>15</b> HC netos</span><span><b>33</b> P</span><span><b>15</b> G</span><span><b>11</b> Fib</span><span><b>355</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Pavo a la plancha con brócoli y alcachofas</p><ul><li><span>Filete de pavo</span><span class=\"q\">110 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Alcachofas (corazones)</span><span class=\"q\">120 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>15</b> HC netos</span><span><b>33</b> P</span><span><b>10</b> G</span><span><b>11</b> Fib</span><span><b>310</b> kcal</span></div>",
      "src": [
       [
        "pavo",
@@ -575,7 +586,7 @@
       ],
       [
        "aceite",
-       10
+       5
       ],
       [
        "choco",
@@ -589,7 +600,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">130</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">41</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1334</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">130</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">36</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1289</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Sábado",
@@ -603,7 +614,7 @@
      "meal": "Desayuno",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Bocadillo pequeño de baguette con jamón serrano + matcha latte</p><ul><li><span>Pan baguette</span><span class=\"q\">60 g</span></li><li><span>Jamón serrano</span><span class=\"q\">25 g</span></li><li><span>Matcha con leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>38</b> HC netos</span><span><b>18</b> P</span><span><b>4</b> G</span><span><b>2</b> Fib</span><span><b>266</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Bocadillo pequeño de baguette con jamón serrano + matcha latte</p><ul><li><span>Pan baguette</span><span class=\"q\">60 g</span></li><li><span>Jamón serrano</span><span class=\"q\">25 g</span></li><li><span>Leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>38</b> HC netos</span><span><b>18</b> P</span><span><b>4</b> G</span><span><b>2</b> Fib</span><span><b>266</b> kcal</span></div>",
      "src": [
       [
        "baguette",
@@ -623,7 +634,7 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Lubina al horno con patatas y judías verdes</p><ul><li><span>Lubina</span><span class=\"q\">140 g</span></li><li><span>Patata</span><span class=\"q\">250 g</span></li><li><span>Judías verdes</span><span class=\"q\">200 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>50</b> HC netos</span><span><b>36</b> P</span><span><b>16</b> G</span><span><b>11</b> Fib</span><span><b>511</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Lubina al horno con patatas y judías verdes</p><ul><li><span>Lubina</span><span class=\"q\">140 g</span></li><li><span>Patata</span><span class=\"q\">250 g</span></li><li><span>Judías verdes</span><span class=\"q\">200 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>50</b> HC netos</span><span><b>36</b> P</span><span><b>16</b> G</span><span><b>11</b> Fib</span><span><b>511</b> kcal</span></div>",
      "src": [
       [
        "lubina",
@@ -676,7 +687,7 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Tortilla de 2 huevos con jamón york, alcachofas y calabacín</p><ul><li><span>Huevos</span><span class=\"q\">2 ud</span></li><li><span>Jamón york extra</span><span class=\"q\">50 g</span></li><li><span>Alcachofas (corazones)</span><span class=\"q\">150 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">2 g</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>15</b> HC netos</span><span><b>30</b> P</span><span><b>18</b> G</span><span><b>10</b> Fib</span><span><b>367</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Tortilla de 2 huevos con jamón york, alcachofas y calabacín</p><ul><li><span>Huevos</span><span class=\"q\">2 ud</span></li><li><span>Jamón york extra</span><span class=\"q\">50 g</span></li><li><span>Alcachofas (corazones)</span><span class=\"q\">150 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>15</b> HC netos</span><span><b>30</b> P</span><span><b>21</b> G</span><span><b>10</b> Fib</span><span><b>394</b> kcal</span></div>",
      "src": [
       [
        "huevo",
@@ -696,7 +707,7 @@
       ],
       [
        "aceite",
-       2
+       5
       ],
       [
        "choco",
@@ -704,13 +715,13 @@
       ]
      ],
      "recipe": [
-      "Calabacín en dados finos y alcachofas (de bote, escurridas, en láminas) en sartén antiadherente con unas gotas de aceite, 6 min.",
+      "Calabacín en dados finos y alcachofas (de bote, escurridas, en láminas) en sartén antiadherente con la cucharadita de aceite, 6 min.",
       "Bate los 2 huevos con sal, añade el york en tiras y échalo sobre la verdura.",
       "Cuaja a fuego medio-bajo tapado 3–4 min, dale la vuelta con un plato y 1–2 min más."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">133</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">42</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">27</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1362</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">133</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">45</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">27</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1389</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Domingo",
@@ -724,7 +735,7 @@
      "meal": "Desayuno",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Tostada integral con pavo y queso light + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">40 g</span></li><li><span>Pechuga de pavo en lonchas</span><span class=\"q\">20 g</span></li><li><span>Queso en lonchas light</span><span class=\"q\">½ loncha (12,5 g)</span></li><li><span>Matcha con leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>23</b> HC netos</span><span><b>17</b> P</span><span><b>4</b> G</span><span><b>3</b> Fib</span><span><b>201</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Tostada integral con pavo y queso light + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">40 g</span></li><li><span>Pechuga de pavo en lonchas</span><span class=\"q\">20 g</span></li><li><span>Queso en lonchas light</span><span class=\"q\">½ loncha (12,5 g)</span></li><li><span>Leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>23</b> HC netos</span><span><b>17</b> P</span><span><b>4</b> G</span><span><b>3</b> Fib</span><span><b>201</b> kcal</span></div>",
      "src": [
       [
        "pan_int",
@@ -748,7 +759,7 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Gnocchi salteados con pollo, champiñones y pesto</p><ul><li><span>Ñoquis de patata Hacendado</span><span class=\"q\">23 ud (150 g)</span></li><li><span>Pechuga de pollo</span><span class=\"q\">110 g</span></li><li><span>Champiñones</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Pesto</span><span class=\"q\">15 g</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>63</b> HC netos</span><span><b>38</b> P</span><span><b>18</b> G</span><span><b>4</b> Fib</span><span><b>574</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Gnocchi salteados con pollo, champiñones y pesto</p><ul><li><span>Ñoquis de patata Hacendado</span><span class=\"q\">23 ud (150 g)</span></li><li><span>Pechuga de pollo</span><span class=\"q\">110 g</span></li><li><span>Champiñones</span><span class=\"q\">150 g</span></li><li><span>Pesto</span><span class=\"q\">15 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>63</b> HC netos</span><span><b>38</b> P</span><span><b>18</b> G</span><span><b>4</b> Fib</span><span><b>574</b> kcal</span></div>",
      "src": [
       [
        "gnocchi",
@@ -763,12 +774,12 @@
        150
       ],
       [
-       "aceite",
-       5
-      ],
-      [
        "pesto",
        15
+      ],
+      [
+       "aceite",
+       5
       ],
       [
        "choco",
@@ -810,7 +821,7 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Bacalao al horno con brócoli y judías verdes</p><ul><li><span>Bacalao fresco (lomo)</span><span class=\"q\">130 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cda</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>16</b> HC netos</span><span><b>31</b> P</span><span><b>15</b> G</span><span><b>9</b> Fib</span><span><b>342</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Bacalao al horno con brócoli y judías verdes</p><ul><li><span>Bacalao fresco (lomo)</span><span class=\"q\">130 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>16</b> HC netos</span><span><b>31</b> P</span><span><b>10</b> G</span><span><b>9</b> Fib</span><span><b>297</b> kcal</span></div>",
      "src": [
       [
        "bacalao",
@@ -826,7 +837,7 @@
       ],
       [
        "aceite",
-       10
+       5
       ],
       [
        "choco",
@@ -840,7 +851,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">127</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">44</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1347</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">127</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">39</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1302</span><span class=\"tg\">kcal</span></div>"
   }
  ]
 }
