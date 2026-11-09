@@ -97,10 +97,10 @@
         {
           "id": "kiwi",
           "name": "Kiwi",
-          "qty": "<em>2</em>",
-          "price": 0.7,
+          "qty": "<em>5</em>",
+          "price": 1.75,
           "out": false,
-          "buy": "2 kiwis verdes sueltos"
+          "buy": "5 kiwis verdes sueltos"
         },
         {
           "id": "mandarina",
@@ -117,14 +117,6 @@
           "price": 0.3,
           "out": false,
           "buy": "Plátano de Canarias suelto. Precio aproximado (no lo he comprobado en la web de Mercadona)"
-        },
-        {
-          "id": "mango",
-          "name": "Mango",
-          "qty": "<em>100 g</em> · medio pequeño",
-          "price": 1.2,
-          "out": false,
-          "buy": "Mango suelto. Precio aproximado (no lo he comprobado en la web de Mercadona)"
         },
         {
           "id": "limon",
