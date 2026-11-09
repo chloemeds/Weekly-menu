@@ -285,7 +285,7 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Lomo de cerdo a la plancha con judías verdes con almendras y brócoli</p><ul><li><span>Lomo de cerdo</span><span class=\"q\">140 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Brócoli</span><span class=\"q\">120 g</span></li><li><span>Almendras</span><span class=\"q\">15 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>16</b> HC netos</span><span><b>40</b> P</span><span><b>25</b> G</span><span><b>10</b> Fib</span><span><b>469</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Lomo de cerdo a la plancha con judías verdes y brócoli salteados con sésamo</p><ul><li><span>Lomo de cerdo</span><span class=\"q\">140 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Brócoli</span><span class=\"q\">120 g</span></li><li><span>Sésamo</span><span class=\"q\">15 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>16</b> HC netos</span><span><b>40</b> P</span><span><b>25</b> G</span><span><b>10</b> Fib</span><span><b>469</b> kcal</span></div>",
      "src": [
       [
        "lomo",
@@ -300,7 +300,7 @@
        120
       ],
       [
-       "almendras",
+       "sesamo",
        15
       ],
       [
@@ -315,7 +315,7 @@
      "recipe": [
       "Judías verdes y brócoli al vapor en el microondas, bol tapado con 2 cdas de agua, 5–6 min.",
       "Lomo en filetes con sal y pimienta: sartén muy caliente con la cucharadita de aceite, 2–3 min por lado, y reserva.",
-      "Saltea las verduras 3 min en la misma sartén con las almendras laminadas y una pizca de ajo en polvo."
+      "Saltea las verduras 3 min en la misma sartén con el sésamo y una pizca de ajo en polvo."
      ]
     },
     {
@@ -376,7 +376,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">44</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">76</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">27</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1322</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">45</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">76</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">27</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1321</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Jueves",
