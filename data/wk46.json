@@ -108,7 +108,7 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Bacalao al horno con judías verdes redondas salteadas</p><ul><li><span>Bacalao fresco (lomo)</span><span class=\"q\">120 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>24</b> P</span><span><b>6</b> G</span><span><b>4</b> Fib</span><span><b>186</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Bacalao al horno con judías verdes redondas hervidas</p><ul><li><span>Bacalao fresco (lomo)</span><span class=\"q\">120 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>24</b> P</span><span><b>6</b> G</span><span><b>4</b> Fib</span><span><b>186</b> kcal</span></div>",
      "src": [
       [
        "bacalao",
@@ -125,8 +125,8 @@
      ],
      "recipe": [
       "Horno a 200 °C. Bacalao en una bandeja con sal, pimienta y limón, 12–14 min.",
-      "Mientras, judías redondas sin las puntas y en trozos de 4 cm en una sartén con un dedo de agua y sal, tapadas a fuego medio, 8–10 min hasta que estén tiernas.",
-      "Destapa, deja que se evapore el agua, añade la cucharadita de aceite, ajo en polvo y pimentón y saltea 2 min."
+      "Judías redondas sin las puntas y en trozos de 4 cm: cuécelas en agua hirviendo con sal 10–12 min, hasta que estén tiernas.",
+      "Escúrrelas y alíñalas con la cucharadita de aceite, sal y una pizca de pimentón."
      ]
     }
    ],
