@@ -219,7 +219,7 @@
         {
           "id": "huevos",
           "name": "Huevos",
-          "qty": "<em>8</em>",
+          "qty": "<em>6</em>",
           "price": 1.8,
           "out": false,
           "buy": "Huevos grandes L, docena"
@@ -227,7 +227,7 @@
         {
           "id": "york",
           "name": "Jamón york",
-          "qty": "<em>125 g</em>",
+          "qty": "<em>150 g</em>",
           "price": 2.0,
           "out": false,
           "buy": "Jamón cocido extra Hacendado finas lonchas, 200 g"
@@ -251,18 +251,10 @@
         {
           "id": "queso",
           "name": "Queso en lonchas cremoso light Hacendado",
-          "qty": "<em>1 loncha</em>",
+          "qty": "<em>2 lonchas</em>",
           "price": 2.9,
           "out": false,
           "buy": "Queso lonchas cremoso light Hacendado, 300 g (12 lonchas)"
-        },
-        {
-          "id": "yogm",
-          "name": "Yogur griego light Mercadona",
-          "qty": "<em>3</em>",
-          "price": 1.45,
-          "out": false,
-          "buy": "Yogur natural al estilo griego light Hacendado, pack de 6 x 125 g"
         },
         {
           "id": "leched",
@@ -397,8 +389,16 @@
         {
           "id": "kouk0",
           "name": "Yogur griego Koukakis 0%",
-          "qty": "<em>1</em>",
+          "qty": "<em>2</em>",
           "price": 0.99,
+          "out": true,
+          "buy": "Precio aproximado"
+        },
+        {
+          "id": "kouk10",
+          "name": "Yogur griego Koukakis 10%",
+          "qty": "<em>2</em>",
+          "price": 1.2,
           "out": true,
           "buy": "Precio aproximado"
         },

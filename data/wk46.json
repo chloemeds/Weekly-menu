@@ -201,11 +201,11 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Yogur griego light con frambuesas y nueces</p><ul><li><span>Yogur griego light Mercadona</span><span class=\"q\">1 ud (125 g)</span></li><li><span>Frambuesas</span><span class=\"q\">50 g</span></li><li><span>Nueces</span><span class=\"q\">15 g</span></li></ul><div class=\"mac\"><span><b>10</b> HC netos</span><span><b>10</b> P</span><span><b>13</b> G</span><span><b>4</b> Fib</span><span><b>201</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Koukakis 0% con frambuesas y nueces</p><ul><li><span>Yogur griego Koukakis 0%</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Frambuesas</span><span class=\"q\">50 g</span></li><li><span>Nueces</span><span class=\"q\">15 g</span></li></ul><div class=\"mac\"><span><b>10</b> HC netos</span><span><b>15</b> P</span><span><b>10</b> G</span><span><b>4</b> Fib</span><span><b>197</b> kcal</span></div>",
      "src": [
       [
-       "yog_light",
-       125
+       "koukakis0",
+       150
       ],
       [
        "frambuesas",
@@ -251,7 +251,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">35</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">97</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">80</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">24</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1293</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">35</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">77</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">24</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1289</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Miércoles",
@@ -326,19 +326,15 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Yogur griego light con arándanos, nueces y crema de avellana</p><ul><li><span>Yogur griego light Mercadona</span><span class=\"q\">1 ud (125 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Nueces</span><span class=\"q\">10 g</span></li><li><span>Crema de avellana y cacao Ametller</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>12</b> HC netos</span><span><b>10</b> P</span><span><b>12</b> G</span><span><b>6</b> Fib</span><span><b>209</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Koukakis griego con arándanos y crema de avellana</p><ul><li><span>Yogur griego Koukakis</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Crema de avellana y cacao Ametller</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>10</b> P</span><span><b>18</b> G</span><span><b>5</b> Fib</span><span><b>260</b> kcal</span></div>",
      "src": [
       [
-       "yog_light",
-       125
+       "koukakis",
+       150
       ],
       [
        "arandanos",
        40
-      ],
-      [
-       "nueces",
-       10
       ],
       [
        "crema_ave",
@@ -380,7 +376,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">42</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">76</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">24</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1298</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">41</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">82</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">23</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1350</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Jueves",
@@ -500,15 +496,19 @@
      "meal": "Desayuno",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Tostada integral con tortilla francesa de 1 huevo + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">55 g</span></li><li><span>Huevos</span><span class=\"q\">1 ud</span></li><li><span>Leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>28</b> HC netos</span><span><b>18</b> P</span><span><b>8</b> G</span><span><b>4</b> Fib</span><span><b>263</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Tostada integral con jamón york y queso light + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">55 g</span></li><li><span>Jamón york extra</span><span class=\"q\">30 g</span></li><li><span>Queso en lonchas light</span><span class=\"q\">½ loncha (12,5 g)</span></li><li><span>Leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>29</b> HC netos</span><span><b>20</b> P</span><span><b>5</b> G</span><span><b>4</b> Fib</span><span><b>248</b> kcal</span></div>",
      "src": [
       [
        "pan_int",
        55
       ],
       [
-       "huevo",
-       55
+       "york",
+       30
+      ],
+      [
+       "queso_l",
+       12.5
       ],
       [
        "leche_d",
@@ -554,19 +554,15 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Yogur griego light con mandarina y chía</p><ul><li><span>Yogur griego light Mercadona</span><span class=\"q\">1 ud (125 g)</span></li><li><span>Mandarina</span><span class=\"q\">2 ud (140 g)</span></li><li><span>Chía</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>23</b> HC netos</span><span><b>10</b> P</span><span><b>6</b> G</span><span><b>6</b> Fib</span><span><b>197</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Koukakis griego con mandarina</p><ul><li><span>Yogur griego Koukakis</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Mandarina</span><span class=\"q\">2 ud (140 g)</span></li></ul><div class=\"mac\"><span><b>22</b> HC netos</span><span><b>10</b> P</span><span><b>15</b> G</span><span><b>3</b> Fib</span><span><b>273</b> kcal</span></div>",
      "src": [
       [
-       "yog_light",
-       125
+       "koukakis",
+       150
       ],
       [
        "mandarina",
        140
-      ],
-      [
-       "chia",
-       10
       ]
      ]
     },
@@ -604,7 +600,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">129</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">36</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">25</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1279</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">128</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">42</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">22</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1340</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Sábado",
