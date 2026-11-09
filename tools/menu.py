@@ -52,6 +52,7 @@ DB = {
     'koukakis':   ('Yogur griego Koukakis', 3.8, 6.2, 10, 0, 150),
     'koukakis0':  ('Yogur griego Koukakis 0%', 4, 7.9, 0, 0, 150),
     'skyr':       ('Skyr Danone natural', 3.4, 9, 0.1, 0, 100),
+    'yog_prot':   ('Yogur +Proteínas Hacendado', 4.3, 10, 0.2, 0, None),
     'leche_d':    ('Leche desnatada', 4.8, 3.4, 0.2, 0, None),
     'leche_a':    ('Bebida de almendra sin azúcar', 0, 0.5, 1.1, 0.3, None),
     'leche_s':    ('Leche semidesnatada', 4.7, 3.2, 1.6, 0, None),
@@ -71,6 +72,7 @@ DB = {
     # Fruta (netos)
     'fresas':     ('Fresas', 5.7, 0.7, 0.3, 2, None),
     'arandanos':  ('Arándanos', 12, 0.7, 0.3, 2.4, None),
+    'granada':    ('Granada', 14.7, 1.7, 1.2, 4, None),
     'frambuesas': ('Frambuesas', 5.4, 1.2, 0.7, 6.5, None),
     'kiwi':       ('Kiwi', 11.7, 1.1, 0.5, 3, 75),
     'platano':    ('Plátano', 20.2, 1.1, 0.3, 2.6, None),
@@ -91,7 +93,7 @@ DB = {
 VERDURAS = {'judias', 'calabacin', 'brocoli', 'champis', 'setas', 'alcachofa', 'edamame'}
 HIDRATOS = {'arroz', 'arroz_int', 'pasta', 'pasta_int', 'patata', 'boniato', 'lentejas', 'gnocchi',
             'pan_int', 'baguette', 'tortita', 'tortilla_trigo', 'granola', 'avena'}
-FRUTA = {'fresas', 'arandanos', 'frambuesas', 'kiwi', 'platano', 'manzana', 'pera', 'mandarina', 'mango'}
+FRUTA = {'fresas', 'arandanos', 'frambuesas', 'kiwi', 'platano', 'manzana', 'pera', 'mandarina', 'mango', 'granada'}
 EXENTOS = {'aceite', 'choco', 'leche_d', 'leche_a', 'leche_s'}  # pueden repetirse en el día
 
 TARGETS = {'reg': (138, 103, 46), 'low': (50, 103, 85), 'fiesta': (173, 129, 58)}
