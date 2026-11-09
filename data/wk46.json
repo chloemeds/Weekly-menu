@@ -14,7 +14,7 @@
      "meal": "Desayuno",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Tostada integral con huevo revuelto y jamón york + matcha latte (tomado)</p><ul><li><span>Pan integral</span><span class=\"q\">50 g</span></li><li><span>Huevos</span><span class=\"q\">1 ud</span></li><li><span>Leche desnatada</span><span class=\"q\">150 ml</span></li><li><span>Jamón york extra</span><span class=\"q\">15 g</span></li></ul><div class=\"mac\"><span><b>27</b> HC netos</span><span><b>20</b> P</span><span><b>8</b> G</span><span><b>4</b> Fib</span><span><b>266</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Tostada integral con huevo revuelto y jamón york + 2,5 nueces + matcha latte (tomado)</p><ul><li><span>Pan integral</span><span class=\"q\">50 g</span></li><li><span>Huevos</span><span class=\"q\">1 ud</span></li><li><span>Leche desnatada</span><span class=\"q\">150 ml</span></li><li><span>Jamón york extra</span><span class=\"q\">15 g</span></li><li><span>Nueces</span><span class=\"q\">2,5 ud (~12,5 g)</span></li></ul><div class=\"mac\"><span><b>28</b> HC netos</span><span><b>22</b> P</span><span><b>16</b> G</span><span><b>4</b> Fib</span><span><b>352</b> kcal</span></div>",
      "src": [
       [
        "pan_int",
@@ -31,6 +31,10 @@
       [
        "york",
        15
+      ],
+      [
+       "nueces",
+       12.5
       ]
      ]
     },
@@ -68,7 +72,7 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Skyr con arándanos, chía y granola</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Chía</span><span class=\"q\">12 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">20 g</span></li></ul><div class=\"mac\"><span><b>20</b> HC netos</span><span><b>13</b> P</span><span><b>7</b> G</span><span><b>7</b> Fib</span><span><b>209</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Skyr con arándanos, chía y granola</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Chía</span><span class=\"q\">10 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">20 g</span></li></ul><div class=\"mac\"><span><b>19</b> HC netos</span><span><b>13</b> P</span><span><b>7</b> G</span><span><b>6</b> Fib</span><span><b>200</b> kcal</span></div>",
      "src": [
       [
        "skyr",
@@ -80,7 +84,7 @@
       ],
       [
        "chia",
-       12
+       10
       ],
       [
        "granola",
@@ -92,7 +96,7 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Merluza al horno con judías verdes</p><ul><li><span>Merluza</span><span class=\"q\">120 g</span></li><li><span>Judías verdes</span><span class=\"q\">200 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cdta</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>25</b> P</span><span><b>11</b> G</span><span><b>6</b> Fib</span><span><b>252</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Merluza al horno con judías verdes</p><ul><li><span>Merluza</span><span class=\"q\">120 g</span></li><li><span>Judías verdes</span><span class=\"q\">200 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">2 g</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>25</b> P</span><span><b>8</b> G</span><span><b>6</b> Fib</span><span><b>225</b> kcal</span></div>",
      "src": [
       [
        "merluza",
@@ -104,7 +108,7 @@
       ],
       [
        "aceite",
-       5
+       2
       ],
       [
        "choco",
@@ -112,13 +116,13 @@
       ]
      ],
      "recipe": [
-      "Horno a 200 °C. Merluza en una bandeja con sal, pimienta, limón y unas gotas del aceite, 12–14 min.",
+      "Horno a 200 °C. Merluza en una bandeja con sal, pimienta y limón, 12–14 min.",
       "Judías verdes al vapor: bol con 2 cdas de agua, tapado, microondas 6–7 min.",
-      "Aliña las judías con el resto del aceite, sal y una pizca de pimentón."
+      "Aliña las judías con unas gotas de aceite, sal y una pizca de pimentón."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">131</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">39</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">27</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1328</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">132</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">102</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">43</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">27</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1378</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Martes",
