@@ -184,11 +184,11 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Salmón al horno con brócoli y kiwi</p><ul><li><span>Salmón</span><span class=\"q\">140 g</span></li><li><span>Brócoli</span><span class=\"q\">180 g</span></li><li><span>Kiwi</span><span class=\"q\">1 ud (75 g)</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>19</b> HC netos</span><span><b>35</b> P</span><span><b>28</b> G</span><span><b>8</b> Fib</span><span><b>481</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Salmón al horno con brócoli y kiwi</p><ul><li><span>Salmón</span><span class=\"q\">170 g</span></li><li><span>Brócoli</span><span class=\"q\">180 g</span></li><li><span>Kiwi</span><span class=\"q\">1 ud (75 g)</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>19</b> HC netos</span><span><b>41</b> P</span><span><b>32</b> G</span><span><b>8</b> Fib</span><span><b>540</b> kcal</span></div>",
      "src": [
       [
        "salmon",
-       140
+       170
       ],
       [
        "brocoli",
@@ -246,10 +246,10 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Pechuga de pollo a la plancha con setas</p><ul><li><span>Pechuga de pollo</span><span class=\"q\">150 g</span></li><li><span>Setas</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>39</b> P</span><span><b>8</b> G</span><span><b>3</b> Fib</span><span><b>258</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Rodaballo a la plancha con setas</p><ul><li><span>Rodaballo</span><span class=\"q\">150 g</span></li><li><span>Setas</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>29</b> P</span><span><b>9</b> G</span><span><b>3</b> Fib</span><span><b>223</b> kcal</span></div>",
      "src": [
       [
-       "pollo",
+       "rodaballo",
        150
       ],
       [
@@ -262,13 +262,13 @@
       ]
      ],
      "recipe": [
-      "Pechuga en filetes con sal, pimienta y pimentón: sartén caliente con la mitad del aceite, 4–5 min por lado, y reserva.",
+      "Seca el rodaballo y sazónalo con sal y pimienta. Sartén caliente con la mitad del aceite, 3–4 min por lado, y reserva.",
       "Setas troceadas en la misma sartén con el resto del aceite y una pizca de sal, 6–7 min a fuego fuerte.",
-      "Sirve el pollo sobre las setas con perejil picado."
+      "Sirve el rodaballo sobre las setas con perejil picado y unas gotas de limón."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">45</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">75</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">22</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1299</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">45</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">97</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">79</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">22</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1322</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Miércoles",
