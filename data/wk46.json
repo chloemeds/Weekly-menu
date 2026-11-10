@@ -237,7 +237,7 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Pechuga de pollo a la plancha con setas</p><ul><li><span>Pechuga de pollo</span><span class=\"q\">150 g</span></li><li><span>Setas</span><span class=\"q\">180 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>41</b> P</span><span><b>11</b> G</span><span><b>5</b> Fib</span><span><b>315</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Pechuga de pollo a la plancha con setas</p><ul><li><span>Pechuga de pollo</span><span class=\"q\">150 g</span></li><li><span>Setas</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>8</b> HC netos</span><span><b>40</b> P</span><span><b>11</b> G</span><span><b>4</b> Fib</span><span><b>304</b> kcal</span></div>",
      "src": [
       [
        "pollo",
@@ -245,7 +245,7 @@
       ],
       [
        "setas",
-       180
+       150
       ],
       [
        "aceite",
@@ -263,7 +263,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">33</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">102</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">76</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">23</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1266</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">32</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">76</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">22</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1255</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Miércoles",
@@ -301,7 +301,7 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Lomo de cerdo a la plancha con judías verdes y aguacate</p><ul><li><span>Lomo de cerdo</span><span class=\"q\">165 g</span></li><li><span>Judías verdes</span><span class=\"q\">180 g</span></li><li><span>Aguacate</span><span class=\"q\">50 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>41</b> P</span><span><b>26</b> G</span><span><b>9</b> Fib</span><span><b>461</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Lomo de cerdo a la plancha con judías verdes y aguacate</p><ul><li><span>Lomo de cerdo</span><span class=\"q\">165 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aguacate</span><span class=\"q\">50 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>10</b> HC netos</span><span><b>40</b> P</span><span><b>26</b> G</span><span><b>8</b> Fib</span><span><b>451</b> kcal</span></div>",
      "src": [
       [
        "lomo",
@@ -309,7 +309,7 @@
       ],
       [
        "judias",
-       180
+       150
       ],
       [
        "aguacate",
@@ -354,7 +354,7 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Salmón al horno con calabacín</p><ul><li><span>Salmón</span><span class=\"q\">130 g</span></li><li><span>Calabacín</span><span class=\"q\">180 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>29</b> P</span><span><b>26</b> G</span><span><b>3</b> Fib</span><span><b>379</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Salmón al horno con calabacín</p><ul><li><span>Salmón</span><span class=\"q\">130 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>29</b> P</span><span><b>26</b> G</span><span><b>2</b> Fib</span><span><b>374</b> kcal</span></div>",
      "src": [
       [
        "salmon",
@@ -362,7 +362,7 @@
       ],
       [
        "calabacin",
-       180
+       150
       ],
       [
        "aceite",
@@ -380,7 +380,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">32</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">84</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">18</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1321</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">30</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">84</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1306</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Jueves",
@@ -574,7 +574,7 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Pavo a la plancha con brócoli</p><ul><li><span>Filete de pavo</span><span class=\"q\">110 g</span></li><li><span>Brócoli</span><span class=\"q\">180 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>30</b> P</span><span><b>10</b> G</span><span><b>6</b> Fib</span><span><b>265</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Pavo a la plancha con brócoli</p><ul><li><span>Filete de pavo</span><span class=\"q\">110 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>29</b> P</span><span><b>10</b> G</span><span><b>5</b> Fib</span><span><b>254</b> kcal</span></div>",
      "src": [
       [
        "pavo",
@@ -582,7 +582,7 @@
       ],
       [
        "brocoli",
-       180
+       150
       ],
       [
        "aceite",
@@ -600,7 +600,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">125</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">42</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">17</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1305</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">123</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">97</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">42</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1294</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Sábado",
@@ -817,7 +817,7 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Bacalao al horno con brócoli</p><ul><li><span>Bacalao fresco (lomo)</span><span class=\"q\">130 g</span></li><li><span>Brócoli</span><span class=\"q\">180 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>29</b> P</span><span><b>10</b> G</span><span><b>6</b> Fib</span><span><b>260</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Bacalao al horno con brócoli</p><ul><li><span>Bacalao fresco (lomo)</span><span class=\"q\">130 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>28</b> P</span><span><b>10</b> G</span><span><b>5</b> Fib</span><span><b>249</b> kcal</span></div>",
      "src": [
       [
        "bacalao",
@@ -825,7 +825,7 @@
       ],
       [
        "brocoli",
-       180
+       150
       ],
       [
        "aceite",
@@ -843,7 +843,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">121</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">97</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">39</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">23</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1266</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">120</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">96</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">38</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">22</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1254</span><span class=\"tg\">kcal</span></div>"
   }
  ]
 }

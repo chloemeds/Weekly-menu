@@ -9,7 +9,7 @@
         {
           "id": "calabacin",
           "name": "Calabacín",
-          "qty": "<em>530 g</em> · unos 3",
+          "qty": "<em>500 g</em> · unos 3",
           "price": 0.91,
           "out": false,
           "buy": "Calabacín verde a granel, 1,40 €/kg"
@@ -17,7 +17,7 @@
         {
           "id": "judias",
           "name": "Judías verdes",
-          "qty": "<em>330 g</em>",
+          "qty": "<em>300 g</em>",
           "price": 1.3,
           "out": false,
           "buy": "Judía verde redonda Hacendado ultracongelada, bolsa de 1 kg"
@@ -25,7 +25,7 @@
         {
           "id": "brocoli",
           "name": "Brócoli",
-          "qty": "<em>690 g</em> · 2 o 3",
+          "qty": "<em>630 g</em> · 2 o 3",
           "price": 2.05,
           "out": false,
           "buy": "Brócoli a granel, 2,30 €/kg"
@@ -41,7 +41,7 @@
         {
           "id": "setas",
           "name": "Setas",
-          "qty": "<em>180 g</em>",
+          "qty": "<em>150 g</em>",
           "price": 2.2,
           "out": false,
           "buy": "Setas de cardo u ostra, bandeja. Precio aproximado (no lo he comprobado en la web de Mercadona)"
