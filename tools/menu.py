@@ -56,6 +56,7 @@ DB = {
     'yog_prot':   ('Yogur +Proteínas Hacendado', 4.3, 10, 0.2, 0, None),
     'leche_d':    ('Leche desnatada', 4.8, 3.4, 0.2, 0, None),
     'leche_a':    ('Bebida de almendra sin azúcar', 0, 0.5, 1.1, 0.3, None),
+    'nata':       ('Nata para cocinar Hacendado', 3.5, 2.5, 18, 0, None),
     'leche_s':    ('Leche semidesnatada', 4.7, 3.2, 1.6, 0, None),
     # Grasas
     'aceite':     ('Aceite de oliva', 0, 0, 100, 0, None),
@@ -95,7 +96,7 @@ VERDURAS = {'judias', 'calabacin', 'brocoli', 'champis', 'setas', 'alcachofa', '
 HIDRATOS = {'arroz', 'arroz_int', 'pasta', 'pasta_int', 'patata', 'boniato', 'lentejas', 'gnocchi',
             'pan_int', 'baguette', 'tortita', 'tortilla_trigo', 'granola', 'avena'}
 FRUTA = {'fresas', 'arandanos', 'frambuesas', 'kiwi', 'platano', 'manzana', 'pera', 'mandarina', 'mango', 'granada'}
-EXENTOS = {'aceite', 'choco', 'leche_d', 'leche_a', 'leche_s'}  # pueden repetirse en el día
+EXENTOS = {'aceite', 'choco', 'leche_d', 'leche_a', 'leche_s', 'nata'}  # pueden repetirse en el día
 
 TARGETS = {'reg': (138, 103, 46), 'low': (50, 103, 85), 'fiesta': (173, 129, 58)}
 CHIPS = {'reg': 'Macros regulares', 'low': 'Carbs reducidos', 'fiesta': 'Día de fiesta'}
