@@ -65,7 +65,8 @@ li .q{font-family:var(--mono);font-size:13px;color:var(--ink);white-space:nowrap
 .total{background:var(--accent-soft);border-radius:12px;padding:12px 14px;display:flex;flex-direction:column;gap:4px}
 .total h3{margin:0 0 4px;font:600 12px var(--display);text-transform:uppercase;letter-spacing:.08em;color:var(--accent)}
 .tr{display:grid;grid-template-columns:1fr auto auto;gap:8px;align-items:baseline;font-variant-numeric:tabular-nums}
-.tl{font-size:14px;color:var(--muted)} .tv{font:500 16px var(--mono)} .tg{font:400 12.5px var(--mono);color:var(--muted)}
+.tl{font-size:14px;color:var(--muted)} .tv{font:500 16px var(--mono);border-radius:6px;padding:1px 6px}
+.tv.ok{background:#2f8f3a;color:#fff} .tv.lo{background:#f2c230;color:#2a2200} .tv.hi{background:#d23c3c;color:#fff} .tg{font:400 12.5px var(--mono);color:var(--muted)}
 .pending{max-width:560px;margin:0 max(16px,env(safe-area-inset-right,0px)) 10px max(16px,env(safe-area-inset-left,0px));font-size:13px;color:var(--muted);background:var(--surface);border:1px dashed var(--line);border-radius:12px;padding:8px 12px;white-space:pre-line}
 .pending[hidden]{display:none}
 @media (min-width:592px){.pending{margin-left:auto;margin-right:auto}}
@@ -176,7 +177,7 @@ button:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px sol
 <script>
 document.addEventListener('gesturestart', e => e.preventDefault());
 document.addEventListener('dblclick', e => e.preventDefault(), { passive: false });
-const VERSION = '18';
+const VERSION = '19';
 fetch('./version.txt', { cache: 'no-store' }).then(r => r.ok ? r.text() : VERSION).then(v => {
   v = v.trim();
   if (v && v !== VERSION && !location.search.includes('v=' + v)) location.replace('./?v=' + v);
@@ -202,10 +203,18 @@ function renderWeek(){
     let h = '<div class="card"><div class="dayhead"><h2 class="dn">' + d.name + (d.date ? '<small>' + d.date + '</small>' : '') + '</h2><span class="chip ' + d.chip.cls + '">' + d.chip.text + '</span></div>';
     for(const m of d.meals){ const extra = (m.cls||[]).filter(c => c==='fastcell'||c==='loncell').join(' '); const label = m.span > 1 ? 'Desayuno, comida y merienda' : m.meal; const rb = m.recipe && m.recipe.length ? '<button type="button" class="recbtn" data-d="' + i + '" data-m="' + d.meals.indexOf(m) + '" aria-label="Ver receta">📖</button>' : ''; h += '<div class="meal ' + extra + '"><h3><span>' + label + '</span>' + rb + '</h3>' + m.html + '</div>'; }
     if(d.total) h += '<div class="total"><h3>Total del día</h3>' + d.total + '</div>';
-    s.innerHTML = h + '</div>'; car.append(s);
+    s.innerHTML = h + '</div>'; car.append(s); colorTotals(s);
     const b = document.createElement('button'); b.type='button'; b.textContent = short(d); b.onclick = () => go(i); $('dots').append(b);
   });
   $('day').innerHTML = w.days.map((d,i) => '<option value="' + i + '">' + d.name + ' ' + d.date + '</option>').join('');
+}
+function colorTotals(el){
+  el.querySelectorAll('.total .tr').forEach(r => {
+    const v = parseFloat(r.querySelector('.tv')?.textContent), m = (r.querySelector('.tg')?.textContent || '').match(/\/\s*(\d+)/);
+    if(isNaN(v) || !m) return; const t = +m[1], lab = r.querySelector('.tl').textContent.trim();
+    const max = lab === 'Fibra' ? 32 : t;
+    r.querySelector('.tv').classList.add(v > max ? 'hi' : (t - v >= 10 ? 'lo' : 'ok'));
+  });
 }
 function mark(){ [...$('dots').children].forEach((b,i) => b.setAttribute('aria-current', String(i === idx))); }
 function go(i, smooth=true){ idx = i; const car = $('car'); car.scrollTo({left: i * car.clientWidth, behavior: smooth ? 'smooth' : 'auto'}); mark(); }
