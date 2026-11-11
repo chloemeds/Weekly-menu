@@ -69,7 +69,7 @@ DB = {
     'chia':       ('Chía', 7.7, 17, 31, 34, None),
     'sesamo':     ('Sésamo', 12, 18, 50, 12, None),
     'crema_cac':  ('Crema de cacahuete 100%', 14, 25, 50, 6, None),
-    'crema_ave':  ('Crema de avellana y cacao Ametller', 6, 9, 30, 45, None),
+    'crema_ave':  ('Crema de avellana y cacao Ametller', 6.8, 9.2, 34, 42, None),
     'pesto':      ('Pesto', 4, 5, 45, 1.5, None),
     'aguacate':   ('Aguacate', 1.8, 2, 15, 6.7, None),
     'choco':      ('Chocolate negro 72% (1 onza)', 32.5, 10, 42.5, 11.25, 8),
