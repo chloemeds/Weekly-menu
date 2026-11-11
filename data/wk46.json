@@ -310,7 +310,7 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Pavo a la plancha con judías verdes, setas y aguacate</p><ul><li><span>Filete de pavo</span><span class=\"q\">120 g</span></li><li><span>Judías verdes</span><span class=\"q\">140 g</span></li><li><span>Setas</span><span class=\"q\">150 g</span></li><li><span>Aguacate</span><span class=\"q\">60 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>15</b> HC netos</span><span><b>36</b> P</span><span><b>19</b> G</span><span><b>12</b> Fib</span><span><b>405</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Pavo a la plancha con judías verdes y setas</p><ul><li><span>Filete de pavo</span><span class=\"q\">120 g</span></li><li><span>Judías verdes</span><span class=\"q\">140 g</span></li><li><span>Setas</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>14</b> HC netos</span><span><b>35</b> P</span><span><b>10</b> G</span><span><b>8</b> Fib</span><span><b>307</b> kcal</span></div>",
      "src": [
       [
        "pavo",
@@ -325,10 +325,6 @@
        150
       ],
       [
-       "aguacate",
-       60
-      ],
-      [
        "aceite",
        5
       ],
@@ -340,14 +336,14 @@
      "recipe": [
       "Judías verdes sin puntas, en trozos: cuécelas en agua hirviendo con sal 8–10 min y escúrrelas.",
       "Pavo en filetes con sal y pimienta: sartén caliente con la mitad del aceite, 3 min por lado, y reserva.",
-      "Setas troceadas en la misma sartén con el resto del aceite, 5 min; añade las judías 1 min más y sirve con el aguacate en láminas."
+      "Setas troceadas en la misma sartén con el resto del aceite, 5 min; añade las judías 1 min más."
      ]
     },
     {
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Koukakis griego con arándanos y chía</p><ul><li><span>Yogur griego Koukakis</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Chía</span><span class=\"q\">12 g</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>12</b> P</span><span><b>19</b> G</span><span><b>5</b> Fib</span><span><b>272</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Koukakis griego con arándanos, chía y crema de avellana</p><ul><li><span>Yogur griego Koukakis</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Chía</span><span class=\"q\">12 g</span></li><li><span>Crema de avellana y cacao Ametller</span><span class=\"q\">15 g</span></li></ul><div class=\"mac\"><span><b>12</b> HC netos</span><span><b>13</b> P</span><span><b>23</b> G</span><span><b>12</b> Fib</span><span><b>335</b> kcal</span></div>",
      "src": [
       [
        "koukakis",
@@ -360,6 +356,10 @@
       [
        "chia",
        12
+      ],
+      [
+       "crema_ave",
+       15
       ]
      ]
     },
@@ -393,7 +393,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">44</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">81</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">22</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1347</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">44</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">77</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">25</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1312</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Jueves",
