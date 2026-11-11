@@ -310,15 +310,23 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Lomo de cerdo a la plancha con judías verdes</p><ul><li><span>Lomo de cerdo</span><span class=\"q\">170 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>40</b> P</span><span><b>19</b> G</span><span><b>5</b> Fib</span><span><b>376</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Pavo a la plancha con judías verdes, setas y aguacate</p><ul><li><span>Filete de pavo</span><span class=\"q\">120 g</span></li><li><span>Judías verdes</span><span class=\"q\">140 g</span></li><li><span>Setas</span><span class=\"q\">100 g</span></li><li><span>Aguacate</span><span class=\"q\">100 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>14</b> HC netos</span><span><b>35</b> P</span><span><b>25</b> G</span><span><b>14</b> Fib</span><span><b>452</b> kcal</span></div>",
      "src": [
       [
-       "lomo",
-       170
+       "pavo",
+       120
       ],
       [
        "judias",
-       150
+       140
+      ],
+      [
+       "setas",
+       100
+      ],
+      [
+       "aguacate",
+       100
       ],
       [
        "aceite",
@@ -331,23 +339,31 @@
      ],
      "recipe": [
       "Judías verdes sin puntas, en trozos: cuécelas en agua hirviendo con sal 8–10 min y escúrrelas.",
-      "Lomo en filetes con sal y pimienta: sartén muy caliente con la cucharadita de aceite, 2–3 min por lado.",
-      "Saltea las judías 2 min en la misma sartén con una pizca de ajo en polvo."
+      "Pavo en filetes con sal y pimienta: sartén caliente con la mitad del aceite, 3 min por lado, y reserva.",
+      "Setas troceadas en la misma sartén con el resto del aceite, 5 min; añade las judías 1 min más y sirve con el aguacate en láminas."
      ]
     },
     {
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Koukakis griego con arándanos y crema de avellana</p><ul><li><span>Yogur griego Koukakis</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Crema de avellana y cacao Ametller</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>10</b> P</span><span><b>18</b> G</span><span><b>5</b> Fib</span><span><b>260</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Koukakis 0% con arándanos, nueces, chía y crema de avellana</p><ul><li><span>Yogur griego Koukakis 0%</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Nueces</span><span class=\"q\">10 g</span></li><li><span>Chía</span><span class=\"q\">10 g</span></li><li><span>Crema de avellana y cacao Ametller</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>13</b> HC netos</span><span><b>16</b> P</span><span><b>13</b> G</span><span><b>10</b> Fib</span><span><b>250</b> kcal</span></div>",
      "src": [
       [
-       "koukakis",
+       "koukakis0",
        150
       ],
       [
        "arandanos",
        40
+      ],
+      [
+       "nueces",
+       10
+      ],
+      [
+       "chia",
+       10
       ],
       [
        "crema_ave",
@@ -359,11 +375,11 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Salmón al horno con calabacín</p><ul><li><span>Salmón</span><span class=\"q\">130 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>29</b> P</span><span><b>26</b> G</span><span><b>2</b> Fib</span><span><b>374</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Salmón al horno con calabacín</p><ul><li><span>Salmón</span><span class=\"q\">150 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>33</b> P</span><span><b>28</b> G</span><span><b>2</b> Fib</span><span><b>413</b> kcal</span></div>",
      "src": [
       [
        "salmon",
-       130
+       150
       ],
       [
        "calabacin",
@@ -385,7 +401,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">34</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">94</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">76</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">13</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1219</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">41</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">79</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1323</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Jueves",
