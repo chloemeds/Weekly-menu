@@ -585,27 +585,27 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Lentejas caseras y pechuga de pollo a la plancha, con kiwi de postre</p><ul><li><span>Lentejas (secas)</span><span class=\"q\">1 plato pequeño (unos 260 g de guiso)</span></li><li><span>Sofrito del guiso (estimado)</span><span class=\"q\">—</span></li><li><span>Pechuga de pollo</span><span class=\"q\">90 g</span></li><li><span>Kiwi</span><span class=\"q\">1 ud (75 g)</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>47</b> HC netos</span><span><b>40</b> P</span><span><b>15</b> G</span><span><b>11</b> Fib</span><span><b>506</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Lentejas caseras y pechuga de pollo a la plancha, con kiwi de postre</p><ul><li><span>Lentejas (secas)</span><span class=\"q\">250 g de guiso (pésalo al guardarlo)</span></li><li><span>Sofrito y chorizo del guiso (estimado)</span><span class=\"q\">—</span></li><li><span>Pechuga de pollo</span><span class=\"q\">80 g</span></li><li><span>Kiwi</span><span class=\"q\">1 ud (75 g)</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>47</b> HC netos</span><span><b>39</b> P</span><span><b>18</b> G</span><span><b>11</b> Fib</span><span><b>526</b> kcal</span></div>",
      "src": [
       [
        "lentejas",
        70,
-       "1 plato pequeño (unos 260 g de guiso)"
+       "250 g de guiso (pésalo al guardarlo)"
       ],
       [
        "custom",
        [
         1.5,
-        0.5,
-        4,
+        2.5,
+        6.5,
         0.5
        ],
-       "Sofrito del guiso (estimado)",
+       "Sofrito y chorizo del guiso (estimado)",
        "—"
       ],
       [
        "pollo",
-       90
+       80
       ],
       [
        "kiwi",
@@ -621,7 +621,7 @@
       ]
      ],
      "recipe": [
-      "Calienta un plato pequeño de las lentejas de casa (unos 260 g), en el microondas 2–3 min o en un cazo 5 min.",
+      "Calienta los 250 g de lentejas que guardaste, en el microondas 2–3 min o en un cazo 5 min.",
       "Pechuga en filetes finos con sal y pimienta: sartén caliente con la cucharadita de aceite, 3–4 min por lado.",
       "Sirve primero las lentejas, luego el pollo, y el kiwi de postre."
      ]
@@ -680,7 +680,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">124</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">102</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">42</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">29</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1338</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">124</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">102</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">44</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">29</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1358</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Sábado",
