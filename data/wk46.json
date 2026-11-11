@@ -371,14 +371,14 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Salmón al horno con brócoli</p><ul><li><span>Salmón</span><span class=\"q\">160 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>37</b> P</span><span><b>30</b> G</span><span><b>5</b> Fib</span><span><b>463</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Salmón al horno con calabacín</p><ul><li><span>Salmón</span><span class=\"q\">160 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>35</b> P</span><span><b>30</b> G</span><span><b>2</b> Fib</span><span><b>433</b> kcal</span></div>",
      "src": [
       [
        "salmon",
        160
       ],
       [
-       "brocoli",
+       "calabacin",
        150
       ],
       [
@@ -391,13 +391,13 @@
       ]
      ],
      "recipe": [
-      "Horno a 200 °C. Salmón en una bandeja con sal, pimienta y limón, 12–14 min.",
-      "Mientras, brócoli en ramilletes cocido en agua hirviendo con sal, 5 min, y escurrido.",
-      "Aliña el brócoli con la cucharadita de aceite y sal."
+      "Horno a 200 °C. Calabacín en rodajas en una bandeja con la cucharadita de aceite y sal, 5 min.",
+      "Añade el salmón con sal, pimienta y limón.",
+      "Hornea 12–14 min más, hasta que el salmón esté hecho."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">44</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">79</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">25</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1336</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">40</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">79</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">22</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1306</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Jueves",
