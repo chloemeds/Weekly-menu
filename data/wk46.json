@@ -464,7 +464,7 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Cena en Parco Sushi (estimado)</p><ul><li><span>Nigiris: salmón, gamba, pez mantequilla, vieira y toro</span><span class=\"q\">5 piezas</span></li><li><span>Maki de fresa y foie en tempura</span><span class=\"q\">~3 piezas (8 entre 3)</span></li><li><span>Maki de gamba</span><span class=\"q\">2 piezas (6 entre 3)</span></li><li><span>Sashimi de gamba</span><span class=\"q\">2 piezas</span></li><li><span>Edamame (tu parte)</span><span class=\"q\">~60 g con vaina</span></li><li><span>Postre: saquitos con chocolate (tu parte)</span><span class=\"q\">1/3</span></li></ul><div class=\"mac\"><span><b>93</b> HC netos</span><span><b>37</b> P</span><span><b>42</b> G</span><span><b>5</b> Fib</span><span><b>904</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Cena en Parco Sushi (estimado)</p><ul><li><span>Nigiris: salmón, gamba, pez mantequilla, vieira y toro</span><span class=\"q\">5 piezas</span></li><li><span>Maki de fresa y foie en tempura</span><span class=\"q\">~3 piezas (8 entre 3)</span></li><li><span>Maki de gamba</span><span class=\"q\">2 piezas (6 entre 3)</span></li><li><span>Sashimi de gamba</span><span class=\"q\">2 piezas</span></li><li><span>Edamame (tu parte)</span><span class=\"q\">~60 g con vaina</span></li><li><span>Postre: saquitos con chocolate (tu parte)</span><span class=\"q\">1/3</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>93</b> HC netos</span><span><b>37</b> P</span><span><b>46</b> G</span><span><b>5</b> Fib</span><span><b>948</b> kcal</span></div>",
      "src": [
       [
        "custom",
@@ -531,11 +531,15 @@
        ],
        "Postre: saquitos con chocolate (tu parte)",
        "1/3"
+      ],
+      [
+       "aceite",
+       5
       ]
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">137</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">102</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">55</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">14</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1478</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">137</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">102</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">60</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">14</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1523</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Viernes",
@@ -549,15 +553,15 @@
      "meal": "Desayuno",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Tostada integral con jamón york y queso light + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">55 g</span></li><li><span>Jamón york extra</span><span class=\"q\">30 g</span></li><li><span>Queso en lonchas light</span><span class=\"q\">½ loncha (12,5 g)</span></li><li><span>Leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>29</b> HC netos</span><span><b>20</b> P</span><span><b>5</b> G</span><span><b>4</b> Fib</span><span><b>248</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Tostada integral con jamón york y queso light + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">70 g</span></li><li><span>Jamón york extra</span><span class=\"q\">40 g</span></li><li><span>Queso en lonchas light</span><span class=\"q\">½ loncha (12,5 g)</span></li><li><span>Leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>35</b> HC netos</span><span><b>23</b> P</span><span><b>6</b> G</span><span><b>5</b> Fib</span><span><b>295</b> kcal</span></div>",
      "src": [
       [
        "pan_int",
-       55
+       70
       ],
       [
        "york",
-       30
+       40
       ],
       [
        "queso_l",
@@ -573,19 +577,23 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Pasta con gambas y calabacín</p><ul><li><span>Pasta (cruda)</span><span class=\"q\">80 g</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">120 g</span></li><li><span>Calabacín</span><span class=\"q\">200 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>64</b> HC netos</span><span><b>37</b> P</span><span><b>12</b> G</span><span><b>5</b> Fib</span><span><b>519</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Lentejas caseras</p><ul><li><span>Lentejas (secas)</span><span class=\"q\">1 plato (unos 340 g de guiso)</span></li><li><span>Sofrito del guiso (estimado)</span><span class=\"q\">—</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>49</b> HC netos</span><span><b>23</b> P</span><span><b>15</b> G</span><span><b>11</b> Fib</span><span><b>442</b> kcal</span></div>",
      "src": [
       [
-       "pasta",
-       80
+       "lentejas",
+       90,
+       "1 plato (unos 340 g de guiso)"
       ],
       [
-       "gambas",
-       120
-      ],
-      [
-       "calabacin",
-       200
+       "custom",
+       [
+        2,
+        0.5,
+        5,
+        0.5
+       ],
+       "Sofrito del guiso (estimado)",
+       "—"
       ],
       [
        "aceite",
@@ -597,25 +605,28 @@
       ]
      ],
      "recipe": [
-      "Pasta en agua con sal 10–11 min (o según el paquete).",
-      "Calabacín en dados en sartén con el aceite, 5 min a fuego medio-alto.",
-      "Añade las gambas con sal, pimienta y una pizca de guindilla, 2–3 min.",
-      "Escurre la pasta, mézclala con la sartén y un chorrito del agua de cocer."
+      "Calienta un plato de las lentejas que han hecho en casa (unos 340 g), en el microondas 2–3 min o en un cazo 5 min.",
+      "Si quieres, añade la cucharadita de aceite en crudo por encima al servir.",
+      "Si llevan chorizo o patata, sirve poca cantidad de esos trozos."
      ]
     },
     {
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Koukakis griego con mandarina</p><ul><li><span>Yogur griego Koukakis</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Mandarina</span><span class=\"q\">2 ud (140 g)</span></li></ul><div class=\"mac\"><span><b>22</b> HC netos</span><span><b>10</b> P</span><span><b>15</b> G</span><span><b>3</b> Fib</span><span><b>273</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Koukakis 0% con mandarina y granola</p><ul><li><span>Yogur griego Koukakis 0%</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Mandarina</span><span class=\"q\">2 ud (140 g)</span></li><li><span>Granola sin azúcar</span><span class=\"q\">20 g</span></li></ul><div class=\"mac\"><span><b>32</b> HC netos</span><span><b>15</b> P</span><span><b>4</b> G</span><span><b>4</b> Fib</span><span><b>231</b> kcal</span></div>",
      "src": [
       [
-       "koukakis",
+       "koukakis0",
        150
       ],
       [
        "mandarina",
        140
+      ],
+      [
+       "granola",
+       20
       ]
      ]
     },
@@ -623,15 +634,19 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Pavo a la plancha con brócoli</p><ul><li><span>Filete de pavo</span><span class=\"q\">110 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>29</b> P</span><span><b>10</b> G</span><span><b>5</b> Fib</span><span><b>254</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Pavo a la plancha con brócoli y aguacate</p><ul><li><span>Filete de pavo</span><span class=\"q\">160 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aguacate</span><span class=\"q\">50 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>10</b> HC netos</span><span><b>41</b> P</span><span><b>18</b> G</span><span><b>8</b> Fib</span><span><b>384</b> kcal</span></div>",
      "src": [
       [
        "pavo",
-       110
+       160
       ],
       [
        "brocoli",
        150
+      ],
+      [
+       "aguacate",
+       50
       ],
       [
        "aceite",
@@ -645,11 +660,11 @@
      "recipe": [
       "Brócoli en ramilletes: cuécelo en agua hirviendo con sal 5 min y escúrrelo.",
       "Filetes de pavo con sal y pimienta: sartén caliente con la cucharadita de aceite, 3 min por lado.",
-      "Saltea el brócoli 2 min en la misma sartén y sirve."
+      "Saltea el brócoli 2 min en la misma sartén y sirve con el aguacate en láminas."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">123</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">97</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">42</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1294</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">126</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">102</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">42</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">29</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1352</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Sábado",
