@@ -646,19 +646,15 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Pavo a la plancha con brócoli y aguacate</p><ul><li><span>Filete de pavo</span><span class=\"q\">90 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aguacate</span><span class=\"q\">50 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>10</b> HC netos</span><span><b>26</b> P</span><span><b>17</b> G</span><span><b>8</b> Fib</span><span><b>316</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Revuelto de 2 huevos con brócoli</p><ul><li><span>Huevos</span><span class=\"q\">2 ud</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>10</b> HC netos</span><span><b>19</b> P</span><span><b>20</b> G</span><span><b>5</b> Fib</span><span><b>304</b> kcal</span></div>",
      "src": [
       [
-       "pavo",
-       90
+       "huevo",
+       110
       ],
       [
        "brocoli",
        150
-      ],
-      [
-       "aguacate",
-       50
       ],
       [
        "aceite",
@@ -670,13 +666,13 @@
       ]
      ],
      "recipe": [
-      "Brócoli en ramilletes: cuécelo en agua hirviendo con sal 5 min y escúrrelo.",
-      "Filetes de pavo con sal y pimienta: sartén caliente con la cucharadita de aceite, 3 min por lado.",
-      "Saltea el brócoli 2 min en la misma sartén y sirve con el aguacate en láminas."
+      "Brócoli en ramilletes pequeños: cuécelo en agua hirviendo con sal 5 min y escúrrelo.",
+      "Saltéalo 2 min en una sartén antiadherente con la cucharadita de aceite.",
+      "Bate los 2 huevos con sal y pimienta, échalos sobre el brócoli y remueve a fuego medio-bajo 2 min, hasta que cuajen jugosos."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">122</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">102</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">44</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">28</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1349</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">122</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">95</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">47</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">25</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1337</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Sábado",
