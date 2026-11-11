@@ -27,6 +27,7 @@ DB = {
     'muslo':      ('Contramuslo de pollo sin piel', 0, 19, 6, 0, None),
     'pavo':       ('Filete de pavo', 0, 22, 1, 0, None),
     'lomo':       ('Lomo de cerdo', 0, 21.5, 6, 0, None),
+    'fuet':       ('Fuet', 1.5, 25, 38, 0, None),
     'solomillo':  ('Solomillo de cerdo', 0, 21, 3.5, 0, None),
     'ternera':    ('Ternera (filete magro)', 0, 21, 5, 0, None),
     'picada_ternera': ('Carne picada de ternera 5% grasa', 0, 21, 5, 0, None),
