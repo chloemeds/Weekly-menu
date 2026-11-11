@@ -63,14 +63,6 @@
           "buy": "Patata a granel, 1,90 €/kg"
         },
         {
-          "id": "boniato",
-          "name": "Boniato",
-          "qty": "<em>150 g</em> · 1 pequeño",
-          "price": 0.4,
-          "out": false,
-          "buy": "Boniato a granel. Precio aproximado (no lo he comprobado en la web de Mercadona)"
-        },
-        {
           "id": "fresa",
           "name": "Fresas",
           "qty": "<em>150 g</em>",
@@ -97,7 +89,7 @@
         {
           "id": "kiwi",
           "name": "Kiwi",
-          "qty": "<em>5</em>",
+          "qty": "<em>3</em>",
           "price": 1.75,
           "out": false,
           "buy": "5 kiwis verdes sueltos"
@@ -381,7 +373,7 @@
         {
           "id": "kouk0",
           "name": "Yogur griego Koukakis 0%",
-          "qty": "<em>2</em>",
+          "qty": "<em>3</em>",
           "price": 0.99,
           "out": true,
           "buy": "Precio aproximado"
@@ -397,7 +389,7 @@
         {
           "id": "skyr",
           "name": "Skyr natural Danone",
-          "qty": "<em>3</em>",
+          "qty": "<em>2</em>",
           "price": 2.75,
           "out": true,
           "buy": "Precio aproximado, pack de 4"

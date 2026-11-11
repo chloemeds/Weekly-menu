@@ -419,15 +419,11 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Pollo con boniato asado y brócoli (comida ligera, cenas fuera)</p><ul><li><span>Pechuga de pollo</span><span class=\"q\">140 g</span></li><li><span>Boniato</span><span class=\"q\">150 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>35</b> HC netos</span><span><b>40</b> P</span><span><b>11</b> G</span><span><b>9</b> Fib</span><span><b>420</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Pollo a la plancha con brócoli</p><ul><li><span>Pechuga de pollo</span><span class=\"q\">140 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>37</b> P</span><span><b>11</b> G</span><span><b>5</b> Fib</span><span><b>295</b> kcal</span></div>",
      "src": [
       [
        "pollo",
        140
-      ],
-      [
-       "boniato",
-       150
       ],
       [
        "brocoli",
@@ -443,28 +439,24 @@
       ]
      ],
      "recipe": [
-      "Boniato en dados con la mitad del aceite, pimentón y sal: airfryer a 200 °C, 15 min (remueve a mitad).",
-      "Brócoli al vapor en el microondas, bol tapado con 2 cdas de agua, 4–5 min.",
-      "Pollo en filetes finos con sal y pimienta: sartén caliente con el resto del aceite, 3–4 min por lado."
+      "Brócoli en ramilletes: cuécelo en agua hirviendo con sal 5 min y escúrrelo.",
+      "Pollo en filetes finos con sal y pimienta: sartén caliente con la cucharadita de aceite, 3–4 min por lado.",
+      "Saltea el brócoli 2 min en la misma sartén y sirve."
      ]
     },
     {
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Skyr con kiwi y chía</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Kiwi</span><span class=\"q\">2 ud (150 g)</span></li><li><span>Chía</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>22</b> HC netos</span><span><b>12</b> P</span><span><b>4</b> G</span><span><b>8</b> Fib</span><span><b>188</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Koukakis 0% con arándanos</p><ul><li><span>Yogur griego Koukakis 0%</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Arándanos</span><span class=\"q\">30 g</span></li></ul><div class=\"mac\"><span><b>10</b> HC netos</span><span><b>12</b> P</span><span><b>0</b> G</span><span><b>1</b> Fib</span><span><b>89</b> kcal</span></div>",
      "src": [
       [
-       "skyr",
-       100
-      ],
-      [
-       "kiwi",
+       "koukakis0",
        150
       ],
       [
-       "chia",
-       10
+       "arandanos",
+       30
       ]
      ]
     },
@@ -472,26 +464,78 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Cena en Bar Patata: margen reservado. Cuando sepas lo que has pedido, dímelo y ajusto el día</p><ul><li><span>Unas tapas o un plato, mejor con proteína (pollo, pescado, huevo, jamón)</span><span class=\"q\">~500 kcal</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>51</b> HC netos</span><span><b>29</b> P</span><span><b>23</b> G</span><span><b>6</b> Fib</span><span><b>540</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Cena en Parco Sushi (estimado)</p><ul><li><span>Nigiris: salmón, gamba, pez mantequilla, vieira y toro</span><span class=\"q\">5 piezas</span></li><li><span>Maki de fresa y foie en tempura</span><span class=\"q\">~3 piezas (8 entre 3)</span></li><li><span>Maki de gamba</span><span class=\"q\">2 piezas (6 entre 3)</span></li><li><span>Sashimi de gamba</span><span class=\"q\">2 piezas</span></li><li><span>Edamame (tu parte)</span><span class=\"q\">~60 g con vaina</span></li><li><span>Postre: saquitos con chocolate (tu parte)</span><span class=\"q\">1/3</span></li></ul><div class=\"mac\"><span><b>93</b> HC netos</span><span><b>37</b> P</span><span><b>42</b> G</span><span><b>5</b> Fib</span><span><b>904</b> kcal</span></div>",
      "src": [
       [
        "custom",
        [
-        48,
-        28,
-        20,
-        5
+        35,
+        17,
+        15,
+        1
        ],
-       "Unas tapas o un plato, mejor con proteína (pollo, pescado, huevo, jamón)"
+       "Nigiris: salmón, gamba, pez mantequilla, vieira y toro",
+       "5 piezas"
       ],
       [
-       "choco",
-       8
+       "custom",
+       [
+        21,
+        4,
+        11,
+        1
+       ],
+       "Maki de fresa y foie en tempura",
+       "~3 piezas (8 entre 3)"
+      ],
+      [
+       "custom",
+       [
+        14,
+        4,
+        5,
+        0.5
+       ],
+       "Maki de gamba",
+       "2 piezas (6 entre 3)"
+      ],
+      [
+       "custom",
+       [
+        0,
+        6,
+        0.5,
+        0
+       ],
+       "Sashimi de gamba",
+       "2 piezas"
+      ],
+      [
+       "custom",
+       [
+        3,
+        4,
+        2,
+        2
+       ],
+       "Edamame (tu parte)",
+       "~60 g con vaina"
+      ],
+      [
+       "custom",
+       [
+        20,
+        2,
+        8,
+        0.5
+       ],
+       "Postre: saquitos con chocolate (tu parte)",
+       "1/3"
       ]
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">133</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">96</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">41</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">26</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1338</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">137</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">102</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">55</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">14</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1478</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Viernes",
