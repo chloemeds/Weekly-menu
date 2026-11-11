@@ -310,7 +310,7 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Lomo de cerdo a la plancha con judías verdes y aguacate</p><ul><li><span>Lomo de cerdo</span><span class=\"q\">170 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aguacate</span><span class=\"q\">30 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>10</b> HC netos</span><span><b>41</b> P</span><span><b>23</b> G</span><span><b>7</b> Fib</span><span><b>425</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Lomo de cerdo a la plancha con judías verdes</p><ul><li><span>Lomo de cerdo</span><span class=\"q\">170 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>40</b> P</span><span><b>19</b> G</span><span><b>5</b> Fib</span><span><b>376</b> kcal</span></div>",
      "src": [
       [
        "lomo",
@@ -319,10 +319,6 @@
       [
        "judias",
        150
-      ],
-      [
-       "aguacate",
-       30
       ],
       [
        "aceite",
@@ -336,7 +332,7 @@
      "recipe": [
       "Judías verdes sin puntas, en trozos: cuécelas en agua hirviendo con sal 8–10 min y escúrrelas.",
       "Lomo en filetes con sal y pimienta: sartén muy caliente con la cucharadita de aceite, 2–3 min por lado.",
-      "Saltea las judías 2 min en la misma sartén con una pizca de ajo en polvo y sirve con el aguacate en láminas."
+      "Saltea las judías 2 min en la misma sartén con una pizca de ajo en polvo."
      ]
     },
     {
@@ -363,11 +359,11 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Salmón al horno con calabacín</p><ul><li><span>Salmón</span><span class=\"q\">140 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>31</b> P</span><span><b>27</b> G</span><span><b>2</b> Fib</span><span><b>394</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Salmón al horno con calabacín</p><ul><li><span>Salmón</span><span class=\"q\">130 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>29</b> P</span><span><b>26</b> G</span><span><b>2</b> Fib</span><span><b>374</b> kcal</span></div>",
      "src": [
       [
        "salmon",
-       140
+       130
       ],
       [
        "calabacin",
@@ -389,7 +385,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">34</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">97</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">82</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">15</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1288</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">34</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">94</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">76</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">13</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1219</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Jueves",
