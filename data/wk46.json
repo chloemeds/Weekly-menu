@@ -480,7 +480,7 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Cena en Parco Sushi (estimado)</p><ul><li><span>Nigiris: salmón, gamba, pez mantequilla, vieira y toro</span><span class=\"q\">5 piezas</span></li><li><span>Maki de fresa y foie en tempura</span><span class=\"q\">~3 piezas (8 entre 3)</span></li><li><span>Maki de gamba</span><span class=\"q\">2 piezas (6 entre 3)</span></li><li><span>Sashimi de gamba</span><span class=\"q\">2 piezas</span></li><li><span>Edamame (tu parte)</span><span class=\"q\">~60 g con vaina</span></li><li><span>Postre: saquitos con chocolate (tu parte)</span><span class=\"q\">1/3</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>93</b> HC netos</span><span><b>37</b> P</span><span><b>46</b> G</span><span><b>5</b> Fib</span><span><b>948</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Cena en Parco Sushi (estimado)</p><ul><li><span>Nigiris: salmón, gamba, pez mantequilla, vieira y toro</span><span class=\"q\">5 piezas</span></li><li><span>Maki de fresa y foie en tempura</span><span class=\"q\">~3 piezas (8 entre 3)</span></li><li><span>Maki de gamba</span><span class=\"q\">2 piezas (6 entre 3)</span></li><li><span>Sashimi de gamba</span><span class=\"q\">2 piezas</span></li><li><span>Edamame (tu parte)</span><span class=\"q\">~60 g con vaina</span></li><li><span>Postre: saquitos con chocolate (tu parte)</span><span class=\"q\">1/3</span></li></ul><div class=\"mac\"><span><b>93</b> HC netos</span><span><b>37</b> P</span><span><b>42</b> G</span><span><b>5</b> Fib</span><span><b>904</b> kcal</span></div>",
      "src": [
       [
        "custom",
@@ -547,15 +547,11 @@
        ],
        "Postre: saquitos con chocolate (tu parte)",
        "1/3"
-      ],
-      [
-       "aceite",
-       5
       ]
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">137</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">102</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">62</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">14</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1541</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">137</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">102</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">57</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">14</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1496</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Viernes",
