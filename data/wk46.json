@@ -468,7 +468,7 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Skyr con granada + matcha latte</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Granada</span><span class=\"q\">40 g</span></li><li><span>Bebida de almendra sin azúcar</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>10</b> P</span><span><b>2</b> G</span><span><b>2</b> Fib</span><span><b>103</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Skyr con granada + matcha latte</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Granada</span><span class=\"q\">30 g</span></li><li><span>Bebida de almendra sin azúcar</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>8</b> HC netos</span><span><b>10</b> P</span><span><b>2</b> G</span><span><b>2</b> Fib</span><span><b>95</b> kcal</span></div>",
      "src": [
       [
        "skyr",
@@ -476,7 +476,7 @@
       ],
       [
        "granada",
-       40
+       30
       ],
       [
        "leche_a",
@@ -548,7 +548,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">124</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">97</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">49</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1355</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">123</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">97</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">49</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1347</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Viernes",
