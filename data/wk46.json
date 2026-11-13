@@ -604,7 +604,7 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Lentejas de casa con pollo a la plancha</p><ul><li><span>Lentejas (secas)</span><span class=\"q\">292 g de guiso (todo el táper)</span></li><li><span>Chorizo (2–3 rodajas) y sofrito (estimado)</span><span class=\"q\">—</span></li><li><span>Pechuga de pollo</span><span class=\"q\">110 g</span></li><li><span>Kiwi</span><span class=\"q\">1 ud (75 g)</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate Marabou Oreo</span><span class=\"q\">~21 g (3 onzas)</span></li></ul><div class=\"mac\"><span><b>62</b> HC netos</span><span><b>53</b> P</span><span><b>25</b> G</span><span><b>12</b> Fib</span><span><b>713</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Lentejas de casa con pollo a la plancha</p><ul><li><span>Lentejas (secas)</span><span class=\"q\">292 g de guiso (todo el táper)</span></li><li><span>Chorizo (2–3 rodajas) y sofrito (estimado)</span><span class=\"q\">—</span></li><li><span>Pechuga de pollo</span><span class=\"q\">110 g</span></li><li><span>Kiwi</span><span class=\"q\">1 ud (75 g)</span></li><li><span>Chocolate Marabou Oreo (1 onza)</span><span class=\"q\">~21 g (3 onzas)</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>62</b> HC netos</span><span><b>53</b> P</span><span><b>25</b> G</span><span><b>12</b> Fib</span><span><b>713</b> kcal</span></div>",
      "src": [
       [
        "lentejas",
@@ -631,13 +631,13 @@
        75
       ],
       [
-       "aceite",
-       5
-      ],
-      [
        "marabou",
        21,
        "~21 g (3 onzas)"
+      ],
+      [
+       "aceite",
+       5
       ]
      ],
      "recipe": [
@@ -650,15 +650,20 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Skyr con fresas y granola</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Fresas</span><span class=\"q\">150 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">15 g</span></li></ul><div class=\"mac\"><span><b>20</b> HC netos</span><span><b>12</b> P</span><span><b>3</b> G</span><span><b>4</b> Fib</span><span><b>160</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Skyr y Koukakis griego con arándanos (o granada) y granola</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Yogur griego Koukakis</span><span class=\"q\">50 g</span></li><li><span>Arándanos</span><span class=\"q\">30 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">15 g</span></li></ul><div class=\"mac\"><span><b>17</b> HC netos</span><span><b>14</b> P</span><span><b>8</b> G</span><span><b>2</b> Fib</span><span><b>194</b> kcal</span></div>",
      "src": [
       [
        "skyr",
        100
       ],
       [
-       "fresas",
-       150
+       "koukakis",
+       50,
+       "50 g"
+      ],
+      [
+       "arandanos",
+       30
       ],
       [
        "granola",
@@ -696,7 +701,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">111</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">42</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">23</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1268</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">107</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">103</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">47</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">21</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1302</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Sábado",
