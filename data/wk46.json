@@ -675,14 +675,18 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Merluza a la plancha con brócoli</p><ul><li><span>Merluza</span><span class=\"q\">140 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>28</b> P</span><span><b>8</b> G</span><span><b>4</b> Fib</span><span><b>216</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Tortilla francesa con pavo y judías verdes salteadas</p><ul><li><span>Huevos</span><span class=\"q\">2 ud</span></li><li><span>Pechuga de pavo en lonchas</span><span class=\"q\">30 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>8</b> HC netos</span><span><b>22</b> P</span><span><b>17</b> G</span><span><b>4</b> Fib</span><span><b>278</b> kcal</span></div>",
      "src": [
       [
-       "merluza",
-       140
+       "huevo",
+       110
       ],
       [
-       "brocoli",
+       "pavo_l",
+       30
+      ],
+      [
+       "judias",
        150
       ],
       [
@@ -691,13 +695,13 @@
       ]
      ],
      "recipe": [
-      "Brócoli en ramilletes al vapor en el microondas, bol tapado con 2 cdas de agua, 5 min.",
-      "Seca la merluza, sal y pimienta: sartén caliente con la cucharadita de aceite, 3 min por la piel y 2 min por el otro lado.",
-      "Sirve con el brócoli y unas gotas de limón."
+      "Judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min.",
+      "Saltéalas 2 min en la sartén con la cucharadita de aceite y sal, y sácalas al plato.",
+      "Bate los 2 huevos con sal, échalos en la misma sartén, pon el pavo en tiras encima y dobla la tortilla a los 2 min."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">102</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">42</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">19</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1228</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">103</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">94</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">51</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">20</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1290</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Sábado",
@@ -789,18 +793,14 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Tortilla francesa con pavo y judías verdes salteadas</p><ul><li><span>Huevos</span><span class=\"q\">2 ud</span></li><li><span>Pechuga de pavo en lonchas</span><span class=\"q\">30 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>10</b> HC netos</span><span><b>23</b> P</span><span><b>20</b> G</span><span><b>5</b> Fib</span><span><b>324</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Merluza a la plancha con brócoli</p><ul><li><span>Merluza</span><span class=\"q\">120 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>25</b> P</span><span><b>11</b> G</span><span><b>5</b> Fib</span><span><b>245</b> kcal</span></div>",
      "src": [
       [
-       "huevo",
-       110
+       "merluza",
+       120
       ],
       [
-       "pavo_l",
-       30
-      ],
-      [
-       "judias",
+       "brocoli",
        150
       ],
       [
@@ -813,13 +813,13 @@
       ]
      ],
      "recipe": [
-      "Judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min.",
-      "Saltéalas 2 min en la sartén con la cucharadita de aceite y sal, y sácalas al plato.",
-      "Bate los 2 huevos con sal, échalos en la misma sartén, pon el pavo en tiras encima y dobla la tortilla a los 2 min."
+      "Brócoli en ramilletes al vapor en el microondas, bol tapado con 2 cdas de agua, 5 min.",
+      "Seca la merluza, sal y pimienta: sartén caliente con la cucharadita de aceite, 3 min por la piel y 2 min por el otro lado.",
+      "Sirve con el brócoli y unas gotas de limón."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">129</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">43</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">21</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1351</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">128</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">103</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">34</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">21</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1272</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Domingo",
