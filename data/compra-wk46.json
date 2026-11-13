@@ -1,400 +1,400 @@
 {
-  "week": "WK46",
-  "title": "Lista de la compra · WK46 · 9 al 15 nov",
-  "note": "Todo lo del menú WK46 de lunes a domingo, sin matcha ni aceite. Precios de Mercadona (tienda de Madrid); los marcados como aproximados no los he podido comprobar. Marca lo que ya tienes en casa y te queda a la vista lo que falta.",
-  "groups": [
+ "week": "WK46",
+ "title": "Lista de la compra · WK46 · 9 al 15 nov",
+ "note": "Todo lo del menú WK46 de lunes a domingo, sin matcha ni aceite. Precios de Mercadona (tienda de Madrid); los marcados como aproximados no los he podido comprobar. Marca lo que ya tienes en casa y te queda a la vista lo que falta.",
+ "groups": [
+  {
+   "name": "Fruta y verdura",
+   "items": [
     {
-      "name": "Fruta y verdura",
-      "items": [
-        {
-          "id": "calabacin",
-          "name": "Calabacín",
-          "qty": "<em>300 g</em> · unos 2",
-          "price": 0.91,
-          "out": false,
-          "buy": "Calabacín verde a granel, 1,40 €/kg"
-        },
-        {
-          "id": "judias",
-          "name": "Judías verdes",
-          "qty": "<em>300 g</em>",
-          "price": 1.3,
-          "out": false,
-          "buy": "Judía verde redonda Hacendado ultracongelada, bolsa de 1 kg"
-        },
-        {
-          "id": "brocoli",
-          "name": "Brócoli",
-          "qty": "<em>630 g</em> · 2 o 3",
-          "price": 2.05,
-          "out": false,
-          "buy": "Brócoli a granel, 2,30 €/kg"
-        },
-        {
-          "id": "champi",
-          "name": "Champiñones",
-          "qty": "<em>150 g</em>",
-          "price": 1.56,
-          "out": false,
-          "buy": "Champiñones blancos, bandeja de 300 g"
-        },
-        {
-          "id": "setas",
-          "name": "Setas",
-          "qty": "<em>150 g</em>",
-          "price": 2.2,
-          "out": false,
-          "buy": "Setas de cardo u ostra, bandeja. Precio aproximado (no lo he comprobado en la web de Mercadona)"
-        },
-        {
-          "id": "aguacate",
-          "name": "Aguacate",
-          "qty": "<em>1</em> · 150 g",
-          "price": 1.0,
-          "out": false,
-          "buy": "1 aguacate suelto. Precio aproximado (no lo he comprobado en la web de Mercadona)"
-        },
-        {
-          "id": "patata",
-          "name": "Patata",
-          "qty": "<em>250 g</em> · 2 medianas",
-          "price": 0.48,
-          "out": false,
-          "buy": "Patata a granel, 1,90 €/kg"
-        },
-        {
-          "id": "fresa",
-          "name": "Fresas",
-          "qty": "<em>150 g</em>",
-          "price": 2.5,
-          "out": false,
-          "buy": "Fresas, tarrina de 500 g. Precio aproximado (no lo he comprobado en la web de Mercadona)"
-        },
-        {
-          "id": "frambuesa",
-          "name": "Frambuesas",
-          "qty": "<em>120 g</em>",
-          "price": 3.16,
-          "out": false,
-          "buy": "Frambuesas, bandeja de 200 g"
-        },
-        {
-          "id": "arandano",
-          "name": "Arándanos",
-          "qty": "<em>80 g</em>",
-          "price": 2.2,
-          "out": false,
-          "buy": "Arándanos, tarrina de 125 g. Precio aproximado (no lo he comprobado en la web de Mercadona)"
-        },
-        {
-          "id": "kiwi",
-          "name": "Kiwi",
-          "qty": "<em>5</em>",
-          "price": 1.75,
-          "out": false,
-          "buy": "5 kiwis verdes sueltos"
-        },
-        {
-          "id": "mandarina",
-          "name": "Mandarina",
-          "qty": "<em>2</em> · 140 g",
-          "price": 0.5,
-          "out": false,
-          "buy": "2 mandarinas sueltas. Precio aproximado (no lo he comprobado en la web de Mercadona)"
-        },
-        {
-          "id": "platano",
-          "name": "Plátano",
-          "qty": "<em>3</em>",
-          "price": 0.3,
-          "out": false,
-          "buy": "Plátano de Canarias suelto. Precio aproximado (no lo he comprobado en la web de Mercadona)"
-        },
-        {
-          "id": "limon",
-          "name": "Limón",
-          "qty": "<em>1</em>",
-          "price": 0.36,
-          "out": false,
-          "buy": "1 limón"
-        }
-      ]
+     "id": "calabacin",
+     "name": "Calabacín",
+     "qty": "<em>300 g</em> · unos 2",
+     "price": 0.91,
+     "out": false,
+     "buy": "Calabacín verde a granel, 1,40 €/kg"
     },
     {
-      "name": "Carne y pescado",
-      "items": [
-        {
-          "id": "pollo",
-          "name": "Pechuga de pollo",
-          "qty": "<em>370 g</em>",
-          "price": 4.0,
-          "out": false,
-          "buy": "Filetes pechuga de pollo, bandeja de unos 520 g"
-        },
-        {
-          "id": "contramuslo",
-          "name": "Contramuslo de pollo sin piel",
-          "qty": "<em>140 g</em>",
-          "price": 3.2,
-          "out": false,
-          "buy": "Contramuslo de pollo deshuesado sin piel, bandeja. Precio aproximado (no lo he comprobado en la web de Mercadona)"
-        },
-        {
-          "id": "pavof",
-          "name": "Filetes de pechuga de pavo",
-          "qty": "<em>110 g</em>",
-          "price": 5.07,
-          "out": false,
-          "buy": "Filetes pechuga de pavo, bandeja de unos 580 g"
-        },
-        {
-          "id": "lomo",
-          "name": "Lomo de cerdo en filetes",
-          "qty": "<em>130 g</em>",
-          "price": 3.5,
-          "out": false,
-          "buy": "Filetes de lomo de cerdo, bandeja pequeña. Precio aproximado (no lo he comprobado en la web de Mercadona)"
-        },
-        {
-          "id": "salmon",
-          "name": "Salmón",
-          "qty": "<em>120 g</em> · 1 lomo",
-          "price": 5.95,
-          "out": false,
-          "buy": "Lomos de salmón sin piel Hacendado congelados, 250 g (2 lomos)"
-        },
-        {
-          "id": "merluza",
-          "name": "Merluza",
-          "qty": "<em>150 g</em>",
-          "price": 4.5,
-          "out": false,
-          "buy": "Filetes de merluza Hacendado ultracongelados. Precio aproximado (no lo he comprobado en la web de Mercadona)"
-        },
-        {
-          "id": "dorada",
-          "name": "Dorada",
-          "qty": "<em>1 en lomos</em> · unos 140 g limpios",
-          "price": 4.5,
-          "out": false,
-          "buy": "Dorada limpia, 1 pieza (que te la abran en lomos). Precio aproximado (no lo he comprobado en la web de Mercadona)"
-        },
-        {
-          "id": "lubina",
-          "name": "Lubina",
-          "qty": "<em>1 en lomos</em> · unos 140 g limpios",
-          "price": 5.5,
-          "out": false,
-          "buy": "Lubina limpia, 1 pieza. Precio aproximado (no lo he comprobado en la web de Mercadona)"
-        },
-        {
-          "id": "bacalao",
-          "name": "Bacalao fresco",
-          "qty": "<em>130 g</em> · 1 lomo",
-          "price": 3.5,
-          "out": false,
-          "buy": "Lomo de bacalao fresco o ultracongelado. Precio aproximado (no lo he comprobado en la web de Mercadona)"
-        },
-        {
-          "id": "gambas",
-          "name": "Gambas o langostinos pelados",
-          "qty": "<em>150 g</em>",
-          "price": 4.9,
-          "out": false,
-          "buy": "Gamba pelada cruda mediana Hacendado ultracongelada, 360 g"
-        }
-      ]
+     "id": "judias",
+     "name": "Judías verdes",
+     "qty": "<em>300 g</em>",
+     "price": 1.3,
+     "out": false,
+     "buy": "Judía verde redonda Hacendado ultracongelada, bolsa de 1 kg"
     },
     {
-      "name": "Huevos, charcutería y lácteos",
-      "items": [
-        {
-          "id": "huevos",
-          "name": "Huevos",
-          "qty": "<em>6</em>",
-          "price": 1.8,
-          "out": false,
-          "buy": "Huevos grandes L, docena"
-        },
-        {
-          "id": "york",
-          "name": "Jamón york",
-          "qty": "<em>150 g</em>",
-          "price": 2.0,
-          "out": false,
-          "buy": "Jamón cocido extra Hacendado finas lonchas, 200 g"
-        },
-        {
-          "id": "pavol",
-          "name": "Pechuga de pavo en lonchas",
-          "qty": "<em>50 g</em>",
-          "price": 1.9,
-          "out": false,
-          "buy": "Pechuga de pavo en finas lonchas Hacendado. Precio aproximado (no lo he comprobado en la web de Mercadona)"
-        },
-        {
-          "id": "serrano",
-          "name": "Jamón serrano",
-          "qty": "<em>25 g</em>",
-          "price": 2.5,
-          "out": false,
-          "buy": "Jamón serrano en lonchas, sobre pequeño. Precio aproximado (no lo he comprobado en la web de Mercadona)"
-        },
-        {
-          "id": "queso",
-          "name": "Queso en lonchas cremoso light Hacendado",
-          "qty": "<em>2 lonchas</em>",
-          "price": 2.9,
-          "out": false,
-          "buy": "Queso lonchas cremoso light Hacendado, 300 g (12 lonchas)"
-        },
-        {
-          "id": "leched",
-          "name": "Leche desnatada",
-          "qty": "<em>800 ml</em> · para el matcha",
-          "price": 0.81,
-          "out": false,
-          "buy": "Leche desnatada Hacendado, brick de 1 L"
-        },
-        {
-          "id": "almendra",
-          "name": "Bebida de almendra sin azúcar",
-          "qty": "<em>250 ml</em> · para el matcha",
-          "price": 1.1,
-          "out": false,
-          "buy": "Bebida de almendras 0% azúcar Hacendado, brick de 1 L"
-        }
-      ]
+     "id": "brocoli",
+     "name": "Brócoli",
+     "qty": "<em>630 g</em> · 2 o 3",
+     "price": 2.05,
+     "out": false,
+     "buy": "Brócoli a granel, 2,30 €/kg"
     },
     {
-      "name": "Despensa",
-      "items": [
-        {
-          "id": "pan",
-          "name": "Pan integral",
-          "qty": "<em>135 g</em> · unas 4 rebanadas",
-          "price": 0.9,
-          "out": false,
-          "buy": "Pan de molde 100% integral Hacendado, 460 g"
-        },
-        {
-          "id": "baguette",
-          "name": "Pan baguette",
-          "qty": "<em>60 g</em> · un trozo",
-          "price": 0.45,
-          "out": false,
-          "buy": "Barra de pan del día. Precio aproximado (no lo he comprobado en la web de Mercadona)"
-        },
-        {
-          "id": "arroz",
-          "name": "Arroz blanco",
-          "qty": "<em>80 g</em>",
-          "price": 1.2,
-          "out": false,
-          "buy": "Arroz largo Hacendado, 1 kg"
-        },
-        {
-          "id": "pasta",
-          "name": "Pasta",
-          "qty": "<em>80 g</em>",
-          "price": 0.9,
-          "out": false,
-          "buy": "Macarrones o espaguetis Hacendado, 500 g. Precio aproximado (no lo he comprobado en la web de Mercadona)"
-        },
-        {
-          "id": "gnocchi",
-          "name": "Gnocchi de patata",
-          "qty": "<em>200 g</em>",
-          "price": 1.5,
-          "out": false,
-          "buy": "Gnocchi de patata Hacendado (nevera), 500 g. Precio aproximado (no lo he comprobado en la web de Mercadona)"
-        },
-        {
-          "id": "pesto",
-          "name": "Pesto",
-          "qty": "<em>15 g</em> · si no te queda",
-          "price": 2.0,
-          "out": false,
-          "buy": "Salsa pesto Hacendado, tarro. Precio aproximado (no lo he comprobado en la web de Mercadona)"
-        },
-        {
-          "id": "granola",
-          "name": "Granola sin azúcar",
-          "qty": "<em>40 g</em>",
-          "price": 1.9,
-          "out": false,
-          "buy": "Muesli Crunchy Hacendado sin azúcares añadidos, 500 g"
-        },
-        {
-          "id": "chia",
-          "name": "Chía",
-          "qty": "<em>42 g</em>",
-          "price": 2.05,
-          "out": false,
-          "buy": "Semillas de chía Hacendado, 250 g"
-        },
-        {
-          "id": "almendras",
-          "name": "Almendras",
-          "qty": "<em>10 g</em>",
-          "price": 2.3,
-          "out": false,
-          "buy": "Almendra natural Hacendado, 200 g"
-        },
-        {
-          "id": "nueces",
-          "name": "Nueces",
-          "qty": "<em>15 g</em>",
-          "price": 1.7,
-          "out": false,
-          "buy": "Nuez troceada pelada Hacendado, 150 g"
-        },
-        {
-          "id": "cremaave",
-          "name": "Crema de avellana y cacao Ametller",
-          "qty": "<em>20 g</em> · la que tienes",
-          "price": 0,
-          "out": false,
-          "buy": "Ya la tienes en casa"
-        },
-        {
-          "id": "choco",
-          "name": "Chocolate negro 72% Mercadona",
-          "qty": "<em>14 onzas</em> · 2 tabletas",
-          "price": 3.3,
-          "out": false,
-          "buy": "Chocolate negro 72% cacao Hacendado, tableta de 100 g (1,65 € cada una)"
-        }
-      ]
+     "id": "champi",
+     "name": "Champiñones",
+     "qty": "<em>150 g</em>",
+     "price": 1.56,
+     "out": false,
+     "buy": "Champiñones blancos, bandeja de 300 g"
     },
     {
-      "name": "Fuera de Mercadona",
-      "items": [
-        {
-          "id": "kouk0",
-          "name": "Yogur griego Koukakis 0%",
-          "qty": "<em>3</em>",
-          "price": 0.99,
-          "out": true,
-          "buy": "Precio aproximado"
-        },
-        {
-          "id": "kouk10",
-          "name": "Yogur griego Koukakis 10%",
-          "qty": "<em>2</em>",
-          "price": 1.2,
-          "out": true,
-          "buy": "Precio aproximado"
-        },
-        {
-          "id": "skyr",
-          "name": "Skyr natural Danone",
-          "qty": "<em>3</em>",
-          "price": 2.75,
-          "out": true,
-          "buy": "Precio aproximado, pack de 4"
-        }
-      ]
+     "id": "setas",
+     "name": "Setas",
+     "qty": "<em>150 g</em>",
+     "price": 2.2,
+     "out": false,
+     "buy": "Setas de cardo u ostra, bandeja. Precio aproximado (no lo he comprobado en la web de Mercadona)"
+    },
+    {
+     "id": "aguacate",
+     "name": "Aguacate",
+     "qty": "<em>1</em> · 150 g",
+     "price": 1.0,
+     "out": false,
+     "buy": "1 aguacate suelto. Precio aproximado (no lo he comprobado en la web de Mercadona)"
+    },
+    {
+     "id": "patata",
+     "name": "Patata",
+     "qty": "<em>250 g</em> · 2 medianas",
+     "price": 0.48,
+     "out": false,
+     "buy": "Patata a granel, 1,90 €/kg"
+    },
+    {
+     "id": "fresa",
+     "name": "Fresas",
+     "qty": "<em>150 g</em>",
+     "price": 2.5,
+     "out": false,
+     "buy": "Fresas, tarrina de 500 g. Precio aproximado (no lo he comprobado en la web de Mercadona)"
+    },
+    {
+     "id": "frambuesa",
+     "name": "Frambuesas",
+     "qty": "<em>120 g</em>",
+     "price": 3.16,
+     "out": false,
+     "buy": "Frambuesas, bandeja de 200 g"
+    },
+    {
+     "id": "arandano",
+     "name": "Arándanos",
+     "qty": "<em>80 g</em>",
+     "price": 2.2,
+     "out": false,
+     "buy": "Arándanos, tarrina de 125 g. Precio aproximado (no lo he comprobado en la web de Mercadona)"
+    },
+    {
+     "id": "kiwi",
+     "name": "Kiwi",
+     "qty": "<em>5</em>",
+     "price": 1.75,
+     "out": false,
+     "buy": "5 kiwis verdes sueltos"
+    },
+    {
+     "id": "mandarina",
+     "name": "Mandarina",
+     "qty": "<em>2</em> · 140 g",
+     "price": 0.5,
+     "out": false,
+     "buy": "2 mandarinas sueltas. Precio aproximado (no lo he comprobado en la web de Mercadona)"
+    },
+    {
+     "id": "platano",
+     "name": "Plátano",
+     "qty": "<em>3</em>",
+     "price": 0.3,
+     "out": false,
+     "buy": "Plátano de Canarias suelto. Precio aproximado (no lo he comprobado en la web de Mercadona)"
+    },
+    {
+     "id": "limon",
+     "name": "Limón",
+     "qty": "<em>1</em>",
+     "price": 0.36,
+     "out": false,
+     "buy": "1 limón"
     }
-  ]
+   ]
+  },
+  {
+   "name": "Carne y pescado",
+   "items": [
+    {
+     "id": "pollo",
+     "name": "Pechuga de pollo",
+     "qty": "<em>370 g</em>",
+     "price": 4.0,
+     "out": false,
+     "buy": "Filetes pechuga de pollo, bandeja de unos 520 g"
+    },
+    {
+     "id": "contramuslo",
+     "name": "Contramuslo de pollo sin piel",
+     "qty": "<em>140 g</em>",
+     "price": 3.2,
+     "out": false,
+     "buy": "Contramuslo de pollo deshuesado sin piel, bandeja. Precio aproximado (no lo he comprobado en la web de Mercadona)"
+    },
+    {
+     "id": "pavof",
+     "name": "Filetes de pechuga de pavo",
+     "qty": "<em>110 g</em>",
+     "price": 5.07,
+     "out": false,
+     "buy": "Filetes pechuga de pavo, bandeja de unos 580 g"
+    },
+    {
+     "id": "lomo",
+     "name": "Lomo de cerdo en filetes",
+     "qty": "<em>130 g</em>",
+     "price": 3.5,
+     "out": false,
+     "buy": "Filetes de lomo de cerdo, bandeja pequeña. Precio aproximado (no lo he comprobado en la web de Mercadona)"
+    },
+    {
+     "id": "salmon",
+     "name": "Salmón",
+     "qty": "<em>120 g</em> · 1 lomo",
+     "price": 5.95,
+     "out": false,
+     "buy": "Lomos de salmón sin piel Hacendado congelados, 250 g (2 lomos)"
+    },
+    {
+     "id": "merluza",
+     "name": "Merluza",
+     "qty": "<em>150 g</em>",
+     "price": 4.5,
+     "out": false,
+     "buy": "Filetes de merluza Hacendado ultracongelados. Precio aproximado (no lo he comprobado en la web de Mercadona)"
+    },
+    {
+     "id": "dorada",
+     "name": "Dorada",
+     "qty": "<em>1 en lomos</em> · unos 140 g limpios",
+     "price": 4.5,
+     "out": false,
+     "buy": "Dorada limpia, 1 pieza (que te la abran en lomos). Precio aproximado (no lo he comprobado en la web de Mercadona)"
+    },
+    {
+     "id": "lubina",
+     "name": "Lubina",
+     "qty": "<em>1 en lomos</em> · unos 140 g limpios",
+     "price": 5.5,
+     "out": false,
+     "buy": "Lubina limpia, 1 pieza. Precio aproximado (no lo he comprobado en la web de Mercadona)"
+    },
+    {
+     "id": "bacalao",
+     "name": "Bacalao fresco",
+     "qty": "<em>130 g</em> · 1 lomo",
+     "price": 3.5,
+     "out": false,
+     "buy": "Lomo de bacalao fresco o ultracongelado. Precio aproximado (no lo he comprobado en la web de Mercadona)"
+    },
+    {
+     "id": "gambas",
+     "name": "Gambas o langostinos pelados",
+     "qty": "<em>150 g</em>",
+     "price": 4.9,
+     "out": false,
+     "buy": "Gamba pelada cruda mediana Hacendado ultracongelada, 360 g"
+    }
+   ]
+  },
+  {
+   "name": "Huevos, charcutería y lácteos",
+   "items": [
+    {
+     "id": "huevos",
+     "name": "Huevos",
+     "qty": "<em>6</em>",
+     "price": 1.8,
+     "out": false,
+     "buy": "Huevos grandes L, docena"
+    },
+    {
+     "id": "york",
+     "name": "Jamón york",
+     "qty": "<em>150 g</em>",
+     "price": 2.0,
+     "out": false,
+     "buy": "Jamón cocido extra Hacendado finas lonchas, 200 g"
+    },
+    {
+     "id": "pavol",
+     "name": "Pechuga de pavo en lonchas",
+     "qty": "<em>50 g</em>",
+     "price": 1.9,
+     "out": false,
+     "buy": "Pechuga de pavo en finas lonchas Hacendado. Precio aproximado (no lo he comprobado en la web de Mercadona)"
+    },
+    {
+     "id": "serrano",
+     "name": "Jamón serrano",
+     "qty": "<em>25 g</em>",
+     "price": 2.5,
+     "out": false,
+     "buy": "Jamón serrano en lonchas, sobre pequeño. Precio aproximado (no lo he comprobado en la web de Mercadona)"
+    },
+    {
+     "id": "queso",
+     "name": "Queso en lonchas cremoso light Hacendado",
+     "qty": "<em>2 lonchas</em>",
+     "price": 2.9,
+     "out": false,
+     "buy": "Queso lonchas cremoso light Hacendado, 300 g (12 lonchas)"
+    },
+    {
+     "id": "leched",
+     "name": "Leche desnatada",
+     "qty": "<em>800 ml</em> · para el matcha",
+     "price": 0.81,
+     "out": false,
+     "buy": "Leche desnatada Hacendado, brick de 1 L"
+    },
+    {
+     "id": "almendra",
+     "name": "Bebida de almendra sin azúcar",
+     "qty": "<em>250 ml</em> · para el matcha",
+     "price": 1.1,
+     "out": false,
+     "buy": "Bebida de almendras 0% azúcar Hacendado, brick de 1 L"
+    }
+   ]
+  },
+  {
+   "name": "Despensa",
+   "items": [
+    {
+     "id": "pan",
+     "name": "Pan integral",
+     "qty": "<em>135 g</em> · unas 4 rebanadas",
+     "price": 0.9,
+     "out": false,
+     "buy": "Pan de molde 100% integral Hacendado, 460 g"
+    },
+    {
+     "id": "baguette",
+     "name": "Pan baguette",
+     "qty": "<em>60 g</em> · un trozo",
+     "price": 0.45,
+     "out": false,
+     "buy": "Barra de pan del día. Precio aproximado (no lo he comprobado en la web de Mercadona)"
+    },
+    {
+     "id": "arroz",
+     "name": "Arroz blanco",
+     "qty": "<em>80 g</em>",
+     "price": 1.2,
+     "out": false,
+     "buy": "Arroz largo Hacendado, 1 kg"
+    },
+    {
+     "id": "pasta",
+     "name": "Pasta",
+     "qty": "<em>80 g</em>",
+     "price": 0.9,
+     "out": false,
+     "buy": "Macarrones o espaguetis Hacendado, 500 g. Precio aproximado (no lo he comprobado en la web de Mercadona)"
+    },
+    {
+     "id": "gnocchi",
+     "name": "Gnocchi de patata",
+     "qty": "<em>200 g</em>",
+     "price": 1.5,
+     "out": false,
+     "buy": "Gnocchi de patata Hacendado (nevera), 500 g. Precio aproximado (no lo he comprobado en la web de Mercadona)"
+    },
+    {
+     "id": "pesto",
+     "name": "Pesto",
+     "qty": "<em>15 g</em> · si no te queda",
+     "price": 2.0,
+     "out": false,
+     "buy": "Salsa pesto Hacendado, tarro. Precio aproximado (no lo he comprobado en la web de Mercadona)"
+    },
+    {
+     "id": "granola",
+     "name": "Granola sin azúcar",
+     "qty": "<em>40 g</em>",
+     "price": 1.9,
+     "out": false,
+     "buy": "Muesli Crunchy Hacendado sin azúcares añadidos, 500 g"
+    },
+    {
+     "id": "chia",
+     "name": "Chía",
+     "qty": "<em>42 g</em>",
+     "price": 2.05,
+     "out": false,
+     "buy": "Semillas de chía Hacendado, 250 g"
+    },
+    {
+     "id": "almendras",
+     "name": "Almendras",
+     "qty": "<em>10 g</em>",
+     "price": 2.3,
+     "out": false,
+     "buy": "Almendra natural Hacendado, 200 g"
+    },
+    {
+     "id": "nueces",
+     "name": "Nueces",
+     "qty": "<em>15 g</em>",
+     "price": 1.7,
+     "out": false,
+     "buy": "Nuez troceada pelada Hacendado, 150 g"
+    },
+    {
+     "id": "cremaave",
+     "name": "Crema de avellana y cacao Ametller",
+     "qty": "<em>20 g</em> · la que tienes",
+     "price": 0,
+     "out": false,
+     "buy": "Ya la tienes en casa"
+    },
+    {
+     "id": "choco",
+     "name": "Chocolate negro 72% Mercadona",
+     "qty": "<em>14 onzas</em> · 2 tabletas",
+     "price": 3.3,
+     "out": false,
+     "buy": "Chocolate negro 72% cacao Hacendado, tableta de 100 g (1,65 € cada una)"
+    }
+   ]
+  },
+  {
+   "name": "Fuera de Mercadona",
+   "items": [
+    {
+     "id": "kouk0",
+     "name": "Yogur griego Koukakis 0%",
+     "qty": "<em>3</em>",
+     "price": 0.99,
+     "out": true,
+     "buy": "Precio aproximado"
+    },
+    {
+     "id": "kouk10",
+     "name": "Yogur griego Koukakis 10%",
+     "qty": "<em>2</em>",
+     "price": 1.2,
+     "out": true,
+     "buy": "Precio aproximado"
+    },
+    {
+     "id": "skyr",
+     "name": "Skyr natural Danone",
+     "qty": "<em>4</em>",
+     "price": 2.75,
+     "out": true,
+     "buy": "Precio aproximado, pack de 4"
+    }
+   ]
+  }
+ ]
 }
