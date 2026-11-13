@@ -503,7 +503,7 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Cena en Parco Sushi (tomado, estimado)</p><ul><li><span>Sashimi de gamba</span><span class=\"q\">2 piezas</span></li><li><span>Nigiris: salmón, gamba, pez mantequilla, vieira, anguila y toro</span><span class=\"q\">6 piezas</span></li><li><span>Maki de gamba</span><span class=\"q\">2 piezas</span></li><li><span>Maki de gamba y aguacate</span><span class=\"q\">2 piezas</span></li><li><span>Saquitos de nata (postre)</span><span class=\"q\">2 ud</span></li><li><span>Chocolate caliente para mojar</span><span class=\"q\">~15 g</span></li></ul><div class=\"mac\"><span><b>105</b> HC netos</span><span><b>39</b> P</span><span><b>52</b> G</span><span><b>4</b> Fib</span><span><b>1051</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Cena en Parco Sushi (tomado, estimado)</p><ul><li><span>Sashimi de gamba</span><span class=\"q\">2 piezas</span></li><li><span>Nigiris: salmón, gamba, pez mantequilla, vieira, anguila y toro</span><span class=\"q\">6 piezas</span></li><li><span>Maki de gamba</span><span class=\"q\">2 piezas</span></li><li><span>Maki de gamba y aguacate</span><span class=\"q\">2 piezas</span></li><li><span>Saquitos de helado de vainilla en pasta filo (postre)</span><span class=\"q\">2 ud</span></li><li><span>Chocolate caliente para mojar</span><span class=\"q\">~15 g</span></li></ul><div class=\"mac\"><span><b>107</b> HC netos</span><span><b>40</b> P</span><span><b>45</b> G</span><span><b>4</b> Fib</span><span><b>998</b> kcal</span></div>",
      "src": [
       [
        "custom",
@@ -552,12 +552,12 @@
       [
        "custom",
        [
-        26,
-        3,
-        18,
+        28,
+        3.5,
+        11,
         0.5
        ],
-       "Saquitos de nata (postre)",
+       "Saquitos de helado de vainilla en pasta filo (postre)",
        "2 ud"
       ],
       [
@@ -574,7 +574,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">159</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">103</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">70</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">15</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1711</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">161</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">104</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">63</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">15</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1658</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Viernes",
