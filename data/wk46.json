@@ -735,23 +735,19 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Lubina al horno con patatas y judías verdes</p><ul><li><span>Lubina</span><span class=\"q\">140 g</span></li><li><span>Patata</span><span class=\"q\">250 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Mandarina</span><span class=\"q\">2 ud (140 g)</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>64</b> HC netos</span><span><b>36</b> P</span><span><b>16</b> G</span><span><b>12</b> Fib</span><span><b>573</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Pasta con gambas y calabacín</p><ul><li><span>Pasta (cruda)</span><span class=\"q\">75 g</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">160 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>59</b> HC netos</span><span><b>44</b> P</span><span><b>12</b> G</span><span><b>5</b> Fib</span><span><b>528</b> kcal</span></div>",
      "src": [
       [
-       "lubina",
-       140
+       "pasta",
+       75
       ],
       [
-       "patata",
-       250
+       "gambas",
+       160
       ],
       [
-       "judias",
+       "calabacin",
        150
-      ],
-      [
-       "mandarina",
-       140
       ],
       [
        "aceite",
@@ -763,9 +759,10 @@
       ]
      ],
      "recipe": [
-      "Patata en rodajas finas con el aceite y sal: airfryer a 190 °C, 15 min (o microondas 7 min y luego al horno).",
-      "Horno a 200 °C: pon la lubina en lomos sobre las patatas con sal y limón, 10–12 min.",
-      "Judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min."
+      "Cuece la pasta en agua con sal el tiempo del paquete (unos 10 min).",
+      "Mientras, calabacín en medias lunas en la sartén con la cucharadita de aceite y sal, 5–6 min a fuego medio-alto.",
+      "Añade las gambas (secas con papel) con sal y pimienta, 2–3 min hasta que estén rosadas.",
+      "Escurre la pasta, mézclala en la sartén con un chorrito del agua de cocción 1 min y unas gotas de limón."
      ]
     },
     {
@@ -792,26 +789,19 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Salteado oriental de gambas con brócoli</p><ul><li><span>Gambas o langostinos pelados</span><span class=\"q\">130 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Salsa de soja</span><span class=\"q\">1 cucharada</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>10</b> HC netos</span><span><b>32</b> P</span><span><b>11</b> G</span><span><b>5</b> Fib</span><span><b>272</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Tortilla francesa con pavo y judías verdes salteadas</p><ul><li><span>Huevos</span><span class=\"q\">2 ud</span></li><li><span>Pechuga de pavo en lonchas</span><span class=\"q\">30 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>10</b> HC netos</span><span><b>23</b> P</span><span><b>20</b> G</span><span><b>5</b> Fib</span><span><b>324</b> kcal</span></div>",
      "src": [
       [
-       "gambas",
-       130
+       "huevo",
+       110
       ],
       [
-       "brocoli",
+       "pavo_l",
+       30
+      ],
+      [
+       "judias",
        150
-      ],
-      [
-       "custom",
-       [
-        0.8,
-        0.8,
-        0,
-        0
-       ],
-       "Salsa de soja",
-       "1 cucharada"
       ],
       [
        "aceite",
@@ -823,14 +813,13 @@
       ]
      ],
      "recipe": [
-      "Brócoli en ramilletes pequeños al vapor en el microondas, bol tapado con 2 cdas de agua, 4 min (que quede al dente).",
-      "Sartén o wok muy caliente con la cucharadita de aceite: saltea el brócoli 2 min.",
-      "Añade las gambas (secas con papel) y saltea 2–3 min, hasta que estén rosadas.",
-      "Echa la cucharada de salsa de soja, remueve 30 s y sirve con unas gotas de limón."
+      "Judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min.",
+      "Saltéalas 2 min en la sartén con la cucharadita de aceite y sal, y sácalas al plato.",
+      "Bate los 2 huevos con sal, échalos en la misma sartén, pon el pavo en tiras encima y dobla la tortilla a los 2 min."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">137</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">36</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">29</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1337</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">132</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">42</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">22</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1345</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Domingo",

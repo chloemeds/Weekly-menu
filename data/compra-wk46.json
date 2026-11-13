@@ -9,7 +9,7 @@
         {
           "id": "calabacin",
           "name": "Calabacín",
-          "qty": "<em>150 g</em> · 1",
+          "qty": "<em>300 g</em> · unos 2",
           "price": 0.91,
           "out": false,
           "buy": "Calabacín verde a granel, 1,40 €/kg"
@@ -198,7 +198,7 @@
         {
           "id": "gambas",
           "name": "Gambas o langostinos pelados",
-          "qty": "<em>130 g</em>",
+          "qty": "<em>160 g</em>",
           "price": 4.9,
           "out": false,
           "buy": "Gamba pelada cruda mediana Hacendado ultracongelada, 360 g"
@@ -296,7 +296,7 @@
         {
           "id": "pasta",
           "name": "Pasta",
-          "qty": "<em>80 g</em>",
+          "qty": "<em>75 g</em>",
           "price": 0.9,
           "out": false,
           "buy": "Macarrones o espaguetis Hacendado, 500 g. Precio aproximado (no lo he comprobado en la web de Mercadona)"
