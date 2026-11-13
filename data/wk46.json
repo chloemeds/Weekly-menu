@@ -608,7 +608,7 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Lentejas caseras con chorizo y pechuga de pollo a la plancha, con kiwi de postre</p><ul><li><span>Lentejas (secas)</span><span class=\"q\">240 g de guiso (quita unos 50 g del táper)</span></li><li><span>Chorizo (2 rodajas) y sofrito (estimado)</span><span class=\"q\">—</span></li><li><span>Pechuga de pollo</span><span class=\"q\">110 g</span></li><li><span>Kiwi</span><span class=\"q\">1 ud (75 g)</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>46</b> HC netos</span><span><b>48</b> P</span><span><b>20</b> G</span><span><b>11</b> Fib</span><span><b>576</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Lentejas caseras con chorizo y pechuga de pollo a la plancha, con kiwi de postre</p><ul><li><span>Lentejas (secas)</span><span class=\"q\">240 g de guiso (quita unos 50 g del táper)</span></li><li><span>Chorizo (2 rodajas) y sofrito (estimado)</span><span class=\"q\">—</span></li><li><span>Pechuga de pollo</span><span class=\"q\">110 g</span></li><li><span>Kiwi</span><span class=\"q\">2 ud (150 g)</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>54</b> HC netos</span><span><b>49</b> P</span><span><b>20</b> G</span><span><b>13</b> Fib</span><span><b>622</b> kcal</span></div>",
      "src": [
       [
        "lentejas",
@@ -632,7 +632,7 @@
       ],
       [
        "kiwi",
-       75
+       150
       ],
       [
        "aceite",
@@ -653,19 +653,19 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Koukakis 0% con mandarina y granola</p><ul><li><span>Yogur griego Koukakis 0%</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Mandarina</span><span class=\"q\">2 ud (140 g)</span></li><li><span>Granola sin azúcar</span><span class=\"q\">20 g</span></li></ul><div class=\"mac\"><span><b>32</b> HC netos</span><span><b>15</b> P</span><span><b>4</b> G</span><span><b>4</b> Fib</span><span><b>231</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Skyr con plátano y granola</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Plátano</span><span class=\"q\">120 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>33</b> HC netos</span><span><b>11</b> P</span><span><b>2</b> G</span><span><b>4</b> Fib</span><span><b>203</b> kcal</span></div>",
      "src": [
       [
-       "koukakis0",
-       150
+       "skyr",
+       100
       ],
       [
-       "mandarina",
-       140
+       "platano",
+       120
       ],
       [
        "granola",
-       20
+       10
       ]
      ]
     },
@@ -699,7 +699,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">122</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">47</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">25</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1362</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">132</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">97</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">46</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">27</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1381</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Sábado",
@@ -713,15 +713,15 @@
      "meal": "Desayuno",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Bocadillo pequeño de baguette con jamón serrano + matcha latte</p><ul><li><span>Pan baguette</span><span class=\"q\">60 g</span></li><li><span>Jamón serrano</span><span class=\"q\">25 g</span></li><li><span>Leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>38</b> HC netos</span><span><b>18</b> P</span><span><b>4</b> G</span><span><b>2</b> Fib</span><span><b>266</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Tostada integral con jamón york + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">70 g</span></li><li><span>Jamón york extra</span><span class=\"q\">30 g</span></li><li><span>Leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>34</b> HC netos</span><span><b>18</b> P</span><span><b>4</b> G</span><span><b>5</b> Fib</span><span><b>251</b> kcal</span></div>",
      "src": [
       [
-       "baguette",
-       60
+       "pan_int",
+       70
       ],
       [
-       "serrano",
-       25
+       "york",
+       30
       ],
       [
        "leche_d",
@@ -733,7 +733,7 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Lubina al horno con patatas y judías verdes</p><ul><li><span>Lubina</span><span class=\"q\">140 g</span></li><li><span>Patata</span><span class=\"q\">250 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>48</b> HC netos</span><span><b>35</b> P</span><span><b>16</b> G</span><span><b>10</b> Fib</span><span><b>495</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Lubina al horno con patatas y judías verdes</p><ul><li><span>Lubina</span><span class=\"q\">140 g</span></li><li><span>Patata</span><span class=\"q\">250 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Mandarina</span><span class=\"q\">2 ud (140 g)</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>64</b> HC netos</span><span><b>36</b> P</span><span><b>16</b> G</span><span><b>12</b> Fib</span><span><b>573</b> kcal</span></div>",
      "src": [
       [
        "lubina",
@@ -746,6 +746,10 @@
       [
        "judias",
        150
+      ],
+      [
+       "mandarina",
+       140
       ],
       [
        "aceite",
@@ -766,19 +770,15 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Koukakis 0% con kiwi y granola</p><ul><li><span>Yogur griego Koukakis 0%</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Kiwi</span><span class=\"q\">2 ud (150 g)</span></li><li><span>Granola sin azúcar</span><span class=\"q\">20 g</span></li></ul><div class=\"mac\"><span><b>34</b> HC netos</span><span><b>16</b> P</span><span><b>4</b> G</span><span><b>6</b> Fib</span><span><b>246</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Koukakis griego con plátano</p><ul><li><span>Yogur griego Koukakis</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Plátano</span><span class=\"q\">120 g</span></li></ul><div class=\"mac\"><span><b>30</b> HC netos</span><span><b>11</b> P</span><span><b>15</b> G</span><span><b>3</b> Fib</span><span><b>307</b> kcal</span></div>",
      "src": [
       [
-       "koukakis0",
+       "koukakis",
        150
       ],
       [
-       "kiwi",
-       150
-      ],
-      [
-       "granola",
-       20
+       "platano",
+       120
       ]
      ]
     },
@@ -786,15 +786,11 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Tortilla de calabacín con jamón york</p><ul><li><span>Huevos</span><span class=\"q\">2 ud</span></li><li><span>Jamón york extra</span><span class=\"q\">60 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>27</b> P</span><span><b>21</b> G</span><span><b>2</b> Fib</span><span><b>335</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Gambas salteadas con calabacín</p><ul><li><span>Gambas o langostinos pelados</span><span class=\"q\">150 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>33</b> P</span><span><b>11</b> G</span><span><b>2</b> Fib</span><span><b>254</b> kcal</span></div>",
      "src": [
       [
-       "huevo",
-       110
-      ],
-      [
-       "york",
-       60
+       "gambas",
+       150
       ],
       [
        "calabacin",
@@ -810,13 +806,13 @@
       ]
      ],
      "recipe": [
-      "Calabacín en dados finos en sartén antiadherente con la cucharadita de aceite y sal, 6 min.",
-      "Bate los 2 huevos con sal, añade el york en tiras y échalo sobre el calabacín.",
-      "Cuaja a fuego medio-bajo tapado 3–4 min, dale la vuelta con un plato y 1–2 min más."
+      "Gambas peladas (si están congeladas, descongélalas en agua fría 5 min) y sécalas con papel.",
+      "Calabacín en medias lunas finas: sartén con la cucharadita de aceite y sal a fuego medio-alto, 5–6 min hasta dorar.",
+      "Añade las gambas con sal, pimienta y un poco de perejil o pimentón: 2–3 min, hasta que estén rosadas. Unas gotas de limón al servir."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">128</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">96</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">45</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">20</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1343</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">134</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">46</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">23</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1385</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Domingo",

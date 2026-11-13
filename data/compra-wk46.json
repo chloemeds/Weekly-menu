@@ -89,7 +89,7 @@
         {
           "id": "kiwi",
           "name": "Kiwi",
-          "qty": "<em>4</em>",
+          "qty": "<em>5</em>",
           "price": 1.75,
           "out": false,
           "buy": "5 kiwis verdes sueltos"
@@ -105,7 +105,7 @@
         {
           "id": "platano",
           "name": "Plátano",
-          "qty": "<em>1</em>",
+          "qty": "<em>3</em>",
           "price": 0.3,
           "out": false,
           "buy": "Plátano de Canarias suelto. Precio aproximado (no lo he comprobado en la web de Mercadona)"
@@ -198,7 +198,7 @@
         {
           "id": "gambas",
           "name": "Gambas o langostinos pelados",
-          "qty": "<em>120 g</em>",
+          "qty": "<em>150 g</em>",
           "price": 4.9,
           "out": false,
           "buy": "Gamba pelada cruda mediana Hacendado ultracongelada, 360 g"
@@ -389,7 +389,7 @@
         {
           "id": "skyr",
           "name": "Skyr natural Danone",
-          "qty": "<em>2</em>",
+          "qty": "<em>3</em>",
           "price": 2.75,
           "out": true,
           "buy": "Precio aproximado, pack de 4"
