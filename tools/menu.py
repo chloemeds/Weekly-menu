@@ -11,6 +11,7 @@ DB = {
     'arroz':      ('Arroz (crudo)', 77, 7, 0.6, 1.3, None),
     'arroz_int':  ('Arroz integral (crudo)', 72, 7.5, 2.7, 3.5, None),
     'pasta':      ('Pasta (cruda)', 71, 12.5, 1.5, 3, None),
+    'linguine_p': ('Linguine al pesto Ametller (seca)', 70, 12.5, 2, 3, None),
     'pasta_int':  ('Pasta integral (cruda)', 62, 13, 2.5, 8, None),
     'patata':     ('Patata', 15.5, 2, 0.1, 2, None),
     'boniato':    ('Boniato', 17.5, 1.6, 0.1, 3, None),
@@ -96,7 +97,7 @@ DB = {
 }
 
 VERDURAS = {'judias', 'calabacin', 'brocoli', 'champis', 'setas', 'alcachofa', 'edamame'}
-HIDRATOS = {'arroz', 'arroz_int', 'pasta', 'pasta_int', 'patata', 'boniato', 'lentejas', 'gnocchi',
+HIDRATOS = {'arroz', 'arroz_int', 'pasta', 'linguine_p', 'pasta_int', 'patata', 'boniato', 'lentejas', 'gnocchi',
             'pan_int', 'baguette', 'tortita', 'tortilla_trigo', 'granola', 'avena'}
 FRUTA = {'fresas', 'arandanos', 'frambuesas', 'kiwi', 'platano', 'manzana', 'pera', 'mandarina', 'mango', 'granada'}
 EXENTOS = {'aceite', 'choco', 'leche_d', 'leche_a', 'leche_s', 'leche_e', 'nata'}  # pueden repetirse en el día
