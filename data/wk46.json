@@ -790,15 +790,26 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Gambas salteadas con calabacín</p><ul><li><span>Gambas o langostinos pelados</span><span class=\"q\">150 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>33</b> P</span><span><b>11</b> G</span><span><b>2</b> Fib</span><span><b>254</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Salteado oriental de gambas con brócoli</p><ul><li><span>Gambas o langostinos pelados</span><span class=\"q\">130 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Salsa de soja</span><span class=\"q\">1 cucharada</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>10</b> HC netos</span><span><b>32</b> P</span><span><b>11</b> G</span><span><b>5</b> Fib</span><span><b>272</b> kcal</span></div>",
      "src": [
       [
        "gambas",
+       130
+      ],
+      [
+       "brocoli",
        150
       ],
       [
-       "calabacin",
-       150
+       "custom",
+       [
+        0.8,
+        0.8,
+        0,
+        0
+       ],
+       "Salsa de soja",
+       "1 cucharada"
       ],
       [
        "aceite",
@@ -810,13 +821,14 @@
       ]
      ],
      "recipe": [
-      "Gambas peladas (si están congeladas, descongélalas en agua fría 5 min) y sécalas con papel.",
-      "Calabacín en medias lunas finas: sartén con la cucharadita de aceite y sal a fuego medio-alto, 5–6 min hasta dorar.",
-      "Añade las gambas con sal, pimienta y un poco de perejil o pimentón: 2–3 min, hasta que estén rosadas. Unas gotas de limón al servir."
+      "Brócoli en ramilletes pequeños al vapor en el microondas, bol tapado con 2 cdas de agua, 4 min (que quede al dente).",
+      "Sartén o wok muy caliente con la cucharadita de aceite: saltea el brócoli 2 min.",
+      "Añade las gambas (secas con papel) y saltea 2–3 min, hasta que estén rosadas.",
+      "Echa la cucharada de salsa de soja, remueve 30 s y sirve con unas gotas de limón."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">132</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">102</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">37</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">27</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1319</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">137</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">36</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">29</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1337</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Domingo",

@@ -9,7 +9,7 @@
         {
           "id": "calabacin",
           "name": "Calabacín",
-          "qty": "<em>300 g</em> · unos 2",
+          "qty": "<em>150 g</em> · 1",
           "price": 0.91,
           "out": false,
           "buy": "Calabacín verde a granel, 1,40 €/kg"
@@ -25,7 +25,7 @@
         {
           "id": "brocoli",
           "name": "Brócoli",
-          "qty": "<em>630 g</em> · 2 o 3",
+          "qty": "<em>900 g</em> · 4 o 5",
           "price": 2.05,
           "out": false,
           "buy": "Brócoli a granel, 2,30 €/kg"
@@ -198,7 +198,7 @@
         {
           "id": "gambas",
           "name": "Gambas o langostinos pelados",
-          "qty": "<em>150 g</em>",
+          "qty": "<em>130 g</em>",
           "price": 4.9,
           "out": false,
           "buy": "Gamba pelada cruda mediana Hacendado ultracongelada, 360 g"
