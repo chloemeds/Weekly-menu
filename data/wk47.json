@@ -512,26 +512,10 @@
      ]
     },
     {
-     "meal": "Merienda",
-     "span": 1,
-     "cls": [],
-     "html": "<p class=\"dish\">Skyr con mandarina</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Mandarina</span><span class=\"q\">2 ud (140 g)</span></li></ul><div class=\"mac\"><span><b>20</b> HC netos</span><span><b>10</b> P</span><span><b>1</b> G</span><span><b>3</b> Fib</span><span><b>128</b> kcal</span></div>",
-     "src": [
-      [
-       "skyr",
-       100
-      ],
-      [
-       "mandarina",
-       140
-      ]
-     ]
-    },
-    {
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Cena en Bosque de Lobos (estimado)</p><ul><li><span>Pizza margherita (compartida)</span><span class=\"q\">1 porción</span></li><li><span>Croquetas de jamón ibérico</span><span class=\"q\">2 ud</span></li><li><span>Alcachofas a la plancha con burrata y panceta (compartidas)</span><span class=\"q\">un poco</span></li><li><span>Rigatoni gratinados y trufados</span><span class=\"q\">½ ración</span></li><li><span>Tagliata de solomillo con portobello y patatas</span><span class=\"q\">½ ración</span></li><li><span>Tarta de queso parmesano</span><span class=\"q\">⅔ de porción</span></li></ul><div class=\"mac\"><span><b>125</b> HC netos</span><span><b>59</b> P</span><span><b>80</b> G</span><span><b>8</b> Fib</span><span><b>1471</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Cena en Bosque de Lobos (estimado)</p><ul><li><span>Pizza margherita (compartida)</span><span class=\"q\">1 porción</span></li><li><span>Croquetas de jamón ibérico</span><span class=\"q\">2 ud</span></li><li><span>Alcachofas a la plancha con burrata y panceta (compartidas)</span><span class=\"q\">un poco</span></li><li><span>Rigatoni gratinados y trufados</span><span class=\"q\">½ ración</span></li><li><span>Tagliata de solomillo con portobello y patatas</span><span class=\"q\">½ ración</span></li><li><span>Tarta de queso parmesano</span><span class=\"q\">⅔ de porción</span></li><li><span>Ron con cola zero (unas 110 kcal de alcohol cada uno, no suman macros)</span><span class=\"q\">3 copas</span></li></ul><div class=\"mac\"><span><b>125</b> HC netos</span><span><b>59</b> P</span><span><b>80</b> G</span><span><b>8</b> Fib</span><span><b>1471</b> kcal</span></div>",
      "src": [
       [
        "custom",
@@ -592,11 +576,21 @@
         0
        ],
        "Tarta de queso parmesano"
+      ],
+      [
+       "custom",
+       [
+        0,
+        0,
+        0,
+        0
+       ],
+       "Ron con cola zero (unas 110 kcal de alcohol cada uno, no suman macros)"
       ]
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">174</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">120</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">90</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">17</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">2025</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">154</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">110</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">90</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">14</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1896</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Sábado",
@@ -606,26 +600,6 @@
     "text": "Macros regulares"
    },
    "meals": [
-    {
-     "meal": "Desayuno",
-     "span": 1,
-     "cls": [],
-     "html": "<p class=\"dish\">Tostada integral con jamón york + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">40 g</span></li><li><span>Jamón york extra</span><span class=\"q\">30 g</span></li><li><span>Matcha con leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>23</b> HC netos</span><span><b>15</b> P</span><span><b>2</b> G</span><span><b>3</b> Fib</span><span><b>179</b> kcal</span></div>",
-     "src": [
-      [
-       "pan_int",
-       40
-      ],
-      [
-       "york",
-       30
-      ],
-      [
-       "leche_d",
-       150
-      ]
-     ]
-    },
     {
      "meal": "Comida",
      "span": 1,
@@ -740,7 +714,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">148</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">102</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">59</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">12</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1552</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">125</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">87</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">57</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">9</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1373</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Domingo",

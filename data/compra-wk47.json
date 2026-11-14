@@ -79,14 +79,6 @@
           "buy": "2 kiwis verdes sueltos (1 es para el lunes)"
         },
         {
-          "id": "mandarina",
-          "name": "Mandarina",
-          "qty": "<em>2</em> · 140 g",
-          "price": 0.5,
-          "out": false,
-          "buy": "2 mandarinas sueltas. Precio aproximado (no lo he comprobado en la web de Mercadona)"
-        },
-        {
           "id": "platano",
           "name": "Plátano",
           "qty": "<em>1</em>",
@@ -179,7 +171,7 @@
         {
           "id": "york",
           "name": "Jamón york",
-          "qty": "<em>150 g</em>",
+          "qty": "<em>120 g</em>",
           "price": 2.0,
           "out": false,
           "buy": "Jamón cocido extra Hacendado finas lonchas, 200 g"
@@ -203,7 +195,7 @@
         {
           "id": "leched",
           "name": "Leche desnatada",
-          "qty": "<em>750 ml</em> · para el matcha",
+          "qty": "<em>600 ml</em> · para el matcha",
           "price": 0.81,
           "out": false,
           "buy": "Leche desnatada Hacendado, brick de 1 L"
@@ -224,7 +216,7 @@
         {
           "id": "pan",
           "name": "Pan integral",
-          "qty": "<em>210 g</em> · unas 6 rebanadas",
+          "qty": "<em>170 g</em> · unas 5 rebanadas",
           "price": 0.9,
           "out": false,
           "buy": "Pan de molde 100% integral Hacendado, 460 g"
@@ -293,7 +285,7 @@
         {
           "id": "skyr",
           "name": "Skyr natural Danone",
-          "qty": "<em>5</em>",
+          "qty": "<em>4</em>",
           "price": 2.75,
           "out": true,
           "buy": "Precio aproximado, pack de 4 (1 es para el lunes)"

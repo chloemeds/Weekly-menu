@@ -13,7 +13,6 @@ G = [
   ('frambuesa', 'Frambuesas', '<em>100 g</em>', 3.16, 'Frambuesas, bandeja de 200 g'),
   ('arandano', 'Arándanos', '<em>40 g</em>', 2.2, 'Arándanos, tarrina de 125 g.' + A),
   ('kiwi', 'Kiwi', '<em>2</em>', 0.7, '2 kiwis verdes sueltos (1 es para el lunes)'),
-  ('mandarina', 'Mandarina', '<em>2</em> · 140 g', 0.5, '2 mandarinas sueltas.' + A),
   ('platano', 'Plátano', '<em>1</em>', 0.3, 'Plátano de Canarias suelto.' + A),
   ('limon', 'Limón', '<em>1</em>', 0.36, '1 limón'),
  ]),
@@ -28,14 +27,14 @@ G = [
  ]),
  ('Huevos, charcutería y lácteos', [
   ('huevos', 'Huevos', '<em>4</em>', 1.8, 'Huevos grandes L, media docena (2 son para el lunes)'),
-  ('york', 'Jamón york', '<em>150 g</em>', 2.0, 'Jamón cocido extra Hacendado finas lonchas, 200 g'),
+  ('york', 'Jamón york', '<em>120 g</em>', 2.0, 'Jamón cocido extra Hacendado finas lonchas, 200 g'),
   ('pavol', 'Pechuga de pavo en lonchas', '<em>30 g</em>', 1.9, 'Pechuga de pavo en finas lonchas Hacendado.' + A),
   ('queso', 'Queso en lonchas cremoso light Hacendado', '<em>1½ lonchas</em>', 2.9, 'Queso lonchas cremoso light Hacendado (si no te queda)'),
-  ('leched', 'Leche desnatada', '<em>750 ml</em> · para el matcha', 0.81, 'Leche desnatada Hacendado, brick de 1 L'),
+  ('leched', 'Leche desnatada', '<em>600 ml</em> · para el matcha', 0.81, 'Leche desnatada Hacendado, brick de 1 L'),
   ('almendra', 'Bebida de almendra sin azúcar', '<em>300 ml</em> · para el matcha', 1.1, 'Bebida de almendras 0% azúcar Hacendado, brick de 1 L'),
  ]),
  ('Despensa', [
-  ('pan', 'Pan integral', '<em>210 g</em> · unas 6 rebanadas', 0.9, 'Pan de molde 100% integral Hacendado, 460 g'),
+  ('pan', 'Pan integral', '<em>170 g</em> · unas 5 rebanadas', 0.9, 'Pan de molde 100% integral Hacendado, 460 g'),
   ('arroz', 'Arroz blanco', '<em>75 g</em>', 1.2, 'Arroz largo Hacendado, 1 kg (si no te queda)'),
   ('fideos', 'Fideos', '<em>65 g</em>', 0.6, 'Fideos finos Hacendado, 500 g.' + A),
   ('caldo', 'Caldo de pollo', '<em>350 ml</em>', 1.1, 'Caldo de pollo Hacendado, brick de 1 L.' + A),
@@ -45,7 +44,7 @@ G = [
  ]),
  ('Fuera de Mercadona', [
   ('kouk10', 'Yogur griego Koukakis', '<em>2</em>', 1.1, 'Koukakis griego natural 150 g.' + A, True),
-  ('skyr', 'Skyr natural Danone', '<em>5</em>', 2.75, 'Precio aproximado, pack de 4 (1 es para el lunes)', True),
+  ('skyr', 'Skyr natural Danone', '<em>4</em>', 2.75, 'Precio aproximado, pack de 4 (1 es para el lunes)', True),
  ]),
 ]
 out = {'week': 'WK47', 'title': 'Lista de la compra · WK47 · 16 al 22 nov',
