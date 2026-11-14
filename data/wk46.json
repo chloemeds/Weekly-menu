@@ -912,11 +912,12 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Ñoquis con contramuslo de pavo y champiñones</p><ul><li><span>Ñoquis de patata Hacendado</span><span class=\"q\">117 g</span></li><li><span>Contramuslo de pavo (sin piel)</span><span class=\"q\">150 g</span></li><li><span>Champiñones</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>47</b> HC netos</span><span><b>38</b> P</span><span><b>15</b> G</span><span><b>3</b> Fib</span><span><b>483</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Ñoquis con contramuslo de pavo y champiñones</p><ul><li><span>Ñoquis de patata Hacendado</span><span class=\"q\">18 ñoquis (117 g)</span></li><li><span>Contramuslo de pavo (sin piel)</span><span class=\"q\">150 g</span></li><li><span>Champiñones</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>47</b> HC netos</span><span><b>38</b> P</span><span><b>15</b> G</span><span><b>3</b> Fib</span><span><b>483</b> kcal</span></div>",
      "src": [
       [
        "gnocchi",
-       117
+       117,
+       "18 ñoquis (117 g)"
       ],
       [
        "contramuslo_pavo",
