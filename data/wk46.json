@@ -855,7 +855,7 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Crema de calabacín Ametller</p><ul><li><span>Crema de calabacín Ametller Origen</span><span class=\"q\">1 bol (300 ml)</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>18</b> HC netos</span><span><b>4</b> P</span><span><b>13</b> G</span><span><b>3</b> Fib</span><span><b>210</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Crema de calabacín Ametller</p><ul><li><span>Crema de calabacín Ametller Origen</span><span class=\"q\">1 bol (300 ml)</span></li></ul><div class=\"mac\"><span><b>18</b> HC netos</span><span><b>4</b> P</span><span><b>8</b> G</span><span><b>3</b> Fib</span><span><b>165</b> kcal</span></div>",
      "src": [
       [
        "custom",
@@ -867,20 +867,14 @@
        ],
        "Crema de calabacín Ametller Origen",
        "1 bol (300 ml)"
-      ],
-      [
-       "aceite",
-       5
       ]
      ],
      "recipe": [
-      "Brócoli en ramilletes al vapor en el microondas, bol tapado con 2 cdas de agua, 5 min.",
-      "Seca la merluza, sal y pimienta: sartén caliente con la cucharadita de aceite, 3 min por la piel y 2 min por el otro lado.",
-      "Sirve con el brócoli y unas gotas de limón."
+      "Calienta la crema en un cazo o en el microondas 2–3 min, removiendo a mitad."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">159</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">78</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">71</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">15</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1614</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">159</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">78</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">66</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">15</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1569</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Domingo",
