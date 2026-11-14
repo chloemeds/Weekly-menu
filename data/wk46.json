@@ -772,11 +772,11 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Linguine al pesto con gambas y calabacín</p><ul><li><span>Linguine al pesto Ametller (al huevo, seca)</span><span class=\"q\">90 g</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">140 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>66</b> HC netos</span><span><b>45</b> P</span><span><b>14</b> G</span><span><b>4</b> Fib</span><span><b>581</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Linguine al pesto con gambas y calabacín</p><ul><li><span>Linguine al pesto Ametller (al huevo, seca)</span><span class=\"q\">80 g</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">140 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Kiwi</span><span class=\"q\">1 ud (75 g)</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>68</b> HC netos</span><span><b>44</b> P</span><span><b>14</b> G</span><span><b>6</b> Fib</span><span><b>590</b> kcal</span></div>",
      "src": [
       [
        "linguine_p",
-       90
+       80
       ],
       [
        "gambas",
@@ -785,6 +785,10 @@
       [
        "calabacin",
        150
+      ],
+      [
+       "kiwi",
+       75
       ],
       [
        "aceite",
@@ -857,7 +861,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">129</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">102</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">37</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">17</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1292</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">131</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">37</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">19</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1301</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Domingo",
