@@ -821,11 +821,33 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Matcha latte con leche desnatada</p><ul><li><span>Leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>5</b> P</span><span><b>0</b> G</span><span><b>0</b> Fib</span><span><b>52</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Matcha latte con leche entera + chocolate Simon Coll (tomado)</p><ul><li><span>Leche entera</span><span class=\"q\">150 ml</span></li><li><span>Chocolate con leche Simon Coll</span><span class=\"q\">4 onzas (~28 g)</span></li><li><span>Turrón de chocolate negro con avellanas Simon Coll</span><span class=\"q\">4 onzas (~40 g)</span></li></ul><div class=\"mac\"><span><b>36</b> HC netos</span><span><b>10</b> P</span><span><b>32</b> G</span><span><b>4</b> Fib</span><span><b>482</b> kcal</span></div>",
      "src": [
       [
-       "leche_d",
+       "leche_e",
        150
+      ],
+      [
+       "custom",
+       [
+        15.1,
+        2,
+        10.1,
+        0.6
+       ],
+       "Chocolate con leche Simon Coll",
+       "4 onzas (~28 g)"
+      ],
+      [
+       "custom",
+       [
+        14,
+        3.2,
+        16.8,
+        3.2
+       ],
+       "Turrón de chocolate negro con avellanas Simon Coll",
+       "4 onzas (~40 g)"
       ]
      ]
     },
@@ -833,33 +855,31 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Merluza a la plancha con brócoli</p><ul><li><span>Merluza</span><span class=\"q\">120 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>25</b> P</span><span><b>11</b> G</span><span><b>5</b> Fib</span><span><b>245</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Crema de verduras Ametller + skyr</p><ul><li><span>Crema de verduras Ametller Origen</span><span class=\"q\">1 bol (300 ml)</span></li><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li></ul><div class=\"mac\"><span><b>20</b> HC netos</span><span><b>12</b> P</span><span><b>10</b> G</span><span><b>3</b> Fib</span><span><b>222</b> kcal</span></div>",
      "src": [
       [
-       "merluza",
-       120
+       "custom",
+       [
+        17.1,
+        2.7,
+        9.6,
+        3
+       ],
+       "Crema de verduras Ametller Origen",
+       "1 bol (300 ml)"
       ],
       [
-       "brocoli",
-       150
-      ],
-      [
-       "aceite",
-       5
-      ],
-      [
-       "choco",
-       8
+       "skyr",
+       100
       ]
      ],
      "recipe": [
-      "Brócoli en ramilletes al vapor en el microondas, bol tapado con 2 cdas de agua, 5 min.",
-      "Seca la merluza, sal y pimienta: sartén caliente con la cucharadita de aceite, 3 min por la piel y 2 min por el otro lado.",
-      "Sirve con el brócoli y unas gotas de limón."
+      "Calienta la crema en un cazo o en el microondas 2–3 min, removiendo a mitad.",
+      "Sírvela en un bol y toma el skyr aparte."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">122</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">94</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">35</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">13</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1206</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">163</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">85</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">66</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">15</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1613</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Domingo",
@@ -897,7 +917,7 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Gnocchi salteados con pollo, champiñones y pesto</p><ul><li><span>Ñoquis de patata Hacendado</span><span class=\"q\">23 ud (150 g)</span></li><li><span>Pechuga de pollo</span><span class=\"q\">110 g</span></li><li><span>Champiñones</span><span class=\"q\">150 g</span></li><li><span>Pesto</span><span class=\"q\">15 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>63</b> HC netos</span><span><b>38</b> P</span><span><b>18</b> G</span><span><b>4</b> Fib</span><span><b>574</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Gnocchi salteados con pollo, champiñones y pesto</p><ul><li><span>Ñoquis de patata Hacendado</span><span class=\"q\">23 ud (150 g)</span></li><li><span>Pechuga de pollo</span><span class=\"q\">110 g</span></li><li><span>Champiñones</span><span class=\"q\">150 g</span></li><li><span>Pesto</span><span class=\"q\">10 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>63</b> HC netos</span><span><b>38</b> P</span><span><b>16</b> G</span><span><b>4</b> Fib</span><span><b>552</b> kcal</span></div>",
      "src": [
       [
        "gnocchi",
@@ -913,7 +933,7 @@
       ],
       [
        "pesto",
-       15
+       10
       ],
       [
        "aceite",
@@ -935,7 +955,7 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Skyr con plátano, chía y crema de avellana</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Plátano</span><span class=\"q\">100 g</span></li><li><span>Chía</span><span class=\"q\">10 g</span></li><li><span>Crema de avellana y cacao Ametller</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>25</b> HC netos</span><span><b>13</b> P</span><span><b>7</b> G</span><span><b>10</b> Fib</span><span><b>234</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Skyr con plátano y chía</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Plátano</span><span class=\"q\">100 g</span></li><li><span>Chía</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>24</b> HC netos</span><span><b>12</b> P</span><span><b>4</b> G</span><span><b>6</b> Fib</span><span><b>188</b> kcal</span></div>",
      "src": [
       [
        "skyr",
@@ -947,10 +967,6 @@
       ],
       [
        "chia",
-       10
-      ],
-      [
-       "crema_ave",
        10
       ]
      ]
@@ -985,7 +1001,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">120</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">96</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">39</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">22</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1258</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">119</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">95</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">33</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">18</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1190</span><span class=\"tg\">kcal</span></div>"
   }
  ]
 }
