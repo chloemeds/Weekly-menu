@@ -490,14 +490,14 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Gambas a la plancha con brócoli</p><ul><li><span>Gambas o langostinos pelados</span><span class=\"q\">160 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>36</b> P</span><span><b>8</b> G</span><span><b>4</b> Fib</span><span><b>247</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Merluza a la plancha con judías verdes</p><ul><li><span>Merluza</span><span class=\"q\">170 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>32</b> P</span><span><b>8</b> G</span><span><b>4</b> Fib</span><span><b>231</b> kcal</span></div>",
      "src": [
       [
-       "gambas",
-       160
+       "merluza",
+       170
       ],
       [
-       "brocoli",
+       "judias",
        150
       ],
       [
@@ -506,16 +506,16 @@
       ]
      ],
      "recipe": [
-      "Brócoli en ramilletes al vapor en el microondas, bol tapado con 2 cdas de agua, 4 min.",
-      "Sartén bien caliente con la cucharadita de aceite: saltea el brócoli 2 min.",
-      "Añade las gambas secas con sal y pimienta, 2–3 min hasta que estén rosadas, y unas gotas de limón."
+      "Judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min.",
+      "Seca la merluza, sal y pimienta: sartén caliente con la cucharadita de aceite, 3 min por la piel y 2 min por el otro lado.",
+      "Sirve con las judías, unas gotas de limón y una pizca de pimentón."
      ]
     },
     {
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Cena en Bosque de Lobos (estimado)</p><ul><li><span>Pizza margherita (compartida)</span><span class=\"q\">1 porción</span></li><li><span>Croquetas de jamón ibérico</span><span class=\"q\">2 ud</span></li><li><span>Alcachofas a la plancha con burrata y panceta (compartidas)</span><span class=\"q\">un poco</span></li><li><span>Rigatoni gratinados y trufados</span><span class=\"q\">½ ración</span></li><li><span>Tagliata de solomillo con portobello y patatas</span><span class=\"q\">½ ración</span></li><li><span>Tarta de queso parmesano</span><span class=\"q\">⅔ de porción</span></li><li><span>Ron con cola zero (unas 110 kcal de alcohol cada uno, no suman macros)</span><span class=\"q\">3 copas</span></li></ul><div class=\"mac\"><span><b>125</b> HC netos</span><span><b>59</b> P</span><span><b>80</b> G</span><span><b>8</b> Fib</span><span><b>1471</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Cena en Bosque de Lobos (estimado)</p><ul><li><span>Pizza margherita (compartida)</span><span class=\"q\">1 porción</span></li><li><span>Croqueta de jamón ibérico</span><span class=\"q\">1 ud</span></li><li><span>Alcachofas a la plancha con burrata y panceta (compartidas)</span><span class=\"q\">un poco</span></li><li><span>Rigatoni gratinados y trufados</span><span class=\"q\">½ ración</span></li><li><span>Tagliata de solomillo con portobello y patatas</span><span class=\"q\">½ ración</span></li><li><span>Tarta de queso parmesano</span><span class=\"q\">⅔ de porción</span></li><li><span>Ron con cola zero (unas 110 kcal de alcohol cada uno, no suman macros)</span><span class=\"q\">3 copas</span></li></ul><div class=\"mac\"><span><b>119</b> HC netos</span><span><b>57</b> P</span><span><b>76</b> G</span><span><b>7</b> Fib</span><span><b>1398</b> kcal</span></div>",
      "src": [
       [
        "custom",
@@ -530,12 +530,12 @@
       [
        "custom",
        [
-        12,
-        4,
-        9,
-        0.5
+        6,
+        2,
+        4.5,
+        0.3
        ],
-       "Croquetas de jamón ibérico"
+       "Croqueta de jamón ibérico"
       ],
       [
        "custom",
@@ -590,7 +590,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">154</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">110</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">90</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">14</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1896</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">148</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">104</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">86</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">14</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1808</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Sábado",

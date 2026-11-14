@@ -4,9 +4,9 @@ A = ' Precio aproximado (no lo he comprobado en la web de Mercadona)'
 L = ' Para el lunes: cómpralo el sábado.'
 G = [
  ('Fruta y verdura', [
-  ('judias', 'Judías verdes', '<em>450 g</em>', 1.3, 'Judía verde redonda Hacendado ultracongelada, bolsa de 1 kg.' + L),
+  ('judias', 'Judías verdes', '<em>600 g</em>', 1.3, 'Judía verde redonda Hacendado ultracongelada, bolsa de 1 kg.' + L),
   ('champi', 'Champiñones', '<em>150 g</em>', 1.56, 'Champiñones blancos, bandeja de 300 g.' + L),
-  ('brocoli', 'Brócoli', '<em>450 g</em> · 2 pequeños', 1.05, 'Brócoli a granel, 2,30 €/kg'),
+  ('brocoli', 'Brócoli', '<em>300 g</em> · 1 o 2', 0.7, 'Brócoli a granel, 2,30 €/kg'),
   ('calabacin', 'Calabacín', '<em>300 g</em> · unos 2', 0.45, 'Calabacín verde a granel, 1,40 €/kg'),
   ('setas', 'Setas', '<em>150 g</em>', 2.2, 'Setas de cardo u ostra, bandeja.' + A),
   ('fresa', 'Fresas', '<em>150 g</em>', 2.5, 'Fresas, tarrina de 500 g.' + A),
@@ -23,7 +23,7 @@ G = [
   ('lubina', 'Lubina', '<em>1 en lomos</em> · unos 150 g limpios', 0, 'La que te sobró de esta semana (congelada); si no, 1 lubina limpia'),
   ('dorada', 'Dorada', '<em>1 en lomos</em> · unos 150 g limpios', 4.5, 'Dorada limpia, 1 pieza (que te la abran en lomos).' + A),
   ('salmon', 'Salmón', '<em>130 g</em> · 1 lomo', 5.95, 'Lomos de salmón sin piel Hacendado congelados, 250 g (2 lomos)'),
-  ('gambas', 'Gambas peladas', '<em>160 g</em>', 4.9, 'Gamba pelada cruda mediana Hacendado ultracongelada, 360 g'),
+  ('merluza', 'Merluza', '<em>170 g</em>', 4.5, 'Filetes de merluza Hacendado ultracongelados.' + A),
  ]),
  ('Huevos, charcutería y lácteos', [
   ('huevos', 'Huevos', '<em>4</em>', 1.8, 'Huevos grandes L, media docena (2 son para el lunes)'),
