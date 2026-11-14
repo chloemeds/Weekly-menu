@@ -855,7 +855,7 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Crema de calabaza Ametller</p><ul><li><span>Crema de calabaza Ametller Origen</span><span class=\"q\">1 bol (300 ml)</span></li></ul><div class=\"mac\"><span><b>13</b> HC netos</span><span><b>2</b> P</span><span><b>9</b> G</span><span><b>2</b> Fib</span><span><b>145</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Crema de calabaza Ametller + skyr</p><ul><li><span>Crema de calabaza Ametller Origen</span><span class=\"q\">1 bol (300 ml)</span></li><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li></ul><div class=\"mac\"><span><b>16</b> HC netos</span><span><b>11</b> P</span><span><b>9</b> G</span><span><b>2</b> Fib</span><span><b>196</b> kcal</span></div>",
      "src": [
       [
        "custom",
@@ -867,6 +867,10 @@
        ],
        "Crema de calabaza Ametller Origen",
        "1 bol (300 ml)"
+      ],
+      [
+       "skyr",
+       100
       ]
      ],
      "recipe": [
@@ -874,7 +878,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">154</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">76</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">67</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">14</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1549</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">158</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">85</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">67</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">14</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1599</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Domingo",
@@ -888,14 +892,14 @@
      "meal": "Desayuno",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Tostada integral con pavo + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">40 g</span></li><li><span>Pechuga de pavo en lonchas</span><span class=\"q\">40 g</span></li><li><span>Leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>23</b> HC netos</span><span><b>17</b> P</span><span><b>2</b> G</span><span><b>3</b> Fib</span><span><b>187</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Tostada integral con jamón york + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">40 g</span></li><li><span>Jamón york extra</span><span class=\"q\">40 g</span></li><li><span>Leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>23</b> HC netos</span><span><b>17</b> P</span><span><b>3</b> G</span><span><b>3</b> Fib</span><span><b>189</b> kcal</span></div>",
      "src": [
       [
        "pan_int",
        40
       ],
       [
-       "pavo_l",
+       "york",
        40
       ],
       [
@@ -908,15 +912,15 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Ñoquis con pollo y champiñones</p><ul><li><span>Ñoquis de patata Hacendado</span><span class=\"q\">23 ud (150 g)</span></li><li><span>Pechuga de pollo</span><span class=\"q\">140 g</span></li><li><span>Champiñones</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>60</b> HC netos</span><span><b>44</b> P</span><span><b>8</b> G</span><span><b>3</b> Fib</span><span><b>493</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Ñoquis con contramuslo de pavo y champiñones</p><ul><li><span>Ñoquis de patata Hacendado</span><span class=\"q\">23 ud (150 g)</span></li><li><span>Contramuslo de pavo (sin piel)</span><span class=\"q\">150 g</span></li><li><span>Champiñones</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>60</b> HC netos</span><span><b>40</b> P</span><span><b>15</b> G</span><span><b>3</b> Fib</span><span><b>540</b> kcal</span></div>",
      "src": [
       [
        "gnocchi",
        150
       ],
       [
-       "pollo",
-       140
+       "contramuslo_pavo",
+       150
       ],
       [
        "champis",
@@ -928,10 +932,10 @@
       ]
      ],
      "recipe": [
-      "Gnocchi en agua hirviendo con sal hasta que floten, 2–3 min, y escurre.",
-      "Pollo en tacos con sal y pimienta en sartén con el aceite, 5 min.",
-      "Añade los champiñones laminados 4 min y luego los gnocchi 2 min para que se doren un poco.",
-      "Fuera del fuego, sal, pimienta y unas hierbas (orégano o perejil) al gusto."
+      "Ñoquis en agua hirviendo con sal hasta que floten, 2–3 min, y escurre.",
+      "Contramuslo de pavo en tacos con sal y pimienta en la sartén con la cucharadita de aceite, 6–7 min hasta que se dore.",
+      "Añade los champiñones laminados 4 min y luego los ñoquis 2 min para que se doren un poco.",
+      "Sirve con orégano o perejil al gusto."
      ]
     },
     {
@@ -954,11 +958,11 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Bacalao al horno con brócoli</p><ul><li><span>Bacalao fresco (lomo)</span><span class=\"q\">150 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>31</b> P</span><span><b>7</b> G</span><span><b>4</b> Fib</span><span><b>219</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Merluza a la plancha con brócoli</p><ul><li><span>Merluza</span><span class=\"q\">170 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>33</b> P</span><span><b>8</b> G</span><span><b>4</b> Fib</span><span><b>240</b> kcal</span></div>",
      "src": [
       [
-       "bacalao",
-       150
+       "merluza",
+       170
       ],
       [
        "brocoli",
@@ -970,13 +974,13 @@
       ]
      ],
      "recipe": [
-      "Horno a 200 °C. Bacalao en una bandeja con sal, pimienta, pimentón y la mitad del aceite, 12–14 min.",
-      "Mientras, brócoli en ramilletes cocido en agua hirviendo con sal, 5 min, y escurrido.",
-      "Aliña el brócoli con el resto del aceite y sal."
+      "Brócoli en ramilletes al vapor en el microondas, bol tapado con 2 cdas de agua, 5 min.",
+      "Seca la merluza, sal y pimienta: sartén caliente con la cucharadita de aceite, 3 min por la piel y 2 min por el otro lado.",
+      "Sirve con el brócoli y unas gotas de limón."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">113</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">102</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">18</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">12</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1042</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">113</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">26</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">12</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1113</span><span class=\"tg\">kcal</span></div>"
   }
  ]
 }

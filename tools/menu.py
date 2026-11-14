@@ -27,6 +27,7 @@ DB = {
     'pollo':      ('Pechuga de pollo', 0, 23, 1.5, 0, None),
     'muslo':      ('Contramuslo de pollo sin piel', 0, 19, 6, 0, None),
     'pavo':       ('Filete de pavo', 0, 22, 1, 0, None),
+    'contramuslo_pavo': ('Contramuslo de pavo (sin piel)', 0, 19, 6, 0, None),
     'lomo':       ('Lomo de cerdo', 0, 21.5, 6, 0, None),
     'fuet':       ('Fuet', 1.5, 25, 38, 0, None),
     'solomillo':  ('Solomillo de cerdo', 0, 21, 3.5, 0, None),
