@@ -772,7 +772,7 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Linguine al pesto con gambas y calabacín</p><ul><li><span>Linguine al pesto Ametller (al huevo, seca)</span><span class=\"q\">75 g</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">150 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>56</b> HC netos</span><span><b>45</b> P</span><span><b>14</b> G</span><span><b>4</b> Fib</span><span><b>534</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Linguine al pesto con gambas y calabacín</p><ul><li><span>Linguine al pesto Ametller (al huevo, seca)</span><span class=\"q\">75 g</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">140 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>56</b> HC netos</span><span><b>43</b> P</span><span><b>14</b> G</span><span><b>4</b> Fib</span><span><b>525</b> kcal</span></div>",
      "src": [
       [
        "linguine_p",
@@ -780,7 +780,7 @@
       ],
       [
        "gambas",
-       150
+       140
       ],
       [
        "calabacin",
@@ -806,15 +806,21 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Skyr con plátano y crema de avellana</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Plátano</span><span class=\"q\">120 g</span></li><li><span>Crema de avellana y cacao Ametller</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>28</b> HC netos</span><span><b>11</b> P</span><span><b>4</b> G</span><span><b>7</b> Fib</span><span><b>208</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Skyr y Koukakis griego con plátano y crema de avellana</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Yogur griego Koukakis</span><span class=\"q\">40 g</span></li><li><span>Plátano</span><span class=\"q\">1 mediano (120 g pelado)</span></li><li><span>Crema de avellana y cacao Ametller</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>30</b> HC netos</span><span><b>14</b> P</span><span><b>8</b> G</span><span><b>7</b> Fib</span><span><b>260</b> kcal</span></div>",
      "src": [
       [
        "skyr",
        100
       ],
       [
+       "koukakis",
+       40,
+       "40 g"
+      ],
+      [
        "platano",
-       120
+       120,
+       "1 mediano (120 g pelado)"
       ],
       [
        "crema_ave",
@@ -852,7 +858,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">134</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">32</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">18</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1263</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">136</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">36</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">18</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1306</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Domingo",
