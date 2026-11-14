@@ -806,7 +806,7 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Skyr y Koukakis griego con granada, arándanos y crema de avellana</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Yogur griego Koukakis</span><span class=\"q\">40 g</span></li><li><span>Granada</span><span class=\"q\">30 g</span></li><li><span>Arándanos</span><span class=\"q\">30 g</span></li><li><span>Crema de avellana y cacao Ametller</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>14</b> HC netos</span><span><b>13</b> P</span><span><b>8</b> G</span><span><b>6</b> Fib</span><span><b>191</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Skyr y Koukakis griego con granada y crema de avellana</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Yogur griego Koukakis</span><span class=\"q\">40 g</span></li><li><span>Granada</span><span class=\"q\">50 g</span></li><li><span>Crema de avellana y cacao Ametller</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>13</b> HC netos</span><span><b>13</b> P</span><span><b>8</b> G</span><span><b>6</b> Fib</span><span><b>190</b> kcal</span></div>",
      "src": [
       [
        "skyr",
@@ -819,11 +819,7 @@
       ],
       [
        "granada",
-       30
-      ],
-      [
-       "arandanos",
-       30
+       50
       ],
       [
        "crema_ave",
@@ -861,7 +857,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">130</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">102</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">37</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">17</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1293</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">129</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">102</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">37</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">17</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1292</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Domingo",
