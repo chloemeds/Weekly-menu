@@ -20,7 +20,7 @@
           "qty": "<em>150 g</em>",
           "price": 1.56,
           "out": false,
-          "buy": "Champiñones blancos, bandeja de 300 g. Para el lunes: cómpralo el sábado."
+          "buy": "Champiñones blancos, bandeja de 300 g"
         },
         {
           "id": "brocoli",
@@ -36,7 +36,7 @@
           "qty": "<em>300 g</em> · unos 2",
           "price": 0.45,
           "out": false,
-          "buy": "Calabacín verde a granel, 1,40 €/kg"
+          "buy": "Calabacín verde a granel, 1,40 €/kg (150 g son para el lunes)"
         },
         {
           "id": "setas",
@@ -102,10 +102,10 @@
         {
           "id": "pollo",
           "name": "Pechuga de pollo",
-          "qty": "<em>450 g</em>",
-          "price": 4.5,
+          "qty": "<em>300 g</em>",
+          "price": 3.2,
           "out": false,
-          "buy": "Filetes pechuga de pollo, bandeja de unos 520 g (150 g son para el lunes: cómprala el sábado)"
+          "buy": "Filetes pechuga de pollo, bandeja de unos 350 g. Precio aproximado (no lo he comprobado en la web de Mercadona)"
         },
         {
           "id": "pavof",
@@ -135,9 +135,9 @@
           "id": "dorada",
           "name": "Dorada",
           "qty": "<em>1 en lomos</em> · unos 150 g limpios",
-          "price": 4.5,
+          "price": 0,
           "out": false,
-          "buy": "Dorada limpia, 1 pieza (que te la abran en lomos). Precio aproximado (no lo he comprobado en la web de Mercadona)"
+          "buy": "Ya la tienes en casa (es para la cena del lunes)"
         },
         {
           "id": "salmon",
@@ -166,7 +166,7 @@
           "qty": "<em>4</em>",
           "price": 1.8,
           "out": false,
-          "buy": "Huevos grandes L, media docena (2 son para el lunes)"
+          "buy": "Huevos grandes L, media docena"
         },
         {
           "id": "york",
