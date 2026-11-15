@@ -222,12 +222,12 @@
           "buy": "Pan de molde 100% integral Hacendado, 460 g"
         },
         {
-          "id": "arroz",
-          "name": "Arroz blanco",
-          "qty": "<em>75 g</em>",
-          "price": 1.2,
+          "id": "gnocchi",
+          "name": "Ñoquis de patata Hacendado",
+          "qty": "<em>23 ñoquis</em>",
+          "price": 0,
           "out": false,
-          "buy": "Arroz largo Hacendado, 1 kg (si no te queda)"
+          "buy": "Los que te sobraron de hoy"
         },
         {
           "id": "fideos",
@@ -264,7 +264,7 @@
         {
           "id": "choco",
           "name": "Chocolate negro 72%",
-          "qty": "<em>9 onzas</em>",
+          "qty": "<em>7 onzas</em>",
           "price": 1.6,
           "out": false,
           "buy": "Chocolate negro 72% Hacendado, tableta (si no te queda)"

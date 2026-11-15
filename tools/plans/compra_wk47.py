@@ -35,12 +35,12 @@ G = [
  ]),
  ('Despensa', [
   ('pan', 'Pan integral', '<em>170 g</em> · unas 5 rebanadas', 0.9, 'Pan de molde 100% integral Hacendado, 460 g'),
-  ('arroz', 'Arroz blanco', '<em>75 g</em>', 1.2, 'Arroz largo Hacendado, 1 kg (si no te queda)'),
+  ('gnocchi', 'Ñoquis de patata Hacendado', '<em>23 ñoquis</em>', 0, 'Los que te sobraron de hoy'),
   ('fideos', 'Fideos', '<em>65 g</em>', 0.6, 'Fideos finos Hacendado, 500 g.' + A),
   ('caldo', 'Caldo de pollo', '<em>350 ml</em>', 1.1, 'Caldo de pollo Hacendado, brick de 1 L.' + A),
   ('granola', 'Granola sin azúcar', '<em>15 g</em>', 1.9, 'Muesli Crunchy Hacendado sin azúcares añadidos (si no te queda)'),
   ('cremaave', 'Crema de avellana y cacao Ametller', '<em>10 g</em> · la que tienes', 0, 'Ya la tienes en casa'),
-  ('choco', 'Chocolate negro 72%', '<em>9 onzas</em>', 1.6, 'Chocolate negro 72% Hacendado, tableta (si no te queda)'),
+  ('choco', 'Chocolate negro 72%', '<em>7 onzas</em>', 1.6, 'Chocolate negro 72% Hacendado, tableta (si no te queda)'),
  ]),
  ('Fuera de Mercadona', [
   ('kouk10', 'Yogur griego Koukakis', '<em>2</em>', 1.1, 'Koukakis griego natural 150 g.' + A, True),
