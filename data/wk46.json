@@ -937,7 +937,7 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Rosbif con brócoli, champiñón y shiitake (tomado)</p><ul><li><span>Rosbif</span><span class=\"q\">120 g</span></li><li><span>Brócoli</span><span class=\"q\">100 g</span></li><li><span>Champiñones</span><span class=\"q\">1 ud (~15 g)</span></li><li><span>Shiitake</span><span class=\"q\">3 shiitake (~45 g)</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>37</b> P</span><span><b>12</b> G</span><span><b>4</b> Fib</span><span><b>289</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Rosbif con brócoli, champiñón y shiitake (tomado)</p><ul><li><span>Rosbif</span><span class=\"q\">120 g</span></li><li><span>Brócoli</span><span class=\"q\">100 g</span></li><li><span>Champiñones</span><span class=\"q\">1 ud (~15 g)</span></li><li><span>Shiitake</span><span class=\"q\">3 shiitake (~45 g)</span></li><li><span>Salsa Pedro Ximénez con cebolla</span><span class=\"q\">1 cucharadita</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Kiwi</span><span class=\"q\">1 ud (75 g)</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>21</b> HC netos</span><span><b>39</b> P</span><span><b>16</b> G</span><span><b>7</b> Fib</span><span><b>395</b> kcal</span></div>",
      "src": [
       [
        "custom",
@@ -966,8 +966,27 @@
        "Shiitake"
       ],
       [
+       "custom",
+       [
+        3,
+        0.1,
+        0.1,
+        0.1
+       ],
+       "Salsa Pedro Ximénez con cebolla",
+       "1 cucharadita"
+      ],
+      [
        "aceite",
        5
+      ],
+      [
+       "kiwi",
+       75
+      ],
+      [
+       "choco",
+       8
       ]
      ],
      "recipe": [
@@ -1018,7 +1037,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">107</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">97</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">40</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">12</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1197</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">121</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">44</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">15</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1303</span><span class=\"tg\">kcal</span></div>"
   }
  ]
 }
