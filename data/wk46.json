@@ -1027,29 +1027,39 @@
     },
     {
      "meal": "Cena",
-     "html": "<p class=\"dish\">Merluza a la plancha con calabacín</p><ul><li><span>Merluza</span><span class=\"q\">150 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>3</b> HC netos</span><span><b>27</b> P</span><span><b>8</b> G</span><span><b>2</b> Fib</span><span><b>194</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Natillas +Proteína con granola de chocolate y Koukakis (tomado)</p><ul><li><span>Danone +Proteína Natillas Zero avellana y chocolate blanco</span><span class=\"q\">120 g</span></li><li><span>Granola de chocolate Hacendado</span><span class=\"q\">12 g</span></li><li><span>Yogur griego Koukakis</span><span class=\"q\">25 g</span></li></ul><div class=\"mac\"><span><b>21</b> HC netos</span><span><b>8</b> P</span><span><b>6</b> G</span><span><b>1</b> Fib</span><span><b>174</b> kcal</span></div>",
      "src": [
       [
-       "merluza",
-       150
+       "custom",
+       [
+        13,
+        5.9,
+        1.7,
+        0
+       ],
+       "Danone +Proteína Natillas Zero avellana y chocolate blanco",
+       "120 g"
       ],
       [
-       "calabacin",
-       150
+       "custom",
+       [
+        6.8,
+        1,
+        2,
+        0.8
+       ],
+       "Granola de chocolate Hacendado",
+       "12 g"
       ],
       [
-       "aceite",
-       5
+       "koukakis",
+       25,
+       "25 g"
       ]
-     ],
-     "recipe": [
-      "Calabacín en rodajas finas a la plancha con la cucharadita de aceite y sal, 4 min por lado, y reserva.",
-      "Seca la merluza, sal y pimienta: en la misma sartén, 3 min por la piel y 2 min por el otro lado.",
-      "Sirve con unas gotas de limón."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">164</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">90</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">64</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">20</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1631</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">181</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">71</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">63</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">20</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1611</span><span class=\"tg\">kcal</span></div>"
   }
  ]
 }
