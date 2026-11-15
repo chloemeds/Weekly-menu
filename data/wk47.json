@@ -34,14 +34,14 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Pechuga de pollo a la plancha con arroz y judías verdes</p><ul><li><span>Arroz (crudo)</span><span class=\"q\">75 g</span></li><li><span>Pechuga de pollo</span><span class=\"q\">150 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>67</b> HC netos</span><span><b>43</b> P</span><span><b>11</b> G</span><span><b>6</b> Fib</span><span><b>555</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Contramuslo de pavo a la plancha con arroz y judías verdes</p><ul><li><span>Arroz (crudo)</span><span class=\"q\">75 g</span></li><li><span>Contramuslo de pavo (sin piel)</span><span class=\"q\">150 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>67</b> HC netos</span><span><b>37</b> P</span><span><b>18</b> G</span><span><b>6</b> Fib</span><span><b>591</b> kcal</span></div>",
      "src": [
       [
        "arroz",
        75
       ],
       [
-       "pollo",
+       "contramuslo_pavo",
        150
       ],
       [
@@ -60,7 +60,7 @@
      "recipe": [
       "Arroz en agua hirviendo con sal 12 min (o lo que diga el paquete) y escurre.",
       "Judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min.",
-      "Pechuga en filetes finos con sal y pimienta: sartén caliente con la cucharadita de aceite, 3–4 min por lado."
+      "Contramuslo abierto en filete, con sal, pimienta y pimentón: sartén caliente con la cucharadita de aceite, 5–6 min por lado hasta que esté hecho por dentro."
      ]
     },
     {
@@ -87,14 +87,14 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Tortilla francesa con champiñones</p><ul><li><span>Huevos</span><span class=\"q\">2 ud</span></li><li><span>Champiñones</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>19</b> P</span><span><b>20</b> G</span><span><b>2</b> Fib</span><span><b>288</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Dorada al horno con calabacín</p><ul><li><span>Dorada</span><span class=\"q\">150 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>31</b> P</span><span><b>16</b> G</span><span><b>2</b> Fib</span><span><b>299</b> kcal</span></div>",
      "src": [
       [
-       "huevo",
-       110
+       "dorada",
+       150
       ],
       [
-       "champis",
+       "calabacin",
        150
       ],
       [
@@ -107,13 +107,13 @@
       ]
      ],
      "recipe": [
-      "Champiñones laminados en la sartén con la cucharadita de aceite y sal, 5 min a fuego medio-alto.",
-      "Bate los 2 huevos con sal y pimienta y échalos sobre los champiñones.",
-      "Cuaja 2 min a fuego medio, dobla la tortilla y sirve."
+      "Horno a 200 °C. Calabacín en rodajas en la bandeja con sal y la cucharadita de aceite, 8 min.",
+      "Pon la dorada en lomos encima con sal, pimienta y limón, 10–12 min más.",
+      "Sirve con perejil picado."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">120</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">90</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">37</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">15</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1203</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">119</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">96</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">40</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">15</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1252</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Martes",
@@ -325,14 +325,14 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Dorada al horno con calabacín</p><ul><li><span>Dorada</span><span class=\"q\">150 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>31</b> P</span><span><b>16</b> G</span><span><b>2</b> Fib</span><span><b>299</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Tortilla francesa con champiñones</p><ul><li><span>Huevos</span><span class=\"q\">2 ud</span></li><li><span>Champiñones</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>19</b> P</span><span><b>20</b> G</span><span><b>2</b> Fib</span><span><b>288</b> kcal</span></div>",
      "src": [
       [
-       "dorada",
-       150
+       "huevo",
+       110
       ],
       [
-       "calabacin",
+       "champis",
        150
       ],
       [
@@ -345,13 +345,13 @@
       ]
      ],
      "recipe": [
-      "Horno a 200 °C. Calabacín en rodajas en la bandeja con sal y la cucharadita de aceite, 8 min.",
-      "Pon la dorada en lomos encima con sal, pimienta y limón, 10–12 min más.",
-      "Sirve con perejil picado."
+      "Champiñones laminados en la sartén con la cucharadita de aceite y sal, 5 min a fuego medio-alto.",
+      "Bate los 2 huevos con sal y pimienta y échalos sobre los champiñones.",
+      "Cuaja 2 min a fuego medio, dobla la tortilla y sirve."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">117</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">34</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">20</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1207</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">118</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">86</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">38</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">20</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1196</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Jueves",
