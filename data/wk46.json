@@ -896,19 +896,40 @@
      "meal": "Desayuno",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Tostada integral con jamón york + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">40 g</span></li><li><span>Jamón york extra</span><span class=\"q\">40 g</span></li><li><span>Leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>23</b> HC netos</span><span><b>17</b> P</span><span><b>3</b> G</span><span><b>3</b> Fib</span><span><b>189</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Medio sándwich de masa madre con york, queso y cebolla caramelizada + medio banana bread + matcha con avena Oatly (tomado)</p><ul><li><span>Medio sándwich de pan de masa madre con york, queso y cebolla caramelizada</span><span class=\"q\">½ sándwich</span></li><li><span>Banana bread con pepitas de chocolate</span><span class=\"q\">medio trozo (~50 g)</span></li><li><span>Matcha con bebida de avena Oatly</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>73</b> HC netos</span><span><b>19</b> P</span><span><b>20</b> G</span><span><b>4</b> Fib</span><span><b>554</b> kcal</span></div>",
      "src": [
       [
-       "pan_int",
-       40
+       "custom",
+       [
+        35,
+        15,
+        10,
+        2
+       ],
+       "Medio sándwich de pan de masa madre con york, queso y cebolla caramelizada",
+       "½ sándwich"
       ],
       [
-       "york",
-       40
+       "custom",
+       [
+        28,
+        2.2,
+        7.6,
+        1
+       ],
+       "Banana bread con pepitas de chocolate",
+       "medio trozo (~50 g)"
       ],
       [
-       "leche_d",
-       150
+       "custom",
+       [
+        10,
+        1.5,
+        2.3,
+        1.2
+       ],
+       "Matcha con bebida de avena Oatly",
+       "150 ml"
       ]
      ]
     },
@@ -916,13 +937,8 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Ñoquis con contramuslo de pavo y champiñones</p><ul><li><span>Ñoquis de patata Hacendado</span><span class=\"q\">18 ñoquis (117 g)</span></li><li><span>Contramuslo de pavo (sin piel)</span><span class=\"q\">150 g</span></li><li><span>Champiñones</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>47</b> HC netos</span><span><b>38</b> P</span><span><b>15</b> G</span><span><b>3</b> Fib</span><span><b>483</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Contramuslo de pavo con champiñones</p><ul><li><span>Contramuslo de pavo (sin piel)</span><span class=\"q\">150 g</span></li><li><span>Champiñones</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>3</b> HC netos</span><span><b>33</b> P</span><span><b>14</b> G</span><span><b>2</b> Fib</span><span><b>279</b> kcal</span></div>",
      "src": [
-      [
-       "gnocchi",
-       117,
-       "18 ñoquis (117 g)"
-      ],
       [
        "contramuslo_pavo",
        150
@@ -937,9 +953,8 @@
       ]
      ],
      "recipe": [
-      "Ñoquis en agua hirviendo con sal hasta que floten, 2–3 min, y escurre.",
       "Contramuslo de pavo en tacos con sal y pimienta en la sartén con la cucharadita de aceite, 6–7 min hasta que se dore.",
-      "Añade los champiñones laminados 4 min y luego los ñoquis 2 min para que se doren un poco.",
+      "Añade los champiñones laminados y saltea 4–5 min más.",
       "Sirve con orégano o perejil al gusto."
      ]
     },
@@ -985,7 +1000,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">101</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">26</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">12</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1055</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">107</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">95</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">43</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">12</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1217</span><span class=\"tg\">kcal</span></div>"
   }
  ]
 }
