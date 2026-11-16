@@ -82,11 +82,19 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Kiwi (tomado)</p><ul><li><span>Kiwi</span><span class=\"q\">1 ud</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>1</b> P</span><span><b>0</b> G</span><span><b>2</b> Fib</span><span><b>46</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Skyr con kiwi y granola (tomado)</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Kiwi</span><span class=\"q\">1 ud</span></li><li><span>Granola sin azúcar</span><span class=\"q\">15 g</span></li></ul><div class=\"mac\"><span><b>20</b> HC netos</span><span><b>11</b> P</span><span><b>3</b> G</span><span><b>4</b> Fib</span><span><b>158</b> kcal</span></div>",
      "src": [
+      [
+       "skyr",
+       100
+      ],
       [
        "kiwi",
        75
+      ],
+      [
+       "granola",
+       15
       ]
      ]
     },
@@ -116,7 +124,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">114</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">89</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">34</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">12</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1138</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">125</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">36</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">13</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1250</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Martes",
