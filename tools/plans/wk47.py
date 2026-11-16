@@ -22,7 +22,7 @@ MATCHA_A = ('leche_a', 150, '', 'Matcha con bebida de almendra')
 # ---------------- Lunes: regular (sencillo, sin compra del domingo)
 day('Lunes', '16 nov', 'reg',
     ('Desayuno', 'Matcha con plátano congelado y espuma de Koukakis y canela (tomado)',
-     [('leche_d', 200, '150 ml + 50 ml para la espuma', 'Leche desnatada'), ('platano', 80, '⅔ de plátano mediano (~80 g, congelado)'),
+     [('leche_d', 200, '150 ml + 50 ml para la espuma', 'Leche desnatada'), ('platano', 50, 'unos ⅖ de plátano mediano (50 g, congelado)'),
       ('koukakis', 15, '1 cucharada (~15 g)')]),
     ('Comida', 'Contramuslo de pavo a la plancha con ñoquis y judías verdes',
      [('gnocchi', 150), ('contramuslo_pavo', 150), ('judias', 150), OIL],
