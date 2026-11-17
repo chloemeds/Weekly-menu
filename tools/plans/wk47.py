@@ -41,21 +41,21 @@ day('Lunes', '16 nov', 'reg',
 
 # ---------------- Martes: carbs reducidos
 day('Martes', '17 nov', 'low',
-    ('Desayuno', 'Tostada integral con queso light y york + matcha latte',
+    ('Desayuno', 'Tostada integral con queso light y york + matcha latte (tomado)',
      [('pan_int', 30), ('york', 40), ('queso_l', 12.5), MATCHA_A]),
-    ('Comida', 'Muslo de pollo, pechuga de pollo y pavo con setas',
+    ('Comida', 'Muslo de pollo, pechuga de pollo y pavo con setas (tomado)',
      [('custom', [0, 16.3, 5.2, 0], 'Muslo de pollo sin piel', '86 g de carne'), ('pollo', 68, '', 'Pechuga de pollo (en tacos)'), ('pavo', 24, '', 'Pechuga de pavo (en tacos)'),
       ('setas', 150), OIL, CH],
      ['Muslo con sal, pimienta y pimentón: airfryer a 200 °C, 20–22 min, dándole la vuelta a mitad. Las pechugas en tacos, con lo mismo, los últimos 10 min.',
       'Mientras, setas troceadas en la sartén con la cucharadita de aceite y sal, 5–6 min.',
       'Sirve el pollo sobre las setas.']),
-    ('Merienda', 'Koukakis griego con arándanos',
-     [('koukakis', 150), ('arandanos', 40)]),
-    ('Cena', 'Lubina al horno con brócoli',
-     [('lubina', 150), ('brocoli', 150), OIL, CH],
+    ('Merienda', 'Koukakis griego con arándanos y crema de avellana',
+     [('koukakis', 150), ('arandanos', 40), ('crema_ave', 10)]),
+    ('Cena', 'Lubina al horno con brócoli y aguacate',
+     [('lubina', 150), ('brocoli', 150), ('aguacate', 50, '⅓ de aguacate (~50 g)'), OIL, CH],
      ['Horno a 200 °C. Lubina en lomos en una bandeja con sal, pimienta, limón y la cucharadita de aceite, 10–12 min.',
       'Mientras, brócoli en ramilletes al vapor en el microondas, bol tapado con 2 cdas de agua, 5 min.',
-      'Sirve la lubina con el brócoli y unas gotas de limón.']),
+      'Sirve la lubina con el brócoli, el aguacate en láminas y unas gotas de limón.']),
     )
 
 # ---------------- Miércoles: regular
