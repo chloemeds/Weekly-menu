@@ -51,12 +51,11 @@ day('Martes', '17 nov', 'low',
       'Sirve el pollo sobre las setas.']),
     ('Merienda', 'Koukakis griego con arándanos, granada y crema de avellana (tomado)',
      [('koukakis', 150), ('arandanos', 40), ('granada', 30), ('crema_ave', 12)]),
-    ('Cena', 'Lubina al horno con brócoli, alcachofa y aguacate',
-     [('lubina', 150), ('brocoli', 120), ('alcachofa', 50, '1 ud (~50 g limpia)'), ('aguacate', 50, '⅓ de aguacate (~50 g)'), OIL, CH],
-     ['Horno a 200 °C. Lubina en lomos en una bandeja con sal, pimienta, limón y la cucharadita de aceite, 10–12 min.',
+    ('Cena', 'Salmón al horno con brócoli y aguacate',
+     [('salmon', 120), ('brocoli', 120), ('aguacate', 50, '⅓ de aguacate (~50 g)'), OIL, CH],
+     ['Horno a 200 °C. Salmón con sal, pimienta y eneldo en una bandeja con la cucharadita de aceite, 12 min.',
       'Mientras, brócoli en ramilletes al vapor en el microondas, bol tapado con 2 cdas de agua, 5 min.',
-      'Alcachofa: hiérvela entera 20–25 min (está lista si una hoja de dentro sale fácil), ábrela por la mitad y tuéstala 2–3 min en la sartén.',
-      'Sirve la lubina con el brócoli, la alcachofa, el aguacate en láminas y unas gotas de limón.']),
+      'Sirve el salmón con el brócoli, el aguacate en láminas y unas gotas de limón.']),
     )
 
 # ---------------- Miércoles: regular
@@ -90,11 +89,11 @@ day('Jueves', '19 nov', 'low',
       'Sartén con la cucharadita de aceite: pollo 5–6 min, añade el brócoli 2 min y el zumo del limón al final.']),
     ('Merienda', 'Koukakis griego con frambuesas',
      [('koukakis', 150), ('frambuesas', 100)]),
-    ('Cena', 'Salmón al horno con judías verdes',
-     [('salmon', 130), ('judias', 150), OIL, CH],
-     ['Horno a 200 °C. Salmón con sal, pimienta y eneldo en una bandeja con la cucharadita de aceite, 12 min.',
+    ('Cena', 'Lubina al horno con judías verdes',
+     [('lubina', 150), ('judias', 150), OIL, CH],
+     ['Horno a 200 °C. Lubina en lomos en una bandeja con sal, pimienta, limón y la cucharadita de aceite, 10–12 min.',
       'Judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min.',
-      'Sirve el salmón con las judías y unas gotas de limón.']),
+      'Sirve la lubina con las judías y unas gotas de limón.']),
     )
 
 # ---------------- Viernes: regular, cena en Bosque de Lobos

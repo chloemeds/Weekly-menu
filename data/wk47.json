@@ -241,19 +241,15 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Lubina al horno con brócoli, alcachofa y aguacate</p><ul><li><span>Lubina</span><span class=\"q\">150 g</span></li><li><span>Brócoli</span><span class=\"q\">120 g</span></li><li><span>Alcachofas (corazones)</span><span class=\"q\">1 ud (~50 g limpia)</span></li><li><span>Aguacate</span><span class=\"q\">⅓ de aguacate (~50 g)</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>35</b> P</span><span><b>24</b> G</span><span><b>10</b> Fib</span><span><b>423</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Salmón al horno con brócoli y aguacate</p><ul><li><span>Salmón</span><span class=\"q\">120 g</span></li><li><span>Brócoli</span><span class=\"q\">120 g</span></li><li><span>Aguacate</span><span class=\"q\">⅓ de aguacate (~50 g)</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>29</b> P</span><span><b>32</b> G</span><span><b>7</b> Fib</span><span><b>454</b> kcal</span></div>",
      "src": [
       [
-       "lubina",
-       150
+       "salmon",
+       120
       ],
       [
        "brocoli",
        120
-      ],
-      [
-       "alcachofa",
-       50
       ],
       [
        "aguacate",
@@ -269,14 +265,13 @@
       ]
      ],
      "recipe": [
-      "Horno a 200 °C. Lubina en lomos en una bandeja con sal, pimienta, limón y la cucharadita de aceite, 10–12 min.",
+      "Horno a 200 °C. Salmón con sal, pimienta y eneldo en una bandeja con la cucharadita de aceite, 12 min.",
       "Mientras, brócoli en ramilletes al vapor en el microondas, bol tapado con 2 cdas de agua, 5 min.",
-      "Alcachofa: hiérvela entera 20–25 min (está lista si una hoja de dentro sale fácil), ábrela por la mitad y tuéstala 2–3 min en la sartén.",
-      "Sirve la lubina con el brócoli, la alcachofa, el aguacate en láminas y unas gotas de limón."
+      "Sirve el salmón con el brócoli, el aguacate en láminas y unas gotas de limón."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">48</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">104</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">65</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">24</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1238</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">45</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">73</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">21</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1270</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Miércoles",
@@ -479,11 +474,11 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Salmón al horno con judías verdes</p><ul><li><span>Salmón</span><span class=\"q\">130 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>30</b> P</span><span><b>26</b> G</span><span><b>5</b> Fib</span><span><b>394</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Lubina al horno con judías verdes</p><ul><li><span>Lubina</span><span class=\"q\">150 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>32</b> P</span><span><b>16</b> G</span><span><b>5</b> Fib</span><span><b>320</b> kcal</span></div>",
      "src": [
       [
-       "salmon",
-       130
+       "lubina",
+       150
       ],
       [
        "judias",
@@ -499,13 +494,13 @@
       ]
      ],
      "recipe": [
-      "Horno a 200 °C. Salmón con sal, pimienta y eneldo en una bandeja con la cucharadita de aceite, 12 min.",
+      "Horno a 200 °C. Lubina en lomos en una bandeja con sal, pimienta, limón y la cucharadita de aceite, 10–12 min.",
       "Judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min.",
-      "Sirve el salmón con las judías y unas gotas de limón."
+      "Sirve la lubina con las judías y unas gotas de limón."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">30</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">66</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">17</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1137</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">30</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">56</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">17</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1062</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Viernes",
