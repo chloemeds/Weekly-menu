@@ -241,7 +241,7 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Salmón al horno con brócoli y aguacate</p><ul><li><span>Salmón</span><span class=\"q\">120 g</span></li><li><span>Brócoli</span><span class=\"q\">120 g</span></li><li><span>Aguacate</span><span class=\"q\">⅓ de aguacate (~50 g)</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>29</b> P</span><span><b>32</b> G</span><span><b>7</b> Fib</span><span><b>454</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Salmón al horno con brócoli</p><ul><li><span>Salmón</span><span class=\"q\">120 g</span></li><li><span>Brócoli</span><span class=\"q\">120 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>8</b> HC netos</span><span><b>28</b> P</span><span><b>24</b> G</span><span><b>4</b> Fib</span><span><b>373</b> kcal</span></div>",
      "src": [
       [
        "salmon",
@@ -250,10 +250,6 @@
       [
        "brocoli",
        120
-      ],
-      [
-       "aguacate",
-       50
       ],
       [
        "aceite",
@@ -267,11 +263,11 @@
      "recipe": [
       "Horno a 200 °C. Salmón con sal, pimienta y eneldo en una bandeja con la cucharadita de aceite, 12 min.",
       "Mientras, brócoli en ramilletes al vapor en el microondas, bol tapado con 2 cdas de agua, 5 min.",
-      "Sirve el salmón con el brócoli, el aguacate en láminas y unas gotas de limón."
+      "Sirve el salmón con el brócoli y unas gotas de limón."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">45</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">73</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">21</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1270</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">44</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">97</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">65</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">18</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1188</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Miércoles",

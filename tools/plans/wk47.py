@@ -51,11 +51,11 @@ day('Martes', '17 nov', 'low',
       'Sirve el pollo sobre las setas.']),
     ('Merienda', 'Koukakis griego con arándanos, granada y crema de avellana (tomado)',
      [('koukakis', 150), ('arandanos', 40), ('granada', 30), ('crema_ave', 12)]),
-    ('Cena', 'Salmón al horno con brócoli y aguacate',
-     [('salmon', 120), ('brocoli', 120), ('aguacate', 50, '⅓ de aguacate (~50 g)'), OIL, CH],
+    ('Cena', 'Salmón al horno con brócoli',
+     [('salmon', 120), ('brocoli', 120), OIL, CH],
      ['Horno a 200 °C. Salmón con sal, pimienta y eneldo en una bandeja con la cucharadita de aceite, 12 min.',
       'Mientras, brócoli en ramilletes al vapor en el microondas, bol tapado con 2 cdas de agua, 5 min.',
-      'Sirve el salmón con el brócoli, el aguacate en láminas y unas gotas de limón.']),
+      'Sirve el salmón con el brócoli y unas gotas de limón.']),
     )
 
 # ---------------- Miércoles: regular
