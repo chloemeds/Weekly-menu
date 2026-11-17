@@ -409,15 +409,19 @@
      "meal": "Desayuno",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Tortilla francesa de 2 huevos con jamón york + matcha latte</p><ul><li><span>Huevos</span><span class=\"q\">2 ud</span></li><li><span>Jamón york extra</span><span class=\"q\">20 g</span></li><li><span>Matcha con bebida de almendra</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>1</b> HC netos</span><span><b>18</b> P</span><span><b>13</b> G</span><span><b>0</b> Fib</span><span><b>196</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Tostada integral con queso light y york + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">30 g</span></li><li><span>Jamón york extra</span><span class=\"q\">40 g</span></li><li><span>Queso en lonchas light</span><span class=\"q\">1 loncha</span></li><li><span>Matcha con bebida de almendra</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>12</b> HC netos</span><span><b>18</b> P</span><span><b>8</b> G</span><span><b>3</b> Fib</span><span><b>198</b> kcal</span></div>",
      "src": [
       [
-       "huevo",
-       110
+       "pan_int",
+       30
       ],
       [
        "york",
-       20
+       40
+      ],
+      [
+       "queso_l",
+       25
       ],
       [
        "leche_a",
@@ -458,7 +462,7 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Koukakis griego con frambuesas</p><ul><li><span>Yogur griego Koukakis</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Frambuesas</span><span class=\"q\">100 g</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>10</b> P</span><span><b>16</b> G</span><span><b>6</b> Fib</span><span><b>241</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Koukakis griego con frambuesas y crema de avellana</p><ul><li><span>Yogur griego Koukakis</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Frambuesas</span><span class=\"q\">100 g</span></li><li><span>Crema de avellana y cacao Ametller</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>12</b> HC netos</span><span><b>11</b> P</span><span><b>19</b> G</span><span><b>11</b> Fib</span><span><b>286</b> kcal</span></div>",
      "src": [
       [
        "koukakis",
@@ -467,6 +471,10 @@
       [
        "frambuesas",
        100
+      ],
+      [
+       "crema_ave",
+       10
       ]
      ]
     },
@@ -500,7 +508,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">30</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">56</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">17</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1062</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">42</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">54</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">23</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1110</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Viernes",
