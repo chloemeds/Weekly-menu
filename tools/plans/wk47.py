@@ -49,13 +49,14 @@ day('Martes', '17 nov', 'low',
      ['Muslo con sal, pimienta y pimentón: airfryer a 200 °C, 20–22 min, dándole la vuelta a mitad. Las pechugas en tacos, con lo mismo, los últimos 10 min.',
       'Mientras, setas troceadas en la sartén con la cucharadita de aceite y sal, 5–6 min.',
       'Sirve el pollo sobre las setas.']),
-    ('Merienda', 'Koukakis griego con arándanos, granada y crema de avellana',
+    ('Merienda', 'Koukakis griego con arándanos, granada y crema de avellana (tomado)',
      [('koukakis', 150), ('arandanos', 40), ('granada', 30), ('crema_ave', 12)]),
-    ('Cena', 'Lubina al horno con brócoli y aguacate',
-     [('lubina', 150), ('brocoli', 150), ('aguacate', 50, '⅓ de aguacate (~50 g)'), OIL, CH],
+    ('Cena', 'Lubina al horno con brócoli, alcachofa y aguacate',
+     [('lubina', 150), ('brocoli', 120), ('alcachofa', 50, '1 ud (~50 g limpia)'), ('aguacate', 50, '⅓ de aguacate (~50 g)'), OIL, CH],
      ['Horno a 200 °C. Lubina en lomos en una bandeja con sal, pimienta, limón y la cucharadita de aceite, 10–12 min.',
       'Mientras, brócoli en ramilletes al vapor en el microondas, bol tapado con 2 cdas de agua, 5 min.',
-      'Sirve la lubina con el brócoli, el aguacate en láminas y unas gotas de limón.']),
+      'Alcachofa: hiérvela entera 20–25 min (está lista si una hoja de dentro sale fácil), ábrela por la mitad y tuéstala 2–3 min en la sartén.',
+      'Sirve la lubina con el brócoli, la alcachofa, el aguacate en láminas y unas gotas de limón.']),
     )
 
 # ---------------- Miércoles: regular
