@@ -174,17 +174,21 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Muslos de pollo con setas</p><ul><li><span>Muslo de pollo sin piel</span><span class=\"q\">2 ud (~200 g de carne)</span></li><li><span>Setas</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>8</b> HC netos</span><span><b>44</b> P</span><span><b>21</b> G</span><span><b>4</b> Fib</span><span><b>406</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Muslo y pechuga de pollo con setas</p><ul><li><span>Muslo de pollo sin piel</span><span class=\"q\">1 ud (~100 g de carne)</span></li><li><span>Pechuga de pollo (en tacos)</span><span class=\"q\">80 g</span></li><li><span>Setas</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>8</b> HC netos</span><span><b>43</b> P</span><span><b>16</b> G</span><span><b>4</b> Fib</span><span><b>360</b> kcal</span></div>",
      "src": [
       [
        "custom",
        [
         0,
-        38,
-        12,
+        19,
+        6,
         0
        ],
        "Muslo de pollo sin piel"
+      ],
+      [
+       "pollo",
+       80
       ],
       [
        "setas",
@@ -200,9 +204,9 @@
       ]
      ],
      "recipe": [
-      "Muslos con sal, pimienta y pimentón: airfryer a 200 °C, 20–22 min, dándole la vuelta a mitad.",
+      "Muslo con sal, pimienta y pimentón: airfryer a 200 °C, 20–22 min, dándole la vuelta a mitad. La pechuga en tacos, con lo mismo, los últimos 10 min.",
       "Mientras, setas troceadas en la sartén con la cucharadita de aceite y sal, 5–6 min.",
-      "Sirve los muslos sobre las setas."
+      "Sirve el pollo sobre las setas."
      ]
     },
     {
@@ -251,7 +255,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">40</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">58</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">13</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1118</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">40</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">54</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">13</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1072</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Miércoles",
