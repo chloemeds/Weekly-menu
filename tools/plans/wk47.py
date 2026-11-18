@@ -72,11 +72,11 @@ day('Miércoles', '18 nov', 'reg',
     ('Merienda', 'Skyr y Koukakis con medio plátano, granola y crema de avellana + matcha latte con miel',
      [('skyr', 100), ('koukakis', 25), ('platano', 60, '½ plátano mediano (60 g)'), ('granola', 10), ('crema_ave', 6), MATCHA_D,
       ('custom', [2.4, 0, 0, 0], 'Miel (en el matcha)', '1 gotita (~3 g)')]),
-    ('Cena', 'Tortilla francesa con champiñones',
-     [('huevo', 55, '1 ud'), ('champis', 150), OIL],
-     ['Champiñones laminados en la sartén con la cucharadita de aceite y sal, 5 min a fuego medio-alto.',
-      'Bate el huevo con sal y pimienta y échalo sobre los champiñones.',
-      'Cuaja 2 min a fuego medio, dobla la tortilla y sirve.']),
+    ('Cena', 'Lubina a la plancha con champiñones',
+     [('lubina', 150), ('champis', 150), OIL],
+     ['Champiñones laminados en la sartén con la cucharadita de aceite y sal, 5 min a fuego medio-alto, y reserva.',
+      'Seca los lomos de lubina, sal y pimienta: en la misma sartén, 3 min por la piel y 1–2 min por el otro lado.',
+      'Sirve la lubina sobre los champiñones con unas gotas de limón.']),
     )
 
 # ---------------- Jueves: carbs reducidos
@@ -90,11 +90,11 @@ day('Jueves', '19 nov', 'low',
       'Sartén con la cucharadita de aceite: pollo 5–6 min, añade el brócoli 2 min y el zumo del limón al final.']),
     ('Merienda', 'Koukakis griego con frambuesas y crema de avellana',
      [('koukakis', 150), ('frambuesas', 100), ('crema_ave', 10)]),
-    ('Cena', 'Lubina al horno con judías verdes',
-     [('lubina', 150), ('judias', 150), OIL, CH],
-     ['Horno a 200 °C. Lubina en lomos en una bandeja con sal, pimienta, limón y la cucharadita de aceite, 10–12 min.',
+    ('Cena', 'Salmón al horno con judías verdes',
+     [('salmon', 130), ('judias', 150), OIL, CH],
+     ['Horno a 200 °C. Salmón con sal, pimienta y eneldo en una bandeja con la cucharadita de aceite, 12 min.',
       'Judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min.',
-      'Sirve la lubina con las judías y unas gotas de limón.']),
+      'Sirve el salmón con las judías y unas gotas de limón.']),
     )
 
 # ---------------- Viernes: regular, cena en Bosque de Lobos
