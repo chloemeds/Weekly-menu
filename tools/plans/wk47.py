@@ -73,9 +73,9 @@ day('Miércoles', '18 nov', 'reg',
      [('skyr', 100), ('koukakis', 25), ('platano', 60, '½ plátano mediano (60 g)'), ('granola', 10), ('crema_ave', 6), MATCHA_D,
       ('custom', [2.4, 0, 0, 0], 'Miel (en el matcha)', '1 gotita (~3 g)')]),
     ('Cena', 'Tortilla francesa con champiñones',
-     [('huevo', 110, '2 ud'), ('champis', 150), OIL],
+     [('huevo', 55, '1 ud'), ('champis', 150), OIL],
      ['Champiñones laminados en la sartén con la cucharadita de aceite y sal, 5 min a fuego medio-alto.',
-      'Bate los 2 huevos con sal y pimienta y échalos sobre los champiñones.',
+      'Bate el huevo con sal y pimienta y échalo sobre los champiñones.',
       'Cuaja 2 min a fuego medio, dobla la tortilla y sirve.']),
     )
 
