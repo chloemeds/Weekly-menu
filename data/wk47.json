@@ -313,25 +313,25 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Lentejas caseras con chorizo + filete de pavo a la plancha + kiwi</p><ul><li><span>Lentejas guisadas</span><span class=\"q\">un plato normal (~220 g de guiso; 60 g en seco)</span></li><li><span>Chorizo (2 trocitos, ~10 g) y sofrito del guiso (estimado)</span><span class=\"q\">—</span></li><li><span>Filete de pavo</span><span class=\"q\">130 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Kiwi</span><span class=\"q\">1 ud (de postre)</span></li></ul><div class=\"mac\"><span><b>39</b> HC netos</span><span><b>47</b> P</span><span><b>14</b> G</span><span><b>9</b> Fib</span><span><b>484</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Lentejas caseras con chorizo + filete de pavo a la plancha + kiwi</p><ul><li><span>Lentejas guisadas</span><span class=\"q\">292 g de guiso, como la última vez (83 g en seco)</span></li><li><span>Chorizo (2 trocitos, ~10 g) y sofrito del guiso (estimado)</span><span class=\"q\">—</span></li><li><span>Filete de pavo</span><span class=\"q\">110 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Kiwi</span><span class=\"q\">1 ud (de postre)</span></li></ul><div class=\"mac\"><span><b>51</b> HC netos</span><span><b>48</b> P</span><span><b>14</b> G</span><span><b>12</b> Fib</span><span><b>546</b> kcal</span></div>",
      "src": [
       [
        "lentejas",
-       60
+       83
       ],
       [
        "custom",
        [
-        1,
-        2.8,
-        6,
-        0.5
+        1.2,
+        3,
+        6.5,
+        0.6
        ],
        "Chorizo (2 trocitos, ~10 g) y sofrito del guiso (estimado)"
       ],
       [
        "pavo",
-       130
+       110
       ],
       [
        "aceite",
@@ -394,7 +394,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">110</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">43</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">20</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1267</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">122</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">44</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">22</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1329</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Jueves",
