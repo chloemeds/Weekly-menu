@@ -150,11 +150,17 @@
      "meal": "Desayuno",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Tostada integral con queso light y york + matcha latte (tomado)</p><ul><li><span>Pan integral</span><span class=\"q\">30 g</span></li><li><span>Jamón york extra</span><span class=\"q\">40 g</span></li><li><span>Queso en lonchas light</span><span class=\"q\">½ loncha (12,5 g)</span></li><li><span>Matcha con bebida de almendra</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>12</b> HC netos</span><span><b>15</b> P</span><span><b>6</b> G</span><span><b>3</b> Fib</span><span><b>165</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Tostada de pan de payés con queso light y york + matcha latte (tomado)</p><ul><li><span>Pan de payés</span><span class=\"q\">30 g</span></li><li><span>Jamón york extra</span><span class=\"q\">40 g</span></li><li><span>Queso en lonchas light</span><span class=\"q\">½ loncha (12,5 g)</span></li><li><span>Matcha con bebida de almendra</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>16</b> HC netos</span><span><b>14</b> P</span><span><b>5</b> G</span><span><b>1</b> Fib</span><span><b>170</b> kcal</span></div>",
      "src": [
       [
-       "pan_int",
-       30
+       "custom",
+       [
+        15.3,
+        2.7,
+        0.5,
+        0.8
+       ],
+       "Pan de payés"
       ],
       [
        "york",
@@ -271,7 +277,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">44</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">69</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">21</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1231</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">47</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">68</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">19</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1236</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Miércoles",

@@ -41,8 +41,8 @@ day('Lunes', '16 nov', 'reg',
 
 # ---------------- Martes: carbs reducidos
 day('Martes', '17 nov', 'low',
-    ('Desayuno', 'Tostada integral con queso light y york + matcha latte (tomado)',
-     [('pan_int', 30), ('york', 40), ('queso_l', 12.5), MATCHA_A]),
+    ('Desayuno', 'Tostada de pan de payés con queso light y york + matcha latte (tomado)',
+     [('custom', [15.3, 2.7, 0.45, 0.75], 'Pan de payés', '30 g'), ('york', 40), ('queso_l', 12.5), MATCHA_A]),
     ('Comida', 'Muslo de pollo, pechuga de pollo y pavo con setas (tomado)',
      [('custom', [0, 16.3, 5.2, 0], 'Muslo de pollo sin piel', '86 g de carne'), ('pollo', 68, '', 'Pechuga de pollo (en tacos)'), ('pavo', 24, '', 'Pechuga de pavo (en tacos)'),
       ('setas', 150), OIL, CH],
