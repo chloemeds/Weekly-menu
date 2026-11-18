@@ -313,29 +313,25 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Sopa de caldo de pollo con fideos + filete de pavo con judías verdes</p><ul><li><span>Caldo de pollo</span><span class=\"q\">350 ml</span></li><li><span>Fideos</span><span class=\"q\">65 g (en crudo)</span></li><li><span>Filete de pavo</span><span class=\"q\">150 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>56</b> HC netos</span><span><b>46</b> P</span><span><b>12</b> G</span><span><b>7</b> Fib</span><span><b>528</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Lentejas caseras + filete de pavo a la plancha</p><ul><li><span>Lentejas guisadas</span><span class=\"q\">un plato hondo (~320 g de guiso; 90 g en seco)</span></li><li><span>Sofrito y aceite del guiso (estimado)</span><span class=\"q\">—</span></li><li><span>Filete de pavo</span><span class=\"q\">120 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>49</b> HC netos</span><span><b>49</b> P</span><span><b>16</b> G</span><span><b>12</b> Fib</span><span><b>559</b> kcal</span></div>",
      "src": [
+      [
+       "lentejas",
+       90
+      ],
       [
        "custom",
        [
-        1,
-        1.5,
+        2,
         0.5,
-        0
+        5,
+        1
        ],
-       "Caldo de pollo"
-      ],
-      [
-       "pasta",
-       65
+       "Sofrito y aceite del guiso (estimado)"
       ],
       [
        "pavo",
-       150
-      ],
-      [
-       "judias",
-       150
+       120
       ],
       [
        "aceite",
@@ -347,17 +343,16 @@
       ]
      ],
      "recipe": [
-      "Calienta el caldo; cuando hierva, echa los fideos y cuécelos el tiempo del paquete (4–5 min).",
-      "Judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min.",
+      "Calienta las lentejas en un cazo a fuego medio, 5 min, removiendo.",
       "Filete de pavo con sal y pimienta: sartén caliente con la cucharadita de aceite, 3 min por lado.",
-      "Primero la sopa y de segundo el pavo con las judías."
+      "Primero las lentejas y de segundo el pavo."
      ]
     },
     {
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Skyr con plátano y crema de avellana</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Plátano</span><span class=\"q\">1 mediano (120 g pelado)</span></li><li><span>Crema de avellana y cacao Ametller</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>28</b> HC netos</span><span><b>11</b> P</span><span><b>4</b> G</span><span><b>7</b> Fib</span><span><b>208</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Skyr con plátano y granola</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Plátano</span><span class=\"q\">1 mediano (120 g pelado)</span></li><li><span>Granola sin azúcar</span><span class=\"q\">20 g</span></li></ul><div class=\"mac\"><span><b>38</b> HC netos</span><span><b>12</b> P</span><span><b>4</b> G</span><span><b>5</b> Fib</span><span><b>244</b> kcal</span></div>",
      "src": [
       [
        "skyr",
@@ -368,8 +363,8 @@
        120
       ],
       [
-       "crema_ave",
-       10
+       "granola",
+       20
       ]
      ]
     },
@@ -377,7 +372,7 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Tortilla francesa con champiñones</p><ul><li><span>Huevos</span><span class=\"q\">2 ud</span></li><li><span>Champiñones</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>19</b> P</span><span><b>20</b> G</span><span><b>2</b> Fib</span><span><b>288</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Tortilla francesa con champiñones</p><ul><li><span>Huevos</span><span class=\"q\">2 ud</span></li><li><span>Champiñones</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>4</b> HC netos</span><span><b>18</b> P</span><span><b>16</b> G</span><span><b>2</b> Fib</span><span><b>242</b> kcal</span></div>",
      "src": [
       [
        "huevo",
@@ -390,10 +385,6 @@
       [
        "aceite",
        5
-      ],
-      [
-       "choco",
-       8
       ]
      ],
      "recipe": [
@@ -403,7 +394,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">120</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">45</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">20</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1320</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">120</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">102</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">46</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">22</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1342</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Jueves",
