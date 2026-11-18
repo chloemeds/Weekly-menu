@@ -72,11 +72,11 @@ day('Miércoles', '18 nov', 'reg',
     ('Merienda', 'Skyr y Koukakis con medio plátano, granola y crema de avellana + matcha latte con miel (tomado)',
      [('skyr', 100), ('koukakis', 25), ('platano', 60, '½ plátano mediano (60 g)'), ('granola', 8), ('crema_ave', 7), MATCHA_D,
       ('custom', [2.4, 0, 0, 0], 'Miel (en el matcha)', '1 gotita (~3 g)')]),
-    ('Cena', 'Lubina a la plancha con champiñones + barquillos de chocolate',
-     [('lubina', 150), ('champis', 150), OIL, ('custom', [6.9, 0.5, 2.2, 0.3], 'Barquillos rellenos de chocolate Antiu Xixona (postre)', '2 sticks (11 g)')],
-     ['Champiñones laminados en la sartén con la cucharadita de aceite y sal, 5 min a fuego medio-alto, y reserva.',
+    ('Cena', 'Lubina a la plancha con setas + barquillos de chocolate (tomado)',
+     [('lubina', 150), ('setas', 100), OIL, ('custom', [6.9, 0.5, 2.2, 0.3], 'Barquillos rellenos de chocolate Antiu Xixona (postre)', '2 sticks (11 g)')],
+     ['Setas troceadas en la sartén con la cucharadita de aceite y sal, 5 min a fuego medio-alto, y reserva.',
       'Seca los lomos de lubina, sal y pimienta: en la misma sartén, 3 min por la piel y 1–2 min por el otro lado.',
-      'Sirve la lubina sobre los champiñones con unas gotas de limón.']),
+      'Sirve la lubina sobre las setas con unas gotas de limón.']),
     )
 
 # ---------------- Jueves: carbs reducidos
