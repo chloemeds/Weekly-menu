@@ -446,7 +446,7 @@
      "meal": "Desayuno",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Matcha con plátano y espuma de canela (estilo Reset Matcha)</p><ul><li><span>Bebida de almendra sin azúcar</span><span class=\"q\">200 ml + ~30 ml de espuma</span></li><li><span>Plátano</span><span class=\"q\">¾ de plátano mediano (~90 g)</span></li></ul><div class=\"mac\"><span><b>18</b> HC netos</span><span><b>2</b> P</span><span><b>3</b> G</span><span><b>3</b> Fib</span><span><b>113</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Matcha con plátano y espuma de canela (estilo Reset Matcha) + queso light y york (tomado)</p><ul><li><span>Bebida de almendra sin azúcar</span><span class=\"q\">200 ml + ~30 ml de espuma</span></li><li><span>Plátano</span><span class=\"q\">¾ de plátano mediano (~90 g)</span></li><li><span>Queso en lonchas light</span><span class=\"q\">1 loncha</span></li><li><span>Jamón york extra</span><span class=\"q\">30 g</span></li></ul><div class=\"mac\"><span><b>19</b> HC netos</span><span><b>14</b> P</span><span><b>8</b> G</span><span><b>3</b> Fib</span><span><b>210</b> kcal</span></div>",
      "src": [
       [
        "leche_a",
@@ -455,6 +455,14 @@
       [
        "platano",
        90
+      ],
+      [
+       "queso_l",
+       25
+      ],
+      [
+       "york",
+       30
       ]
      ]
     },
@@ -462,11 +470,11 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Pollo al limón con brócoli</p><ul><li><span>Pechuga de pollo</span><span class=\"q\">170 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>43</b> P</span><span><b>8</b> G</span><span><b>4</b> Fib</span><span><b>281</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Pavo al limón con brócoli</p><ul><li><span>Pechuga de pavo</span><span class=\"q\">150 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>37</b> P</span><span><b>7</b> G</span><span><b>4</b> Fib</span><span><b>247</b> kcal</span></div>",
      "src": [
       [
-       "pollo",
-       170
+       "pavo",
+       150
       ],
       [
        "brocoli",
@@ -478,9 +486,9 @@
       ]
      ],
      "recipe": [
-      "Pechuga en tacos con sal, pimienta y la ralladura de medio limón.",
+      "Pechuga de pavo en tacos con sal, pimienta y la ralladura de medio limón.",
       "Brócoli en ramilletes al vapor en el microondas, bol tapado con 2 cdas de agua, 4 min.",
-      "Sartén con la cucharadita de aceite: pollo 5–6 min, añade el brócoli 2 min y el zumo del limón al final."
+      "Sartén con la cucharadita de aceite: pavo 5–6 min, añade el brócoli 2 min y el zumo del limón al final."
      ]
     },
     {
@@ -533,7 +541,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">45</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">93</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">60</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">17</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1130</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">46</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">64</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">17</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1193</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Viernes",
