@@ -549,7 +549,7 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Salmón al horno con judías verdes (tomado)</p><ul><li><span>Salmón</span><span class=\"q\">140 g (con piel)</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>32</b> P</span><span><b>27</b> G</span><span><b>5</b> Fib</span><span><b>414</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Salmón al horno con judías verdes + skyr con crema de cacao (tomado)</p><ul><li><span>Salmón</span><span class=\"q\">140 g (con piel)</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Crema de avellana y cacao Ametller</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>41</b> P</span><span><b>27</b> G</span><span><b>8</b> Fib</span><span><b>464</b> kcal</span></div>",
      "src": [
       [
        "salmon",
@@ -564,8 +564,12 @@
        5
       ],
       [
-       "choco",
-       8
+       "skyr",
+       100
+      ],
+      [
+       "crema_ave",
+       10
       ]
      ],
      "recipe": [
@@ -575,7 +579,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">36</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">91</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">60</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1076</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">37</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">60</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">19</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1126</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Viernes",
