@@ -507,7 +507,7 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Koukakis griego con arándanos y crema de avellana</p><ul><li><span>Yogur griego Koukakis</span><span class=\"q\">100 g</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Crema de avellana y cacao Ametller</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>7</b> P</span><span><b>14</b> G</span><span><b>5</b> Fib</span><span><b>199</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Koukakis griego con arándanos y crema de avellana</p><ul><li><span>Yogur griego Koukakis</span><span class=\"q\">100 g</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Crema de avellana y cacao Ametller</span><span class=\"q\">10 g</span></li><li><span>Matcha con bebida de almendra</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>8</b> P</span><span><b>15</b> G</span><span><b>6</b> Fib</span><span><b>217</b> kcal</span></div>",
      "src": [
       [
        "koukakis",
@@ -520,6 +520,10 @@
       [
        "crema_ave",
        10
+      ],
+      [
+       "leche_a",
+       150
       ]
      ]
     },
@@ -553,7 +557,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">31</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">95</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">59</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">15</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1069</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">31</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">96</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">61</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">15</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1087</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Viernes",
