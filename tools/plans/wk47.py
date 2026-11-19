@@ -92,11 +92,11 @@ day('Jueves', '19 nov', 'low',
       'Sartén con la cucharadita de aceite: pavo 5–6 min, añade el brócoli 2 min y el zumo del limón al final.']),
     ('Merienda', 'Koukakis griego con arándanos y crema de avellana',
      [('koukakis', 150), ('arandanos', 40), ('crema_ave', 10)]),
-    ('Cena', 'Lubina al horno con judías verdes',
-     [('lubina', 130), ('judias', 150), OIL],
-     ['Horno a 200 °C. Lubina en lomos en una bandeja con sal, pimienta, limón y la cucharadita de aceite, 10–12 min.',
+    ('Cena', 'Salmón al horno con judías verdes',
+     [('salmon', 170), ('judias', 150), OIL, CH],
+     ['Horno a 200 °C. Salmón con sal, pimienta y eneldo en una bandeja con la cucharadita de aceite, 12 min.',
       'Judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min.',
-      'Sirve la lubina con las judías y unas gotas de limón.']),
+      'Sirve el salmón con las judías y unas gotas de limón.']),
     )
 
 # ---------------- Viernes: regular, cena en Bosque de Lobos

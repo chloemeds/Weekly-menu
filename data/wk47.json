@@ -527,11 +527,11 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Lubina al horno con judías verdes</p><ul><li><span>Lubina</span><span class=\"q\">130 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>27</b> P</span><span><b>12</b> G</span><span><b>4</b> Fib</span><span><b>250</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Salmón al horno con judías verdes</p><ul><li><span>Salmón</span><span class=\"q\">170 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>38</b> P</span><span><b>31</b> G</span><span><b>5</b> Fib</span><span><b>473</b> kcal</span></div>",
      "src": [
       [
-       "lubina",
-       130
+       "salmon",
+       170
       ],
       [
        "judias",
@@ -540,16 +540,20 @@
       [
        "aceite",
        5
+      ],
+      [
+       "choco",
+       8
       ]
      ],
      "recipe": [
-      "Horno a 200 °C. Lubina en lomos en una bandeja con sal, pimienta, limón y la cucharadita de aceite, 10–12 min.",
+      "Horno a 200 °C. Salmón con sal, pimienta y eneldo en una bandeja con la cucharadita de aceite, 12 min.",
       "Judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min.",
-      "Sirve la lubina con las judías y unas gotas de limón."
+      "Sirve el salmón con las judías y unas gotas de limón."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">31</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">88</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">45</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">14</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">910</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">33</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">64</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">15</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1134</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Viernes",
