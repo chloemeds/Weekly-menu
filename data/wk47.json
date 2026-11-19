@@ -613,11 +613,11 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Merluza a la plancha con judías verdes</p><ul><li><span>Merluza</span><span class=\"q\">170 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>32</b> P</span><span><b>8</b> G</span><span><b>4</b> Fib</span><span><b>231</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Dorada a la plancha con judías verdes</p><ul><li><span>Dorada</span><span class=\"q\">110 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>24</b> P</span><span><b>11</b> G</span><span><b>4</b> Fib</span><span><b>225</b> kcal</span></div>",
      "src": [
       [
-       "merluza",
-       170
+       "dorada",
+       110
       ],
       [
        "judias",
@@ -630,8 +630,8 @@
      ],
      "recipe": [
       "Judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min.",
-      "Seca la merluza, sal y pimienta: sartén caliente con la cucharadita de aceite, 3 min por la piel y 2 min por el otro lado.",
-      "Sirve con las judías, unas gotas de limón y una pizca de pimentón."
+      "Seca la dorada, sal y pimienta: sartén caliente con la cucharadita de aceite, 3 min por el lado de la piel y 2 min por el otro.",
+      "Sirve con las judías y unas gotas de limón."
      ]
     },
     {
@@ -713,7 +713,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">148</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">104</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">86</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">14</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1808</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">148</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">96</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">89</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">14</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1802</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Sábado",
