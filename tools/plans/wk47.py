@@ -82,7 +82,7 @@ day('Miércoles', '18 nov', 'reg',
 # ---------------- Jueves: carbs reducidos
 day('Jueves', '19 nov', 'low',
     ('Desayuno', 'Cinnamon Cloud de Reset Matcha + queso light y york (tomado)',
-     [('custom', [6, 1.2, 2.8, 0.7], 'Matcha con Alpro Barista Almond', '~230 ml'),
+     [('custom', [4, 0.8, 1.9, 0.5], 'Matcha con Alpro Barista Almond', '~155 ml'),
       ('custom', [1.5, 0.1, 1, 0], 'Espuma de canela (crema vegana ligera, leche de avena y sirope de arce)', '~10 g'),
       ('queso_l', 25, '1 loncha'), ('york', 30)]),
     ('Comida', 'Pavo al limón con brócoli',
