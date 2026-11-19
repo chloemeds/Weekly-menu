@@ -549,11 +549,11 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Salmón al horno con judías verdes</p><ul><li><span>Salmón</span><span class=\"q\">170 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>38</b> P</span><span><b>31</b> G</span><span><b>5</b> Fib</span><span><b>473</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Salmón al horno con judías verdes (tomado)</p><ul><li><span>Salmón</span><span class=\"q\">140 g (con piel)</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>32</b> P</span><span><b>27</b> G</span><span><b>5</b> Fib</span><span><b>414</b> kcal</span></div>",
      "src": [
       [
        "salmon",
-       170
+       140
       ],
       [
        "judias",
@@ -575,7 +575,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">36</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">97</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">63</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1135</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">36</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">91</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">60</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1076</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Viernes",
