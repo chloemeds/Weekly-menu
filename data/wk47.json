@@ -613,7 +613,7 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Rollitos de papel de arroz con mini burgers de pollo, judías verdes y salsa de cacahuete</p><ul><li><span>Mini burgers de pollo Ametller</span><span class=\"q\">4 uds (140 g)</span></li><li><span>Papel de arroz</span><span class=\"q\">2 obleas (20 g)</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Crema de cacahuete</span><span class=\"q\">10 g</span></li><li><span>Salsa de soja, limón y agua</span><span class=\"q\">un chorrito</span></li></ul><div class=\"mac\"><span><b>31</b> HC netos</span><span><b>26</b> P</span><span><b>27</b> G</span><span><b>5</b> Fib</span><span><b>481</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Mini burgers de pollo con gnocchis crujientes, judías verdes y salsa de cacahuete</p><ul><li><span>Mini burgers de pollo Ametller</span><span class=\"q\">4 uds (140 g)</span></li><li><span>Gnocchis de patata Ametller</span><span class=\"q\">20 gnocchis (~100 g)</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Crema de cacahuete</span><span class=\"q\">10 g</span></li><li><span>Salsa de soja, limón y agua</span><span class=\"q\">un chorrito</span></li></ul><div class=\"mac\"><span><b>45</b> HC netos</span><span><b>29</b> P</span><span><b>28</b> G</span><span><b>6</b> Fib</span><span><b>557</b> kcal</span></div>",
      "src": [
       [
        "custom",
@@ -628,12 +628,12 @@
       [
        "custom",
        [
-        16.5,
+        30.5,
+        4.0,
         0.4,
-        0.1,
-        0.2
+        1.5
        ],
-       "Papel de arroz"
+       "Gnocchis de patata Ametller"
       ],
       [
        "judias",
@@ -665,10 +665,10 @@
       ]
      ],
      "recipe": [
-      "Judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min; córtalas a lo largo.",
-      "Sartén caliente con la cucharadita de aceite: mini burgers 3 min por cada lado y córtalas en tiras.",
-      "Salsa: crema de cacahuete con un chorrito de soja, unas gotas de limón y 1-2 cdas de agua tibia, remueve.",
-      "Moja cada oblea 10 s en agua tibia, rellena con burger y judías, enrolla y moja en la salsa."
+      "Gnocchis en la airfryer a 200 °C, 10-12 min, sacudiendo a mitad.",
+      "Judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min.",
+      "Sartén caliente con la cucharadita de aceite: mini burgers 3 min por cada lado.",
+      "Salsa: crema de cacahuete con un chorrito de soja, unas gotas de limón y 1-2 cdas de agua tibia; échala por encima."
      ]
     },
     {
@@ -750,7 +750,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">173</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">105</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">15</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">2058</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">187</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">105</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">2134</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Sábado",
