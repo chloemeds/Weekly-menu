@@ -755,17 +755,33 @@
    },
    "meals": [
     {
+     "meal": "Desayuno",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Matcha latte</p><ul><li><span>Matcha con leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>5</b> P</span><span><b>0</b> G</span><span><b>0</b> Fib</span><span><b>52</b> kcal</span></div>",
+     "src": [
+      [
+       "leche_d",
+       150
+      ]
+     ]
+    },
+    {
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Brochetas de pollo con calabacín</p><ul><li><span>Pechuga de pollo</span><span class=\"q\">150 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>37</b> P</span><span><b>11</b> G</span><span><b>2</b> Fib</span><span><b>276</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Brochetas de pollo con calabacín y patatas a la airfryer + skyr con arándanos de postre</p><ul><li><span>Pechuga de pollo</span><span class=\"q\">170 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Patata</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li></ul><div class=\"mac\"><span><b>35</b> HC netos</span><span><b>53</b> P</span><span><b>8</b> G</span><span><b>5</b> Fib</span><span><b>437</b> kcal</span></div>",
      "src": [
       [
        "pollo",
-       150
+       170
       ],
       [
        "calabacin",
+       150
+      ],
+      [
+       "patata",
        150
       ],
       [
@@ -773,30 +789,18 @@
        5
       ],
       [
-       "choco",
-       8
-      ]
-     ],
-     "recipe": [
-      "Pollo en tacos y calabacín en rodajas gruesas con sal, pimienta, pimentón y la cucharadita de aceite.",
-      "Ensártalos alternando en brochetas.",
-      "Airfryer a 200 °C, 12–14 min, dándoles la vuelta a mitad."
-     ]
-    },
-    {
-     "meal": "Merienda",
-     "span": 1,
-     "cls": [],
-     "html": "<p class=\"dish\">Skyr con fresas</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Fresas</span><span class=\"q\">150 g</span></li></ul><div class=\"mac\"><span><b>12</b> HC netos</span><span><b>10</b> P</span><span><b>1</b> G</span><span><b>3</b> Fib</span><span><b>99</b> kcal</span></div>",
-     "src": [
-      [
        "skyr",
        100
       ],
       [
-       "fresas",
-       150
+       "arandanos",
+       40
       ]
+     ],
+     "recipe": [
+      "Patata en dados con sal, pimentón y la mitad de la cucharadita de aceite: airfryer a 200 °C, 8 min.",
+      "Mientras, pollo en tacos y calabacín en rodajas gruesas con sal, pimienta y el resto del aceite; ensártalos en brochetas.",
+      "Añade las brochetas a la airfryer con las patatas, 200 °C, 12–14 min más, dándoles la vuelta a mitad."
      ]
     },
     {
@@ -868,7 +872,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">125</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">87</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">57</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">9</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1373</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">149</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">54</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">9</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1487</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Domingo",
