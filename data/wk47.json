@@ -685,82 +685,52 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Cena en Bosque de Lobos (estimado)</p><ul><li><span>Pizza margherita (compartida)</span><span class=\"q\">1 porción</span></li><li><span>Croqueta de jamón ibérico</span><span class=\"q\">1 ud</span></li><li><span>Alcachofas a la plancha con burrata y panceta (compartidas)</span><span class=\"q\">un poco</span></li><li><span>Rigatoni gratinados y trufados</span><span class=\"q\">½ ración</span></li><li><span>Tagliata de solomillo con portobello y patatas</span><span class=\"q\">½ ración</span></li><li><span>Tarta de queso parmesano</span><span class=\"q\">⅔ de porción</span></li><li><span>Ron con cola zero (unas 110 kcal de alcohol cada uno, no suman macros)</span><span class=\"q\">3 copas</span></li></ul><div class=\"mac\"><span><b>119</b> HC netos</span><span><b>57</b> P</span><span><b>76</b> G</span><span><b>7</b> Fib</span><span><b>1398</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Cena en Bosco de Lobos (tomado, estimado por las fotos)</p><ul><li><span>Entrecot / solomillo de ternera</span><span class=\"q\">~150 g</span></li><li><span>Setas con salsa cremosa</span><span class=\"q\">la del plato</span></li><li><span>Patatas paja</span><span class=\"q\">~60 g</span></li><li><span>Pizza margherita (compartida)</span><span class=\"q\">1½ porciones</span></li></ul><div class=\"mac\"><span><b>62</b> HC netos</span><span><b>52</b> P</span><span><b>49</b> G</span><span><b>4</b> Fib</span><span><b>906</b> kcal</span></div>",
      "src": [
       [
        "custom",
        [
-        23,
-        7,
-        6,
+        0,
+        38,
+        15,
+        0
+       ],
+       "Entrecot / solomillo de ternera"
+      ],
+      [
+       "custom",
+       [
+        4,
+        2,
+        10,
         1
        ],
-       "Pizza margherita (compartida)"
+       "Setas con salsa cremosa"
       ],
       [
        "custom",
        [
-        6,
-        2,
-        4.5,
-        0.3
-       ],
-       "Croqueta de jamón ibérico"
-      ],
-      [
-       "custom",
-       [
-        3,
-        5,
-        9,
-        2
-       ],
-       "Alcachofas a la plancha con burrata y panceta (compartidas)"
-      ],
-      [
-       "custom",
-       [
-        45,
-        12,
-        18,
-        2
-       ],
-       "Rigatoni gratinados y trufados"
-      ],
-      [
-       "custom",
-       [
-        22,
         25,
-        18,
+        2,
+        15,
         2
        ],
-       "Tagliata de solomillo con portobello y patatas"
+       "Patatas paja"
       ],
       [
        "custom",
        [
-        20,
-        6,
-        20,
-        0
+        33,
+        10,
+        9,
+        1.5
        ],
-       "Tarta de queso parmesano"
-      ],
-      [
-       "custom",
-       [
-        0,
-        0,
-        0,
-        0
-       ],
-       "Ron con cola zero (unas 110 kcal de alcohol cada uno, no suman macros)"
+       "Pizza margherita (compartida)"
       ]
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">188</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">110</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">106</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">18</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">2185</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">131</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">105</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">80</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">15</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1693</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Sábado",
