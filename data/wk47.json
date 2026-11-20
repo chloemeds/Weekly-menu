@@ -685,52 +685,72 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Cena en Bosco de Lobos (tomado, estimado por las fotos)</p><ul><li><span>Entrecot / solomillo de ternera</span><span class=\"q\">~150 g</span></li><li><span>Setas con salsa cremosa</span><span class=\"q\">la del plato</span></li><li><span>Patatas paja</span><span class=\"q\">~60 g</span></li><li><span>Pizza margherita (compartida)</span><span class=\"q\">1½ porciones</span></li></ul><div class=\"mac\"><span><b>62</b> HC netos</span><span><b>52</b> P</span><span><b>49</b> G</span><span><b>4</b> Fib</span><span><b>906</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Cena en Bosco de Lobos (tomado, estimado por las fotos)</p><ul><li><span>Alcachofas con panceta y crema (entre 4)</span><span class=\"q\">¼ del plato</span></li><li><span>Pizza margherita (entre 4)</span><span class=\"q\">¼ de pizza</span></li><li><span>Paccheri gratinados en salsa blanca (entre 2)</span><span class=\"q\">½ ración</span></li><li><span>Carne de ternera (entre 2)</span><span class=\"q\">½ ración (~125 g)</span></li><li><span>Setas con salsa cremosa (entre 2)</span><span class=\"q\">½ ración</span></li><li><span>Patatas paja (entre 2)</span><span class=\"q\">½ ración (~50 g)</span></li></ul><div class=\"mac\"><span><b>102</b> HC netos</span><span><b>62</b> P</span><span><b>74</b> G</span><span><b>8</b> Fib</span><span><b>1342</b> kcal</span></div>",
      "src": [
       [
        "custom",
        [
-        0,
-        38,
-        15,
-        0
-       ],
-       "Entrecot / solomillo de ternera"
-      ],
-      [
-       "custom",
-       [
-        4,
-        2,
-        10,
+        1.5,
+        3,
+        7,
         1
        ],
-       "Setas con salsa cremosa"
+       "Alcachofas con panceta y crema (entre 4)"
       ],
       [
        "custom",
        [
-        25,
-        2,
-        15,
-        2
-       ],
-       "Patatas paja"
-      ],
-      [
-       "custom",
-       [
-        33,
+        30,
         10,
         9,
         1.5
        ],
-       "Pizza margherita (compartida)"
+       "Pizza margherita (entre 4)"
+      ],
+      [
+       "custom",
+       [
+        45,
+        14,
+        22,
+        2
+       ],
+       "Paccheri gratinados en salsa blanca (entre 2)"
+      ],
+      [
+       "custom",
+       [
+        0,
+        32,
+        12.5,
+        0
+       ],
+       "Carne de ternera (entre 2)"
+      ],
+      [
+       "custom",
+       [
+        3,
+        1.5,
+        9,
+        1
+       ],
+       "Setas con salsa cremosa (entre 2)"
+      ],
+      [
+       "custom",
+       [
+        22,
+        2,
+        15,
+        2
+       ],
+       "Patatas paja (entre 2)"
       ]
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">131</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">105</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">80</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">15</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1693</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">171</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">115</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">105</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">18</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">2128</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Sábado",

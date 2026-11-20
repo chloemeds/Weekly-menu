@@ -116,10 +116,12 @@ day('Viernes', '20 nov', 'reg',
     ('Merienda', 'Skyr con kiwi amarillo (tomado)',
      [('skyr', 100), ('kiwi', 90, '1 kiwi amarillo pelado', 'Kiwi amarillo')]),
     ('Cena', 'Cena en Bosco de Lobos (tomado, estimado por las fotos)',
-     [('custom', [0, 38, 15, 0], 'Entrecot / solomillo de ternera', '~150 g'),
-      ('custom', [4, 2, 10, 1], 'Setas con salsa cremosa', 'la del plato'),
-      ('custom', [25, 2, 15, 2], 'Patatas paja', '~60 g'),
-      ('custom', [33, 10, 9, 1.5], 'Pizza margherita (compartida)', '1½ porciones')]),
+     [('custom', [1.5, 3, 7, 1], 'Alcachofas con panceta y crema (entre 4)', '¼ del plato'),
+      ('custom', [30, 10, 9, 1.5], 'Pizza margherita (entre 4)', '¼ de pizza'),
+      ('custom', [45, 14, 22, 2], 'Paccheri gratinados en salsa blanca (entre 2)', '½ ración'),
+      ('custom', [0, 32, 12.5, 0], 'Carne de ternera (entre 2)', '½ ración (~125 g)'),
+      ('custom', [3, 1.5, 9, 1], 'Setas con salsa cremosa (entre 2)', '½ ración'),
+      ('custom', [22, 2, 15, 2], 'Patatas paja (entre 2)', '½ ración (~50 g)')]),
     )
 
 # ---------------- Sábado: regular, cena en Parco Sushi
