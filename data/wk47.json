@@ -593,17 +593,11 @@
      "meal": "Desayuno",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Tostada de pan Pagès con jamón york + matcha latte</p><ul><li><span>Pan Pagès</span><span class=\"q\">47 g</span></li><li><span>Jamón york extra</span><span class=\"q\">30 g</span></li><li><span>Matcha con leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>31</b> HC netos</span><span><b>15</b> P</span><span><b>2</b> G</span><span><b>1</b> Fib</span><span><b>200</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Tostada integral con jamón york + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">40 g</span></li><li><span>Jamón york extra</span><span class=\"q\">30 g</span></li><li><span>Matcha con leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>23</b> HC netos</span><span><b>15</b> P</span><span><b>2</b> G</span><span><b>3</b> Fib</span><span><b>179</b> kcal</span></div>",
      "src": [
       [
-       "custom",
-       [
-        23.5,
-        4.2,
-        0.5,
-        1.2
-       ],
-       "Pan Pagès"
+       "pan_int",
+       40
       ],
       [
        "york",
@@ -619,11 +613,27 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Dorada a la plancha con judías verdes</p><ul><li><span>Dorada</span><span class=\"q\">110 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>24</b> P</span><span><b>11</b> G</span><span><b>4</b> Fib</span><span><b>225</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Rollitos de papel de arroz con mini burgers de pollo, judías verdes y salsa de cacahuete</p><ul><li><span>Mini burgers de pollo Ametller</span><span class=\"q\">4 uds (140 g)</span></li><li><span>Papel de arroz</span><span class=\"q\">2 obleas (20 g)</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Crema de cacahuete</span><span class=\"q\">10 g</span></li><li><span>Salsa de soja, limón y agua</span><span class=\"q\">un chorrito</span></li></ul><div class=\"mac\"><span><b>31</b> HC netos</span><span><b>26</b> P</span><span><b>27</b> G</span><span><b>5</b> Fib</span><span><b>481</b> kcal</span></div>",
      "src": [
       [
-       "dorada",
-       110
+       "custom",
+       [
+        6.0,
+        19.6,
+        16.8,
+        0
+       ],
+       "Mini burgers de pollo Ametller"
+      ],
+      [
+       "custom",
+       [
+        16.5,
+        0.4,
+        0.1,
+        0.2
+       ],
+       "Papel de arroz"
       ],
       [
        "judias",
@@ -632,12 +642,33 @@
       [
        "aceite",
        5
+      ],
+      [
+       "custom",
+       [
+        1.3,
+        2.5,
+        5.0,
+        0.8
+       ],
+       "Crema de cacahuete"
+      ],
+      [
+       "custom",
+       [
+        0.5,
+        0.6,
+        0,
+        0
+       ],
+       "Salsa de soja, limón y agua"
       ]
      ],
      "recipe": [
-      "Judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min.",
-      "Seca la dorada, sal y pimienta: sartén caliente con la cucharadita de aceite, 3 min por el lado de la piel y 2 min por el otro.",
-      "Sirve con las judías y unas gotas de limón."
+      "Judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min; córtalas a lo largo.",
+      "Sartén caliente con la cucharadita de aceite: mini burgers 3 min por cada lado y córtalas en tiras.",
+      "Salsa: crema de cacahuete con un chorrito de soja, unas gotas de limón y 1-2 cdas de agua tibia, remueve.",
+      "Moja cada oblea 10 s en agua tibia, rellena con burger y judías, enrolla y moja en la salsa."
      ]
     },
     {
@@ -719,7 +750,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">156</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">96</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">89</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">12</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1823</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">173</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">105</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">15</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">2058</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Sábado",
