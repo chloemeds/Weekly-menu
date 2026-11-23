@@ -30,14 +30,14 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Albóndigas caseras en salsa con arroz, brócoli y champiñones</p><ul><li><span>Albóndigas caseras</span><span class=\"q\">4 medianas (~120 g)</span></li><li><span>Salsa de las albóndigas</span><span class=\"q\">3 cucharadas</span></li><li><span>Arroz (cocido)</span><span class=\"q\">100 g</span></li><li><span>Brócoli</span><span class=\"q\">75 g</span></li><li><span>Champiñones</span><span class=\"q\">75 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>45</b> HC netos</span><span><b>28</b> P</span><span><b>25</b> G</span><span><b>5</b> Fib</span><span><b>524</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Albóndigas caseras en salsa con arroz, brócoli y champiñones</p><ul><li><span>Albóndigas caseras</span><span class=\"q\">6 medianas (~180 g)</span></li><li><span>Salsa de las albóndigas</span><span class=\"q\">3 cucharadas</span></li><li><span>Arroz (cocido)</span><span class=\"q\">100 g</span></li><li><span>Brócoli</span><span class=\"q\">75 g</span></li><li><span>Champiñones</span><span class=\"q\">75 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>48</b> HC netos</span><span><b>37</b> P</span><span><b>32</b> G</span><span><b>5</b> Fib</span><span><b>640</b> kcal</span></div>",
      "src": [
       [
        "custom",
        [
-        6,
-        19.2,
-        14.4,
+        9,
+        28.8,
+        21.6,
         0
        ],
        "Albóndigas caseras"
@@ -89,7 +89,7 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Skyr con arándanos, chía y granola</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Chía</span><span class=\"q\">10 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">15 g</span></li></ul><div class=\"mac\"><span><b>17</b> HC netos</span><span><b>12</b> P</span><span><b>6</b> G</span><span><b>6</b> Fib</span><span><b>180</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Skyr con arándanos y granola</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">20 g</span></li></ul><div class=\"mac\"><span><b>19</b> HC netos</span><span><b>11</b> P</span><span><b>3</b> G</span><span><b>3</b> Fib</span><span><b>156</b> kcal</span></div>",
      "src": [
       [
        "skyr",
@@ -100,12 +100,8 @@
        40
       ],
       [
-       "chia",
-       10
-      ],
-      [
        "granola",
-       15
+       20
       ]
      ]
     },
@@ -139,7 +135,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">71</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">77</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">44</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">13</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1011</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">76</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">86</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">49</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">10</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1102</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Martes",
