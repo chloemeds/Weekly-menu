@@ -30,7 +30,7 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Albóndigas caseras en salsa con arroz, brócoli y champiñones</p><ul><li><span>Albóndigas caseras</span><span class=\"q\">140 g</span></li><li><span>Salsa de las albóndigas</span><span class=\"q\">3 cucharadas</span></li><li><span>Arroz (cocido)</span><span class=\"q\">100 g</span></li><li><span>Brócoli</span><span class=\"q\">75 g</span></li><li><span>Champiñones</span><span class=\"q\">70 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>46</b> HC netos</span><span><b>31</b> P</span><span><b>28</b> G</span><span><b>5</b> Fib</span><span><b>561</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Albóndigas caseras en salsa con arroz, brócoli y champiñones</p><ul><li><span>Albóndigas caseras</span><span class=\"q\">140 g</span></li><li><span>Salsa de las albóndigas</span><span class=\"q\">3 cucharadas</span></li><li><span>Arroz (cocido)</span><span class=\"q\">100 g</span></li><li><span>Brócoli</span><span class=\"q\">75 g</span></li><li><span>Champiñones</span><span class=\"q\">70 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>43</b> HC netos</span><span><b>30</b> P</span><span><b>24</b> G</span><span><b>4</b> Fib</span><span><b>515</b> kcal</span></div>",
      "src": [
       [
        "custom",
@@ -73,10 +73,6 @@
       [
        "aceite",
        5
-      ],
-      [
-       "choco",
-       8
       ]
      ],
      "recipe": [
@@ -109,7 +105,7 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Lubina al horno con calabacín</p><ul><li><span>Lubina</span><span class=\"q\">120 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>25</b> P</span><span><b>15</b> G</span><span><b>2</b> Fib</span><span><b>263</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Lubina al horno con calabacín</p><ul><li><span>Lubina</span><span class=\"q\">120 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>3</b> HC netos</span><span><b>25</b> P</span><span><b>11</b> G</span><span><b>2</b> Fib</span><span><b>217</b> kcal</span></div>",
      "src": [
       [
        "lubina",
@@ -122,10 +118,6 @@
       [
        "aceite",
        5
-      ],
-      [
-       "choco",
-       8
       ]
      ],
      "recipe": [
@@ -135,7 +127,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">73</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">70</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">48</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">10</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1024</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">68</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">69</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">41</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">8</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">932</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Martes",
