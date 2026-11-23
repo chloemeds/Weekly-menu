@@ -56,11 +56,11 @@ day('Martes', '24 nov', 'low',
       'Sirve con unas gotas de limón y perejil.']),
     ('Merienda', 'Koukakis griego con arándanos y almendras',
      [('koukakis', 120), ('arandanos', 40), ('almendras', 10)]),
-    ('Cena', 'Calamares a la plancha con alcachofas',
-     [('calamar', 160), ('alcachofa', 150), OIL, CH],
+    ('Cena', 'Contramuslos de pollo a la plancha con alcachofas',
+     [('muslo', 120), ('alcachofa', 150), OIL, CH],
      ['Alcachofas (de bote, escurridas, en cuartos) en sartén con la cucharadita de aceite, 4–5 min hasta que se doren, y reserva.',
-      'Calamar en anillas o tiras, bien seco, a la sartén muy caliente con sal, 2–3 min.',
-      'Sirve con perejil picado y limón.']),
+      'Contramuslos con sal, pimienta y pimentón en la misma sartén a fuego medio-alto, 5 min por lado.',
+      'Sirve el pollo con las alcachofas, perejil picado y limón.']),
     )
 
 # ---------------- Miércoles: regular, cine por la noche
