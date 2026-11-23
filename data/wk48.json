@@ -95,15 +95,19 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Skyr con arándanos y granola</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">20 g</span></li></ul><div class=\"mac\"><span><b>19</b> HC netos</span><span><b>11</b> P</span><span><b>3</b> G</span><span><b>3</b> Fib</span><span><b>156</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Skyr con granada, arándanos y granola sin azúcar (tomado)</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1,5 ud (150 g)</span></li><li><span>Granada</span><span class=\"q\">30 g</span></li><li><span>Arándanos</span><span class=\"q\">35 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">20 g</span></li></ul><div class=\"mac\"><span><b>24</b> HC netos</span><span><b>16</b> P</span><span><b>4</b> G</span><span><b>4</b> Fib</span><span><b>203</b> kcal</span></div>",
      "src": [
       [
        "skyr",
-       100
+       150
+      ],
+      [
+       "granada",
+       30
       ],
       [
        "arandanos",
-       40
+       35
       ],
       [
        "granola",
@@ -137,7 +141,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">75</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">69</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">43</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">8</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">982</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">81</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">74</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">44</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">10</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1030</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Martes",
