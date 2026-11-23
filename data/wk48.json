@@ -1,0 +1,827 @@
+{
+ "week": "WK48",
+ "title": "Menú WK48 · 23 al 29 de noviembre",
+ "days": [
+  {
+   "name": "Lunes",
+   "date": "23 nov",
+   "chip": {
+    "cls": "reg",
+    "text": "Macros regulares"
+   },
+   "meals": [
+    {
+     "meal": "Desayuno",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Matcha con bebida de almendra y leche semidesnatada (tomado)</p><ul><li><span>Matcha: bebida de almendra</span><span class=\"q\">75 ml</span></li><li><span>+ leche semidesnatada</span><span class=\"q\">75 ml</span></li></ul><div class=\"mac\"><span><b>4</b> HC netos</span><span><b>3</b> P</span><span><b>2</b> G</span><span><b>0</b> Fib</span><span><b>44</b> kcal</span></div>",
+     "src": [
+      [
+       "leche_a",
+       75
+      ],
+      [
+       "leche_s",
+       75
+      ]
+     ]
+    },
+    {
+     "meal": "Comida",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Merluza al horno con patata y judías verdes</p><ul><li><span>Merluza</span><span class=\"q\">170 g</span></li><li><span>Patata</span><span class=\"q\">200 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>40</b> HC netos</span><span><b>36</b> P</span><span><b>11</b> G</span><span><b>9</b> Fib</span><span><b>427</b> kcal</span></div>",
+     "src": [
+      [
+       "merluza",
+       170
+      ],
+      [
+       "patata",
+       200
+      ],
+      [
+       "judias",
+       150
+      ],
+      [
+       "aceite",
+       5
+      ],
+      [
+       "choco",
+       8
+      ]
+     ],
+     "recipe": [
+      "Patata en rodajas finas con sal: microondas 6 min en un bol tapado, y luego a la bandeja del horno a 200 °C.",
+      "Pon la merluza encima con sal, pimienta, limón y la cucharadita de aceite, 12 min.",
+      "Mientras, judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min."
+     ]
+    },
+    {
+     "meal": "Merienda",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Skyr con arándanos, chía y granola</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Chía</span><span class=\"q\">10 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">15 g</span></li></ul><div class=\"mac\"><span><b>17</b> HC netos</span><span><b>12</b> P</span><span><b>6</b> G</span><span><b>6</b> Fib</span><span><b>180</b> kcal</span></div>",
+     "src": [
+      [
+       "skyr",
+       100
+      ],
+      [
+       "arandanos",
+       40
+      ],
+      [
+       "chia",
+       10
+      ],
+      [
+       "granola",
+       15
+      ]
+     ]
+    },
+    {
+     "meal": "Cena",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Revuelto de setas y gambas</p><ul><li><span>Huevos</span><span class=\"q\">1 ud</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">110 g</span></li><li><span>Setas</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>35</b> P</span><span><b>16</b> G</span><span><b>4</b> Fib</span><span><b>324</b> kcal</span></div>",
+     "src": [
+      [
+       "huevo",
+       55
+      ],
+      [
+       "gambas",
+       110
+      ],
+      [
+       "setas",
+       150
+      ],
+      [
+       "aceite",
+       5
+      ],
+      [
+       "choco",
+       8
+      ]
+     ],
+     "recipe": [
+      "Setas troceadas en sartén con la cucharadita de aceite y sal, 5 min a fuego medio-alto.",
+      "Añade las gambas 2 min, hasta que cambien de color.",
+      "Echa el huevo batido con sal y remueve 1 min a fuego bajo hasta que cuaje jugoso."
+     ]
+    }
+   ],
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">69</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">86</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">35</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">19</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">975</span><span class=\"tg\">kcal</span></div>"
+  },
+  {
+   "name": "Martes",
+   "date": "24 nov",
+   "chip": {
+    "cls": "low",
+    "text": "Carbs reducidos"
+   },
+   "meals": [
+    {
+     "meal": "Desayuno",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Rollitos de jamón york con queso light y dos nueces + matcha latte</p><ul><li><span>Jamón york extra</span><span class=\"q\">40 g</span></li><li><span>Queso en lonchas light</span><span class=\"q\">½ loncha (12,5 g)</span></li><li><span>Nueces</span><span class=\"q\">2 ud (8 g)</span></li><li><span>Matcha con bebida de almendra</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>1</b> HC netos</span><span><b>13</b> P</span><span><b>10</b> G</span><span><b>1</b> Fib</span><span><b>147</b> kcal</span></div>",
+     "src": [
+      [
+       "york",
+       40
+      ],
+      [
+       "queso_l",
+       12.5
+      ],
+      [
+       "nueces",
+       8
+      ],
+      [
+       "leche_a",
+       150
+      ]
+     ]
+    },
+    {
+     "meal": "Comida",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Ternera a la plancha con champiñones salteados</p><ul><li><span>Ternera (filete magro)</span><span class=\"q\">160 g</span></li><li><span>Champiñones</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>39</b> P</span><span><b>17</b> G</span><span><b>2</b> Fib</span><span><b>337</b> kcal</span></div>",
+     "src": [
+      [
+       "ternera",
+       160
+      ],
+      [
+       "champis",
+       150
+      ],
+      [
+       "aceite",
+       5
+      ],
+      [
+       "choco",
+       8
+      ]
+     ],
+     "recipe": [
+      "Champiñones laminados en sartén con la cucharadita de aceite y sal, 5 min, y reserva.",
+      "Filetes de ternera con sal y pimienta en la misma sartén muy caliente, 2 min por lado.",
+      "Sirve con unas gotas de limón y perejil."
+     ]
+    },
+    {
+     "meal": "Merienda",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Koukakis griego con arándanos y almendras</p><ul><li><span>Yogur griego Koukakis</span><span class=\"q\">120 g</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Almendras</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>10</b> HC netos</span><span><b>10</b> P</span><span><b>17</b> G</span><span><b>2</b> Fib</span><span><b>239</b> kcal</span></div>",
+     "src": [
+      [
+       "koukakis",
+       120
+      ],
+      [
+       "arandanos",
+       40
+      ],
+      [
+       "almendras",
+       10
+      ]
+     ]
+    },
+    {
+     "meal": "Cena",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Calamares a la plancha con alcachofas</p><ul><li><span>Calamar</span><span class=\"q\">160 g</span></li><li><span>Alcachofas (corazones)</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>12</b> HC netos</span><span><b>31</b> P</span><span><b>11</b> G</span><span><b>9</b> Fib</span><span><b>289</b> kcal</span></div>",
+     "src": [
+      [
+       "calamar",
+       160
+      ],
+      [
+       "alcachofa",
+       150
+      ],
+      [
+       "aceite",
+       5
+      ],
+      [
+       "choco",
+       8
+      ]
+     ],
+     "recipe": [
+      "Alcachofas (de bote, escurridas, en cuartos) en sartén con la cucharadita de aceite, 4–5 min hasta que se doren, y reserva.",
+      "Calamar en anillas o tiras, bien seco, a la sartén muy caliente con sal, 2–3 min.",
+      "Sirve con perejil picado y limón."
+     ]
+    }
+   ],
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">30</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">93</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">55</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">15</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1012</span><span class=\"tg\">kcal</span></div>"
+  },
+  {
+   "name": "Miércoles",
+   "date": "25 nov",
+   "chip": {
+    "cls": "reg",
+    "text": "Macros regulares"
+   },
+   "meals": [
+    {
+     "meal": "Desayuno",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Tostada integral con pechuga de pavo y queso light + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">45 g</span></li><li><span>Pechuga de pavo en lonchas</span><span class=\"q\">30 g</span></li><li><span>Queso en lonchas light</span><span class=\"q\">½ loncha (12,5 g)</span></li><li><span>Matcha con leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>25</b> HC netos</span><span><b>19</b> P</span><span><b>4</b> G</span><span><b>3</b> Fib</span><span><b>223</b> kcal</span></div>",
+     "src": [
+      [
+       "pan_int",
+       45
+      ],
+      [
+       "pavo_l",
+       30
+      ],
+      [
+       "queso_l",
+       12.5
+      ],
+      [
+       "leche_d",
+       150
+      ]
+     ]
+    },
+    {
+     "meal": "Comida",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Pasta con gambas y calabacín</p><ul><li><span>Pasta (cruda)</span><span class=\"q\">70 g</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">170 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>55</b> HC netos</span><span><b>45</b> P</span><span><b>12</b> G</span><span><b>4</b> Fib</span><span><b>520</b> kcal</span></div>",
+     "src": [
+      [
+       "pasta",
+       70
+      ],
+      [
+       "gambas",
+       170
+      ],
+      [
+       "calabacin",
+       150
+      ],
+      [
+       "aceite",
+       5
+      ],
+      [
+       "choco",
+       8
+      ]
+     ],
+     "recipe": [
+      "Pasta en agua con sal 10–11 min (o según el paquete).",
+      "Calabacín en dados en sartén con la cucharadita de aceite, 5 min a fuego medio-alto.",
+      "Añade las gambas con sal, pimienta y una pizca de guindilla, 2–3 min.",
+      "Escurre la pasta y mézclala con la sartén y un chorrito del agua de cocer."
+     ]
+    },
+    {
+     "meal": "Merienda",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Koukakis 0% con kiwi y chía</p><ul><li><span>Yogur griego Koukakis 0%</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Kiwi</span><span class=\"q\">1 ud</span></li><li><span>Chía</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>16</b> HC netos</span><span><b>14</b> P</span><span><b>3</b> G</span><span><b>6</b> Fib</span><span><b>162</b> kcal</span></div>",
+     "src": [
+      [
+       "koukakis0",
+       150
+      ],
+      [
+       "kiwi",
+       75
+      ],
+      [
+       "chia",
+       10
+      ]
+     ]
+    },
+    {
+     "meal": "Cena",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Sin cena: palomitas en el cine (macros aproximados)</p><ul><li><span>Palomitas mixtas, dulces y saladas</span><span class=\"q\">medianas (~100 g)</span></li></ul><div class=\"mac\"><span><b>60</b> HC netos</span><span><b>6</b> P</span><span><b>20</b> G</span><span><b>8</b> Fib</span><span><b>462</b> kcal</span></div>",
+     "src": [
+      [
+       "custom",
+       [
+        60,
+        6.5,
+        20,
+        8
+       ],
+       "Palomitas mixtas, dulces y saladas"
+      ]
+     ]
+    }
+   ],
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">156</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">85</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">40</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">21</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1367</span><span class=\"tg\">kcal</span></div>"
+  },
+  {
+   "name": "Jueves",
+   "date": "26 nov",
+   "chip": {
+    "cls": "low",
+    "text": "Carbs reducidos"
+   },
+   "meals": [
+    {
+     "meal": "Desayuno",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Jamón serrano con queso light y nueces + matcha latte</p><ul><li><span>Jamón serrano</span><span class=\"q\">40 g</span></li><li><span>Queso en lonchas light</span><span class=\"q\">½ loncha (12,5 g)</span></li><li><span>Nueces</span><span class=\"q\">2 ud (8 g)</span></li><li><span>Matcha con bebida de almendra</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>1</b> HC netos</span><span><b>17</b> P</span><span><b>14</b> G</span><span><b>1</b> Fib</span><span><b>198</b> kcal</span></div>",
+     "src": [
+      [
+       "serrano",
+       40
+      ],
+      [
+       "queso_l",
+       12.5
+      ],
+      [
+       "nueces",
+       8
+      ],
+      [
+       "leche_a",
+       150
+      ]
+     ]
+    },
+    {
+     "meal": "Comida",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Salmón al horno con salsa de yogur y eneldo y judías verdes</p><ul><li><span>Salmón</span><span class=\"q\">170 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Yogur griego Koukakis (para la salsa)</span><span class=\"q\">40 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>40</b> P</span><span><b>35</b> G</span><span><b>5</b> Fib</span><span><b>525</b> kcal</span></div>",
+     "src": [
+      [
+       "salmon",
+       170
+      ],
+      [
+       "judias",
+       150
+      ],
+      [
+       "koukakis",
+       40
+      ],
+      [
+       "aceite",
+       5
+      ],
+      [
+       "choco",
+       8
+      ]
+     ],
+     "recipe": [
+      "Horno a 200 °C. Salmón con sal, pimienta y la cucharadita de aceite en una bandeja, 12–14 min.",
+      "Mientras, judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min.",
+      "Salsa: mezcla el yogur con eneldo, sal y unas gotas de limón, y ponla por encima del salmón."
+     ]
+    },
+    {
+     "meal": "Merienda",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Skyr con arándanos, granada, almendras y crema de avellana</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Granada</span><span class=\"q\">30 g</span></li><li><span>Almendras</span><span class=\"q\">10 g</span></li><li><span>Crema de avellana y cacao Ametller</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>14</b> HC netos</span><span><b>13</b> P</span><span><b>9</b> G</span><span><b>8</b> Fib</span><span><b>204</b> kcal</span></div>",
+     "src": [
+      [
+       "skyr",
+       100
+      ],
+      [
+       "arandanos",
+       40
+      ],
+      [
+       "granada",
+       30
+      ],
+      [
+       "almendras",
+       10
+      ],
+      [
+       "crema_ave",
+       10
+      ]
+     ]
+    },
+    {
+     "meal": "Cena",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Tortilla de calabacín con mozzarella</p><ul><li><span>Huevos</span><span class=\"q\">2 ud</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Mozzarella light</span><span class=\"q\">50 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>26</b> P</span><span><b>24</b> G</span><span><b>2</b> Fib</span><span><b>357</b> kcal</span></div>",
+     "src": [
+      [
+       "huevo",
+       110
+      ],
+      [
+       "calabacin",
+       150
+      ],
+      [
+       "mozza_l",
+       50
+      ],
+      [
+       "aceite",
+       5
+      ],
+      [
+       "choco",
+       8
+      ]
+     ],
+     "recipe": [
+      "Calabacín en dados finos en sartén antiadherente con la cucharadita de aceite y sal, 6 min.",
+      "Bate los huevos, échalos sobre el calabacín y reparte la mozzarella en trocitos.",
+      "Cuaja tapado a fuego medio-bajo 3–4 min, dale la vuelta con un plato y 1 min más."
+     ]
+    }
+   ],
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">33</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">96</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">82</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1285</span><span class=\"tg\">kcal</span></div>"
+  },
+  {
+   "name": "Viernes",
+   "date": "27 nov",
+   "chip": {
+    "cls": "reg",
+    "text": "Macros regulares"
+   },
+   "meals": [
+    {
+     "meal": "Desayuno",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Tostada integral con jamón york + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">50 g</span></li><li><span>Jamón york extra</span><span class=\"q\">40 g</span></li><li><span>Matcha con leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>27</b> HC netos</span><span><b>18</b> P</span><span><b>3</b> G</span><span><b>4</b> Fib</span><span><b>213</b> kcal</span></div>",
+     "src": [
+      [
+       "pan_int",
+       50
+      ],
+      [
+       "york",
+       40
+      ],
+      [
+       "leche_d",
+       150
+      ]
+     ]
+    },
+    {
+     "meal": "Comida",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Comida en El Xampanyet: margen reservado. Cuando sepas lo que has pedido, dímelo y ajusto el día</p><ul><li><span>Unas tapas, mejor con proteína (jamón, tortilla, pescado, pulpo) y una copa de cava si te apetece</span><span class=\"q\">~650 kcal</span></li></ul><div class=\"mac\"><span><b>60</b> HC netos</span><span><b>35</b> P</span><span><b>24</b> G</span><span><b>4</b> Fib</span><span><b>604</b> kcal</span></div>",
+     "src": [
+      [
+       "custom",
+       [
+        60,
+        35,
+        24,
+        4
+       ],
+       "Unas tapas, mejor con proteína (jamón, tortilla, pescado, pulpo) y una copa de cava si te apetece"
+      ]
+     ]
+    },
+    {
+     "meal": "Merienda",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Koukakis 0% con mandarina y granola</p><ul><li><span>Yogur griego Koukakis 0%</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Mandarina</span><span class=\"q\">2 ud (140 g)</span></li><li><span>Granola sin azúcar</span><span class=\"q\">15 g</span></li></ul><div class=\"mac\"><span><b>30</b> HC netos</span><span><b>14</b> P</span><span><b>3</b> G</span><span><b>4</b> Fib</span><span><b>211</b> kcal</span></div>",
+     "src": [
+      [
+       "koukakis0",
+       150
+      ],
+      [
+       "mandarina",
+       140
+      ],
+      [
+       "granola",
+       15
+      ]
+     ]
+    },
+    {
+     "meal": "Cena",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Dorada al horno con brócoli</p><ul><li><span>Dorada</span><span class=\"q\">150 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>34</b> P</span><span><b>16</b> G</span><span><b>5</b> Fib</span><span><b>329</b> kcal</span></div>",
+     "src": [
+      [
+       "dorada",
+       150
+      ],
+      [
+       "brocoli",
+       150
+      ],
+      [
+       "aceite",
+       5
+      ],
+      [
+       "choco",
+       8
+      ]
+     ],
+     "recipe": [
+      "Horno a 200 °C. Dorada en lomos con sal, pimienta, limón y la cucharadita de aceite, 12 min.",
+      "Mientras, brócoli en ramilletes al vapor en el microondas, bol tapado con 2 cdas de agua, 5 min.",
+      "Sirve con unas gotas de limón."
+     ]
+    }
+   ],
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">126</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">46</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1356</span><span class=\"tg\">kcal</span></div>"
+  },
+  {
+   "name": "Sábado",
+   "date": "28 nov",
+   "chip": {
+    "cls": "reg",
+    "text": "Macros regulares"
+   },
+   "meals": [
+    {
+     "meal": "Desayuno",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Tostada integral con pechuga de pavo + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">60 g</span></li><li><span>Pechuga de pavo en lonchas</span><span class=\"q\">30 g</span></li><li><span>Matcha con leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>30</b> HC netos</span><span><b>17</b> P</span><span><b>3</b> G</span><span><b>4</b> Fib</span><span><b>225</b> kcal</span></div>",
+     "src": [
+      [
+       "pan_int",
+       60
+      ],
+      [
+       "pavo_l",
+       30
+      ],
+      [
+       "leche_d",
+       150
+      ]
+     ]
+    },
+    {
+     "meal": "Comida",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Hamburguesa de pollo casera con loncha light y calabacín a la plancha + kiwi</p><ul><li><span>Pan de hamburguesa</span><span class=\"q\">1 ud (60 g)</span></li><li><span>Pechuga de pollo picada (en hamburguesa)</span><span class=\"q\">120 g</span></li><li><span>Queso en lonchas light</span><span class=\"q\">1 ud (25 g)</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Kiwi</span><span class=\"q\">1 ud (de postre)</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>43</b> HC netos</span><span><b>43</b> P</span><span><b>18</b> G</span><span><b>6</b> Fib</span><span><b>522</b> kcal</span></div>",
+     "src": [
+      [
+       "custom",
+       [
+        28.5,
+        5,
+        3,
+        1.5
+       ],
+       "Pan de hamburguesa"
+      ],
+      [
+       "pollo",
+       120
+      ],
+      [
+       "queso_l",
+       25
+      ],
+      [
+       "calabacin",
+       150
+      ],
+      [
+       "aceite",
+       5
+      ],
+      [
+       "kiwi",
+       75
+      ],
+      [
+       "choco",
+       8
+      ]
+     ],
+     "recipe": [
+      "Pica la pechuga (o pídela picada), sal, pimienta y pimentón, y forma una hamburguesa.",
+      "Sartén caliente con la cucharadita de aceite: hamburguesa 4 min por lado; el último minuto pon la loncha encima y tapa.",
+      "Calabacín en rodajas a la plancha en la misma sartén, 3 min por lado.",
+      "Tuesta el pan y monta la hamburguesa; el calabacín, dentro o al lado."
+     ]
+    },
+    {
+     "meal": "Merienda",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Koukakis 0% con plátano y granola</p><ul><li><span>Yogur griego Koukakis 0%</span><span class=\"q\">1 ud (150 g)</span></li><li><span>Plátano</span><span class=\"q\">1 ud pequeña (100 g)</span></li><li><span>Granola sin azúcar</span><span class=\"q\">20 g</span></li></ul><div class=\"mac\"><span><b>37</b> HC netos</span><span><b>15</b> P</span><span><b>4</b> G</span><span><b>4</b> Fib</span><span><b>246</b> kcal</span></div>",
+     "src": [
+      [
+       "koukakis0",
+       150
+      ],
+      [
+       "platano",
+       100
+      ],
+      [
+       "granola",
+       20
+      ]
+     ]
+    },
+    {
+     "meal": "Cena",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Omelette de champiñones y mozzarella</p><ul><li><span>Huevos</span><span class=\"q\">2 ud</span></li><li><span>Champiñones</span><span class=\"q\">150 g</span></li><li><span>Mozzarella light</span><span class=\"q\">30 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>25</b> P</span><span><b>23</b> G</span><span><b>2</b> Fib</span><span><b>337</b> kcal</span></div>",
+     "src": [
+      [
+       "huevo",
+       110
+      ],
+      [
+       "champis",
+       150
+      ],
+      [
+       "mozza_l",
+       30
+      ],
+      [
+       "aceite",
+       5
+      ],
+      [
+       "choco",
+       8
+      ]
+     ],
+     "recipe": [
+      "Champiñones laminados en sartén antiadherente con la cucharadita de aceite y sal, 5 min, y reserva.",
+      "Bate los huevos con sal, échalos a la sartén a fuego medio y deja que cuajen por abajo 2 min.",
+      "Pon los champiñones y la mozzarella en una mitad, dobla y 1 min más tapado."
+     ]
+    }
+   ],
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">118</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">47</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">17</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1331</span><span class=\"tg\">kcal</span></div>"
+  },
+  {
+   "name": "Domingo",
+   "date": "29 nov",
+   "chip": {
+    "cls": "reg",
+    "text": "Macros regulares"
+   },
+   "meals": [
+    {
+     "meal": "Desayuno",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Tostada integral con jamón york, queso light y dos nueces + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">60 g</span></li><li><span>Jamón york extra</span><span class=\"q\">30 g</span></li><li><span>Queso en lonchas light</span><span class=\"q\">½ loncha (12,5 g)</span></li><li><span>Nueces</span><span class=\"q\">2 ud (8 g)</span></li><li><span>Matcha con leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>31</b> HC netos</span><span><b>22</b> P</span><span><b>10</b> G</span><span><b>5</b> Fib</span><span><b>315</b> kcal</span></div>",
+     "src": [
+      [
+       "pan_int",
+       60
+      ],
+      [
+       "york",
+       30
+      ],
+      [
+       "queso_l",
+       12.5
+      ],
+      [
+       "nueces",
+       8
+      ],
+      [
+       "leche_d",
+       150
+      ]
+     ]
+    },
+    {
+     "meal": "Comida",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Lomo a la plancha con boniato asado y judías verdes</p><ul><li><span>Lomo de cerdo</span><span class=\"q\">130 g</span></li><li><span>Boniato</span><span class=\"q\">250 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>53</b> HC netos</span><span><b>35</b> P</span><span><b>17</b> G</span><span><b>12</b> Fib</span><span><b>529</b> kcal</span></div>",
+     "src": [
+      [
+       "lomo",
+       130
+      ],
+      [
+       "boniato",
+       250
+      ],
+      [
+       "judias",
+       150
+      ],
+      [
+       "aceite",
+       5
+      ],
+      [
+       "choco",
+       8
+      ]
+     ],
+     "recipe": [
+      "Boniato en dados con sal y pimentón: airfryer a 200 °C, 15 min (remueve a mitad).",
+      "Judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min.",
+      "Lomo con sal y pimienta en sartén muy caliente con la cucharadita de aceite, 2–3 min por lado."
+     ]
+    },
+    {
+     "meal": "Merienda",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Skyr con plátano, chía y granola</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Plátano</span><span class=\"q\">1 ud pequeña (100 g)</span></li><li><span>Chía</span><span class=\"q\">10 g</span></li><li><span>Granola sin azúcar</span><span class=\"q\">15 g</span></li></ul><div class=\"mac\"><span><b>32</b> HC netos</span><span><b>13</b> P</span><span><b>6</b> G</span><span><b>7</b> Fib</span><span><b>250</b> kcal</span></div>",
+     "src": [
+      [
+       "skyr",
+       100
+      ],
+      [
+       "platano",
+       100
+      ],
+      [
+       "chia",
+       10
+      ],
+      [
+       "granola",
+       15
+      ]
+     ]
+    },
+    {
+     "meal": "Cena",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Brochetas de pollo con calabacín</p><ul><li><span>Pechuga de pollo (en dados)</span><span class=\"q\">125 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>31</b> P</span><span><b>11</b> G</span><span><b>2</b> Fib</span><span><b>250</b> kcal</span></div>",
+     "src": [
+      [
+       "pollo",
+       125
+      ],
+      [
+       "calabacin",
+       150
+      ],
+      [
+       "aceite",
+       5
+      ],
+      [
+       "choco",
+       8
+      ]
+     ],
+     "recipe": [
+      "Pollo en dados y calabacín en rodajas gruesas con sal, pimienta, pimentón y la cucharadita de aceite.",
+      "Ensártalos alternando en palitos de brocheta.",
+      "Airfryer a 200 °C, 12 min, dándoles la vuelta a mitad."
+     ]
+    }
+   ],
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">122</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">102</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">44</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">27</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1343</span><span class=\"tg\">kcal</span></div>"
+  }
+ ]
+}
