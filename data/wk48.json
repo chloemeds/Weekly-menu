@@ -221,7 +221,7 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Entraña y pechuga de pollo a la plancha con champiñones salteados y aguacate</p><ul><li><span>Entraña</span><span class=\"q\">82 g</span></li><li><span>Pechuga de pollo</span><span class=\"q\">80 g</span></li><li><span>Champiñones</span><span class=\"q\">150 g</span></li><li><span>Aguacate</span><span class=\"q\">½ ud pequeña (60 g)</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>41</b> P</span><span><b>29</b> G</span><span><b>6</b> Fib</span><span><b>464</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Entraña y pechuga de pollo a la plancha con champiñones salteados y aguacate</p><ul><li><span>Entraña</span><span class=\"q\">82 g</span></li><li><span>Pechuga de pollo</span><span class=\"q\">80 g</span></li><li><span>Champiñones</span><span class=\"q\">130 g</span></li><li><span>Aguacate</span><span class=\"q\">½ ud pequeña (60 g)</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>40</b> P</span><span><b>29</b> G</span><span><b>6</b> Fib</span><span><b>458</b> kcal</span></div>",
      "src": [
       [
        "custom",
@@ -239,7 +239,7 @@
       ],
       [
        "champis",
-       150
+       130
       ],
       [
        "aguacate",
@@ -311,7 +311,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">33</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">86</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">78</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1213</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">33</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">85</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">78</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1208</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Miércoles",
