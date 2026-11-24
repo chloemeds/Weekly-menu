@@ -47,8 +47,10 @@ day('Lunes', '23 nov', 'reg',
 
 # ---------------- Martes: carbs reducidos, ligero
 day('Martes', '24 nov', 'low',
-    ('Desayuno', 'Rollitos de jamón york con queso light y dos nueces + matcha latte',
-     [('york', 40), ('queso_l', 12.5), ('nueces', 8, '2 ud (8 g)'), MATCHA_A]),
+    ('Desayuno', 'Jamón york, queso light y fuet + Cinnamon Cloud en Reset Matcha (tomado)',
+     [('york', 35), ('queso_l', 25), ('fuet', 12),
+      ('custom', [4, 0.8, 1.9, 0], 'Matcha con Alpro Barista almendra', '155 ml'),
+      ('custom', [1.5, 0.1, 1, 0], 'Cloud de canela', '~10 g')]),
     ('Comida', 'Ternera a la plancha con champiñones salteados',
      [('ternera', 160), ('champis', 150), OIL, CH],
      ['Champiñones laminados en sartén con la cucharadita de aceite y sal, 5 min, y reserva.',
