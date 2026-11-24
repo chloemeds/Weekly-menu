@@ -221,7 +221,7 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Entraña y pechuga de pollo a la plancha con champiñones salteados y aguacate</p><ul><li><span>Entraña</span><span class=\"q\">82 g</span></li><li><span>Pechuga de pollo</span><span class=\"q\">80 g</span></li><li><span>Champiñones</span><span class=\"q\">130 g</span></li><li><span>Aguacate</span><span class=\"q\">½ ud pequeña (60 g)</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>40</b> P</span><span><b>29</b> G</span><span><b>6</b> Fib</span><span><b>458</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Entraña y pechuga de pollo a la plancha con champiñones salteados</p><ul><li><span>Entraña</span><span class=\"q\">82 g</span></li><li><span>Pechuga de pollo</span><span class=\"q\">100 g</span></li><li><span>Champiñones</span><span class=\"q\">130 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>43</b> P</span><span><b>20</b> G</span><span><b>2</b> Fib</span><span><b>381</b> kcal</span></div>",
      "src": [
       [
        "custom",
@@ -235,15 +235,11 @@
       ],
       [
        "pollo",
-       80
+       100
       ],
       [
        "champis",
        130
-      ],
-      [
-       "aguacate",
-       60
       ],
       [
        "aceite",
@@ -258,25 +254,31 @@
       "Champiñones laminados en sartén con la cucharadita de aceite y sal, 5 min, y reserva.",
       "Pechuga en filetes finos con sal y pimienta en la misma sartén muy caliente, 3 min por lado, y reserva.",
       "Entraña con sal gorda a la sartén bien caliente, 2–3 min por lado; deja reposar 2 min y córtala en tiras.",
-      "Sirve con los champiñones y el aguacate en láminas con sal y limón."
+      "Sirve con los champiñones, unas gotas de limón y perejil."
      ]
     },
     {
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Koukakis griego con arándanos y almendras</p><ul><li><span>Yogur griego Koukakis</span><span class=\"q\">120 g</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Almendras</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>10</b> HC netos</span><span><b>10</b> P</span><span><b>17</b> G</span><span><b>2</b> Fib</span><span><b>239</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Yogur griego Mercadona con granada y chía</p><ul><li><span>Yogur griego Mercadona</span><span class=\"q\">1 ud (125 g)</span></li><li><span>Granada</span><span class=\"q\">40 g</span></li><li><span>Chía</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>7</b> P</span><span><b>16</b> G</span><span><b>5</b> Fib</span><span><b>223</b> kcal</span></div>",
      "src": [
       [
-       "koukakis",
-       120
+       "custom",
+       [
+        4.8,
+        4.4,
+        12,
+        0
+       ],
+       "Yogur griego Mercadona"
       ],
       [
-       "arandanos",
+       "granada",
        40
       ],
       [
-       "almendras",
+       "chia",
        10
       ]
      ]
@@ -311,7 +313,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">33</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">85</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">78</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1208</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">33</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">86</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">68</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">15</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1115</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Miércoles",
