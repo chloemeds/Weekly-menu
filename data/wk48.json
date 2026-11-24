@@ -265,7 +265,7 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Yogur griego Mercadona con granada y chía</p><ul><li><span>Yogur griego Mercadona</span><span class=\"q\">1 ud (125 g)</span></li><li><span>Granada</span><span class=\"q\">40 g</span></li><li><span>Chía</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>7</b> P</span><span><b>16</b> G</span><span><b>5</b> Fib</span><span><b>223</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Yogur griego Mercadona con granada, chía, miel y Chocapic (tomado)</p><ul><li><span>Yogur griego Mercadona</span><span class=\"q\">1 ud (125 g)</span></li><li><span>Granada</span><span class=\"q\">40 g</span></li><li><span>Chía</span><span class=\"q\">10 g</span></li><li><span>Miel</span><span class=\"q\">1 cucharadita (7 g)</span></li><li><span>Chocapic chocolate</span><span class=\"q\">6 g</span></li></ul><div class=\"mac\"><span><b>21</b> HC netos</span><span><b>7</b> P</span><span><b>16</b> G</span><span><b>5</b> Fib</span><span><b>269</b> kcal</span></div>",
      "src": [
       [
        "custom",
@@ -284,6 +284,26 @@
       [
        "chia",
        10
+      ],
+      [
+       "custom",
+       [
+        5.7,
+        0,
+        0,
+        0
+       ],
+       "Miel"
+      ],
+      [
+       "custom",
+       [
+        4.3,
+        0.5,
+        0.3,
+        0.4
+       ],
+       "Chocapic chocolate"
       ]
      ]
     },
@@ -317,7 +337,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">41</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">75</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">68</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1103</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">51</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">76</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">68</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1148</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Miércoles",
