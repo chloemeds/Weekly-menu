@@ -315,15 +315,19 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Tortilla de 2 huevos con alcachofas</p><ul><li><span>Huevos</span><span class=\"q\">2 ud</span></li><li><span>Alcachofas (corazones)</span><span class=\"q\">100 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>8</b> HC netos</span><span><b>18</b> P</span><span><b>20</b> G</span><span><b>6</b> Fib</span><span><b>294</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Lubina a la plancha con alcachofas y fuet (tomado)</p><ul><li><span>Lubina</span><span class=\"q\">120 g</span></li><li><span>Alcachofas (corazones)</span><span class=\"q\">155 g</span></li><li><span>Fuet</span><span class=\"q\">10 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>31</b> P</span><span><b>19</b> G</span><span><b>9</b> Fib</span><span><b>353</b> kcal</span></div>",
      "src": [
       [
-       "huevo",
-       110
+       "lubina",
+       120
       ],
       [
        "alcachofa",
-       100
+       155
+      ],
+      [
+       "fuet",
+       10
       ],
       [
        "aceite",
@@ -335,13 +339,13 @@
       ]
      ],
      "recipe": [
-      "Alcachofas (de bote, escurridas, en láminas) en sartén antiadherente con la cucharadita de aceite, 4 min.",
-      "Bate los huevos con sal y échalos sobre las alcachofas.",
-      "Cuaja a fuego medio-bajo tapado 3 min, dale la vuelta con un plato y 1 min más."
+      "Alcachofas en láminas en sartén con la cucharadita de aceite, 5 min, y reserva.",
+      "Lubina con sal y pimienta en la misma sartén, 3 min por la piel y 2 min por el otro lado.",
+      "Sirve con las alcachofas y unas rodajas de fuet."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">52</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">77</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">74</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">17</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1217</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">54</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">90</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">73</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">20</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1275</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Miércoles",
@@ -379,11 +383,11 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Pasta con gambas y calabacín</p><ul><li><span>Pasta (cruda)</span><span class=\"q\">85 g</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">120 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>66</b> HC netos</span><span><b>37</b> P</span><span><b>12</b> G</span><span><b>5</b> Fib</span><span><b>527</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Pasta al pesto con gambas y calabacín</p><ul><li><span>Pasta (cruda)</span><span class=\"q\">80 g</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">120 g</span></li><li><span>Calabacín</span><span class=\"q\">120 g</span></li><li><span>Pesto</span><span class=\"q\">15 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>63</b> HC netos</span><span><b>37</b> P</span><span><b>18</b> G</span><span><b>5</b> Fib</span><span><b>571</b> kcal</span></div>",
      "src": [
       [
        "pasta",
-       85
+       80
       ],
       [
        "gambas",
@@ -391,7 +395,11 @@
       ],
       [
        "calabacin",
-       150
+       120
+      ],
+      [
+       "pesto",
+       15
       ],
       [
        "aceite",
@@ -406,7 +414,7 @@
       "Pasta en agua con sal 10–11 min (o según el paquete).",
       "Calabacín en dados en sartén con la cucharadita de aceite, 5 min a fuego medio-alto.",
       "Añade las gambas con sal, pimienta y una pizca de guindilla, 2–3 min.",
-      "Escurre la pasta y mézclala con la sartén y un chorrito del agua de cocer."
+      "Escurre la pasta y mézclala con la sartén, el pesto y un chorrito del agua de cocer."
      ]
     },
     {
@@ -437,14 +445,14 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Merluza a la plancha con setas salteadas</p><ul><li><span>Merluza</span><span class=\"q\">130 g</span></li><li><span>Setas</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>8</b> HC netos</span><span><b>28</b> P</span><span><b>11</b> G</span><span><b>4</b> Fib</span><span><b>252</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Merluza a la plancha con judías verdes</p><ul><li><span>Merluza</span><span class=\"q\">130 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>26</b> P</span><span><b>11</b> G</span><span><b>5</b> Fib</span><span><b>244</b> kcal</span></div>",
      "src": [
       [
        "merluza",
        130
       ],
       [
-       "setas",
+       "judias",
        150
       ],
       [
@@ -457,13 +465,13 @@
       ]
      ],
      "recipe": [
-      "Setas troceadas en sartén con la cucharadita de aceite y sal, 5–6 min, y reserva.",
-      "Merluza en lomos con sal y pimienta en la misma sartén a fuego medio-alto, 3–4 min por lado.",
-      "Sirve con las setas, perejil picado y limón."
+      "Judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min.",
+      "Merluza en lomos con sal y pimienta en sartén con la cucharadita de aceite a fuego medio-alto, 3–4 min por lado.",
+      "Sirve con las judías, perejil y limón."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">125</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">34</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">20</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1246</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">122</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">40</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">20</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1282</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Jueves",
