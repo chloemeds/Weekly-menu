@@ -1,6 +1,6 @@
 """Menú WK48 (23 a 29 nov 2026). python3 tools/plans/wk48.py -> data/wk48.json
 Lunes muy ligero y martes ligero para compensar el viernes 20 (Bosco de Lobos). Martes y jueves carbs reducidos.
-Miércoles sin cena: palomitas en el cine. Viernes comida fuera en El Xampanyet."""
+Viernes comida fuera en El Xampanyet."""
 import os
 import sys
 
@@ -65,20 +65,23 @@ day('Martes', '24 nov', 'low',
       'Cuaja a fuego medio-bajo tapado 3 min, dale la vuelta con un plato y 1 min más.']),
     )
 
-# ---------------- Miércoles: regular, cine por la noche
+# ---------------- Miércoles: regular
 day('Miércoles', '25 nov', 'reg',
     ('Desayuno', 'Tostada integral con pechuga de pavo y queso light + matcha latte',
      [('pan_int', 45), ('pavo_l', 30), ('queso_l', 12.5), MATCHA_D]),
     ('Comida', 'Pasta con gambas y calabacín',
-     [('pasta', 70), ('gambas', 170), ('calabacin', 150), OIL, CH],
+     [('pasta', 85), ('gambas', 120), ('calabacin', 150), OIL, CH],
      ['Pasta en agua con sal 10–11 min (o según el paquete).',
       'Calabacín en dados en sartén con la cucharadita de aceite, 5 min a fuego medio-alto.',
       'Añade las gambas con sal, pimienta y una pizca de guindilla, 2–3 min.',
       'Escurre la pasta y mézclala con la sartén y un chorrito del agua de cocer.']),
-    ('Merienda', 'Koukakis 0% con kiwi y chía',
-     [('koukakis0', 150), ('kiwi', 75, '1 ud'), ('chia', 10)]),
-    ('Cena', 'Sin cena: palomitas en el cine (macros aproximados)',
-     [('custom', [60, 6.5, 20, 8], 'Palomitas mixtas, dulces y saladas', 'medianas (~100 g)')]),
+    ('Merienda', 'Koukakis 0% con kiwi, chía y granola',
+     [('koukakis0', 150), ('kiwi', 75, '1 ud'), ('chia', 10), ('granola', 20)]),
+    ('Cena', 'Merluza a la plancha con setas salteadas',
+     [('merluza', 130), ('setas', 150), OIL, CH],
+     ['Setas troceadas en sartén con la cucharadita de aceite y sal, 5–6 min, y reserva.',
+      'Merluza en lomos con sal y pimienta en la misma sartén a fuego medio-alto, 3–4 min por lado.',
+      'Sirve con las setas, perejil picado y limón.']),
     )
 
 # ---------------- Jueves: carbs reducidos
