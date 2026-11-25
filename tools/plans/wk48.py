@@ -82,11 +82,11 @@ day('Miércoles', '25 nov', 'reg',
       'Primero las lentejas y de segundo el pollo.']),
     ('Merienda', 'Skyr y yogur griego light con kiwi y granola + matcha latte (tomado)',
      [('skyr', 100), ('yog_light', 62.5, '½ ud (62 g)', 'Yogur griego light Mercadona'), ('kiwi', 75, '1 ud'), ('granola', 20), MATCHA_D]),
-    ('Cena', 'Filete de ternera a la plancha con judías verdes',
-     [('ternera', 130), ('judias', 150), OIL],
-     ['Judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min.',
-      'Filete de ternera con sal y pimienta en sartén muy caliente con la cucharadita de aceite, 1–2 min por lado.',
-      'Sirve con las judías y unas gotas de limón.']),
+    ('Cena', 'Revuelto de judías verdes',
+     [('huevo', 110, '2 ud'), ('judias', 150), OIL],
+     ['Judías verdes en trozos al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min.',
+      'Saltéalas 1 min en sartén antiadherente con la cucharadita de aceite y sal.',
+      'Añade los huevos batidos y remueve a fuego suave 1–2 min, hasta que cuajen jugosos.']),
     )
 
 # ---------------- Jueves: carbs reducidos
@@ -100,11 +100,11 @@ day('Jueves', '26 nov', 'low',
       'Sirve con un chorrito de soja o unas gotas de limón.']),
     ('Merienda', 'Yogur griego light con arándanos, granada, almendras y crema de avellana',
      [('yog_light', 125, '1 ud (125 g)', 'Yogur griego light Mercadona'), ('arandanos', 40), ('granada', 30), ('almendras', 10), ('crema_ave', 10)]),
-    ('Cena', 'Tortilla de calabacín',
-     [('huevo', 165, '3 ud'), ('calabacin', 150), OIL, CH],
-     ['Calabacín en dados finos en sartén antiadherente con la cucharadita de aceite y sal, 6 min.',
-      'Bate los huevos con sal y échalos sobre el calabacín.',
-      'Cuaja tapado a fuego medio-bajo 3–4 min, dale la vuelta con un plato y 1 min más.']),
+    ('Cena', 'Filete de ternera a la plancha con calabacín',
+     [('ternera', 130), ('calabacin', 150), OIL, CH],
+     ['Calabacín en rodajas con sal en sartén con la cucharadita de aceite, 3 min por lado, y reserva.',
+      'Filete de ternera con sal y pimienta en la misma sartén muy caliente, 1–2 min por lado.',
+      'Sirve con el calabacín y unas gotas de limón.']),
     )
 
 # ---------------- Viernes: regular, comida fuera
