@@ -100,10 +100,10 @@ day('Jueves', '26 nov', 'low',
       'Sirve con un chorrito de soja o unas gotas de limón.']),
     ('Merienda', 'Skyr con arándanos, granada, almendras y crema de avellana',
      [('skyr', 100), ('arandanos', 40), ('granada', 30), ('almendras', 10), ('crema_ave', 10)]),
-    ('Cena', 'Tortilla de calabacín con mozzarella',
-     [('huevo', 110, '2 ud'), ('calabacin', 150), ('mozza_l', 25), OIL, CH],
+    ('Cena', 'Tortilla de calabacín',
+     [('huevo', 165, '3 ud'), ('calabacin', 150), OIL, CH],
      ['Calabacín en dados finos en sartén antiadherente con la cucharadita de aceite y sal, 6 min.',
-      'Bate los huevos, échalos sobre el calabacín y reparte la mozzarella en trocitos.',
+      'Bate los huevos con sal y échalos sobre el calabacín.',
       'Cuaja tapado a fuego medio-bajo 3–4 min, dale la vuelta con un plato y 1 min más.']),
     )
 
@@ -134,11 +134,11 @@ day('Sábado', '28 nov', 'reg',
       'Escurre la pasta y mézclala con la sartén, el pesto y un chorrito del agua de cocer.']),
     ('Merienda', 'Skyr con plátano y granola',
      [('skyr', 100), ('platano', 100, '1 ud pequeña (100 g)'), ('granola', 20)]),
-    ('Cena', 'Omelette de champiñones y mozzarella',
-     [('huevo', 110, '2 ud'), ('champis', 150, '8 champiñones medianos'), ('mozza_l', 25), OIL, CH],
+    ('Cena', 'Omelette de champiñones',
+     [('huevo', 110, '2 ud'), ('champis', 150, '8 champiñones medianos'), OIL, CH],
      ['Champiñones laminados en sartén antiadherente con la cucharadita de aceite y sal, 5 min, y reserva.',
       'Bate los huevos con sal, échalos a la sartén a fuego medio y deja que cuajen por abajo 2 min.',
-      'Pon los champiñones y la mozzarella en una mitad, dobla y 1 min más tapado.']),
+      'Pon los champiñones en una mitad, dobla y 1 min más tapado.']),
     )
 
 # ---------------- Domingo: regular
