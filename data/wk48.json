@@ -737,37 +737,27 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Hamburguesa de pollo casera con loncha light y calabacín a la plancha + kiwi</p><ul><li><span>Pan de hamburguesa</span><span class=\"q\">1 ud (60 g)</span></li><li><span>Pechuga de pollo picada (en hamburguesa)</span><span class=\"q\">120 g</span></li><li><span>Queso en lonchas light</span><span class=\"q\">1 ud (25 g)</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Kiwi</span><span class=\"q\">1 ud (de postre)</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>43</b> HC netos</span><span><b>43</b> P</span><span><b>18</b> G</span><span><b>6</b> Fib</span><span><b>522</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Pasta al pesto con gambas y calabacín</p><ul><li><span>Pasta (cruda)</span><span class=\"q\">80 g</span></li><li><span>Gambas o langostinos pelados</span><span class=\"q\">120 g</span></li><li><span>Calabacín</span><span class=\"q\">120 g</span></li><li><span>Pesto</span><span class=\"q\">15 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>63</b> HC netos</span><span><b>37</b> P</span><span><b>18</b> G</span><span><b>5</b> Fib</span><span><b>571</b> kcal</span></div>",
      "src": [
       [
-       "custom",
-       [
-        28.5,
-        5,
-        3,
-        1.5
-       ],
-       "Pan de hamburguesa"
+       "pasta",
+       80
       ],
       [
-       "pollo",
+       "gambas",
        120
       ],
       [
-       "queso_l",
-       25
+       "calabacin",
+       120
       ],
       [
-       "calabacin",
-       150
+       "pesto",
+       15
       ],
       [
        "aceite",
        5
-      ],
-      [
-       "kiwi",
-       75
       ],
       [
        "choco",
@@ -775,10 +765,10 @@
       ]
      ],
      "recipe": [
-      "Pica la pechuga (o pídela picada), sal, pimienta y pimentón, y forma una hamburguesa.",
-      "Sartén caliente con la cucharadita de aceite: hamburguesa 4 min por lado; el último minuto pon la loncha encima y tapa.",
-      "Calabacín en rodajas a la plancha en la misma sartén, 3 min por lado.",
-      "Tuesta el pan y monta la hamburguesa; el calabacín, dentro o al lado."
+      "Pasta en agua con sal 10–11 min (o según el paquete).",
+      "Calabacín en dados en sartén con la cucharadita de aceite, 5 min a fuego medio-alto.",
+      "Añade las gambas con sal, pimienta y una pizca de guindilla, 2–3 min.",
+      "Escurre la pasta y mézclala con la sartén, el pesto y un chorrito del agua de cocer."
      ]
     },
     {
@@ -805,7 +795,7 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Omelette de champiñones y mozzarella</p><ul><li><span>Huevos</span><span class=\"q\">2 ud</span></li><li><span>Champiñones</span><span class=\"q\">150 g</span></li><li><span>Mozzarella light</span><span class=\"q\">30 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>25</b> P</span><span><b>23</b> G</span><span><b>2</b> Fib</span><span><b>337</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Omelette de champiñones y mozzarella</p><ul><li><span>Huevos</span><span class=\"q\">2 ud</span></li><li><span>Champiñones</span><span class=\"q\">150 g</span></li><li><span>Mozzarella light</span><span class=\"q\">25 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>24</b> P</span><span><b>22</b> G</span><span><b>2</b> Fib</span><span><b>329</b> kcal</span></div>",
      "src": [
       [
        "huevo",
@@ -817,7 +807,7 @@
       ],
       [
        "mozza_l",
-       30
+       25
       ],
       [
        "aceite",
@@ -835,7 +825,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">115</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">97</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">47</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">17</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1310</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">134</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">91</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">47</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1351</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Domingo",
