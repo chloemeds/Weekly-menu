@@ -82,11 +82,11 @@ day('Miércoles', '25 nov', 'reg',
       'Primero las lentejas y de segundo el pollo.']),
     ('Merienda', 'Skyr y yogur griego light con kiwi y granola + matcha latte (tomado)',
      [('skyr', 100), ('yog_light', 62.5, '½ ud (62 g)', 'Yogur griego light Mercadona'), ('kiwi', 75, '1 ud'), ('granola', 20), MATCHA_D]),
-    ('Cena', 'Merluza a la plancha con judías verdes',
-     [('merluza', 130), ('judias', 150), OIL],
+    ('Cena', 'Filete de ternera a la plancha con judías verdes',
+     [('ternera', 130), ('judias', 150), OIL],
      ['Judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min.',
-      'Merluza en lomos con sal y pimienta en sartén con la cucharadita de aceite a fuego medio-alto, 3–4 min por lado.',
-      'Sirve con las judías, perejil y limón.']),
+      'Filete de ternera con sal y pimienta en sartén muy caliente con la cucharadita de aceite, 1–2 min por lado.',
+      'Sirve con las judías y unas gotas de limón.']),
     )
 
 # ---------------- Jueves: carbs reducidos
