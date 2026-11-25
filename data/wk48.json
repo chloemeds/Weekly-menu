@@ -567,15 +567,11 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Skyr y yogur griego light con arándanos, granada, almendras y crema de avellana</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Yogur griego light Mercadona</span><span class=\"q\">½ ud (62 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Granada</span><span class=\"q\">30 g</span></li><li><span>Almendras</span><span class=\"q\">10 g</span></li><li><span>Crema de avellana y cacao Ametller</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>17</b> HC netos</span><span><b>16</b> P</span><span><b>10</b> G</span><span><b>8</b> Fib</span><span><b>242</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Yogur griego light con arándanos, granada, almendras y crema de avellana</p><ul><li><span>Yogur griego light Mercadona</span><span class=\"q\">1 ud (125 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Granada</span><span class=\"q\">30 g</span></li><li><span>Almendras</span><span class=\"q\">10 g</span></li><li><span>Crema de avellana y cacao Ametller</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>17</b> HC netos</span><span><b>11</b> P</span><span><b>11</b> G</span><span><b>8</b> Fib</span><span><b>229</b> kcal</span></div>",
      "src": [
       [
-       "skyr",
-       100
-      ],
-      [
        "yog_light",
-       62.5
+       125
       ],
       [
        "arandanos",
@@ -625,7 +621,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">34</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">94</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">80</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1267</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">33</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">89</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">81</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1254</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Viernes",
@@ -677,15 +673,11 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Skyr y yogur griego light con mandarina y granola</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Yogur griego light Mercadona</span><span class=\"q\">½ ud (62 g)</span></li><li><span>Mandarina</span><span class=\"q\">2 ud (140 g)</span></li><li><span>Granola sin azúcar</span><span class=\"q\">15 g</span></li></ul><div class=\"mac\"><span><b>30</b> HC netos</span><span><b>15</b> P</span><span><b>4</b> G</span><span><b>4</b> Fib</span><span><b>227</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Yogur griego light con mandarina y granola</p><ul><li><span>Yogur griego light Mercadona</span><span class=\"q\">1 ud (125 g)</span></li><li><span>Mandarina</span><span class=\"q\">2 ud (140 g)</span></li><li><span>Granola sin azúcar</span><span class=\"q\">15 g</span></li></ul><div class=\"mac\"><span><b>30</b> HC netos</span><span><b>10</b> P</span><span><b>5</b> G</span><span><b>4</b> Fib</span><span><b>214</b> kcal</span></div>",
      "src": [
       [
-       "skyr",
-       100
-      ],
-      [
        "yog_light",
-       62.5
+       125
       ],
       [
        "mandarina",
@@ -723,7 +715,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">124</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">44</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">15</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1327</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">123</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">95</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">45</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">15</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1314</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Sábado",
@@ -795,15 +787,11 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Skyr y yogur griego light con plátano y granola</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Yogur griego light Mercadona</span><span class=\"q\">½ ud (62 g)</span></li><li><span>Plátano</span><span class=\"q\">1 ud pequeña (100 g)</span></li><li><span>Granola sin azúcar</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>32</b> HC netos</span><span><b>15</b> P</span><span><b>3</b> G</span><span><b>4</b> Fib</span><span><b>222</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Yogur griego light con plátano y granola</p><ul><li><span>Yogur griego light Mercadona</span><span class=\"q\">1 ud (125 g)</span></li><li><span>Plátano</span><span class=\"q\">1 ud pequeña (100 g)</span></li><li><span>Granola sin azúcar</span><span class=\"q\">20 g</span></li></ul><div class=\"mac\"><span><b>36</b> HC netos</span><span><b>10</b> P</span><span><b>6</b> G</span><span><b>4</b> Fib</span><span><b>250</b> kcal</span></div>",
      "src": [
       [
-       "skyr",
-       100
-      ],
-      [
        "yog_light",
-       62.5
+       125
       ],
       [
        "platano",
@@ -811,7 +799,7 @@
       ],
       [
        "granola",
-       10
+       20
       ]
      ]
     },
@@ -845,7 +833,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">132</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">88</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">44</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">15</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1306</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">136</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">84</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">47</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1334</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Domingo",
@@ -920,15 +908,11 @@
      "meal": "Merienda",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Skyr y yogur griego light con plátano y granola</p><ul><li><span>Skyr Danone natural</span><span class=\"q\">1 ud (100 g)</span></li><li><span>Yogur griego light Mercadona</span><span class=\"q\">½ ud (62 g)</span></li><li><span>Plátano</span><span class=\"q\">1 ud pequeña (100 g)</span></li><li><span>Granola sin azúcar</span><span class=\"q\">15 g</span></li></ul><div class=\"mac\"><span><b>34</b> HC netos</span><span><b>15</b> P</span><span><b>4</b> G</span><span><b>4</b> Fib</span><span><b>243</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Yogur griego light con plátano y granola</p><ul><li><span>Yogur griego light Mercadona</span><span class=\"q\">1 ud (125 g)</span></li><li><span>Plátano</span><span class=\"q\">1 ud pequeña (100 g)</span></li><li><span>Granola sin azúcar</span><span class=\"q\">15 g</span></li></ul><div class=\"mac\"><span><b>34</b> HC netos</span><span><b>10</b> P</span><span><b>5</b> G</span><span><b>4</b> Fib</span><span><b>230</b> kcal</span></div>",
      "src": [
       [
-       "skyr",
-       100
-      ],
-      [
        "yog_light",
-       62.5
+       125
       ],
       [
        "platano",
@@ -970,7 +954,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">124</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">104</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">42</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">24</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1336</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">124</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">43</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">24</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1323</span><span class=\"tg\">kcal</span></div>"
   }
  ]
 }
