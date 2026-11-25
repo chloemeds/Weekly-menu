@@ -385,7 +385,7 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Lentejas de casa con chorizo + tortilla francesa</p><ul><li><span>Lentejas (plato normal)</span><span class=\"q\">~250 g de guiso (71 g en crudo)</span></li><li><span>Chorizo y sofrito del guiso</span><span class=\"q\">2 trocitos de chorizo</span></li><li><span>Huevo (tortilla francesa)</span><span class=\"q\">1 ud</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>39</b> HC netos</span><span><b>28</b> P</span><span><b>21</b> G</span><span><b>9</b> Fib</span><span><b>479</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Lentejas de casa con chorizo + pechuga de pollo a la plancha</p><ul><li><span>Lentejas (plato normal)</span><span class=\"q\">~250 g de guiso (71 g en crudo)</span></li><li><span>Chorizo y sofrito del guiso</span><span class=\"q\">2 trocitos de chorizo</span></li><li><span>Pechuga de pollo a la plancha</span><span class=\"q\">100 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>39</b> HC netos</span><span><b>44</b> P</span><span><b>17</b> G</span><span><b>9</b> Fib</span><span><b>506</b> kcal</span></div>",
      "src": [
       [
        "lentejas",
@@ -402,8 +402,8 @@
        "Chorizo y sofrito del guiso"
       ],
       [
-       "huevo",
-       55
+       "pollo",
+       100
       ],
       [
        "aceite",
@@ -416,8 +416,8 @@
      ],
      "recipe": [
       "Calienta un plato normal de lentejas (unos 250 g), con solo 2 trocitos de chorizo.",
-      "Bate el huevo con sal y cuájalo en sartén antiadherente con la cucharadita de aceite, 1 min por lado.",
-      "Primero las lentejas y de segundo la tortilla."
+      "Pollo en filetes finos con sal y pimienta en sartén muy caliente con la cucharadita de aceite, 3 min por lado.",
+      "Primero las lentejas y de segundo el pollo."
      ]
     },
     {
@@ -470,7 +470,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">81</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">83</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">44</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">18</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1085</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">80</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">99</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">40</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">18</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1112</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Jueves",
