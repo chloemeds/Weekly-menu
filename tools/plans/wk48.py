@@ -72,7 +72,7 @@ day('Martes', '24 nov', 'low',
 # ---------------- Miércoles: regular
 day('Miércoles', '25 nov', 'reg',
     ('Desayuno', 'Tostada integral con pechuga de pavo y queso light + matcha latte',
-     [('pan_int', 45), ('pavo_l', 30), ('queso_l', 12.5), ('custom', [9.4, 6.2, 3.2, 0], 'Matcha con leche semidesnatada', '200 ml')]),
+     [('pan_int', 45), ('pavo_l', 30), ('queso_l', 12.5), ('custom', [9.4, 6.2, 3.2, 0], 'Matcha con leche semidesnatada Asturiana Hostelería', '200 ml')]),
     ('Comida', 'Pasta al pesto con gambas y calabacín',
      [('pasta', 80), ('gambas', 120), ('calabacin', 120), ('pesto', 15), OIL, CH],
      ['Pasta en agua con sal 10–11 min (o según el paquete).',

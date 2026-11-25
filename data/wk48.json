@@ -359,7 +359,7 @@
      "meal": "Desayuno",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Tostada integral con pechuga de pavo y queso light + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">45 g</span></li><li><span>Pechuga de pavo en lonchas</span><span class=\"q\">30 g</span></li><li><span>Queso en lonchas light</span><span class=\"q\">½ loncha (12,5 g)</span></li><li><span>Matcha con leche semidesnatada</span><span class=\"q\">200 ml</span></li></ul><div class=\"mac\"><span><b>27</b> HC netos</span><span><b>20</b> P</span><span><b>7</b> G</span><span><b>3</b> Fib</span><span><b>262</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Tostada integral con pechuga de pavo y queso light + matcha latte</p><ul><li><span>Pan integral</span><span class=\"q\">45 g</span></li><li><span>Pechuga de pavo en lonchas</span><span class=\"q\">30 g</span></li><li><span>Queso en lonchas light</span><span class=\"q\">½ loncha (12,5 g)</span></li><li><span>Matcha con leche semidesnatada Asturiana Hostelería</span><span class=\"q\">200 ml</span></li></ul><div class=\"mac\"><span><b>27</b> HC netos</span><span><b>20</b> P</span><span><b>7</b> G</span><span><b>3</b> Fib</span><span><b>262</b> kcal</span></div>",
      "src": [
       [
        "pan_int",
@@ -381,7 +381,7 @@
         3.2,
         0
        ],
-       "Matcha con leche semidesnatada"
+       "Matcha con leche semidesnatada Asturiana Hostelería"
       ]
      ]
     },
