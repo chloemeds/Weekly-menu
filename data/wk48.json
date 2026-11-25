@@ -389,7 +389,7 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Lentejas de casa con chorizo + muslo de pollo a la plancha con setas</p><ul><li><span>Lentejas (plato normal)</span><span class=\"q\">~250 g de guiso (71 g en crudo)</span></li><li><span>Chorizo y sofrito del guiso</span><span class=\"q\">2 trocitos de chorizo</span></li><li><span>Muslo de pollo sin piel ni hueso</span><span class=\"q\">100 g</span></li><li><span>Setas</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>42</b> HC netos</span><span><b>44</b> P</span><span><b>19</b> G</span><span><b>12</b> Fib</span><span><b>539</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Lentejas de casa con chorizo + muslo y alita de pollo con setas (tomado)</p><ul><li><span>Lentejas (plato normal)</span><span class=\"q\">~250 g de guiso (71 g en crudo)</span></li><li><span>Chorizo y sofrito del guiso</span><span class=\"q\">2 trocitos de chorizo</span></li><li><span>Muslo de pollo con piel</span><span class=\"q\">1 ud (~100 g de carne y piel)</span></li><li><span>Alita de pollo</span><span class=\"q\">1 ud</span></li><li><span>Setas</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>44</b> HC netos</span><span><b>49</b> P</span><span><b>34</b> G</span><span><b>13</b> Fib</span><span><b>700</b> kcal</span></div>",
      "src": [
       [
        "lentejas",
@@ -409,11 +409,21 @@
        "custom",
        [
         0,
-        19,
-        6,
+        17,
+        12,
         0
        ],
-       "Muslo de pollo sin piel ni hueso"
+       "Muslo de pollo con piel"
+      ],
+      [
+       "custom",
+       [
+        0,
+        6,
+        5,
+        0
+       ],
+       "Alita de pollo"
       ],
       [
        "setas",
@@ -422,6 +432,10 @@
       [
        "aceite",
        5
+      ],
+      [
+       "choco",
+       8
       ]
      ],
      "recipe": [
@@ -477,7 +491,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">82</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">100</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">46</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">21</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1182</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">84</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">105</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">60</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">22</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1343</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Jueves",
@@ -572,7 +586,7 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Tortilla de calabacín con mozzarella</p><ul><li><span>Huevos</span><span class=\"q\">2 ud</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Mozzarella light</span><span class=\"q\">50 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>26</b> P</span><span><b>24</b> G</span><span><b>2</b> Fib</span><span><b>357</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Tortilla de calabacín con mozzarella</p><ul><li><span>Huevos</span><span class=\"q\">2 ud</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Mozzarella light</span><span class=\"q\">25 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>21</b> P</span><span><b>22</b> G</span><span><b>2</b> Fib</span><span><b>316</b> kcal</span></div>",
      "src": [
       [
        "huevo",
@@ -584,7 +598,7 @@
       ],
       [
        "mozza_l",
-       50
+       25
       ],
       [
        "aceite",
@@ -602,7 +616,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">31</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">94</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">78</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1233</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">31</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">89</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">76</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1192</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Viernes",
@@ -674,7 +688,7 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Dorada al horno con brócoli</p><ul><li><span>Dorada</span><span class=\"q\">150 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>34</b> P</span><span><b>16</b> G</span><span><b>5</b> Fib</span><span><b>329</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Dorada al horno con brócoli</p><ul><li><span>Dorada</span><span class=\"q\">150 g</span></li><li><span>Brócoli</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li></ul><div class=\"mac\"><span><b>7</b> HC netos</span><span><b>33</b> P</span><span><b>13</b> G</span><span><b>4</b> Fib</span><span><b>283</b> kcal</span></div>",
      "src": [
       [
        "dorada",
@@ -687,10 +701,6 @@
       [
        "aceite",
        5
-      ],
-      [
-       "choco",
-       8
       ]
      ],
      "recipe": [
@@ -700,7 +710,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">123</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">46</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1335</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">121</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">97</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">43</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">15</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1289</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Sábado",
