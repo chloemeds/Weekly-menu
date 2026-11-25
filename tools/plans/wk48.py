@@ -83,10 +83,10 @@ day('Miércoles', '25 nov', 'reg',
     ('Merienda', 'Skyr y yogur griego light con kiwi y granola + matcha latte (tomado)',
      [('skyr', 100), ('yog_light', 62.5, '½ ud (62 g)', 'Yogur griego light Mercadona'), ('kiwi', 75, '1 ud'), ('granola', 20), MATCHA_D]),
     ('Cena', 'Revuelto de judías verdes',
-     [('huevo', 110, '2 ud'), ('judias', 150), OIL],
+     [('huevo', 55, '1 ud'), ('custom', [0.2, 3.6, 0, 0], 'Clara de huevo', '1 ud'), ('judias', 150), OIL],
      ['Judías verdes en trozos al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min.',
       'Saltéalas 1 min en sartén antiadherente con la cucharadita de aceite y sal.',
-      'Añade los huevos batidos y remueve a fuego suave 1–2 min, hasta que cuajen jugosos.']),
+      'Añade el huevo y la clara batidos y remueve a fuego suave 1–2 min, hasta que cuajen jugosos.']),
     )
 
 # ---------------- Jueves: carbs reducidos
