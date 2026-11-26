@@ -524,19 +524,19 @@
      "meal": "Desayuno",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Jamón serrano con queso light y nueces + matcha latte</p><ul><li><span>Jamón serrano</span><span class=\"q\">40 g</span></li><li><span>Queso en lonchas light</span><span class=\"q\">½ loncha (12,5 g)</span></li><li><span>Nueces</span><span class=\"q\">2 ud (8 g)</span></li><li><span>Matcha con bebida de almendra</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>1</b> HC netos</span><span><b>17</b> P</span><span><b>14</b> G</span><span><b>1</b> Fib</span><span><b>198</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Pechuga de pavo, queso light y nueces + matcha latte</p><ul><li><span>Pechuga de pavo en lonchas</span><span class=\"q\">60 g</span></li><li><span>Queso en lonchas light</span><span class=\"q\">1 ud (25 g)</span></li><li><span>Nueces</span><span class=\"q\">3 ud (12 g)</span></li><li><span>Matcha con bebida de almendra</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>2</b> HC netos</span><span><b>21</b> P</span><span><b>15</b> G</span><span><b>1</b> Fib</span><span><b>225</b> kcal</span></div>",
      "src": [
       [
-       "serrano",
-       40
+       "pavo_l",
+       60
       ],
       [
        "queso_l",
-       12.5
+       25
       ],
       [
        "nueces",
-       8
+       12
       ],
       [
        "leche_a",
@@ -548,68 +548,11 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Salmón al horno con soja o limón y judías verdes</p><ul><li><span>Salmón</span><span class=\"q\">170 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>38</b> P</span><span><b>31</b> G</span><span><b>5</b> Fib</span><span><b>473</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Salmón a la plancha con calabacín</p><ul><li><span>Salmón</span><span class=\"q\">170 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>37</b> P</span><span><b>31</b> G</span><span><b>2</b> Fib</span><span><b>453</b> kcal</span></div>",
      "src": [
       [
        "salmon",
        170
-      ],
-      [
-       "judias",
-       150
-      ],
-      [
-       "aceite",
-       5
-      ],
-      [
-       "choco",
-       8
-      ]
-     ],
-     "recipe": [
-      "Horno a 200 °C. Salmón con sal, pimienta y la cucharadita de aceite en una bandeja, 12–14 min.",
-      "Mientras, judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min.",
-      "Sirve con un chorrito de soja o unas gotas de limón."
-     ]
-    },
-    {
-     "meal": "Merienda",
-     "span": 1,
-     "cls": [],
-     "html": "<p class=\"dish\">Yogur griego light con arándanos, granada, almendras y crema de avellana</p><ul><li><span>Yogur griego light Mercadona</span><span class=\"q\">1 ud (125 g)</span></li><li><span>Arándanos</span><span class=\"q\">40 g</span></li><li><span>Granada</span><span class=\"q\">30 g</span></li><li><span>Almendras</span><span class=\"q\">10 g</span></li><li><span>Crema de avellana y cacao Ametller</span><span class=\"q\">10 g</span></li></ul><div class=\"mac\"><span><b>17</b> HC netos</span><span><b>11</b> P</span><span><b>11</b> G</span><span><b>8</b> Fib</span><span><b>229</b> kcal</span></div>",
-     "src": [
-      [
-       "yog_light",
-       125
-      ],
-      [
-       "arandanos",
-       40
-      ],
-      [
-       "granada",
-       30
-      ],
-      [
-       "almendras",
-       10
-      ],
-      [
-       "crema_ave",
-       10
-      ]
-     ]
-    },
-    {
-     "meal": "Cena",
-     "span": 1,
-     "cls": [],
-     "html": "<p class=\"dish\">Filete de ternera a la plancha con calabacín</p><ul><li><span>Ternera (filete magro)</span><span class=\"q\">130 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>6</b> HC netos</span><span><b>30</b> P</span><span><b>15</b> G</span><span><b>2</b> Fib</span><span><b>286</b> kcal</span></div>",
-     "src": [
-      [
-       "ternera",
-       130
       ],
       [
        "calabacin",
@@ -626,12 +569,65 @@
      ],
      "recipe": [
       "Calabacín en rodajas con sal en sartén con la cucharadita de aceite, 3 min por lado, y reserva.",
-      "Filete de ternera con sal y pimienta en la misma sartén muy caliente, 1–2 min por lado.",
-      "Sirve con el calabacín y unas gotas de limón."
+      "Salmón con sal y pimienta en la misma sartén, 4 min por la piel y 3 min por el otro lado.",
+      "Sirve con unas gotas de limón o un chorrito de soja."
+     ]
+    },
+    {
+     "meal": "Merienda",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Yogur griego light con granada, almendras y crema de avellana</p><ul><li><span>Yogur griego light Mercadona</span><span class=\"q\">1 ud (125 g)</span></li><li><span>Granada</span><span class=\"q\">40 g</span></li><li><span>Almendras</span><span class=\"q\">10 g</span></li><li><span>Crema de avellana y cacao Ametller</span><span class=\"q\">12 g</span></li></ul><div class=\"mac\"><span><b>13</b> HC netos</span><span><b>11</b> P</span><span><b>12</b> G</span><span><b>8</b> Fib</span><span><b>223</b> kcal</span></div>",
+     "src": [
+      [
+       "yog_light",
+       125
+      ],
+      [
+       "granada",
+       40
+      ],
+      [
+       "almendras",
+       10
+      ],
+      [
+       "crema_ave",
+       12
+      ]
+     ]
+    },
+    {
+     "meal": "Cena",
+     "span": 1,
+     "cls": [],
+     "html": "<p class=\"dish\">Calamares a la plancha con judías verdes</p><ul><li><span>Calamar</span><span class=\"q\">160 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>11</b> HC netos</span><span><b>29</b> P</span><span><b>11</b> G</span><span><b>5</b> Fib</span><span><b>267</b> kcal</span></div>",
+     "src": [
+      [
+       "calamar",
+       160
+      ],
+      [
+       "judias",
+       150
+      ],
+      [
+       "aceite",
+       5
+      ],
+      [
+       "choco",
+       8
+      ]
+     ],
+     "recipe": [
+      "Judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min.",
+      "Calamar (descongelado y bien seco) en sartén muy caliente con la cucharadita de aceite y sal, 2–3 min.",
+      "Sirve con las judías, perejil y limón."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">32</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">96</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">71</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1186</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">32</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">98</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">69</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">16</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1168</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Viernes",
