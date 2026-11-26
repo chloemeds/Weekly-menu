@@ -100,10 +100,9 @@ day('Jueves', '26 nov', 'low',
       'Sirve sin pan con las judías; el kiwi y la onza de postre.']),
     ('Merienda', 'Skyr con granada + yogur helado griego Myka con chocolate y baklava (tomado)',
      [('skyr', 100, '1 ud'), ('granada', 15), ('custom', [52, 8, 22.5, 1], 'Yogur helado griego Myka pequeño con chocolate y baklava (estimado)', '1 ud')]),
-    ('Cena', 'Salmón a la plancha con calabacín',
-     [('salmon', 110), ('calabacin', 150), OIL],
-     ['Calabacín en rodajas con sal en sartén con la cucharadita de aceite, 3 min por lado, y reserva.',
-      'Salmón con sal y pimienta en la misma sartén, 4 min por la piel y 3 min por el otro lado.',
+    ('Cena', 'Salmón a la plancha (tomado)',
+     [('salmon', 90), OIL],
+     ['Salmón con sal y pimienta en sartén con la cucharadita de aceite, 4 min por la piel y 3 min por el otro lado.',
       'Sirve con unas gotas de limón o un chorrito de soja.']),
     )
 
