@@ -101,11 +101,11 @@ day('Jueves', '26 nov', 'low',
       'Sirve con unas gotas de limón o un chorrito de soja.']),
     ('Merienda', 'Yogur griego light con granada, almendras y crema de avellana',
      [('yog_light', 125, '1 ud (125 g)', 'Yogur griego light Mercadona'), ('granada', 40), ('almendras', 10), ('crema_ave', 12)]),
-    ('Cena', 'Filete de ternera a la plancha con judías verdes',
-     [('ternera', 100), ('judias', 150), OIL],
+    ('Cena', 'Merluza a la plancha con judías verdes',
+     [('merluza', 120), ('judias', 150), OIL, CH],
      ['Judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min.',
-      'Ternera con sal y pimienta en sartén muy caliente con la cucharadita de aceite, 2 min por lado.',
-      'Deja reposar 1 min y sirve con las judías.']),
+      'Merluza seca con papel, sal y pimienta, en sartén con la cucharadita de aceite, 3–4 min por lado.',
+      'Sirve con las judías y unas gotas de limón.']),
     )
 
 # ---------------- Viernes: regular, comida fuera
