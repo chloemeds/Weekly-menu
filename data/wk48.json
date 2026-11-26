@@ -554,11 +554,17 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Salmón a la plancha con calabacín + kiwi</p><ul><li><span>Salmón</span><span class=\"q\">170 g</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Kiwi</span><span class=\"q\">1 ud</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>15</b> HC netos</span><span><b>37</b> P</span><span><b>31</b> G</span><span><b>5</b> Fib</span><span><b>499</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Hamburguesa de ternera con calabacín + kiwi</p><ul><li><span>Hamburguesa de ternera Ametller Origen</span><span class=\"q\">1 ud (~150 g)</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Kiwi</span><span class=\"q\">1 ud</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>18</b> HC netos</span><span><b>32</b> P</span><span><b>23</b> G</span><span><b>5</b> Fib</span><span><b>412</b> kcal</span></div>",
      "src": [
       [
-       "salmon",
-       170
+       "custom",
+       [
+        3,
+        28.5,
+        13.5,
+        0
+       ],
+       "Hamburguesa de ternera Ametller Origen"
       ],
       [
        "calabacin",
@@ -579,8 +585,8 @@
      ],
      "recipe": [
       "Calabacín en rodajas con sal en sartén con la cucharadita de aceite, 3 min por lado, y reserva.",
-      "Salmón con sal y pimienta en la misma sartén, 4 min por la piel y 3 min por el otro lado.",
-      "Sirve con unas gotas de limón o un chorrito de soja."
+      "Hamburguesa en la misma sartén a fuego medio-alto, 4 min por lado (o airfryer a 190 °C, 10 min, dándole la vuelta a mitad).",
+      "Sirve sin pan con el calabacín; el kiwi y la onza de postre."
      ]
     },
     {
@@ -611,11 +617,11 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Merluza a la plancha con judías verdes</p><ul><li><span>Merluza</span><span class=\"q\">150 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>29</b> P</span><span><b>11</b> G</span><span><b>5</b> Fib</span><span><b>261</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Salmón a la plancha con judías verdes</p><ul><li><span>Salmón</span><span class=\"q\">130 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>30</b> P</span><span><b>26</b> G</span><span><b>5</b> Fib</span><span><b>394</b> kcal</span></div>",
      "src": [
       [
-       "merluza",
-       150
+       "salmon",
+       130
       ],
       [
        "judias",
@@ -632,12 +638,12 @@
      ],
      "recipe": [
       "Judías verdes al vapor en el microondas, bol tapado con 2 cdas de agua, 6 min.",
-      "Merluza seca con papel, sal y pimienta, en sartén con la cucharadita de aceite, 3–4 min por lado.",
-      "Sirve con las judías y unas gotas de limón."
+      "Salmón con sal y pimienta en sartén con la cucharadita de aceite, 4 min por la piel y 3 min por el otro lado.",
+      "Sirve con las judías y unas gotas de limón o un chorrito de soja."
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">38</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">101</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">72</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">18</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1244</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">41</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">96</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">78</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">18</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1290</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Viernes",
