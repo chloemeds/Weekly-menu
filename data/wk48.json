@@ -524,7 +524,7 @@
      "meal": "Desayuno",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Huevos revueltos con queso Cadí y jamón york + matcha latte (tomado)</p><ul><li><span>Huevos</span><span class=\"q\">2 ud</span></li><li><span>Queso Cadí</span><span class=\"q\">14 g</span></li><li><span>Jamón york extra</span><span class=\"q\">30 g</span></li><li><span>Matcha con bebida de almendra</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>1</b> HC netos</span><span><b>23</b> P</span><span><b>18</b> G</span><span><b>0</b> Fib</span><span><b>261</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Huevos revueltos con queso Cadí y jamón york, dos nueces + matcha latte (tomado)</p><ul><li><span>Huevos</span><span class=\"q\">2 ud</span></li><li><span>Queso Cadí</span><span class=\"q\">14 g</span></li><li><span>Jamón york extra</span><span class=\"q\">30 g</span></li><li><span>Nueces</span><span class=\"q\">2 ud (8 g)</span></li><li><span>Matcha con bebida de almendra</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>2</b> HC netos</span><span><b>25</b> P</span><span><b>23</b> G</span><span><b>1</b> Fib</span><span><b>316</b> kcal</span></div>",
      "src": [
       [
        "huevo",
@@ -545,6 +545,10 @@
        30
       ],
       [
+       "nueces",
+       8
+      ],
+      [
        "leche_a",
        150
       ]
@@ -554,17 +558,17 @@
      "meal": "Comida",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Hamburguesa de ternera con calabacín + kiwi</p><ul><li><span>Hamburguesa de ternera Ametller Origen</span><span class=\"q\">1 ud (~150 g)</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Kiwi</span><span class=\"q\">1 ud</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>18</b> HC netos</span><span><b>32</b> P</span><span><b>23</b> G</span><span><b>5</b> Fib</span><span><b>412</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Hamburguesa de ternera con calabacín + kiwi</p><ul><li><span>Hamburguesa de ternera ecológica Ametller Origen</span><span class=\"q\">1 ud (120 g)</span></li><li><span>Calabacín</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Kiwi</span><span class=\"q\">1 ud</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>16</b> HC netos</span><span><b>26</b> P</span><span><b>20</b> G</span><span><b>5</b> Fib</span><span><b>362</b> kcal</span></div>",
      "src": [
       [
        "custom",
        [
-        3,
-        28.5,
-        13.5,
+        1.9,
+        22.3,
+        11.2,
         0
        ],
-       "Hamburguesa de ternera Ametller Origen"
+       "Hamburguesa de ternera ecológica Ametller Origen"
       ],
       [
        "calabacin",
@@ -617,11 +621,11 @@
      "meal": "Cena",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Salmón a la plancha con judías verdes</p><ul><li><span>Salmón</span><span class=\"q\">130 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>30</b> P</span><span><b>26</b> G</span><span><b>5</b> Fib</span><span><b>394</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Salmón a la plancha con judías verdes</p><ul><li><span>Salmón</span><span class=\"q\">110 g</span></li><li><span>Judías verdes</span><span class=\"q\">150 g</span></li><li><span>Aceite de oliva</span><span class=\"q\">1 cucharadita</span></li><li><span>Chocolate negro 72% (1 onza)</span><span class=\"q\">8 g</span></li></ul><div class=\"mac\"><span><b>9</b> HC netos</span><span><b>26</b> P</span><span><b>23</b> G</span><span><b>5</b> Fib</span><span><b>355</b> kcal</span></div>",
      "src": [
       [
        "salmon",
-       130
+       110
       ],
       [
        "judias",
@@ -643,7 +647,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">41</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">96</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">78</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">18</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1290</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">41</span><span class=\"tg\">/ 50 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">87</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">79</span><span class=\"tg\">/ 85 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">18</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1256</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Viernes",
