@@ -108,8 +108,8 @@ day('Jueves', '26 nov', 'low',
 
 # ---------------- Viernes: regular, comida fuera
 day('Viernes', '27 nov', 'reg',
-    ('Desayuno', 'Jamón york, queso Cadí y nueces + matcha latte',
-     [('york', 40), ('custom', [0, 5, 6.5, 0], 'Queso Cadí', '1 loncha (~20 g)'), ('nueces', 8, '2 ud (8 g)'), MATCHA_A]),
+    ('Desayuno', 'Huevo revuelto con queso Cadí y dos nueces + matcha latte',
+     [('huevo', 55, '1 ud'), ('custom', [0, 5, 6.5, 0], 'Queso Cadí', '1 loncha (~20 g)'), ('nueces', 8, '2 ud (8 g)'), MATCHA_A]),
     ('Comida', 'Comida en El Xampanyet: margen reservado. Cuando sepas lo que has pedido, dímelo y ajusto el día',
      [('custom', [60, 35, 24, 4], 'Unas tapas, mejor con proteína (jamón, tortilla, pescado, pulpo) y una copa de cava si te apetece', '~650 kcal')]),
     ('Merienda', 'Yogur griego light con almendras y crema de avellana',
