@@ -91,8 +91,8 @@ day('Miércoles', '25 nov', 'reg',
 
 # ---------------- Jueves: carbs reducidos
 day('Jueves', '26 nov', 'low',
-    ('Desayuno', 'Jamón york, queso Cadí y nueces + matcha latte',
-     [('york', 20), ('custom', [0, 5, 6.5, 0], 'Queso Cadí en lonchas', '1 loncha (~20 g)'), ('nueces', 12, '3 ud (12 g)'), ('leche_d', 200, '200 ml', 'Matcha con leche desnatada')]),
+    ('Desayuno', 'Jamón york, queso Cadí y nueces + matcha latte (tomado)',
+     [('york', 20), ('custom', [0, 5, 6.5, 0], 'Queso Cadí en lonchas', '1 loncha (~20 g)'), ('nueces', 12, '3 ud (12 g)'), MATCHA_A]),
     ('Comida', 'Salmón a la plancha con calabacín',
      [('salmon', 170), ('calabacin', 150), OIL, CH],
      ['Calabacín en rodajas con sal en sartén con la cucharadita de aceite, 3 min por lado, y reserva.',
