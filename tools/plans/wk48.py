@@ -108,8 +108,8 @@ day('Jueves', '26 nov', 'low',
 
 # ---------------- Viernes: regular, comida fuera
 day('Viernes', '27 nov', 'reg',
-    ('Desayuno', 'Tostada integral con queso Cadí + matcha latte',
-     [('pan_int', 40, '1 rebanada (40 g)'), ('custom', [0, 3.75, 4.9, 0], 'Queso Cadí', '15 g'), MATCHA_D]),
+    ('Desayuno', 'Tostada integral con queso Cadí y fuet + matcha latte (tomado)',
+     [('pan_int', 59), ('custom', [0, 4, 5.2, 0], 'Queso Cadí', '16 g'), ('fuet', 11), MATCHA_D]),
     ('Comida', 'Comida en Akiro (hand rolls): margen reservado. Cuando sepas lo que has pedido, dímelo y ajusto el día',
      [('custom', [45, 30, 18, 4], 'Edamame o sashimi para empezar y unos 3 hand rolls de pescado', '~500 kcal')]),
     ('Merienda', 'Yogur griego light con almendras y crema de avellana',
