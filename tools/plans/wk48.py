@@ -114,13 +114,10 @@ day('Viernes', '27 nov', 'reg',
      [('custom', [0, 27, 7, 0], 'Sashimi (3 hamachi, 3 atún, 2 salmón)', '8 trozos (~120 g)'),
       ('custom', [14, 7, 6, 0.5], 'Nigiri de toro y gunkan de tartar de atún', '2 ud'),
       ('custom', [7, 1, 3, 0], 'Helado de té verde', '½ bola')]),
-    ('Merienda', 'Yogur griego light con almendras y crema de avellana',
-     [('yog_light', 125, '1 ud (125 g)', 'Yogur griego light Mercadona'), ('almendras', 10), ('crema_ave', 10)]),
-    ('Cena', 'Dorada al horno con brócoli',
-     [('dorada', 150), ('brocoli', 150), OIL],
-     ['Horno a 200 °C. Dorada en lomos con sal, pimienta, limón y la cucharadita de aceite, 12 min.',
-      'Mientras, brócoli en ramilletes al vapor en el microondas, bol tapado con 2 cdas de agua, 5 min.',
-      'Sirve con unas gotas de limón.']),
+    ('Merienda', 'Matcha latte',
+     [MATCHA_D]),
+    ('Cena', 'Cena fuera: cuando sepas lo que has cenado, dímelo y lo apunto',
+     [('custom', [0, 0, 0, 0], 'Pendiente', '')]),
     )
 
 # ---------------- Sábado: regular
