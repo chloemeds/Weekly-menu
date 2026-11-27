@@ -108,8 +108,8 @@ day('Jueves', '26 nov', 'low',
 
 # ---------------- Viernes: regular, comida fuera
 day('Viernes', '27 nov', 'reg',
-    ('Desayuno', 'Huevo revuelto con queso Cadí + matcha latte',
-     [('huevo', 55, '1 ud'), ('custom', [0, 5, 6.5, 0], 'Queso Cadí', '20 g'), MATCHA_D]),
+    ('Desayuno', 'Huevo revuelto + matcha latte',
+     [('huevo', 55, '1 ud'), MATCHA_D]),
     ('Comida', 'Comida en Akiro (hand rolls): margen reservado. Cuando sepas lo que has pedido, dímelo y ajusto el día',
      [('custom', [45, 30, 18, 4], 'Edamame o sashimi para empezar y unos 3 hand rolls de pescado', '~500 kcal')]),
     ('Merienda', 'Yogur griego light con almendras y crema de avellana',

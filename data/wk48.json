@@ -664,21 +664,11 @@
      "meal": "Desayuno",
      "span": 1,
      "cls": [],
-     "html": "<p class=\"dish\">Huevo revuelto con queso Cadí + matcha latte</p><ul><li><span>Huevos</span><span class=\"q\">1 ud</span></li><li><span>Queso Cadí</span><span class=\"q\">20 g</span></li><li><span>Matcha con leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>8</b> HC netos</span><span><b>17</b> P</span><span><b>12</b> G</span><span><b>0</b> Fib</span><span><b>209</b> kcal</span></div>",
+     "html": "<p class=\"dish\">Huevo revuelto + matcha latte</p><ul><li><span>Huevos</span><span class=\"q\">1 ud</span></li><li><span>Matcha con leche desnatada</span><span class=\"q\">150 ml</span></li></ul><div class=\"mac\"><span><b>8</b> HC netos</span><span><b>12</b> P</span><span><b>6</b> G</span><span><b>0</b> Fib</span><span><b>130</b> kcal</span></div>",
      "src": [
       [
        "huevo",
        55
-      ],
-      [
-       "custom",
-       [
-        0,
-        5,
-        6.5,
-        0
-       ],
-       "Queso Cadí"
       ],
       [
        "leche_d",
@@ -750,7 +740,7 @@
      ]
     }
    ],
-   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">67</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">90</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">54</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">13</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1142</span><span class=\"tg\">kcal</span></div>"
+   "total": "<div class=\"tr\"><span class=\"tl\">HC netos</span><span class=\"tv\">67</span><span class=\"tg\">/ 138 g</span></div><div class=\"tr\"><span class=\"tl\">Proteína</span><span class=\"tv\">85</span><span class=\"tg\">/ 103 g</span></div><div class=\"tr\"><span class=\"tl\">Grasa</span><span class=\"tv\">48</span><span class=\"tg\">/ 46 g</span></div><div class=\"tr\"><span class=\"tl\">Fibra</span><span class=\"tv\">13</span><span class=\"tg\">/ 25 g</span></div><div class=\"tr\"><span class=\"tl\">Calorías</span><span class=\"tv\">1063</span><span class=\"tg\">kcal</span></div>"
   },
   {
    "name": "Sábado",
